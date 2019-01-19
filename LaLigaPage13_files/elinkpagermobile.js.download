@@ -1,0 +1,24 @@
+$(document).on('ready ajaxSuccess load', function () {
+	zecSliderDropdown();
+});
+
+function zecSliderDropdown() {
+	$("#main").on('click', '.zec-dropdown', function () {
+		var slider = $(this).parent().parent().find('.zec-slider');
+
+		$("body").css("overflow-y", "hidden");
+		slider.addClass("zec-openit");
+
+		// scroll to selected
+		var elmnt = slider.find(".selected");
+		if (elmnt.data('id') >= 10) {
+			slider.find('.zec-content').scrollTo('li.pager.selected', 10);
+		}
+
+		// close button
+		$(".zec-closer, .zec-link").on('click', function () {
+			slider.removeClass("zec-openit");
+			$("body").css("overflow-y", "auto");
+		});
+	});
+}

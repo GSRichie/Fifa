@@ -1,0 +1,148 @@
+body {
+	margin: 0px;
+}
+
+div { 
+	position:absolute; 
+	margin:0px; 
+	padding:0px;
+}
+
+.bannerSize {
+	width:728px; 
+	height:90px; 
+}
+
+#viewport { 
+	overflow:hidden;
+    background-color: #FFFFFF;
+    position: relative;
+    margin: 0 auto;
+}
+
+#border { 
+	position: absolute;
+	pointer-events: none;
+    left: 0px;
+    top: 0px;
+	box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid #666666;
+}
+
+#clickable { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background-color: white;
+	opacity: 0;
+}
+
+#background1 { 
+	position: absolute;
+    left: 0px;
+	top: 0px;
+	width:728px; 
+	height:90px; 
+	background: url(images/background1.jpg) no-repeat;
+	background-size: contain;
+}
+
+#background2 { 
+	position: absolute;
+    left: 0px;
+	top: 0px;
+	width:728px; 
+	height:90px; 
+	background: url(images/background2.jpg) no-repeat;
+	background-size: contain;
+}
+
+#background3 { 
+	position: absolute;
+    left: 0px;
+	top: 0px;
+	width:728px; 
+	height:90px; 
+	background: url(images/background3.jpg) no-repeat;
+	background-size: contain;
+}
+
+#logo { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/logo.png) no-repeat;
+	background-size: contain;
+}
+
+#textf1a { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/textf1a.png) no-repeat;
+	background-size: contain;
+}
+
+#textf1b { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/textf1b.png) no-repeat;
+	background-size: contain;
+}
+
+#textf2 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/textf2.png) no-repeat;
+	background-size: contain;
+}
+
+#textf3 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/textf3.png) no-repeat;
+	background-size: contain;
+}
+
+#cta { 
+	position: absolute;
+	overflow: hidden;
+    right: 30px;
+    bottom: 14px;
+	width:101px; 
+	height:27px; 
+	background: url(images/cta.png) no-repeat;
+	background-size: contain;
+}
+
+#ctaOver { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	width:98px; 
+	height:26px;   
+	/* background: #FFF; */
+}
+
+/* #ctaTxt { 
+	position: absolute;
+    left: 13px;
+    top: 10px;
+	width:116px; 
+	height:19px; 
+	background: url(images/ctaTxt.png) no-repeat;
+} */
+
+#sheen { 
+	position: absolute;
+    left: -80px;
+    top: -5px;
+	width:79px; 
+	height:58px; 
+	background: url(images/sheen.png) no-repeat;
+}

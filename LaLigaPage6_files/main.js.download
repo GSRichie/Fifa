@@ -1,0 +1,106 @@
+var main, clickable;
+
+function init(){
+
+	console.log("INIT")
+
+	//SET ELEMENT VARIABLES FOR ACCESS (NOT ALWAYS NEEDED FOR SIMPLE EXECUTIONS WHEN USING TweenMax)
+
+	main = document.getElementById("viewport");
+	clickable = document.getElementById("clickable");
+
+	console.log(main);
+
+	eventListeners();
+
+  	trackClips();
+
+}
+
+function trackClips(){
+
+	// SET ELEMENT INITIAL PROPERTY VALUES HERE
+
+	TweenMax.set(border, {alpha:1})
+	TweenMax.set([background1, logo], {alpha:1})
+
+
+	frameOne();
+
+}
+
+function eventListeners(){
+
+	console.log("Setting Buttons");
+
+	clickable.style.cursor = "pointer"
+	//clickable.addEventListener("click", mainExit, false);
+	clickable.addEventListener("mouseover", bannerOver, false);
+	clickable.addEventListener("mouseout", bannerOut, false);
+
+}
+
+function frameOne(){
+	TweenMax.set([textf1a, textf1b], { alpha: 1 })
+
+	TweenMax.staggerFrom(["#textf1a", "#textf1b"], 0.5, {alpha:0, x:-40, delay:0.2}, 0.9)
+	TweenMax.from(background1, 3, {scale:1.5, x:-100, y:-17})
+	
+	TweenMax.delayedCall(3.75, frameTwo);
+}
+
+function frameTwo(){
+	TweenMax.set([textf2,textf3], { alpha: 1 })
+	TweenMax.set(background2, { alpha: 1, scale:1.2})
+
+	TweenMax.to([textf1a, textf1b, background1], 0.5, {y:-90})
+	TweenMax.from(background2, 0.5, { y: 90 })
+	TweenMax.to(background2, 4, {delay:0.5, scale:1, x:0, y:0, force3D:true})
+
+	TweenMax.from(textf2, 0.5, { x: -40, delay:0.5, alpha:0 })
+
+	TweenMax.from(textf3, 0.5, { x: -40, delay: 1.5, alpha: 0 })
+
+	TweenMax.delayedCall(4, frameThree);
+}
+
+function frameThree(){
+	TweenMax.set(cta, { alpha: 1 })
+	TweenMax.set(background3, { alpha: 1, scale:1.2})
+
+	TweenMax.to(background2, 0.5, {y:-90})
+	TweenMax.from(background3, 0.5, { y: 90 })
+	TweenMax.to(background3, 4, {delay:0.5, scale:1, x:0, y:0, force3D:true})
+
+	TweenMax.to(logo, 0.5, {delay:2.3, y:-16})
+
+	TweenMax.from(cta, 0.5, { y: 40, delay: 2.3, alpha: 0, onComplete:bannerOver })
+}
+
+function bannerOver(e){
+	TweenMax.to(ctaOver, 0.35, {alpha:0.4, onComplete:bannerOut, overide:0})
+	TweenMax.to(sheen, 0.7, {x:200})
+}
+
+function bannerOut(e){
+	TweenMax.to(ctaOver, 0.35, {alpha:0, onComplete:setSheen})
+}
+
+function setSheen(){
+	TweenMax.set(sheen, {x:0})
+}
+
+
+//REPLAY FUNCTION WHEN NEEDED
+/*function replayFunction(e){
+	
+	Enabler.counter("REPLAY", true);
+
+	console.log("REPLAY")
+
+	main.removeEventListener("mouseover", bannerOver, false);
+	main.removeEventListener("mouseout", bannerOut, false);
+
+	trackClip();
+
+}*/

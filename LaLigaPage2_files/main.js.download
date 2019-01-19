@@ -1,0 +1,75 @@
+var main, clickable;
+
+function init(){
+	console.log("INIT")
+	//SET ELEMENT VARIABLES FOR ACCESS (NOT ALWAYS NEEDED FOR SIMPLE EXECUTIONS WHEN USING TweenMax)
+	main = document.getElementById("viewport");
+	clickable = document.getElementById("clickable");
+	console.log(main);
+	eventListeners();
+  	trackClips();
+  	TweenLite.defaultEase = Power2.easeInOut;
+}
+function trackClips(){
+	// SET ELEMENT INITIAL PROPERTY VALUES HERE
+	TweenMax.set(border, {alpha:1})
+	frameOne();
+}
+function eventListeners(){
+	console.log("Setting Buttons");
+	clickable.style.cursor = "pointer"
+	// clickable.addEventListener("click", mainExit, false);
+	clickable.addEventListener("mouseover", animateSheen, false);
+	clickable.addEventListener("mouseout", setSheen, false);
+}
+
+function frameOne(){
+	TweenMax.set([bg1, logo, text1a, text1b, stroke, gradient], {alpha:1})
+	TweenMax.set(motortrend, {alpha:1, transformOrigin: "647px 66px"})
+
+	TweenMax.fromTo(motortrend, 1, {scale: 0.7, alpha:0, ease: Power2.easeInOut}, {scale: 1, alpha:1})
+	TweenMax.fromTo(stroke, 1, {alpha:0, x:40, ease: Power2.easeInOut}, {alpha:1, x:0})
+	TweenMax.fromTo(text1a, 1, {x:40, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1})
+	TweenMax.fromTo(text1b, 1, {x:-40, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1})
+	
+	TweenMax.delayedCall(4, frameTwo);
+}
+function frameTwo(){
+	TweenMax.set([bg2, text2a, text2b], {alpha:1})
+
+	TweenMax.to(bg1, 0.7, {y:-90, ease:Power2.easeInOut})
+	TweenMax.fromTo(bg2, 0.7, {y:90, alpha:1, ease: Power2.easeInOut}, {y:0})
+	TweenMax.to(text1a, 1, {x:-40, alpha:0})
+	TweenMax.to(text1b, 1, {x:40, alpha:0})
+
+	TweenMax.fromTo(text2a, 1, {x:40, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1, delay:0.8})
+	TweenMax.fromTo(text2b, 1, {x:-40, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1, delay:0.8})
+
+	TweenMax.delayedCall(4.3, frameThree)
+}
+function frameThree(){
+	TweenMax.set([bg3, text3a, text3b, cta], {alpha:1})
+	TweenMax.set(motortrend2, {alpha:1, transformOrigin: "212px 45px"})
+
+	TweenMax.to(bg2, 0.7, {y:-90, ease:Power2.easeInOut})
+	TweenMax.fromTo(bg3, 0.7, {y:90, alpha:1, ease: Power2.easeInOut}, {y:0})
+
+	TweenMax.to(text2a, 1, {x:-40, alpha:0})
+	TweenMax.to(text2b, 1, {x:40, alpha:0})
+
+	
+	TweenMax.fromTo(text3a, 1, {x:15, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1, delay:0.8})
+	TweenMax.fromTo(text3b, 1, {x:-15, alpha:0, ease: Power2.easeInOut}, {x:0, alpha:1, delay:0.8})
+	
+	TweenMax.to(motortrend, 1, {alpha:0, ease: Power2.easeInOut, delay: 0});
+	TweenMax.fromTo(motortrend2, 1, {alpha:0, scale: 0.7, ease: Power2.easeInOut}, {alpha:1, scale: 1});
+	TweenMax.fromTo(cta, 1, {y:100, alpha:0}, {alpha: 1, y:0, ease: Power2.easeInOut, onComplete:animateSheen, delay:1.2})
+
+}
+
+function animateSheen(){
+	TweenMax.to(sheen, 1, {x:250, onComplete:setSheen})
+}
+function setSheen(){
+	TweenMax.set(sheen, {x:0, alpha:1})
+}

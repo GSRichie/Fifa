@@ -1,0 +1,968 @@
+(function (cjs, an) {
+
+var p; // shortcut to reference prototypes
+var lib={};var ss={};var img={};
+lib.ssMetadata = [];
+
+
+// symbols:
+
+
+
+(lib.anthem_logo = function() {
+	this.initialize(img.anthem_logo);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,221,28);
+
+
+(lib.art = function() {
+	this.initialize(img.art);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,134,102);
+
+
+(lib.award = function() {
+	this.initialize(img.award);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,66,55);
+
+
+(lib.cta_bg = function() {
+	this.initialize(img.cta_bg);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,156,28);
+
+
+(lib.polish_logo = function() {
+	this.initialize(img.polish_logo);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,60,60);
+
+
+(lib.rating_placeholder = function() {
+	this.initialize(img.rating_placeholder);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,125,60);// helper functions:
+
+function mc_symbol_clone() {
+	var clone = this._cloneProps(new this.constructor(this.mode, this.startPosition, this.loop));
+	clone.gotoAndStop(this.currentFrame);
+	clone.paused = this.paused;
+	clone.framerate = this.framerate;
+	return clone;
+}
+
+function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
+	var prototype = cjs.extend(symbol, cjs.MovieClip);
+	prototype.clone = mc_symbol_clone;
+	prototype.nominalBounds = nominalBounds;
+	prototype.frameBounds = frameBounds;
+	return prototype;
+	}
+
+
+(lib.triangle = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer 1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("EhOHBDqMBOHiHTMBOICHTg");
+	this.shape.setTransform(0,0.025);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.triangle, new cjs.Rectangle(-500,-433,1000,866.1), null);
+
+
+(lib.rating_placeholder_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.rating_placeholder();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.rating_placeholder_1, new cjs.Rectangle(0,0,125,60), null);
+
+
+(lib.polish_logo_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.polish_logo();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.polish_logo_1, new cjs.Rectangle(0,0,60,60), null);
+
+
+(lib.legal_mc = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.legal_300x250 = new cjs.Text(lib.jvxStrings[0].text, lib.jvxStrings[0].font, lib.jvxStrings[0].color);
+	this.legal_300x250.name = "legal_300x250";
+	this.legal_300x250.textAlign = "center";
+	this.legal_300x250.lineHeight = lib.jvxStrings[0].lineHeight;
+	this.legal_300x250.lineWidth = 270;
+	this.legal_300x250.parent = this;
+	this.legal_300x250.setTransform(121.95,-0.6);
+	try { _jvxSetTextVertPos(lib, 0, this.legal_300x250); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.legal_300x250).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.legal_mc, new cjs.Rectangle(-15,-2.6,273.9,40), null);
+
+
+(lib.cta_mc = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		function dtpResize(textCopy, textHeightEN, maxHeight, verticalAlign, reSize, ignoreLB) {
+		    if (ignoreLB == true) {
+		        textCopy.text = textCopy.text.replace("\n", "");
+		    }
+		    var myHeight = textCopy.getBounds().height;
+		    var myWidth = textCopy.getBounds().width;
+		    if (reSize == true) {
+		        if (myHeight > maxHeight + 1) {
+		            textCopy.scaleX = textCopy.scaleY = maxHeight / myHeight;
+		            textCopy.lineWidth = textWidthEN * myHeight / maxHeight;
+		            var myHeightNew = textCopy.getBounds().height;
+		            if (myHeightNew < myHeight) {
+		                var myWidthNew = textCopy.getBounds().width;
+		                var myWidthNewScaled = myWidthNew * textCopy.scaleX;
+		                var myNewScale = textWidthEN / myWidthNewScaled;
+		                textCopy.scaleX = textCopy.scaleY = textCopy.scaleX * myNewScale;
+		                myHeight = myHeightNew;
+		            }
+		        }
+		    }
+		    if (verticalAlign == "top") {
+		    }
+		    if (verticalAlign == "center") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY) / 2;
+		    }
+		    if (verticalAlign == "bottom") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY);
+		    }
+		}
+		
+		
+			//TEXT TOOL BEGIN 
+			var textCopy = this.cta_300x250; //update name of text 
+			var reSize = false; 
+			var ignoreLB = false; 
+			var numRowsEN = 1; // number of rows english 
+			var maxRows = 3; //number of max rows (you can also choose e.g. 2.9 if 3 is too  much. Then the text will be scaled)		 
+			var verticalAlign = "center"; //center, top, bottom. MUST BE NAMED EXACTLY THIS WAY! 
+		
+			//dont touch
+			var lineHeightEN = textCopy.lineHeight; //dont touch
+			var textWidthEN = textCopy.lineWidth;	// dont touch
+			var textHeightEN = lineHeightEN * numRowsEN; //  dont touch - EN height
+			var maxHeight = lineHeightEN * maxRows; // dont touch - MAX height
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			//TEXT TOOL END
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// Layer_2
+	this.cta_300x250 = new cjs.Text(lib.jvxStrings[1].text, lib.jvxStrings[1].font, lib.jvxStrings[1].color);
+	this.cta_300x250.name = "cta_300x250";
+	this.cta_300x250.textAlign = "center";
+	this.cta_300x250.lineHeight = lib.jvxStrings[1].lineHeight;
+	this.cta_300x250.lineWidth = 119;
+	this.cta_300x250.parent = this;
+	this.cta_300x250.setTransform(79.45,6.9);
+	try { _jvxSetTextVertPos(lib, 1, this.cta_300x250); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.cta_300x250).wait(1));
+
+	// Layer_1
+	this.instance = new lib.cta_bg();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.cta_mc, new cjs.Rectangle(0,0,156,28), null);
+
+
+(lib.ct_btn = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("EghhAfAMAAAg9+MBDDAAAMAAAA9+g");
+	this.shape.setTransform(150.0183,125.0064,0.6991,0.6302);
+	this.shape._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(2).to({_off:false},0).wait(1));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,300,250);
+
+
+(lib.copy_04 = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		function dtpResize(textCopy, textHeightEN, maxHeight, verticalAlign, reSize, ignoreLB) {
+		    if (ignoreLB == true) {
+		        textCopy.text = textCopy.text.replace("\n", "");
+		    }
+		    var myHeight = textCopy.getBounds().height;
+		    var myWidth = textCopy.getBounds().width;
+		    if (reSize == true) {
+		        if (myHeight > maxHeight + 1) {
+		            textCopy.scaleX = textCopy.scaleY = maxHeight / myHeight;
+		            textCopy.lineWidth = textWidthEN * myHeight / maxHeight;
+		            var myHeightNew = textCopy.getBounds().height;
+		            if (myHeightNew < myHeight) {
+		                var myWidthNew = textCopy.getBounds().width;
+		                var myWidthNewScaled = myWidthNew * textCopy.scaleX;
+		                var myNewScale = textWidthEN / myWidthNewScaled;
+		                textCopy.scaleX = textCopy.scaleY = textCopy.scaleX * myNewScale;
+		                myHeight = myHeightNew;
+		            }
+		        }
+		    }
+		    if (verticalAlign == "top") {
+		    }
+		    if (verticalAlign == "center") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY) / 2;
+		    }
+		    if (verticalAlign == "bottom") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY);
+		    }
+		}
+		
+		
+			//TEXT TOOL BEGIN 
+			var textCopy = this.copy_04_728x90; //update name of text 
+			var reSize = false; 
+			var ignoreLB = false; 
+			var numRowsEN = 2; // number of rows english 
+			var maxRows = 2.5; //number of max rows (you can also choose e.g. 2.9 if 3 is too  much. Then the text will be scaled)		 
+			var verticalAlign = "center"; //center, top, bottom. MUST BE NAMED EXACTLY THIS WAY! 
+		
+			//dont touch
+			var lineHeightEN = textCopy.lineHeight; //dont touch
+			var textWidthEN = textCopy.lineWidth;	// dont touch
+			var textHeightEN = lineHeightEN * numRowsEN; //  dont touch - EN height
+			var maxHeight = lineHeightEN * maxRows; // dont touch - MAX height
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			//TEXT TOOL END
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// Layer_1
+	this.copy_04_728x90 = new cjs.Text(lib.jvxStrings[2].text, lib.jvxStrings[2].font, lib.jvxStrings[2].color);
+	this.copy_04_728x90.name = "copy_04_728x90";
+	this.copy_04_728x90.lineHeight = lib.jvxStrings[2].lineHeight;
+	this.copy_04_728x90.lineWidth = 255;
+	this.copy_04_728x90.parent = this;
+	this.copy_04_728x90.setTransform(-40.15,2);
+	try { _jvxSetTextVertPos(lib, 2, this.copy_04_728x90); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_04_728x90).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.copy_04, new cjs.Rectangle(-42.1,0,258.7,73.6), null);
+
+
+(lib.copy_03 = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		function dtpResize(textCopy, textHeightEN, maxHeight, verticalAlign, reSize, ignoreLB) {
+		    if (ignoreLB == true) {
+		        textCopy.text = textCopy.text.replace("\n", "");
+		    }
+		    var myHeight = textCopy.getBounds().height;
+		    var myWidth = textCopy.getBounds().width;
+		    if (reSize == true) {
+		        if (myHeight > maxHeight + 1) {
+		            textCopy.scaleX = textCopy.scaleY = maxHeight / myHeight;
+		            textCopy.lineWidth = textWidthEN * myHeight / maxHeight;
+		            var myHeightNew = textCopy.getBounds().height;
+		            if (myHeightNew < myHeight) {
+		                var myWidthNew = textCopy.getBounds().width;
+		                var myWidthNewScaled = myWidthNew * textCopy.scaleX;
+		                var myNewScale = textWidthEN / myWidthNewScaled;
+		                textCopy.scaleX = textCopy.scaleY = textCopy.scaleX * myNewScale;
+		                myHeight = myHeightNew;
+		            }
+		        }
+		    }
+		    if (verticalAlign == "top") {
+		    }
+		    if (verticalAlign == "center") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY) / 2;
+		    }
+		    if (verticalAlign == "bottom") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY);
+		    }
+		}
+		
+		
+			//TEXT TOOL BEGIN 
+			var textCopy = this.copy_03_728x90_shadow; //update name of text 
+			var reSize = false; 
+			var ignoreLB = false; 
+			var numRowsEN = 2; // number of rows english 
+			var maxRows = 2.5; //number of max rows (you can also choose e.g. 2.9 if 3 is too  much. Then the text will be scaled)		 
+			var verticalAlign = "center"; //center, top, bottom. MUST BE NAMED EXACTLY THIS WAY! 
+		
+			//dont touch
+			var lineHeightEN = textCopy.lineHeight; //dont touch
+			var textWidthEN = textCopy.lineWidth;	// dont touch
+			var textHeightEN = lineHeightEN * numRowsEN; //  dont touch - EN height
+			var maxHeight = lineHeightEN * maxRows; // dont touch - MAX height
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			var textCopy = this.copy_03_728x90_normal;
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			//TEXT TOOL END
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// normal
+	this.copy_03_728x90_normal = new cjs.Text(lib.jvxStrings[3].text, lib.jvxStrings[3].font, lib.jvxStrings[3].color);
+	this.copy_03_728x90_normal.name = "copy_03_728x90_normal";
+	this.copy_03_728x90_normal.textAlign = "center";
+	this.copy_03_728x90_normal.lineHeight = lib.jvxStrings[3].lineHeight;
+	this.copy_03_728x90_normal.lineWidth = 273;
+	this.copy_03_728x90_normal.parent = this;
+	this.copy_03_728x90_normal.setTransform(138.65,1);
+	try { _jvxSetTextVertPos(lib, 3, this.copy_03_728x90_normal); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_03_728x90_normal).wait(1));
+
+	// shadow
+	this.copy_03_728x90_shadow = new cjs.Text(lib.jvxStrings[4].text, lib.jvxStrings[4].font);
+	this.copy_03_728x90_shadow.name = "copy_03_728x90_shadow";
+	this.copy_03_728x90_shadow.textAlign = "center";
+	this.copy_03_728x90_shadow.lineHeight = lib.jvxStrings[4].lineHeight;
+	this.copy_03_728x90_shadow.lineWidth = 273;
+	this.copy_03_728x90_shadow.alpha = 0.49803922;
+	this.copy_03_728x90_shadow.parent = this;
+	this.copy_03_728x90_shadow.setTransform(141.65,4);
+	try { _jvxSetTextVertPos(lib, 4, this.copy_03_728x90_shadow); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_03_728x90_shadow).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.copy_03, new cjs.Rectangle(0,-1,280.4,73.2), null);
+
+
+(lib.copy_02 = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		function dtpResize(textCopy, textHeightEN, maxHeight, verticalAlign, reSize, ignoreLB) {
+		    if (ignoreLB == true) {
+		        textCopy.text = textCopy.text.replace("\n", "");
+		    }
+		    var myHeight = textCopy.getBounds().height;
+		    var myWidth = textCopy.getBounds().width;
+		    if (reSize == true) {
+		        if (myHeight > maxHeight + 1) {
+		            textCopy.scaleX = textCopy.scaleY = maxHeight / myHeight;
+		            textCopy.lineWidth = textWidthEN * myHeight / maxHeight;
+		            var myHeightNew = textCopy.getBounds().height;
+		            if (myHeightNew < myHeight) {
+		                var myWidthNew = textCopy.getBounds().width;
+		                var myWidthNewScaled = myWidthNew * textCopy.scaleX;
+		                var myNewScale = textWidthEN / myWidthNewScaled;
+		                textCopy.scaleX = textCopy.scaleY = textCopy.scaleX * myNewScale;
+		                myHeight = myHeightNew;
+		            }
+		        }
+		    }
+		    if (verticalAlign == "top") {
+		    }
+		    if (verticalAlign == "center") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY) / 2;
+		    }
+		    if (verticalAlign == "bottom") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY);
+		    }
+		}
+		
+		
+			//TEXT TOOL BEGIN 
+			var textCopy = this.copy_02_728x90_shadow; //update name of text 
+			var reSize = false; 
+			var ignoreLB = false; 
+			var numRowsEN = 2; // number of rows english 
+			var maxRows = 2.5; //number of max rows (you can also choose e.g. 2.9 if 3 is too  much. Then the text will be scaled)		 
+			var verticalAlign = "center"; //center, top, bottom. MUST BE NAMED EXACTLY THIS WAY! 
+		
+			//dont touch
+			var lineHeightEN = textCopy.lineHeight; //dont touch
+			var textWidthEN = textCopy.lineWidth;	// dont touch
+			var textHeightEN = lineHeightEN * numRowsEN; //  dont touch - EN height
+			var maxHeight = lineHeightEN * maxRows; // dont touch - MAX height
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			var textCopy = this.copy_02_728x90_normal;
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			//TEXT TOOL END
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// normal
+	this.copy_02_728x90_normal = new cjs.Text(lib.jvxStrings[5].text, lib.jvxStrings[5].font, lib.jvxStrings[5].color);
+	this.copy_02_728x90_normal.name = "copy_02_728x90_normal";
+	this.copy_02_728x90_normal.textAlign = "center";
+	this.copy_02_728x90_normal.lineHeight = lib.jvxStrings[5].lineHeight;
+	this.copy_02_728x90_normal.lineWidth = 269;
+	this.copy_02_728x90_normal.parent = this;
+	this.copy_02_728x90_normal.setTransform(136.5,1);
+	try { _jvxSetTextVertPos(lib, 5, this.copy_02_728x90_normal); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_02_728x90_normal).wait(1));
+
+	// shadow
+	this.copy_02_728x90_shadow = new cjs.Text(lib.jvxStrings[6].text, lib.jvxStrings[6].font);
+	this.copy_02_728x90_shadow.name = "copy_02_728x90_shadow";
+	this.copy_02_728x90_shadow.textAlign = "center";
+	this.copy_02_728x90_shadow.lineHeight = lib.jvxStrings[6].lineHeight;
+	this.copy_02_728x90_shadow.lineWidth = 269;
+	this.copy_02_728x90_shadow.alpha = 0.49803922;
+	this.copy_02_728x90_shadow.parent = this;
+	this.copy_02_728x90_shadow.setTransform(139.5,4);
+	try { _jvxSetTextVertPos(lib, 6, this.copy_02_728x90_shadow); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_02_728x90_shadow).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.copy_02, new cjs.Rectangle(0,-1,276.1,73.2), null);
+
+
+(lib.copy_01 = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		var changeY = 0;
+			var textCopy = this.copy_01_728x90_normal; //update name of text 
+			
+			if (textCopy.text == "DEN 25 JANUARI" ) {
+				textCopy.text = "DEN\n25 JANUARI";
+				this.copy_01_728x90_shadow.text =  "DEN\n25 JANUARI";
+			}	
+			
+			if (textCopy.text == "25 ЯНВАРЯ" ) {  // change to needed text
+				
+					var newFonts = "'Tahoma', 'Helvetica Neue', 'Helvetica', Arial, sans-serif";
+					var newStyle = "bold ";
+					var newSize = "28px ";
+			
+				
+					this.parent.copy_01.copy_01_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_shadow.font = newStyle + "26px " + newFonts;
+					this.parent.copy_04.copy_04_728x90.font = newStyle + "26px " + newFonts;
+					this.parent.copy_04.copy_04_728x90.y = this.parent.copy_04.copy_04_728x90.y +2;
+					this.parent.copy_01.copy_01_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_normal.font = newStyle + "26px " + newFonts;
+					this.parent.copy_04.copy_04_728x90.text = "ПОЛУЧИ ДОСТУП К VIP-\nДЕМОВЕРСИИ*";
+					changeY = -1; 
+			}
+		
+		
+				if (textCopy.text == "1月25日スタート" ) {  // change to needed text 
+					var newFonts = "'ヒラギノ角ゴ Pro W6', 'Hiragino Kaku Gothic Pro', 'Osaka', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', 'MS PGothic', 'Helvetica Neue', 'Helvetica', Arial, sans-serif";
+					var newStyle = "bold ";
+					var newSize = "28px ";
+			
+			
+					this.parent.copy_01.copy_01_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_shadow.font = newStyle + "26px " + newFonts;
+					this.parent.copy_03.copy_03_728x90_shadow.font = newStyle + "26px " + newFonts;
+					this.parent.copy_04.copy_04_728x90.font = newStyle +  "26px " + newFonts;
+					this.parent.copy_01.copy_01_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_normal.font = newStyle + "26px " + newFonts;
+					this.parent.copy_03.copy_03_728x90_normal.font = newStyle + "26px " + newFonts;
+					this.parent.copy_02.copy_02_728x90_shadow.lineHeight = 28;
+					this.parent.copy_02.copy_02_728x90_normal.lineHeight = 28;
+					this.parent.copy_03.copy_03_728x90_normal.lineHeight = 28;
+					this.parent.copy_03.copy_03_728x90_normal.lineHeight = 28;
+					this.parent.copy_04.copy_04_728x90.lineHeight = 28;
+					changeY = -1;
+					
+					
+			}
+		
+			
+				if (textCopy.text == "1월 25일" ) {  // change to needed text 
+					var newFonts = "sans-serif";
+					var newStyle = "bold ";
+					var newSize = "28px ";
+				
+					
+					this.parent.copy_01.copy_01_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_04.copy_04_728x90.font = newStyle + newSize + newFonts;
+					this.parent.copy_01.copy_01_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_normal.font = newStyle + newSize + newFonts;
+					changeY = -1;
+			}
+		
+			
+				if (textCopy.text == "1 月 25 日" ) {  // change to needed text
+					var newFonts = "'华文细黑', 'STXihei', 'PingFang TC', '微软雅黑体', 'Microsoft YaHei New', '微软雅黑', 'Microsoft Yahei', '宋体', 'SimSun', 'Helvetica Neue', 'Helvetica', Arial, sans-serif";
+					var newStyle = "bold ";
+					var newSize = "28px ";
+			
+					
+					this.parent.copy_01.copy_01_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_shadow.font = newStyle + newSize + newFonts;
+					this.parent.copy_04.copy_04_728x90.font = newStyle + newSize + newFonts;
+					this.parent.copy_01.copy_01_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_02.copy_02_728x90_normal.font = newStyle + newSize + newFonts;
+					this.parent.copy_03.copy_03_728x90_normal.font = newStyle + newSize + newFonts;
+					changeY = -1;
+		
+			}
+		
+			
+			
+					this.parent.copy_01.copy_01_728x90_shadow.y -= changeY;
+					this.parent.copy_02.copy_02_728x90_shadow.y -= changeY;
+					this.parent.copy_03.copy_03_728x90_shadow.y -= changeY;
+					this.parent.copy_01.copy_01_728x90_normal.y -= changeY;
+					this.parent.copy_02.copy_02_728x90_normal.y -= changeY;
+					this.parent.copy_03.copy_03_728x90_normal.y -= changeY;
+		function dtpResize(textCopy, textHeightEN, maxHeight, verticalAlign, reSize, ignoreLB) {
+		    if (ignoreLB == true) {
+		        textCopy.text = textCopy.text.replace("\n", "");
+		    }
+		    var myHeight = textCopy.getBounds().height;
+		    var myWidth = textCopy.getBounds().width;
+		    if (reSize == true) {
+		        if (myHeight > maxHeight + 1) {
+		            textCopy.scaleX = textCopy.scaleY = maxHeight / myHeight;
+		            textCopy.lineWidth = textWidthEN * myHeight / maxHeight;
+		            var myHeightNew = textCopy.getBounds().height;
+		            if (myHeightNew < myHeight) {
+		                var myWidthNew = textCopy.getBounds().width;
+		                var myWidthNewScaled = myWidthNew * textCopy.scaleX;
+		                var myNewScale = textWidthEN / myWidthNewScaled;
+		                textCopy.scaleX = textCopy.scaleY = textCopy.scaleX * myNewScale;
+		                myHeight = myHeightNew;
+		            }
+		        }
+		    }
+		    if (verticalAlign == "top") {
+		    }
+		    if (verticalAlign == "center") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY) / 2;
+		    }
+		    if (verticalAlign == "bottom") {
+		        textCopy.y = textCopy.y + (textHeightEN - myHeight * textCopy.scaleY);
+		    }
+		}
+		
+		
+			//TEXT TOOL BEGIN 
+			var textCopy = this.copy_01_728x90_shadow; //update name of text 
+			var reSize = false; 
+			var ignoreLB = false; 
+			var numRowsEN = 1; // number of rows english 
+			var maxRows = 2.5; //number of max rows (you can also choose e.g. 2.9 if 3 is too  much. Then the text will be scaled)		 
+			var verticalAlign = "center"; //center, top, bottom. MUST BE NAMED EXACTLY THIS WAY! 
+		
+			//dont touch
+			var lineHeightEN = textCopy.lineHeight; //dont touch
+			var textWidthEN = textCopy.lineWidth;	// dont touch
+			var textHeightEN = lineHeightEN * numRowsEN; //  dont touch - EN height
+			var maxHeight = lineHeightEN * maxRows; // dont touch - MAX height
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+		
+			var textCopy = this.copy_01_728x90_normal;
+			dtpResize(textCopy,textHeightEN,maxHeight,verticalAlign,reSize,ignoreLB);
+			//TEXT TOOL END
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// normal
+	this.copy_01_728x90_normal = new cjs.Text(lib.jvxStrings[7].text, lib.jvxStrings[7].font, lib.jvxStrings[7].color);
+	this.copy_01_728x90_normal.name = "copy_01_728x90_normal";
+	this.copy_01_728x90_normal.textAlign = "center";
+	this.copy_01_728x90_normal.lineHeight = lib.jvxStrings[7].lineHeight;
+	this.copy_01_728x90_normal.lineWidth = 268;
+	this.copy_01_728x90_normal.parent = this;
+	this.copy_01_728x90_normal.setTransform(136.05,12.45);
+	try { _jvxSetTextVertPos(lib, 7, this.copy_01_728x90_normal); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_01_728x90_normal).wait(1));
+
+	// Layer_2
+	this.copy_01_728x90_shadow = new cjs.Text(lib.jvxStrings[8].text, lib.jvxStrings[8].font);
+	this.copy_01_728x90_shadow.name = "copy_01_728x90_shadow";
+	this.copy_01_728x90_shadow.textAlign = "center";
+	this.copy_01_728x90_shadow.lineHeight = lib.jvxStrings[8].lineHeight;
+	this.copy_01_728x90_shadow.lineWidth = 268;
+	this.copy_01_728x90_shadow.alpha = 0.49803922;
+	this.copy_01_728x90_shadow.parent = this;
+	this.copy_01_728x90_shadow.setTransform(139.05,15.45);
+	try { _jvxSetTextVertPos(lib, 8, this.copy_01_728x90_shadow); } catch(ex){}
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_01_728x90_shadow).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.copy_01, new cjs.Rectangle(0,10.5,275.2,70.6), null);
+
+
+(lib.award_mc = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.award();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.award_mc, new cjs.Rectangle(0,0,66,55), null);
+
+
+(lib.art_mc = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.art();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.art_mc, new cjs.Rectangle(0,0,134,102), null);
+
+
+(lib.Anthem_Logo_White = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Logo
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f("#FFFFFF").s().p("AAjFwQgGAAgEgEQgEgFAAgFIAAjiQAAgcgUgUQgTgUgdAAIhPAAQgFAAgEgEQgFgEAAgGIAAhbQAAgGAFgEQAEgEAFAAICFAAQAFAAAFgEQAEgEAAgGIAAkYQAAgGAEgEQAEgEAGAAIBcAAQAGAAAEAEQADAEAAAGIAALDQAAAFgDAFQgEAEgGAAg");
+	this.shape.setTransform(355.3,36.775);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FFFFFF").s().p("AAoAXIAAglIgPAlIgFAAIgPglIAAAAIAAAlIgGAAIAAgtIAKAAIAOAiIANgiIAMAAIAAAtgAghAXIAAgnIgOAAIAAgGIAkAAIAAAGIgOAAIAAAng");
+	this.shape_1.setTransform(595.25,2.275);
+
+	this.shape_2 = new cjs.Shape();
+	this.shape_2.graphics.f("#FFFFFF").s().p("AguFwQgFAAgEgEQgEgFAAgFIAArDQAAgGAEgEQAEgEAFAAIBcAAQAGAAAEAEQAEAEAAAGIAALDQAAAFgEAFQgEAEgGAAg");
+	this.shape_2.setTransform(319.1,36.775);
+
+	this.shape_3 = new cjs.Shape();
+	this.shape_3.graphics.f("#FFFFFF").s().p("ACdFwQgGAAgGgEQgGgDgDgFIkenxQgCgEgEACQgEABAAAEIAAHsQAAAGgEAEQgFAEgFAAIhdAAQgFAAgEgEQgEgEAAgGIAArDQAAgJAJgEIAEgBIBvAAQAGAAAGAEQAGADADAFIEeHxQACAEAEgCQAFgBAAgEIAAnsQAAgGAEgEQAEgEAFAAIBdAAQAFAAAEAEQAEAEAAAGIAALDQAAAJgIAEIgFABg");
+	this.shape_3.setTransform(137.075,36.775);
+
+	this.shape_4 = new cjs.Shape();
+	this.shape_4.graphics.f("#FFFFFF").s().p("ADTFwQgGAAgEgEQgEgEAAgGIAAnsQAAgEgEgBQgEgCgCAEIivEuQgFAJgHAAQgGAAgFgJIivkuQgCgEgEACQgEABAAAEIAAHsQAAAGgEAEQgEAEgGAAIhcAAQgGAAgEgEQgEgEAAgGIAArDQAAgJAJgEIAFgBIBvAAQAFAAAGAEQAGADADAFIClEeQADAFADAAQAEAAADgFIClkeQADgFAGgDQAGgEAFAAIBvAAIAFABQAJAEAAAJIAALDQAAAGgEAEQgEAEgGAAg");
+	this.shape_4.setTransform(553.725,36.775);
+
+	this.shape_5 = new cjs.Shape();
+	this.shape_5.graphics.f("#FFFFFF").s().p("AguFwQgFAAgEgEQgEgEAAgGIAApLQAAgGgEgEQgEgEgFAAIjDAAQgFAAgFgEQgDgEAAgFIAAhdQAAgGADgEQAFgEAFAAIIXAAQAGAAAEAEQADAEAAAGIAABdQAAAFgDAEQgEAEgGAAIiMAAQgcAAgUAUQgUAUAAAcIAAIVQAAAGgEAEQgEAEgGAAg");
+	this.shape_5.setTransform(239.15,36.775);
+
+	this.shape_6 = new cjs.Shape();
+	this.shape_6.graphics.f("#FFFFFF").s().p("Aj3DWQgGAAgEgEQgEgEAAgGIAAmPQAAgGAEgEQAEgEAGAAIGUAAQAFAAAEAEQAEAEAAAGIAABcQAAAGgEAEQgEAEgFAAIjmAAQgcAAgUAUQgUAUAAAcIAABpQAAAGAEAEQAEAEAFAAIF4AAQAGAAAEAEQAEAEAAAFIAABdQAAAGgEAEQgEAEgGAAg");
+	this.shape_6.setTransform(448.175,52.175);
+
+	this.shape_7 = new cjs.Shape();
+	this.shape_7.graphics.f("#FFFFFF").s().p("Aj3A8QgGAAgEgEQgEgEAAgGIAAhbQAAgGAEgEQAEgEAGAAIHvAAQAGAAAEAEQAEAEAAAGIAABbQAAAGgEAEQgEAEgGAAg");
+	this.shape_7.setTransform(448.175,6);
+
+	this.shape_8 = new cjs.Shape();
+	this.shape_8.graphics.f("#FFFFFF").s().p("ADBFwQgGAAgFgEQgFgEgCgFIhHj2QgGgUgTgPQgUgOgVAAIhxAAQgFAAgGAEQgFAEgBAFIhSEaQgCAFgFAEQgFAEgGAAIhhAAQgGAAgDgEQgDgEACgFIB1mRQABgFAFgEQAGgEAFAAIDJAAQAIAAAEgFQAEgFgCgHIhQkWQgCgFADgEQADgEAGAAIBgAAQAGAAAFAEQAFAEACAFIDOLFQACAFgDAEQgDAEgGAAg");
+	this.shape_8.setTransform(30.075,36.775);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.Anthem_Logo_White, new cjs.Rectangle(0,0,600.1,73.6), null);
+
+
+// stage content:
+(lib.Anthem_DemoHype_728x90 = function(mode,startPosition,loop) {
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
+
+	// timeline functions:
+	this.frame_0 = function() {
+		function changeBaseline(adjustFF, adjustMac) {
+		    var isMacLike = false;
+		    var firefox = navigator.userAgent.toLowerCase().indexOf("firefox") > -1;
+			var chrome = navigator.userAgent.toLowerCase().indexOf("chrome") > -1;
+			var opera =  navigator.userAgent.toLowerCase().indexOf("opr") > -1;
+			var ucbrowser = navigator.userAgent.toLowerCase().indexOf("ucbrowser") > -1;
+			var edge = navigator.userAgent.toLowerCase().indexOf("edge") > -1;
+			var samsung = navigator.userAgent.toLowerCase().indexOf("samsung") > -1;
+			var wrongbrowser = opera || ucbrowser || edge || samsung;
+			var android = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+		    if (adjustMac == true) {
+		        var isMacLike = navigator.platform.match(/(Mac|Linux)/i) ? true : false;
+		    }
+			
+			if (android && chrome) {
+				chrome = false;
+			}
+			
+			
+			if (wrongbrowser) {
+				
+			}
+			else if ((firefox || chrome) && createjs) {
+		        createjs.Text.prototype._drawTextLine = function (ctx, text, y) {if (this.textBaseline === "top") {var lineHeight = this.lineHeight || this.getMeasuredLineHeight();y += lineHeight * adjustFF;}if (this.outline) {ctx.strokeText(text, 0, y, this.maxWidth || 65535);} else {ctx.fillText(text, 0, y, this.maxWidth || 65535);}};
+			}
+		}
+		
+		changeBaseline(0.2,true);
+	}
+	this.frame_302 = function() {
+		this.stop();
+	}
+
+	// actions tween:
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(302).call(this.frame_302).wait(1));
+
+	// ct
+	this.ct_btn = new lib.ct_btn();
+	this.ct_btn.name = "ct_btn";
+	this.ct_btn.parent = this;
+	this.ct_btn.setTransform(485,45,3.2333,0.36,0,0,0,150,125);
+	new cjs.ButtonHelper(this.ct_btn, 0, 1, 2);
+
+	this.timeline.addTween(cjs.Tween.get(this.ct_btn).wait(303));
+
+	// border
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f().s("#CCCCCC").ss(2,1,1).p("Eg43gHBMBxvAAAIAAODMhxvAAAg");
+	this.shape.setTransform(364,45);
+
+	this.timeline.addTween(cjs.Tween.get(this.shape).wait(303));
+
+	// award
+	this.instance = new lib.award_mc();
+	this.instance.parent = this;
+	this.instance.setTransform(62.2,45.1,0.9387,0.9387,0,0,0,33,27.6);
+	this.instance.alpha = 0;
+	this.instance._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(296).to({_off:false},0).wait(7));
+
+	// polish_logo
+	this.polish_logo = new lib.polish_logo_1();
+	this.polish_logo.name = "polish_logo";
+	this.polish_logo.parent = this;
+	this.polish_logo.setTransform(25.95,23.1,0.4668,0.4668,0,0,0,31.5,30);
+	this.polish_logo.alpha = 0;
+	this.polish_logo._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.polish_logo).wait(296).to({_off:false},0).to({alpha:1},6).wait(1));
+
+	// rating_placeholder
+	this.rating_placeholder = new lib.rating_placeholder_1();
+	this.rating_placeholder.name = "rating_placeholder";
+	this.rating_placeholder.parent = this;
+	this.rating_placeholder.setTransform(41.5,67.3,0.4659,0.4663,0,0,0,62.7,30.2);
+	this.rating_placeholder.alpha = 0;
+	this.rating_placeholder._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.rating_placeholder).wait(296).to({_off:false},0).to({alpha:1},6).wait(1));
+
+	// copy_04
+	this.copy_04 = new lib.copy_04();
+	this.copy_04.name = "copy_04";
+	this.copy_04.parent = this;
+	this.copy_04.setTransform(218.55,44.5,1,1,0,0,0,100,35.5);
+	this.copy_04._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_04).wait(296).to({_off:false},0).wait(7));
+
+	// legal
+	this.legal = new lib.legal_mc();
+	this.legal.name = "legal";
+	this.legal.parent = this;
+	this.legal.setTransform(570.8,93.5,1,1,0,0,0,122,20);
+	this.legal.alpha = 0;
+	this.legal._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.legal).wait(296).to({_off:false},0).to({alpha:1},6).wait(1));
+
+	// logo
+	this.instance_1 = new lib.anthem_logo();
+	this.instance_1.parent = this;
+	this.instance_1.setTransform(460,8);
+	this.instance_1._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(296).to({_off:false},0).wait(7));
+
+	// cta
+	this.cta = new lib.cta_mc();
+	this.cta.name = "cta";
+	this.cta.parent = this;
+	this.cta.setTransform(492.75,43.95);
+	this.cta._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.cta).wait(296).to({_off:false},0).wait(7));
+
+	// art
+	this.instance_2 = new lib.art_mc();
+	this.instance_2.parent = this;
+	this.instance_2.setTransform(381.4,153,1,1,0,0,0,67,51);
+	this.instance_2._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(296).to({_off:false},0).to({y:45},6,cjs.Ease.quadOut).wait(1));
+
+	// triangle
+	this.instance_3 = new lib.triangle();
+	this.instance_3.parent = this;
+	this.instance_3.setTransform(364,85,0.0115,0.0115);
+	this.instance_3._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(289).to({_off:false},0).to({regX:0.1,regY:-0.1,scaleX:1.5638,scaleY:1.5638,x:364.05,y:-25.15},6).wait(8));
+
+	// Logo
+	this.instance_4 = new lib.Anthem_Logo_White();
+	this.instance_4.parent = this;
+	this.instance_4.setTransform(61.2,17.6,0.1667,0.1665,0,0,0,299.7,37.2);
+	this.instance_4._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(32).to({_off:false},0).wait(271));
+
+	// copy_03
+	this.copy_03 = new lib.copy_03();
+	this.copy_03.name = "copy_03";
+	this.copy_03.parent = this;
+	this.copy_03.setTransform(570.2,45.15,1.2521,1.2521,0,0,0,140.2,36);
+	this.copy_03._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_03).wait(234).to({_off:false},0).to({regY:35.9,scaleX:1,scaleY:1,x:570.15,y:45},5).wait(1).to({regX:122,regY:33.1,x:548.95,y:45.2},0).wait(1).to({x:551.95,y:42.2},0).wait(62));
+
+	// copy_02
+	this.copy_02 = new lib.copy_02();
+	this.copy_02.name = "copy_02";
+	this.copy_02.parent = this;
+	this.copy_02.setTransform(570.6,44.95,1.3596,1.3596,0,0,0,138,35.6);
+	this.copy_02._off = true;
+
+	this.timeline.addTween(cjs.Tween.get(this.copy_02).wait(156).to({_off:false},0).to({scaleX:1,scaleY:1,x:570.55},5).wait(1).to({x:567.55,y:47.95},0).wait(1).to({x:570.55,y:44.95},0).to({_off:true},72).wait(68));
+
+	// copy_01
+	this.instance_5 = new lib.copy_01();
+	this.instance_5.parent = this;
+	this.instance_5.setTransform(570.35,45.15,1.2435,1.2435,0,0,0,137.6,35.4);
+	this.instance_5._off = true;
+
+	this.copy_01 = new lib.copy_01();
+	this.copy_01.name = "copy_01";
+	this.copy_01.parent = this;
+	this.copy_01.setTransform(570.3,45,1,1,0,0,0,137.6,35.3);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_5}]},32).to({state:[{t:this.instance_5}]},5).to({state:[{t:this.instance_5}]},1).to({state:[{t:this.copy_01}]},1).to({state:[]},118).to({state:[]},78).wait(68));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(32).to({_off:false},0).to({regY:35.3,scaleX:1,scaleY:1,x:570.3,y:45},5).wait(1).to({x:567.3,y:48},0).to({_off:true},1).wait(264));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(-54,-657.1,1199.8,1309.3000000000002);
+// library properties:
+lib.jvxStrings = [
+{"id":"legal_mc__1","text":"*Conditions and restrictions apply. Click for details.","font":"8px 'Zanzinger El'","fontPrefix":"","fontSuffix":"'Zanzinger El'","fontSize":"8","fontName":"Zanzinger El","colorType":"rgb","color":"#999999","yPos":"0","lineHeight":"6","lineWidth":"270","boxWidth":"273.9","boxHeight":"40","maxLines":"6","canVertAlign":"1"},
+{"id":"cta_mc__1","text":"PRE-ORDER NOW","font":"10px 'Zanzinger El'","fontPrefix":"","fontSuffix":"'Zanzinger El'","fontSize":"10","fontName":"Zanzinger El","colorType":"rgb","color":"#FFFFFF","yPos":"0","lineHeight":"10","lineWidth":"119","boxWidth":"156","boxHeight":"28","maxLines":"2","canVertAlign":"1"},
+{"id":"copy_04__1","text":"ACCESS THE\nVIP DEMO*","font":"34px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"34","fontName":"Ringside Compressed Ultra","colorType":"rgb","color":"#EF4E22","yPos":"0","lineHeight":"27","lineWidth":"255","boxWidth":"258.7","boxHeight":"73.6","maxLines":"2","canVertAlign":"1"},
+{"id":"copy_03__1","text":"BE THE FIRST TO PLAY ANTHEM","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","colorType":"rgb","color":"#FFFFFF","yPos":"0","lineHeight":"29","lineWidth":"273","boxWidth":"280.4","boxHeight":"73.2","maxLines":"2","canVertAlign":"0"},
+{"id":"copy_03__2","text":"BE THE FIRST TO PLAY ANTHEM","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","yPos":"0","lineHeight":"29","lineWidth":"273","boxWidth":"280.4","boxHeight":"73.2","maxLines":"2","canVertAlign":"0"},
+{"id":"copy_02__1","text":"FOR ONLY ONE WEEKEND","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","colorType":"rgb","color":"#FFFFFF","yPos":"0","lineHeight":"29","lineWidth":"269","boxWidth":"276.1","boxHeight":"73.2","maxLines":"2","canVertAlign":"0"},
+{"id":"copy_02__2","text":"FOR ONLY ONE WEEKEND","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","yPos":"0","lineHeight":"29","lineWidth":"269","boxWidth":"276.1","boxHeight":"73.2","maxLines":"2","canVertAlign":"0"},
+{"id":"copy_01__1","text":"ON JANUARY 25","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","colorType":"rgb","color":"#FFFFFF","yPos":"0","lineHeight":"29","lineWidth":"268","boxWidth":"275.2","boxHeight":"70.6","maxLines":"2","canVertAlign":"0"},
+{"id":"copy_01__2","text":"ON JANUARY 25","font":"32px 'Ringside Compressed Ultra'","fontPrefix":"","fontSuffix":"'Ringside Compressed Ultra'","fontSize":"32","fontName":"Ringside Compressed Ultra","yPos":"0","lineHeight":"29","lineWidth":"268","boxWidth":"275.2","boxHeight":"70.6","maxLines":"2","canVertAlign":"0"}
+];
+lib.properties = {
+	id: '392CE562BAB2C942961C87C437A0263D',
+	width: 728,
+	height: 90,
+	fps: 24,
+	color: "#333333",
+	opacity: 0.00,
+	manifest: [
+		{src:"images/anthem_logo.png", id:"anthem_logo"},
+		{src:"images/art.png", id:"art"},
+		{src:"images/award.png", id:"award"},
+		{src:"images/cta_bg.png", id:"cta_bg"},
+		{src:"images/polish_logo.png", id:"polish_logo"},
+		{src:"images/rating_placeholder.png", id:"rating_placeholder"}
+	],
+	preloads: []
+};
+
+
+
+// bootstrap callback support:
+
+(lib.Stage = function(canvas) {
+	createjs.Stage.call(this, canvas);
+}).prototype = p = new createjs.Stage();
+
+p.setAutoPlay = function(autoPlay) {
+	this.tickEnabled = autoPlay;
+}
+p.play = function() { this.tickEnabled = true; this.getChildAt(0).gotoAndPlay(this.getTimelinePosition()) }
+p.stop = function(ms) { if(ms) this.seek(ms); this.tickEnabled = false; }
+p.seek = function(ms) { this.tickEnabled = true; this.getChildAt(0).gotoAndStop(lib.properties.fps * ms / 1000); }
+p.getDuration = function() { return this.getChildAt(0).totalFrames / lib.properties.fps * 1000; }
+
+p.getTimelinePosition = function() { return this.getChildAt(0).currentFrame / lib.properties.fps * 1000; }
+
+an.bootcompsLoaded = an.bootcompsLoaded || [];
+if(!an.bootstrapListeners) {
+	an.bootstrapListeners=[];
+}
+
+an.bootstrapCallback=function(fnCallback) {
+	an.bootstrapListeners.push(fnCallback);
+	if(an.bootcompsLoaded.length > 0) {
+		for(var i=0; i<an.bootcompsLoaded.length; ++i) {
+			fnCallback(an.bootcompsLoaded[i]);
+		}
+	}
+};
+
+an.compositions = an.compositions || {};
+an.compositions['392CE562BAB2C942961C87C437A0263D'] = {
+	getStage: function() { return exportRoot.getStage(); },
+	getLibrary: function() { return lib; },
+	getSpriteSheet: function() { return ss; },
+	getImages: function() { return img; }
+};
+
+an.compositionLoaded = function(id) {
+	an.bootcompsLoaded.push(id);
+	for(var j=0; j<an.bootstrapListeners.length; j++) {
+		an.bootstrapListeners[j](id);
+	}
+}
+
+an.getComposition = function(id) {
+	return an.compositions[id];
+}
+
+
+
+})(createjs = createjs||{}, AdobeAn = AdobeAn||{});
+var createjs, AdobeAn;

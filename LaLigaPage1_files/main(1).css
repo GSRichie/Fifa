@@ -1,0 +1,76 @@
+body {
+  margin:0px;
+  line-height: 1;
+  font-family:Arial,sans-serif;
+  overflow:hidden;
+}
+body:after {
+  display:none;
+}
+img {
+  position: absolute;
+}
+#banner {
+  width:968px;
+  height:248px;
+  overflow:hidden;
+  position:absolute;
+  border:1px solid #000;
+  background:#000;
+}
+
+#bg-exit {
+  background-color:rgba(0, 0, 0, 0);
+  cursor: pointer;
+  width: 970px;
+  height: 250px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 99;
+}
+#bg {
+  left:-1px;
+  top:-1px;
+  width:970px;
+  height:250px;
+  position:absolute;
+
+}
+
+#content {
+  visibility:hidden;
+  width:970px;
+  height:250px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  overflow:hidden;
+}
+
+
+.txt {
+  position: absolute;
+  left:0px;
+  top:0px;
+}
+
+#line1{height:551px;width:1px;background:#9b6747;position:absolute;top:0;left:25px;}
+#line2{height:1px;width:914px;background:#9b6747;position:absolute;top:157px;left:25px;}
+#line3{height:551px;width:1px;background:#9b6747;position:absolute;bottom:92px;left:939px;}
+
+.hide {
+  visibility: hidden;
+}
+.abs {
+  position: absolute;
+}
+
+
+#legal-btn{width:45px;height:20px;position:absolute;top:206px;left:22px;z-index: 102;cursor:pointer;}
+
+#legal-close-btn{position:absolute;top:0px;right:0px;z-index: 102;cursor:pointer;width:inherit;height:inherit;}
+#legal-popup{width:970px;height:250px;z-index: 101;cursor:pointer;}
+#legal-popup-bg{width:inherit;height:inherit;background:#000;}
+#legal-content{font-size: 11px;line-height:15px;color:#fff;padding:15px;text-align: justify;}
+.close_btn{font-weight: bold;font-size: 11px;text-transform:uppercase;position:absolute;top:0;right:15px;}

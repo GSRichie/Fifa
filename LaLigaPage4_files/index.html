@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!-- saved from url=(0091)https://s0.2mdn.net/6495514/1523902342010/FCA_RAM1500_2019_InMarket_HTML_300x250/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="ad.size" content="width=300,height=250">
+<title>Client_Campaign_300x250</title>
+
+<script type="text/javascript">var clickTag = "http://www.google.com";</script>
+
+<script src="./tweenmax_1.18.5_23b0de6da0ee295131e32a500470610c_min.js.download"></script>
+
+<!-- Image Loader -->
+<script src="./imagesloaded.pkgd.min.js.download"></script>
+<!-- Image Loader --> 
+
+<link href="./style.css" rel="stylesheet" media="all">
+<script src="./main.js.download"></script>
+
+<!-- UN-COMMENT BELOW LINE ONE YOU ARE READY TO TRAFFIC -->
+<script src="./Enabler.js.download"></script>
+
+<!-- WHEN WE START USING LIVE TEXT WE WILL IMPORT FROM GOOGLE FONTS LIKE BELOW -->
+<!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oswald"> -->
+
+
+<script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script></head>
+
+<body>
+  <div class="bannerSize" id="viewport">
+    <div class="bannerSize" id="bg" style="opacity: 1;"></div>
+  <div class="bannerSize" id="photo1" style="opacity: 0;"></div>
+  <div class="bannerSize" id="photo2" style="opacity: 0;"></div>
+  <div class="bannerSize" id="photo3" style="opacity: 0;"></div>
+  <div class="bannerSize" id="photo4" style="opacity: 0;"></div>
+  <div class="bannerSize" id="photoff" style="opacity: 0;"></div>
+  
+  <div class="bannerSize" id="frame" style="opacity: 1;"></div>
+  <div class="bannerSize" id="vehicle" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></div>
+  <div class="bannerSize" id="text1a" style="opacity: 1; transform: matrix(1, 0, 0, 1, -300, 0);"></div>
+  <div class="bannerSize" id="text1b" style="opacity: 1; transform: matrix(1, 0, 0, 1, 300, 0);"></div>
+  <div class="bannerSize" id="text2a" style="opacity: 1; transform: matrix(1, 0, 0, 1, -300, 0);"></div>
+  <div class="bannerSize" id="text2b" style="opacity: 1; transform: matrix(1, 0, 0, 1, 300, 0);"></div>
+  <div class="bannerSize" id="text3a" style="opacity: 1; transform: translate3d(-0.344995px, 0px, 0px);"></div>
+  <div class="bannerSize" id="text3b" style="opacity: 1; transform: translate3d(0.344995px, 0px, 0px);"></div>
+  <div class="bannerSize" id="text4a" style="opacity: 1; transform: matrix(1, 0, 0, 1, -300, 0);"></div>
+  <div class="bannerSize" id="text4b" style="opacity: 1; transform: matrix(1, 0, 0, 1, 300, 0);"></div>
+  <div class="bannerSize" id="textffa" style="opacity: 0;"></div>
+  <div class="bannerSize" id="textffb" style="opacity: 0;"></div>
+
+  <div class="bannerSize" id="logo" style="opacity: 1;"></div>
+
+  <div id="cta" style="opacity: 0; transform: matrix(1.1, 0, 0, 1.1, 0, 0);">
+    <div id="sheen"></div>
+  </div>
+    
+    <div class="bannerSize" id="border" style="opacity: 1;"></div>
+    <a class="bannerSize" id="clickable" href="javascript:window.open(window.clickTag)" style="opacity: 0; cursor: pointer;"></a>
+
+  </div>
+
+  <script>
+
+  window.addEventListener("DOMContentLoaded", pageFullyLoaded, false);
+
+  var divsTotal;
+  var divsLoaded = 0;
+  var childElements = document.getElementById("viewport").children;
+  console.log(childElements)
+
+  for(var i = 0; i < childElements.length; i++){
+    childElements[i].style.opacity = 0;
+  }
+
+  function pageFullyLoaded(e){
+    divsTotal = childElements.length;
+    for (i = 0;i < childElements.length; i++) {
+      childElements[i];
+      runPreloader(childElements[i].getAttribute("id"));
+    }
+  }
+
+  function runPreloader(myDiv){
+
+    var imgLoadPls = imagesLoaded('#'+myDiv+'',{ background: true }, function() {
+      
+      console.log('are the images loaded?', myDiv, imgLoadPls.images.length );
+
+      divsLoaded++;
+      console.log("DIVS LOADED: ", divsLoaded, "DIVS TOTAL: ", divsTotal)
+
+      if(divsLoaded === divsTotal){
+        console.log("WE HAVE LIFTOFF")
+        init();
+      }
+
+    });
+  }
+
+  </script>
+
+
+
+</body></html>
