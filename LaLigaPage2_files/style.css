@@ -1,0 +1,129 @@
+body {
+	margin: 0px;
+}
+
+div { 
+	position:absolute; 
+	margin:0px; 
+	padding:0px;
+}
+
+.bannerSize {
+	width:728px; 
+	height:90px; 
+}
+
+#viewport { 
+	overflow:hidden;
+    background-color: #FFFFFF;
+    position: relative;
+    margin: 0 auto;
+}
+
+#border { 
+	position: absolute;
+	pointer-events: none;
+    left: 0px;
+    top: 0px;
+	box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid #000000;
+}
+
+#clickable { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background-color: white;
+	opacity: 0;
+}
+
+
+#cta {
+	background: url(images/cta.png) no-repeat;
+	background-size: contain;
+	overflow: hidden;
+	width: 117px;
+	height: 27px;
+	right: 24px;
+	bottom: 11px;
+}
+#sheen {
+	background: url(images/sheen.png) no-repeat;
+	background-size: contain;
+	width: 79px;
+	height: 58px;
+	top:-5px;
+	left:-112px;
+}
+
+#bg1 {
+	background: url(images/bg1.jpg) no-repeat;
+	background-size: contain;
+	background-color: #000000;
+}
+
+#bg2 {
+	background: url(images/bg2.jpg) no-repeat;
+	background-size: contain;
+	background-color: #000000;
+}
+
+#bg3 {
+	background: url(images/bg3.jpg) no-repeat;
+	background-size: contain;
+	background-color: #000000;
+}
+
+#gradient {
+	background: url(images/gradient.png) no-repeat;
+	background-size: contain;
+}
+
+
+
+#stroke {
+	background: url(images/stroke.png) no-repeat;
+	background-size: contain;
+}
+
+#logo {
+	background: url(images/logo.png) no-repeat;
+	background-size: contain;
+}
+
+#motortrend {
+	background: url(images/motortrend.png) no-repeat;
+	background-size: contain;
+}
+
+#motortrend2 {
+	background: url(images/motortrend2.png) no-repeat;
+	background-size: contain;
+}
+
+#text1a {
+	background: url(images/text1a.png) no-repeat;
+	background-size: contain;
+}
+#text1b {
+	background: url(images/text1b.png) no-repeat;
+	background-size: contain;
+}
+#text2a {
+	background: url(images/text2a.png) no-repeat;
+	background-size: contain;
+}
+#text2b {
+	background: url(images/text2b.png) no-repeat;
+	background-size: contain;
+}
+#text3a {
+	background: url(images/text3a.png) no-repeat;
+	background-size: contain;
+}
+#text3b {
+	background: url(images/text3b.png) no-repeat;
+	background-size: contain;
+}

@@ -1,0 +1,131 @@
+body {
+	margin: 0px;
+}
+
+div { 
+	position:absolute; 
+	margin:0px; 
+	padding:0px;
+}
+
+.bannerSize {
+	width:728px; 
+	height:90px; 
+}
+
+#viewport { 
+	overflow:hidden;
+    background-color: #FFFFFF;
+    position: relative;
+    margin: 0 auto;
+}
+
+#border {
+position: absolute;
+pointer-events: none;
+left: -1px;
+top: -1px;
+border: 1px solid #000000;
+-webkit-box-shadow:inset 0px 0px 0px 1px #000;
+-moz-box-shadow:inset 0px 0px 0px 1px #000;
+box-shadow:inset 0px 0px 0px 1px #000;
+}
+ 
+
+#clickable { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background-color: white;
+	opacity: 0;
+}
+
+/*#background { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/background.jpg) no-repeat;
+}*/
+
+#image1 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/image1.jpg) no-repeat;
+	background-size: contain;
+	image-rendering: optimizeQuality;
+}
+
+
+#text1 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/text1.png) no-repeat;
+	background-size: contain;
+}
+
+#text2 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/text2.png) no-repeat;
+	background-size: contain;
+}
+
+#text3 { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/text3.png) no-repeat;
+	background-size: contain;
+}
+
+#logo { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	background: url(images/logo.png) no-repeat;
+	background-size: contain;
+}
+
+
+
+#cta { 
+	position: absolute;
+	overflow: hidden;
+    right: 19px;
+    bottom: 13px;
+	width:122px; 
+	height:30px; 
+	background: url(images/cta.png) no-repeat;
+	background-size: contain;
+}
+
+#ctaOver { 
+	position: absolute;
+    left: 0px;
+    top: 0px;
+	width:122px; 
+	height:30px;  
+	background: #fff;
+	background-size: contain;
+}
+
+/*#ctaTxt { 
+	position: absolute;
+    left: 13px;
+    top: 10px;
+	width:116px; 
+	height:19px; 
+	background: url(images/ctaTxt.png) no-repeat;
+}*/
+
+#sheen { 
+	position: absolute;
+    left: -80px;
+    top: -5px;
+	width:79px; 
+	height:58px; 
+	background: url(images/sheen.png) no-repeat;
+}

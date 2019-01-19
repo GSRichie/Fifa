@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)https://s0.2mdn.net/6274732/1545401176265/genesis_jd_970x250_en/genesis_jd_970x250_en.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta name="ad.size" content="width=970,height=250">
+<title></title>
+  <link rel="stylesheet" type="text/css" href="./main(1).css">
+    <script type="text/javascript" charset="utf-8" src="./TweenLite.js(1).download"></script>
+    <script type="text/javascript" charset="utf-8" src="./EasePack.js(1).download"></script>
+    <script type="text/javascript" charset="utf-8" src="./CSSPlugin.js(1).download"></script>
+    <script type="text/javascript">
+        var clickTag = "https://www.genesis.com/ca/en/genesis.html";
+        function openNewWindow(event) {
+    			window.open(window.clickTag);
+    			event.preventDefault();
+    			return false;
+    		}
+    </script>
+<script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script></head>
+<body>
+   <div id="banner">
+    <div id="bg" class="hide" style="visibility: inherit; opacity: 1;"><img src="./bg(1).jpg">
+      <img id="bg2" class="hide txt" src="./bg2.jpg" style="visibility: inherit; opacity: 1;">
+    <a href="https://s0.2mdn.net/6274732/1545401176265/genesis_jd_970x250_en/genesis_jd_970x250_en.html#" onclick="openNewWindow(event)"><div id="bg-exit"></div></a>
+    <div id="content" style="visibility: inherit; opacity: 1;">
+
+        <img id="t1" src="./t1(1).png" class="txt hide" style="visibility: hidden; opacity: 0;">
+        <img id="t2" src="./t2(1).png" class="txt hide" style="visibility: hidden; opacity: 0;">
+        <img id="t3" src="./t3(1).png" class="txt hide" style="visibility: inherit; opacity: 1;">
+        <img id="legal" src="./legal(1).png" class="txt" style="visibility: inherit; opacity: 1;">
+        <img id="jdpower" src="./jdpower.png" class="txt hide" style="visibility: inherit; opacity: 1;">
+        <div id="line1" style="height: 157px;"></div>
+        <div id="line2" style="width: 914px;"></div>
+        <div id="line3" style="height: 157px;"></div>
+
+      <a href="javascript:window.open(window.clickTag)"><div id="cta" style="visibility: inherit; opacity: 1;"><img src="./cta(1).png"></div></a>
+
+      <a href="javascript:showLegal()" onmouseover="javascript:showLegal()" onmouseout="javascript:closeLegal()" id="legal-btn" class="txt hide" style="visibility: inherit; opacity: 1;"></a>
+
+      <div id="legal-popup" class="txt hide">
+        <div id="legal-popup-bg"></div>
+        <p id="legal-content" class="txt hide">
+          <span class="close_btn">close x</span>
+          <br>
+          <sup>®/™</sup>The Genesis names, logos, product names, feature names, images and slogans are trademarks owned or licensed by Genesis Motors Canada, a division of Hyundai Auto Canada Corp..  For J.D. Power 2018 award information, visit jdpower.com/awards.
+        </p>
+        <a href="javascript:closeLegal()" id="legal-close-btn"></a>
+      </div>
+
+    </div>
+    </div>
+  </div>
+  <script type="text/javascript" charset="utf-8" src="./main.js(1).download"></script>
+
+
+</body></html>
