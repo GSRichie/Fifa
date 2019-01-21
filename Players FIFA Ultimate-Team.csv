@@ -1,532 +1,537 @@
-,level_0,index,LastName,FirstName,Club,Acceleration,Age,Aggression,FreeKickAccuracy,LongPassing,LongShots,Penalties,ShortPassing,SprintSpeed,ClubA,ForKey
-0,0,0,Aduriz Zubeldia,Aritz,Athletic Club,66.0,37,82.0,54.0,52.0,78.0,82.0,72.0,67.0,ATH,AriAduATH
-1,1,1,Advíncula,Luis,Rayo Vallecano,95.0,28,70.0,63.0,67.0,68.0,64.0,73.0,94.0,RV,LuiAdvRV
-2,2,2,Adán Garrido,Antonio,Atlético Madrid,56.5,31,41.0,12.0,43.0,12.0,25.0,34.0,54.0,ATL,AntAdáATL
-3,3,3,Agudo Durán,Manuel,Sevilla FC,74.0,32,73.0,80.0,67.0,81.0,74.0,76.0,70.0,SEV,ManAguSEV
-4,4,4,Aguilera Núñez,Juan,SD Huesca,71.0,33,68.0,60.0,72.0,57.0,40.0,75.0,52.0,HUE,JuaAguHUE
-5,5,5,Aguirregabiria,Martín,D. Alavés,74.0,22,62.0,40.0,45.0,35.0,38.0,76.0,74.0,ALA,MarAguALA
-6,6,6,Akapo Martínez,Carlos,SD Huesca,77.0,25,84.0,41.0,62.0,52.0,46.0,68.0,88.0,HUE,CarAkaHUE
-7,7,7,Akieme Rodríguez,Sergio,Rayo Vallecano,76.0,21,65.0,36.0,43.0,44.0,40.0,62.0,73.0,RV,SerAkiRV
-8,8,8,Alarcón Suárez,Francisco Román,Real Madrid,76.33333333333333,26,58.666666666666664,74.33333333333333,84.33333333333333,90.0,76.33333333333333,90.0,69.66666666666667,RMD,FraAlaRMD
-9,9,9,Alba Ramos,Jordi,FC Barcelona,93.66666666666667,29,76.0,63.333333333333336,74.33333333333333,66.0,59.0,85.0,93.66666666666667,BAR,JorAlbBAR
-10,10,10,Alcalá Guirado,Pedro,Girona FC,31.0,29,77.0,65.0,66.0,68.0,39.0,71.0,42.0,GIR,PedAlcGIR
-11,11,11,Alcaraz Jiménez,Rubén,R. Valladolid CF,57.0,27,74.0,73.0,74.0,72.0,70.0,75.0,53.0,VLD,RubAlcVLD
-12,12,12,Alcântara,Rafael,FC Barcelona,71.5,25,44.0,61.0,76.0,82.5,67.0,86.5,70.5,BAR,RafAlcBAR
-13,13,13,Alegría Moreno,Alexander,Rayo Vallecano,48.0,26,53.0,22.0,39.0,66.0,63.0,65.0,54.0,RV,AleAleRV
-14,14,14,Alegría Moreno,Alexander,Real Betis,48.0,26,53.0,22.0,39.0,66.0,63.0,65.0,54.0,BET,AleAleBET
-15,15,15,Alejo Peralta,Iván,Getafe CF,73.0,23,45.0,49.0,71.0,64.0,47.0,76.0,86.0,GET,IváAleGET
-16,16,16,Alende López,Diego,RC Celta,53.0,21,62.0,26.0,35.0,23.0,33.0,61.0,55.0,CEL,DieAleCEL
-17,17,17,Aleñà Castillo,Carles,FC Barcelona,78.0,21,52.0,59.0,67.0,67.0,73.0,69.0,76.0,BAR,CarAleBAR
-18,18,18,Alonso,Junior,RC Celta,58.0,25,76.0,27.0,63.0,46.0,33.0,65.0,64.0,CEL,JunAloCEL
-19,19,19,Alonso Lara,José,Sevilla FC,72.0,18,33.0,49.0,65.0,51.0,61.0,66.0,74.0,SEV,JosAloSEV
-20,20,20,Amadou,Ibrahim,Sevilla FC,69.0,25,80.0,32.0,73.0,62.0,51.0,76.0,73.0,SEV,IbrAmaSEV
-21,21,21,Amat Maas,Jordi,Rayo Vallecano,61.0,26,82.0,36.0,52.0,65.0,28.0,68.0,69.0,RV,JorAmaRV
-22,22,22,Andzouana,Yhoan,Girona FC,67.0,22,31.0,40.0,59.0,46.0,61.0,53.0,61.0,GIR,YhoAndGIR
-23,23,23,Andújar Moreno,Jorge,Levante UD,75.0,31,74.0,36.0,68.0,60.0,74.0,76.0,73.0,LEV,JorAndLEV
-24,24,24,Apeh,Emmanuel,RC Celta,72.0,22,35.0,36.0,38.0,62.0,62.0,63.0,76.0,CEL,EmmApeCEL
-25,25,25,Arambarri,Mauro,Getafe CF,47.0,23,79.0,46.0,78.0,55.0,50.0,79.0,53.0,GET,MauAraGET
-26,26,26,Arana Lopes,Guilherme,Sevilla FC,77.0,21,69.0,49.0,67.0,54.0,52.0,72.0,78.0,SEV,GuiAraSEV
-27,27,27,Araújo,Néstor,RC Celta,69.0,27,65.0,45.0,66.0,39.0,54.0,72.0,72.0,CEL,NésAraCEL
-28,28,28,Arbilla Zabala,Anaitz,SD Eibar,55.0,31,84.0,82.0,65.0,68.0,47.0,77.0,70.0,EIB,AnaArbEIB
-29,29,29,Arias,Santiago,Atlético Madrid,85.0,27,81.0,56.333333333333336,76.33333333333333,50.333333333333336,57.0,77.33333333333333,87.66666666666667,ATL,SanAriATL
-30,30,30,Armando de Abreu,Gabriel,Valencia CF,71.0,28,82.5,46.0,69.5,50.5,51.5,74.5,74.5,VAL,GabArmVAL
-31,31,31,Arnáiz Díaz,José Manuel,CD Leganés,86.0,23,40.0,47.0,61.0,68.0,67.0,65.0,84.0,LGN,JosArnLGN
-32,32,32,Asenjo Andrés,Sergio,Villarreal CF,61.8,29,20.0,22.0,39.0,13.0,15.0,39.0,56.0,VIL,SerAseVIL
-33,33,33,Asensio Willemsen,Marco,Real Madrid,83.5,22,45.0,76.0,82.0,88.5,62.0,85.5,80.0,RMD,MarAseRMD
-34,34,34,Aspas Juncal,Iago,RC Celta,86.2,31,63.8,77.6,65.6,83.2,83.2,83.4,78.4,CEL,IagAspCEL
-35,35,35,Ba,Abdoulaye,Rayo Vallecano,49.0,28,80.0,59.0,41.0,50.0,68.0,58.0,53.0,RV,AbdBaRV
-36,36,36,Bacca,Carlos,Villarreal CF,73.0,32,62.0,58.0,55.0,60.0,80.0,72.0,75.0,VIL,CarBacVIL
-37,37,37,Bale,Gareth,Real Madrid,94.25,29,66.5,89.0,81.25,92.75,77.0,87.0,96.0,RMD,GarBalRMD
-38,38,38,Balenziaga,Mikel,Athletic Club,69.0,30,76.0,33.0,69.0,54.0,44.0,70.0,73.0,ATH,MikBalATH
-39,39,39,Banega,Éver,Sevilla FC,68.0,30,73.0,81.0,87.0,77.0,67.0,88.0,64.0,SEV,ÉveBanSEV
-40,40,40,Bangoura,Alhassane,Rayo Vallecano,87.0,26,63.0,45.0,60.0,57.0,50.0,63.0,87.0,RV,AlhBanRV
-41,41,41,Barbosa,Mariano,Villarreal CF,42.0,34,37.0,12.0,36.0,12.0,24.0,38.0,43.0,VIL,MarBarVIL
-42,42,42,Bardhi,Enis,Levante UD,76.0,23,54.0,90.0,77.0,84.0,75.0,79.0,64.0,LEV,EniBarLEV
-43,43,43,Barragán Fernández,Antonio,Real Betis,69.0,31,74.0,51.0,62.0,53.0,55.0,77.0,71.0,BET,AntBarBET
-44,44,44,Bartra Aregall,Marc,Real Betis,75.0,28,80.0,45.0,77.0,62.0,52.0,79.0,72.0,BET,MarBarBET
-45,45,45,Batalha Martins,Gelson Dany,Atlético Madrid,95.33333333333333,23,60.0,60.0,55.0,69.33333333333333,66.0,78.33333333333333,94.33333333333333,ATL,GelBatATL
-46,46,46,Batshuayi,Michy,Valencia CF,78.75,25,64.0,47.5,37.0,77.0,68.0,66.25,77.75,VAL,MicBatVAL
-47,47,47,Bautista Orgilles,Jon,Real Sociedad,61.0,23,35.0,57.0,41.0,77.0,70.0,67.0,57.0,RSO,JonBauRSO
-48,48,48,Beauvue,Claudio,RC Celta,69.0,30,54.0,71.0,61.0,69.0,70.0,75.0,66.0,CEL,ClaBeaCEL
-49,49,49,Beauvue,Claudio,Stade Malherbe Caen,69.0,30,54.0,71.0,61.0,69.0,70.0,75.0,66.0,Stade Malherbe Caen,ClaBeaSta
-50,50,50,Beltrán Peinado,Francisco José,RC Celta,73.0,19,68.0,49.0,74.0,48.0,49.0,75.0,68.0,CEL,FraBelCEL
-51,51,51,Ben Yedder,Wissam,Sevilla FC,89.66666666666667,28,57.666666666666664,79.66666666666667,69.0,72.33333333333333,73.33333333333333,78.66666666666667,85.0,SEV,WisBenSEV
-52,52,52,Benzema,Karim,Real Madrid,77.33333333333333,31,66.33333333333333,74.0,55.666666666666664,76.33333333333333,84.0,83.66666666666667,77.33333333333333,RMD,KarBenRMD
-53,53,53,Benítez Caraballo,Aday,Girona FC,70.0,31,62.0,51.0,62.0,39.0,55.0,75.0,74.0,GIR,AdaBenGIR
-54,54,54,Berchiche Izeta,Yuri,Athletic Club,78.0,28,85.0,55.0,68.0,77.0,59.0,70.0,77.0,ATH,YurBerATH
-55,55,55,Bergara Larrañaga,Markel,Getafe CF,64.0,32,79.0,71.0,76.0,68.0,59.0,78.0,32.0,GET,MarBerGET
-56,56,56,Berrocal González,Juan,Sevilla FC,63.0,19,65.0,35.0,56.0,37.0,49.0,62.0,62.0,SEV,JuaBerSEV
-57,57,57,Bigas Rigo,Pedro,SD Eibar,71.0,28,83.0,43.0,60.0,47.0,48.0,72.0,72.0,EIB,PedBigEIB
-58,58,58,Blanco Moreno,Carlos,Villarreal CF,41.0,23,63.0,30.0,70.0,68.0,38.0,63.0,39.0,VIL,CarBlaVIL
-59,59,59,Blanco Sánchez,Alejandro,Valencia CF,69.0,20,39.0,45.0,58.0,54.0,54.0,65.0,67.0,VAL,AleBlaVAL
-60,60,60,Blanco Veiga,Rubén,RC Celta,54.0,23,22.0,13.0,29.0,15.0,22.0,35.0,52.0,CEL,RubBlaCEL
-61,61,61,Boateng,Emmanuel,Levante UD,89.0,22,62.0,41.0,46.0,64.0,64.0,69.0,88.0,LEV,EmmBoaLEV
-62,62,62,Bonera,Daniele,Villarreal CF,33.0,37,80.0,29.0,61.0,53.0,49.0,60.0,30.0,VIL,DanBonVIL
-63,63,63,Boudebouz,Ryad,Real Betis,75.0,28,58.0,82.0,76.0,76.0,90.0,81.0,73.0,BET,RyaBouBET
-64,64,64,Boufal,Sofiane,RC Celta,84.0,25,47.0,63.0,66.0,65.0,69.0,75.0,79.0,CEL,SofBouCEL
-65,65,65,Bounou,Yassine,Girona FC,39.666666666666664,27,25.0,19.0,44.0,19.0,24.0,39.0,36.0,GIR,YasBouGIR
-66,66,66,Brasanac,Darko,D. Alavés,61.0,26,81.0,59.0,75.0,62.0,70.0,74.0,54.0,ALA,DarBraALA
-67,67,67,Brasanac,Darko,Real Betis,61.0,26,81.0,59.0,75.0,62.0,70.0,74.0,54.0,BET,DarBraBET
-68,68,68,Brežančić,Rajko,SD Huesca,73.0,29,72.0,30.0,59.0,51.0,43.0,66.0,77.0,HUE,RajBreHUE
-69,69,69,Busquets Burgos,Sergio,FC Barcelona,57.0,30,85.33333333333333,68.0,79.33333333333333,62.333333333333336,69.33333333333333,88.33333333333333,60.333333333333336,BAR,SerBusBAR
-70,70,70,Bustinza Martínez,Unai,CD Leganés,66.0,26,71.0,35.0,53.0,38.0,33.0,72.0,68.0,LGN,UnaBusLGN
-71,71,71,Cabaco,Erick,Levante UD,67.0,23,82.0,27.0,62.0,34.0,32.0,62.0,67.0,LEV,EriCabLEV
-72,72,72,Cabral,Gustavo,RC Celta,38.0,33,82.0,48.0,59.0,29.0,47.0,72.0,36.0,CEL,GusCabCEL
-73,73,73,Cabral Semedo,Nélson,FC Barcelona,91.0,25,77.5,30.0,65.0,60.5,38.0,73.5,92.5,BAR,NélCabBAR
-74,74,74,Cabrera,Leandro,Getafe CF,61.0,27,78.0,48.0,59.0,35.0,49.0,69.0,64.0,GET,LeaCabGET
-75,75,75,Calavera Espinach,Jordi,SD Eibar,78.0,23,71.0,52.0,62.0,66.0,51.0,67.0,87.0,EIB,JorCalEIB
-76,76,76,Calero Villa,Fernando,R. Valladolid CF,67.0,23,63.0,27.0,43.0,21.0,39.0,69.0,64.0,VLD,FerCalVLD
-77,77,77,Calleri,Jonathan,D. Alavés,73.0,25,67.0,37.0,61.333333333333336,71.66666666666667,64.66666666666667,70.0,74.66666666666667,ALA,JonCalALA
-78,78,78,Camacho Barnola,Juan Jose,SD Huesca,30.0,38,65.0,77.0,77.0,71.0,86.0,78.0,32.0,HUE,JuaCamHUE
-79,79,79,Canales Madrazo,Sergio,Real Betis,64.0,27,55.0,76.0,70.0,78.0,66.0,84.0,57.0,BET,SerCanBET
-80,80,80,Capa Rodríguez,Ander,Athletic Club,82.0,26,86.0,58.0,56.0,62.0,54.0,71.0,86.0,ATH,AndCapATH
-81,81,81,Cardona Rovira,Marc,SD Eibar,80.0,23,33.0,52.0,50.0,65.0,56.0,60.0,78.0,EIB,MarCarEIB
-82,82,82,Carrilho Baptistão,Leonardo,RCD Espanyol,75.0,26,38.0,59.0,55.0,74.0,65.0,75.0,78.0,ESP,LeoCarESP
-83,83,83,Carrillo,Guido,CD Leganés,57.0,27,72.0,36.0,57.0,72.0,77.0,64.0,62.0,LGN,GuiCarLGN
-84,84,84,Carvajal Ramos,Daniel,Real Madrid,79.5,27,82.25,48.0,72.5,37.5,46.75,83.25,85.25,RMD,DanCarRMD
-85,85,85,Casilla Cortés,Francisco,Real Madrid,32.5,32,45.0,25.0,24.0,13.0,23.0,30.0,49.5,RMD,FraCasRMD
-86,86,86,Cazorla González,Santiago,Villarreal CF,62.333333333333336,34,72.16666666666667,79.5,85.5,83.0,87.0,87.33333333333333,55.166666666666664,VIL,SanCazVIL
-87,87,87,Ceballos Fernández,Daniel,Real Madrid,69.5,22,76.5,61.0,78.5,63.5,55.0,80.5,60.0,RMD,DanCebRMD
-88,88,88,Centelles Plaza,Alejandro,Valencia CF,60.0,19,59.0,41.0,70.0,42.0,48.0,68.0,70.0,VAL,AleCenVAL
-89,89,89,Chagas de Lima,Paulo Henrique,Amiens SC,33.0,29,56.0,76.0,80.0,76.0,76.0,82.0,30.0,Amiens SC,PauChaAmi
-90,90,90,Chagas de Lima,Paulo Henrique,Sevilla FC,33.0,29,56.0,76.0,80.0,76.0,76.0,82.0,30.0,SEV,PauChaSEV
-91,91,91,Cheryshev,Denis,Valencia CF,77.0,28,62.0,61.0,68.0,84.5,64.0,72.0,79.5,VAL,DenCheVAL
-92,92,92,Chichizola,Leandro,Getafe CF,49.0,28,15.0,14.0,13.0,17.0,25.0,14.0,54.0,GET,LeaChiGET
-93,93,93,Cillessen,Jasper,FC Barcelona,54.5,29,25.0,10.0,33.0,15.0,21.0,47.0,50.0,BAR,JasCilBAR
-94,94,94,Comesaña Veiga,Santiago,Rayo Vallecano,58.0,22,59.0,47.0,63.0,75.0,39.0,73.0,57.0,RV,SanComRV
-95,95,95,Concha Salas,David,Real Sociedad,68.0,22,32.0,52.0,64.0,66.0,72.0,62.0,66.0,RSO,DavConRSO
-96,96,96,Coquelin,Francis,Valencia CF,70.0,27,91.5,41.0,74.5,57.0,52.0,77.5,72.5,VAL,FraCoqVAL
-97,97,97,Correa,Ángel,Atlético Madrid,83.5,23,41.0,65.0,65.0,83.5,55.0,73.5,78.0,ATL,ÁngCorATL
-98,98,98,Correia Pinto,Luis Carlos,SD Huesca,72.0,33,83.0,59.0,68.0,53.0,51.0,75.0,67.0,HUE,LuiCorHUE
-99,99,99,Costa Jordá,Jaume Vicent,Villarreal CF,78.0,30,85.0,59.0,65.0,62.0,56.0,79.0,81.0,VIL,JauCosVIL
-100,100,100,Costa Ventura,Robert,RC Celta,44.0,24,51.0,31.0,56.0,28.0,43.0,62.0,50.0,CEL,RobCosCEL
-101,101,101,Costas Cordal,David,RC Celta,68.0,23,64.0,59.0,62.0,44.0,50.0,70.0,67.0,CEL,DavCosCEL
-102,102,102,Cotán Pérez,Antonio Jesús,R. Valladolid CF,64.0,23,58.0,42.0,70.0,68.0,65.0,73.0,60.0,VLD,AntCotVLD
-103,103,103,Courtois,Thibaut,Real Madrid,46.5,26,23.0,20.0,35.0,17.0,27.0,33.0,52.5,RMD,ThiCouRMD
-104,104,104,Coutinho Correia,Philippe,FC Barcelona,90.0,26,55.666666666666664,87.0,81.33333333333333,94.0,70.33333333333333,89.0,75.33333333333333,BAR,PhiCouBAR
-105,105,105,Cucurella Saseta,Marc,FC Barcelona,82.0,20,70.0,48.0,61.0,40.0,39.0,68.0,85.0,BAR,MarCucBAR
-106,106,106,Cucurella Saseta,Marc,SD Eibar,82.66666666666667,20,75.33333333333333,53.333333333333336,67.66666666666667,44.666666666666664,43.666666666666664,76.0,86.33333333333333,EIB,MarCucEIB
-107,107,107,Cuéllar Sacristán,Iván,CD Leganés,59.0,34,28.0,20.0,28.0,12.0,25.0,23.0,43.0,LGN,IváCuéLGN
-108,108,108,Cáseres,Santiago,Villarreal CF,67.0,21,58.0,39.0,65.0,58.0,50.0,71.0,70.0,VIL,SanCásVIL
-109,109,109,Córdoba Kerejeta,Iñigo,Athletic Club,85.0,21,68.0,38.0,65.0,73.0,71.0,75.0,82.0,ATH,IñiCórATH
-110,110,110,Darder Moll,Sergi,RCD Espanyol,58.0,25,71.0,58.0,81.0,69.0,55.0,84.0,45.0,ESP,SerDarESP
-111,111,111,De Blasis,Pablo,SD Eibar,81.0,30,74.0,62.0,66.0,72.0,79.0,74.0,75.0,EIB,PabDe EIB
-112,112,112,De Marcos Arana,Oscar,Athletic Club,79.5,29,78.0,54.5,71.0,59.0,58.0,77.5,90.0,ATH,OscDe ATH
-113,113,113,Delgado López,Moisés,R. Valladolid CF,69.0,24,62.0,48.0,55.0,30.0,36.0,60.0,71.0,VLD,MoiDelVLD
-114,114,114,Dembélé,Ousmane,FC Barcelona,92.25,21,55.0,65.5,71.5,67.5,76.75,78.25,88.5,BAR,OusDemBAR
-115,115,115,Diakhaby,Mouctar,Valencia CF,57.0,22,76.0,26.0,52.5,29.0,49.5,68.5,59.5,VAL,MouDiaVAL
-116,116,116,Dias Correia,Tiago Manuel,Rayo Vallecano,76.0,28,72.0,73.0,69.0,70.0,65.0,71.0,91.0,RV,TiaDiaRV
-117,117,117,Dias Correia,Tiago Manuel,SD Eibar,76.0,28,72.0,73.0,69.0,70.0,65.0,71.0,91.0,EIB,TiaDiaEIB
-118,118,118,Dias De Oliveira,Charles,SD Eibar,67.33333333333333,34,67.33333333333333,55.666666666666664,54.666666666666664,79.33333333333333,62.333333333333336,71.33333333333333,61.666666666666664,EIB,ChaDiaEIB
-119,119,119,Diop,Papakouli,SD Eibar,50.0,32,89.0,69.0,72.0,71.0,61.0,74.0,54.0,EIB,PapDioEIB
-120,120,120,Diéguez Grande,Adrián,D. Alavés,62.0,22,61.0,32.0,39.0,27.0,41.0,60.0,62.0,ALA,AdrDiéALA
-121,121,121,Djené,Dakonam,Getafe CF,76.0,27,81.0,48.0,54.0,27.0,41.0,72.0,75.0,GET,DakDjeGET
-122,122,122,Dmitrović,Marko,SD Eibar,39.0,26,20.0,9.0,40.0,17.0,9.0,40.0,35.0,EIB,MarDmiEIB
-123,123,123,Domenech Sánchez,Jaume,Valencia CF,58.0,28,21.0,13.0,32.0,12.0,25.0,32.0,58.0,VAL,JauDomVAL
-124,124,124,Dorado Ramírez,José Antonio,Rayo Vallecano,34.0,36,69.0,21.0,61.0,19.0,31.0,72.0,34.0,RV,JosDorRV
-125,125,125,Dos Santos,Mauro,CD Leganés,56.0,29,79.0,43.0,56.0,33.0,46.0,66.0,59.0,LGN,MauDosLGN
-126,126,126,Dos Santos Ferreira,Alejandro,Atlético Madrid,22.0,20,22.0,12.0,18.0,10.0,15.0,16.0,21.0,ATL,AleDosATL
-127,127,127,Doukouré,Cheick,Levante UD,76.0,26,77.0,66.0,68.0,66.0,59.0,72.0,74.0,LEV,CheDouLEV
-128,128,128,Doumbia,Seydou,Girona FC,88.0,31,63.0,72.0,65.5,71.5,84.0,73.0,92.5,GIR,SeyDouGIR
-129,129,129,Duarte,Óscar,RCD Espanyol,55.0,29,74.0,32.0,55.0,24.0,37.0,70.0,66.0,ESP,ÓscDuaESP
-130,130,130,Duarte Sánchez,Rubén,D. Alavés,68.0,23,70.0,60.0,55.0,30.0,40.0,77.0,69.0,ALA,RubDuaALA
-131,131,131,Dwamena,Raphael,Levante UD,76.0,23,47.0,42.0,41.0,67.0,66.0,58.0,82.0,LEV,RapDwaLEV
-132,132,132,Díaz Mejía,Mariano,Real Madrid,84.0,25,86.33333333333333,76.33333333333333,51.0,82.33333333333333,75.0,69.33333333333333,85.33333333333333,RMD,MarDíaRMD
-133,133,133,Eckert,Dennis,RC Celta,58.0,22,25.0,50.0,37.0,60.0,59.0,59.0,48.0,CEL,DenEckCEL
-134,134,134,El Haddadi,Munir,FC Barcelona,78.0,23,38.0,67.0,58.0,77.0,66.0,77.5,80.5,BAR,MunEl BAR
-135,135,135,El Zhar,Nabil,CD Leganés,76.0,32,58.0,58.0,64.0,71.0,72.0,77.0,68.0,LGN,NabEl LGN
-136,136,136,Elustondo,Aritz,Real Sociedad,67.0,24,77.0,41.0,43.0,40.0,43.0,72.0,71.0,RSO,AriEluRSO
-137,137,137,Elustondo Urkola,Gorka,Rayo Vallecano,49.0,31,88.0,80.0,73.0,74.0,67.0,76.0,61.0,RV,GorEluRV
-138,138,138,Ely,Rodrigo,D. Alavés,63.0,25,75.0,18.0,54.0,38.0,35.0,62.0,69.0,ALA,RodElyALA
-139,139,139,Embarba Blazquez,Adrián,Rayo Vallecano,76.0,26,56.0,65.0,76.0,68.0,55.0,78.0,79.0,RV,AdrEmbRV
-140,140,140,En-Nesyri,Youssef,CD Leganés,75.0,21,37.0,47.0,46.0,68.0,59.0,63.0,77.0,LGN,YouEn-LGN
-141,141,141,Enrich Ametller,Sergi,SD Eibar,60.0,28,66.0,47.0,61.0,70.0,63.0,79.0,65.0,EIB,SerEnrEIB
-142,142,142,Eraso Goñi,Javier,CD Leganés,59.0,28,82.0,59.0,79.0,75.0,53.0,80.0,59.0,LGN,JavEraLGN
-143,143,143,Escalante,Gonzalo,SD Eibar,71.0,25,85.0,52.0,74.0,58.0,64.0,76.0,72.0,EIB,GonEscEIB
-144,144,144,Escudero Palomo,Sergio,Sevilla FC,72.0,29,75.0,69.0,77.0,63.0,66.0,77.0,77.0,SEV,SerEscSEV
-145,145,145,Espinosa,Bernardo,Girona FC,43.0,29,79.0,42.0,61.0,42.0,52.0,74.0,51.0,GIR,BerEspGIR
-146,146,146,Espinosa González,Javier,Levante UD,72.0,26,49.0,72.0,69.0,68.0,66.0,77.0,64.0,LEV,JavEspLEV
-147,147,147,Etxebarria Urkiaga,Beñat,Athletic Club,64.0,31,78.0,84.0,82.0,76.0,69.0,81.0,41.0,ATH,BeñEtxATH
-148,148,148,Etxeita Gorritxat.,Xabier,SD Huesca,37.0,31,83.0,43.0,54.0,34.0,30.0,63.0,53.0,HUE,XabEtxHUE
-149,149,149,Ezkieta Mendiburu,Jokin,FC Barcelona,41.0,22,25.0,19.0,27.0,14.0,24.0,28.0,49.0,BAR,JokEzkBAR
-150,150,150,Feddal,Zouhair,Real Betis,51.0,29,82.0,38.0,68.0,56.0,48.0,76.0,62.0,BET,ZouFedBET
-151,151,151,Fernández,Aitor,Levante UD,58.0,27,15.0,14.0,22.0,12.0,24.0,21.0,53.0,LEV,AitFerLEV
-152,152,152,Fernández Fernández,Borja,R. Valladolid CF,33.0,38,80.0,68.0,68.0,69.0,63.0,71.0,33.0,VLD,BorFerVLD
-153,153,153,Fernández Iglesias,José Ignacio,Real Madrid,70.66666666666667,29,78.66666666666667,37.666666666666664,62.333333333333336,29.0,46.666666666666664,82.33333333333333,79.33333333333333,RMD,JosFerRMD
-154,154,154,Fernández Luna,Carlos,RC Deportivo,60.666666666666664,22,67.33333333333333,25.0,45.0,76.33333333333333,78.33333333333333,64.0,69.33333333333333,RC Deportivo,CarFerRC 
-155,155,155,Fernández Luna,Carlos,Sevilla FC,56.0,22,64.0,23.0,41.0,71.0,73.0,58.0,64.0,SEV,CarFerSEV
-156,156,156,Fernández Moreno,Andrés Eduardo,Villarreal CF,58.0,32,40.0,12.0,40.0,12.0,21.0,35.0,55.0,VIL,AndFerVIL
-157,157,157,Ferreiro Quiroga,David,SD Huesca,92.0,30,74.0,74.0,71.0,75.0,69.0,70.0,90.0,HUE,DavFerHUE
-158,158,158,Firpo,Junior,Real Betis,75.0,22,57.0,45.0,73.5,65.0,40.5,75.5,71.5,BET,JunFirBET
-159,159,159,Fornals Malla,Pablo,Villarreal CF,69.5,22,70.0,61.5,82.0,83.5,48.0,86.0,68.5,VIL,PabForVIL
-160,160,160,Foulquier,Dimitri,Getafe CF,66.0,25,67.0,40.0,59.0,49.0,49.0,67.0,75.0,GET,DimFouGET
-161,161,161,Franco Alviz,Jorge,D. Alavés,74.0,25,35.0,64.0,63.0,66.0,59.0,74.0,78.0,ALA,JorFraALA
-162,162,162,Fuego Martínez,Javier,Villarreal CF,57.0,35,83.0,62.0,72.0,64.0,60.0,78.0,42.0,VIL,JavFueVIL
-163,163,163,Funes Mori,Ramiro,Villarreal CF,61.0,27,83.0,58.0,55.0,56.0,52.0,67.0,68.0,VIL,RamFunVIL
-164,164,164,Gallar Falguero,Álejandro,SD Huesca,70.0,26,42.0,80.0,70.0,71.0,74.0,71.0,68.0,HUE,ÁleGalHUE
-165,165,165,Gameiro,Kévin,Valencia CF,88.0,31,67.33333333333333,71.0,73.0,76.0,86.66666666666667,80.66666666666667,87.0,VAL,KévGamVAL
-166,166,166,Ganchinho Guedes,Gonçalo Manuel,Valencia CF,87.0,22,67.0,70.0,68.0,80.5,69.0,78.5,89.5,VAL,GonGanVAL
-167,167,167,Ganea,Cristian,Athletic Club,77.0,26,73.0,76.0,62.0,69.0,38.0,62.0,78.0,ATH,CriGanATH
-168,168,168,Garay,Ezequiel,Valencia CF,34.0,32,77.0,74.5,72.5,64.5,69.5,69.5,36.5,VAL,EzeGarVAL
-169,169,169,García,Luís,Sevilla FC,51.0,20,28.0,13.0,38.0,20.0,20.0,30.0,55.0,SEV,LuíGarSEV
-170,170,170,García Aranda,Antonio,Levante UD,82.0,29,56.0,59.0,66.0,61.0,62.0,73.0,84.0,LEV,AntGarLEV
-171,171,171,García Cabrera,Alberto,Rayo Vallecano,62.0,33,34.0,20.0,27.0,11.0,21.0,29.0,63.0,RV,AlbGarRV
-172,172,172,García Carnero,Raúl,CD Leganés,70.0,29,74.0,73.0,68.0,64.0,64.0,72.0,71.0,LGN,RaúGarLGN
-173,173,173,García Carrillo,Daniel,Athletic Club,53.0,28,88.0,57.0,81.0,58.0,58.0,86.0,35.0,ATH,DanGarATH
-174,174,174,García Escudero,Raúl,Athletic Club,47.0,32,84.0,68.0,79.0,83.0,76.0,81.0,57.0,ATH,RaúGarATH
-175,175,175,García Fernández,Fran. Javier,Real Betis,62.0,31,86.0,44.0,77.0,54.0,61.0,82.0,62.0,BET,FraGarBET
-176,176,176,García Freire,Borja,Girona FC,81.0,28,52.0,54.0,80.0,78.0,62.0,82.0,77.0,GIR,BorGarGIR
-177,177,177,García Martínez,Enrique,SD Eibar,65.0,29,71.0,46.0,49.0,78.0,70.0,77.0,71.0,EIB,EnrGarEIB
-178,178,178,García Quintela,Óscar Francisco,Atlético Madrid,73.0,22,39.0,44.0,63.0,70.0,47.0,68.0,70.0,ATL,ÓscGarATL
-179,179,179,García Rivera,Álvaro,Rayo Vallecano,92.0,26,33.0,50.0,60.0,63.0,55.0,68.0,93.0,RV,ÁlvGarRV
-180,180,180,García Serrano,Aleix,Girona FC,66.0,21,54.0,62.0,74.0,58.0,54.0,78.0,60.0,GIR,AleGarGIR
-181,181,181,García Sánchez,Manuel,D. Alavés,46.0,32,90.0,54.0,73.0,53.0,71.0,77.0,61.0,ALA,ManGarALA
-182,182,182,García Sánchez,Samuel,Levante UD,71.0,28,48.0,48.0,67.0,64.0,63.0,72.0,73.0,LEV,SamGarLEV
-183,183,183,García de la Fuente,Sergio,RCD Espanyol,70.0,35,61.0,64.0,72.0,74.0,80.0,76.0,69.0,ESP,SerGarESP
-184,184,184,Gayà Peña,José Luís,Valencia CF,86.0,23,72.5,49.0,75.0,59.0,52.0,81.5,87.5,VAL,JosGayVAL
-185,185,185,Gil,Ignacio,Elche CF,78.0,23,50.0,62.0,68.0,65.0,59.0,72.0,75.0,Elche CF,IgnGilElc
-186,186,186,Gil,Ignacio,Valencia CF,78.0,23,50.0,62.0,68.0,65.0,59.0,72.0,75.0,VAL,IgnGilVAL
-187,187,187,Giménez,José María,Atlético Madrid,66.0,23,89.5,44.0,58.5,48.5,38.0,68.5,70.5,ATL,JosGimATL
-188,188,188,Gnagnon,Joris,Sevilla FC,66.0,22,76.0,28.0,47.0,27.0,47.0,65.0,66.0,SEV,JorGnaSEV
-189,189,189,Godín,Diego,Atlético Madrid,69.25,32,88.75,51.5,71.25,43.5,51.25,80.25,69.25,ATL,DieGodATL
-190,190,190,Gomes Pereira,Edinaldo,RCD Espanyol,43.0,30,72.0,41.0,60.0,41.0,43.0,65.0,49.0,ESP,EdiGomESP
-191,191,191,Gonalons,Maxime,Sevilla FC,65.0,29,83.0,57.0,74.0,59.0,68.0,74.0,55.0,SEV,MaxGonSEV
-192,192,192,Gontán Gallardo,Sergio,R. Valladolid CF,75.0,27,54.0,69.0,73.0,68.0,66.0,75.0,71.0,VLD,SerGonVLD
-193,193,193,González Cabrera,Bruno,Getafe CF,32.0,28,81.0,31.0,68.0,22.0,42.0,73.0,35.0,GET,BruGonGET
-194,194,194,González Gutiérrez,Mario,Villarreal CF,68.0,22,39.0,38.0,41.0,56.0,39.0,61.0,70.0,VIL,MarGonVIL
-195,195,195,González Pérez,Cristo,Real Madrid,73.0,21,52.0,50.0,60.0,63.0,54.0,64.0,70.0,RMD,CriGonRMD
-196,196,196,González Soberón,Álvaro,Villarreal CF,73.0,29,90.5,47.5,60.5,26.5,37.0,73.0,74.5,VIL,ÁlvGonVIL
-197,197,197,González Tomás,Borja,D. Alavés,52.0,26,61.0,46.0,54.0,72.0,72.0,68.0,62.0,ALA,BorGonALA
-198,198,198,Gracia Gallardo,Julio,Real Betis,53.0,20,52.0,39.0,61.0,58.0,37.0,65.0,56.0,BET,JulGraBET
-199,199,199,Granell Nogué,Àlex,Girona FC,65.0,30,73.0,76.0,79.0,81.0,68.0,83.0,60.0,GIR,ÀleGraGIR
-200,200,200,Granero Molina,Esteban,RCD Espanyol,55.0,31,72.0,76.0,82.0,78.0,73.0,83.0,50.0,ESP,EstGraESP
-201,201,201,Griezmann,Antoine,Atlético Madrid,89.85714285714286,27,70.42857142857143,77.0,77.0,82.85714285714286,74.85714285714286,83.71428571428571,86.14285714285714,ATL,AntGriATL
-202,202,202,Guardado,Andrés,Real Betis,74.0,32,72.0,81.0,83.0,72.0,70.0,85.0,73.0,BET,AndGuaBET
-203,203,203,Guardiola Navarro,Sergio,Getafe CF,61.0,27,67.0,43.0,41.0,77.0,71.0,72.0,61.0,GET,SerGuaGET
-204,204,204,Guerra Rodríguez,Javier,Rayo Vallecano,58.0,36,59.0,50.0,57.0,67.0,80.0,63.0,64.0,RV,JavGueRV
-205,205,205,Guerrero Martín,Francisco,Real Betis,77.0,22,55.0,52.0,74.0,42.0,53.0,72.0,82.0,BET,FraGueBET
-206,206,206,Guidetti,John,D. Alavés,65.0,26,75.0,80.0,53.0,81.0,81.0,75.0,65.0,ALA,JohGuiALA
-207,207,207,Guitián Ceballos,Alberto,R. Valladolid CF,64.0,28,71.0,34.0,64.0,37.0,30.0,70.0,66.0,VLD,AlbGuiVLD
-208,208,208,Guitián Ceballos,Alberto,R. Zaragoza,64.0,28,71.0,34.0,64.0,37.0,30.0,70.0,66.0,R. Zaragoza,AlbGuiR. 
-209,209,209,Gumbau Garriga,Gerard,CD Leganés,34.0,24,60.0,62.0,79.0,73.0,50.0,81.0,29.0,LGN,GerGumLGN
-210,210,210,Guridi Aldalur,Jon,Real Sociedad,57.0,23,38.0,45.0,69.0,62.0,43.0,73.0,62.0,RSO,JonGurRSO
-211,211,211,Gómez,Maximiliano,RC Celta,61.0,22,65.0,53.0,58.0,76.0,67.0,76.0,65.0,CEL,MaxGómCEL
-212,212,212,Gómez Bordonado,Moisés,SD Huesca,72.0,24,52.0,59.0,69.0,69.0,59.0,79.0,68.0,HUE,MoiGómHUE
-213,213,213,Gómez Campaña,José,Levante UD,65.0,25,66.0,78.0,81.0,76.0,69.0,82.0,61.0,LEV,JosGómLEV
-214,214,214,Gómez Hermoso,Enrique,Rayo Vallecano,67.0,28,53.0,33.0,35.0,30.0,46.0,40.0,54.0,RV,EnrGómRV
-215,215,215,Gómez Pérez,Ibai,D. Alavés,76.0,29,63.0,81.0,78.0,78.0,65.0,76.0,74.0,ALA,IbaGómALA
-216,216,216,Gómez Solà,Sergi,Sevilla FC,43.0,26,69.0,46.0,77.0,47.0,41.0,80.0,34.0,SEV,SerGómSEV
-217,217,217,Gürler,Serdar,SD Huesca,89.0,27,33.0,60.0,59.0,62.0,52.0,70.0,85.0,HUE,SerGürHUE
-218,218,218,Hermoso Canseco,Mario,RCD Espanyol,78.0,23,73.0,55.0,58.0,32.0,45.0,64.0,88.0,ESP,MarHerESP
-219,219,219,Hernández,Juan Camilo,SD Huesca,88.0,19,40.0,68.0,59.0,74.0,54.0,67.0,83.0,HUE,JuaHerHUE
-220,220,220,Hernández,Lucas,Atlético Madrid,80.33333333333333,22,83.0,28.333333333333332,64.0,48.0,34.666666666666664,81.66666666666667,85.0,ATL,LucHerATL
-221,221,221,Hernández,Theo,Real Sociedad,90.0,21,75.0,64.0,52.0,54.0,41.0,76.0,93.0,RSO,TheHerRSO
-222,222,222,Hernández Cascante,Rodrigo,Atlético Madrid,70.5,22,63.0,54.0,79.5,76.5,46.0,81.5,66.0,ATL,RodHerATL
-223,223,223,Hernández Ortega,Héctor,CD Tenerife,77.0,27,76.0,59.0,56.0,41.0,35.0,66.0,77.0,CD Tenerife,HécHerCD 
-224,224,224,Herrero Javaloyas,Miguel Ángel,R. Valladolid CF,61.0,30,64.0,73.0,77.0,72.0,74.0,80.0,59.0,VLD,MigHerVLD
-225,225,225,Herrerín Buisán,Iago,Athletic Club,45.0,30,37.0,12.0,29.0,16.0,25.0,16.0,34.0,ATH,IagHerATH
-226,226,226,Hervías Rubio,Pablo,SD Eibar,80.0,25,42.0,67.0,66.0,64.0,51.0,69.0,78.0,EIB,PabHerEIB
-227,227,227,Hjulsager,Andrew,RC Celta,79.0,24,58.0,55.0,68.0,65.0,53.0,71.0,77.0,CEL,AndHjuCEL
-228,228,228,Ibáñez Castro,Roberto,Getafe CF,76.0,25,52.0,52.0,67.0,65.0,63.0,72.0,75.0,GET,RobIbáGET
-229,229,229,Iglesias Quintas,Borja,RCD Espanyol,59.0,26,42.0,36.0,64.0,75.0,78.0,68.0,65.0,ESP,BorIglESP
-230,230,230,Illarramendi,Asier,Real Sociedad,66.0,28,76.0,68.0,82.0,76.0,50.0,86.0,57.0,RSO,AsiIllRSO
-231,231,231,Insua Blanco,Pablo,SD Huesca,52.0,25,70.0,23.0,62.0,29.0,32.0,74.0,54.0,HUE,PabInsHUE
-232,232,232,Inui,Takashi,Real Betis,88.0,30,49.0,65.0,70.0,77.0,51.0,76.0,77.0,BET,TakInuBET
-233,233,233,Iraizoz Moreno,Gorka,Girona FC,32.0,37,38.0,13.0,20.0,14.0,13.0,29.0,33.0,GIR,GorIraGIR
-234,234,234,Iturraspe Derteano,Ander,Athletic Club,52.0,29,70.0,66.0,78.0,68.0,58.0,81.0,54.0,ATH,AndItuATH
-235,235,235,Januzaj,Adnan,Real Sociedad,82.0,23,43.0,67.0,76.0,73.0,62.5,81.5,78.5,RSO,AdnJanRSO
-236,236,236,Jensen,Mathias,RC Celta,74.0,23,65.0,66.0,75.0,69.0,69.0,76.0,74.0,CEL,MatJenCEL
-237,237,237,Jiménez Gago,Roberto,RCD Espanyol,45.0,32,29.0,14.0,38.0,11.0,19.0,39.0,48.0,ESP,RobJimESP
-238,238,238,Jiménez García,Javier,Valencia CF,53.0,21,69.0,29.0,53.0,28.0,46.0,63.0,51.0,VAL,JavJimVAL
-239,239,239,Jiménez López,Juan Miguel,Real Sociedad,77.0,25,57.0,57.0,53.0,72.0,63.0,75.0,76.0,RSO,JuaJimRSO
-240,240,240,Jordán Moreno,Joan,SD Eibar,67.0,24,63.0,69.0,79.66666666666667,81.33333333333333,64.66666666666667,81.66666666666667,70.66666666666667,EIB,JoaJorEIB
-241,241,241,Jovanović,Aleksandar,SD Huesca,22.0,26,20.0,10.0,15.0,8.0,14.0,22.0,22.0,HUE,AleJovHUE
-242,242,242,Juan Llambrich,Miguel,Villarreal CF,71.0,23,58.0,27.0,49.0,29.0,35.0,63.0,66.0,VIL,MigJuaVIL
-243,243,243,Juncà Reñé,David,RC Celta,81.0,25,75.0,58.0,61.0,46.0,55.0,72.0,77.0,CEL,DavJunCEL
-244,244,244,Kakuta,Gaël,Rayo Vallecano,83.0,27,42.0,78.0,66.0,65.0,51.0,74.0,75.0,RV,GaëKakRV
-245,245,245,Kalinić,Nikola,Atlético Madrid,67.0,31,68.0,54.0,48.0,60.0,70.0,72.5,73.5,ATL,NikKalATL
-246,246,246,Kaptoum,Wilfrid,Real Betis,64.0,22,54.0,39.0,69.0,67.0,50.0,75.0,56.0,BET,WilKapBET
-247,247,247,Kasmirski,Filipe Luís,Atlético Madrid,77.0,33,82.0,75.66666666666667,77.66666666666667,60.333333333333336,66.0,81.33333333333333,76.0,ATL,FilKasATL
-248,248,248,Kjær,Simon,Sevilla FC,56.0,29,75.0,69.0,69.0,41.0,61.0,76.0,65.0,SEV,SimKjæSEV
-249,249,249,Kondogbia,Geoffrey,Valencia CF,70.0,25,86.66666666666667,57.0,82.0,81.33333333333333,45.333333333333336,85.0,77.66666666666667,VAL,GeoKonVAL
-250,250,250,Kroos,Toni,Real Madrid,69.33333333333333,29,60.0,84.0,93.66666666666667,93.0,73.33333333333333,92.66666666666667,66.66666666666667,RMD,TonKroRMD
-251,251,251,Laguardia Cisneros,Víctor,D. Alavés,54.0,29,89.0,35.0,57.0,30.0,32.0,70.0,63.0,ALA,VícLagALA
-252,252,252,Lasso De La Vega,Borja,Sevilla FC,54.0,25,81.0,64.0,69.0,71.0,59.0,71.0,51.0,SEV,BorLasSEV
-253,253,253,Latorre Grueso,Antonio,Valencia CF,82.5,21,67.5,38.0,70.5,53.0,39.0,72.5,81.5,VAL,AntLatVAL
-254,254,254,Layún,Miguel,Villarreal CF,76.0,30,72.0,74.0,74.0,76.0,74.0,76.0,76.0,VIL,MigLayVIL
-255,255,255,Lee,Kangin,Valencia CF,69.0,17,30.0,82.0,71.0,70.0,74.0,65.0,67.0,VAL,KanLeeVAL
-256,256,256,Leiva,Nahuel,Olympiacos CFP,75.0,22,49.0,61.0,62.0,63.0,59.0,68.0,67.0,Olympiacos CFP,NahLeiOly
-257,257,257,Leiva,Nahuel,Villarreal CF,75.0,22,49.0,61.0,62.0,63.0,59.0,68.0,67.0,VIL,NahLeiVIL
-258,258,258,Lekue Martínez,Iñigo,Athletic Club,90.0,25,67.0,56.0,67.0,68.0,53.0,74.0,84.0,ATH,IñiLekATH
-259,259,259,Lemar,Thomas,Atlético Madrid,86.33333333333333,23,63.0,81.0,75.0,76.33333333333333,68.0,84.33333333333333,84.0,ATL,ThoLemATL
-260,260,260,Lenglet,Clément,FC Barcelona,72.0,23,80.5,27.0,69.5,35.5,43.5,78.5,73.5,BAR,CléLenBAR
-261,261,261,León Limones,Sergio,Real Betis,76.0,30,71.0,64.0,34.0,79.0,80.0,72.0,75.0,BET,SerLeóBET
-262,262,262,Llorente Moreno,Marcos,Real Madrid,53.0,23,65.0,51.0,81.5,56.5,53.5,84.5,54.5,RMD,MarLloRMD
-263,263,263,Llorente Ríos,Diego Javier,Real Sociedad,65.0,25,75.0,35.0,72.0,37.0,53.0,76.0,63.0,RSO,DieLloRSO
-264,264,264,Lobotka,Stanislav,RC Celta,70.0,24,57.0,55.0,76.0,65.0,56.0,84.0,63.0,CEL,StaLobCEL
-265,265,265,Longo,Samuele,SD Huesca,74.0,27,80.0,43.0,40.0,67.0,64.0,65.0,77.0,HUE,SamLonHUE
-266,266,266,Lozano,Anthony,Girona FC,76.0,25,61.0,28.0,53.0,69.0,67.0,70.0,79.0,GIR,AntLozGIR
-267,267,267,Lozano Vizuete,Pol,RCD Espanyol,60.0,19,42.0,38.0,58.0,40.0,49.0,64.0,63.0,ESP,PolLozESP
-268,268,268,Luna Rodriguez,Antonio Manuel,Levante UD,71.0,27,82.0,45.0,63.0,55.0,43.0,76.0,72.0,LEV,AntLunLEV
-269,269,269,Lunin,Andriy,CD Leganés,33.0,19,22.0,15.0,26.0,7.0,19.0,25.0,26.0,LGN,AndLunLGN
-270,270,270,López Cabrera,Unai,Athletic Club,74.0,23,72.0,79.0,74.0,71.0,46.0,75.0,72.0,ATH,UnaLópATH
-271,271,271,López Marmol,Lluis,RCD Espanyol,64.0,21,71.0,26.0,58.0,18.0,33.0,62.0,58.0,ESP,LluLópESP
-272,272,272,López Muñoz,Pedro,Levante UD,68.0,35,77.0,56.0,64.0,66.0,58.0,70.0,68.0,LEV,PedLópLEV
-273,273,273,López Rodríguez,Diego,RCD Espanyol,34.0,37,36.0,11.0,23.0,11.0,21.0,28.0,52.0,ESP,DieLópESP
-274,274,274,López Rodríguez,Javier,RCD Espanyol,67.0,32,84.0,52.0,61.0,43.0,56.0,76.0,72.0,ESP,JavLópESP
-275,275,275,López Sabata,Pau,Real Betis,45.0,24,39.0,21.0,41.0,18.0,25.0,38.0,52.0,BET,PauLópBET
-276,276,276,López Silva,David,RCD Espanyol,55.666666666666664,29,78.66666666666667,46.666666666666664,64.66666666666667,66.0,52.0,80.33333333333333,60.333333333333336,ESP,DavLópESP
-277,277,277,López Álvarez,Iván,R. Valladolid CF,81.0,24,49.0,66.0,65.0,76.0,73.0,71.0,80.0,VLD,IváLópVLD
-278,278,278,Machín Pérez,Víctor,Atlético Madrid,78.5,29,61.0,62.0,80.5,73.0,74.0,79.5,77.0,ATL,VícMacATL
-279,279,279,Maksimović,Nemanja,Getafe CF,62.0,23,59.0,72.0,77.0,69.0,50.0,79.0,65.0,GET,NemMakGET
-280,280,280,Mallo Novegil,Hugo,RC Celta,71.0,27,76.0,38.0,68.0,39.0,23.0,71.0,71.0,CEL,HugMalCEL
-281,281,281,Mandi,Aïssa,Real Betis,65.0,27,69.0,49.0,73.0,49.0,35.0,78.0,66.0,BET,AïsManBET
-282,282,282,Maripán,Guillermo,D. Alavés,45.0,24,75.0,27.0,51.0,24.0,20.0,66.0,48.0,ALA,GuiMarALA
-283,283,283,Martins Carriço,Daniel Filipe,Sevilla FC,47.0,30,85.0,54.0,75.0,50.0,62.0,74.0,54.0,SEV,DanMarSEV
-284,284,284,Martí Salvador,Roger,Levante UD,78.0,28,65.0,46.0,48.0,72.0,78.0,71.0,79.0,LEV,RogMarLEV
-285,285,285,Martín Vigaray,Carlos,D. Alavés,74.0,24,67.0,45.0,48.0,39.0,45.0,65.0,69.0,ALA,CarMarALA
-286,286,286,Martínez Berridi,Iñigo,Athletic Club,71.0,27,84.0,51.0,81.0,74.0,39.0,71.0,74.0,ATH,IñiMarATH
-287,287,287,Martínez García,José Ignacio,R. Valladolid CF,80.0,29,75.0,58.0,67.0,64.0,40.0,63.0,88.0,VLD,JosMarVLD
-288,288,288,Marín Gómez,Adrián,D. Alavés,68.0,22,69.0,35.0,56.0,42.0,38.0,73.0,72.0,ALA,AdrMarALA
-289,289,289,Masip López,Jordi,R. Valladolid CF,57.0,30,21.0,20.0,38.0,13.0,12.0,42.0,64.0,VLD,JorMasVLD
-290,290,290,Mata Arnaiz,Jaime,Getafe CF,72.0,30,73.0,48.0,49.0,71.0,70.0,61.0,76.0,GET,JaiMatGET
-291,291,291,Mayoral Moya,Borja,Levante UD,68.0,21,27.0,57.0,43.0,70.0,69.0,69.0,72.0,LEV,BorMayLEV
-292,292,292,Mayoral Moya,Borja,Real Madrid,68.0,21,27.0,57.0,43.0,70.0,69.0,69.5,72.5,RMD,BorMayRMD
-293,293,293,Mazáň,Robert,RC Celta,54.0,24,72.0,39.0,66.0,42.0,63.0,72.0,55.0,CEL,RobMazCEL
-294,294,294,Medrán Just,Álvaro,Rayo Vallecano,60.0,24,45.0,76.0,80.0,80.0,80.0,81.0,63.0,RV,ÁlvMedRV
-295,295,295,Melendo Jiménez,Óscar,RCD Espanyol,60.0,21,57.0,35.0,77.0,60.0,37.0,79.0,65.0,ESP,ÓscMelESP
-296,296,296,Melero Manzanares,Gonzalo,SD Huesca,59.0,25,58.0,67.0,74.0,73.0,58.0,77.0,63.0,HUE,GonMelHUE
-297,297,297,Mena Rodríguez,José,Sevilla FC,64.0,20,55.0,55.0,66.0,40.0,53.0,65.0,59.0,SEV,JosMenSEV
-298,298,298,Mercado,Gabriel,Sevilla FC,75.0,31,81.0,54.0,65.0,58.0,49.0,71.0,75.0,SEV,GabMerSEV
-299,299,299,Merino Zazón,Mikel,Real Sociedad,61.0,22,73.0,69.0,74.0,67.0,58.0,78.0,62.0,RSO,MikMerRSO
-300,300,300,Merino Zuloaga,Sabin,Athletic Club,69.0,27,60.0,66.0,62.0,71.0,69.0,71.0,78.0,ATH,SabMerATH
-301,301,301,Merino Zuloaga,Sabin,CD Leganés,69.0,27,60.0,66.0,62.0,71.0,69.0,71.0,78.0,LGN,SabMerLGN
-302,302,302,Mesa Quevedo,Roque,Sevilla FC,74.0,29,89.0,48.0,77.0,54.0,42.0,82.0,75.0,SEV,RoqMesSEV
-303,303,303,Mesa Visiga,Rubén,Villarreal CF,62.0,27,68.0,43.0,35.0,64.0,73.0,57.0,52.0,VIL,RubMesVIL
-304,304,304,Messi,Lionel,FC Barcelona,93.33333333333333,31,52.333333333333336,96.66666666666667,89.66666666666667,95.83333333333333,76.33333333333333,93.33333333333333,87.66666666666667,BAR,LioMesBAR
-305,305,305,Milla Peña,Pere,SD Eibar,78.0,26,45.0,58.0,60.0,70.0,62.0,67.0,76.0,EIB,PerMilEIB
-306,306,306,Mina Lorenzo,Santiago,Valencia CF,78.0,23,70.0,56.5,66.5,76.0,63.5,71.25,82.75,VAL,SanMinVAL
-307,307,307,Miquel i Pons,Ignasi,Getafe CF,64.0,26,75.0,24.0,58.0,21.0,43.0,69.0,66.0,GET,IgnMiqGET
-308,308,308,Miramón,Jorge,SD Huesca,73.0,29,52.0,64.0,70.0,53.0,65.0,73.0,71.0,HUE,JorMirHUE
-309,309,309,Miranda González,Juan,FC Barcelona,65.0,19,57.0,37.0,56.0,37.0,44.0,63.0,69.0,BAR,JuaMirBAR
-310,310,310,Modrić,Luka,Real Madrid,85.0,33,69.0,80.33333333333333,90.66666666666667,88.0,88.0,95.33333333333333,76.33333333333333,RMD,LukModRMD
-311,311,311,Mohamed Tuhami,Anuar,R. Valladolid CF,73.0,24,70.0,42.0,70.0,46.0,51.0,72.0,71.0,VLD,AnuMohVLD
-312,312,312,Mojica,Johan,Girona FC,89.0,26,75.0,68.0,70.0,61.0,67.0,78.0,90.0,GIR,JohMojGIR
-313,313,313,Molina Orta,Daniel,RC Celta,53.0,22,63.0,59.0,69.0,66.0,55.0,72.0,58.0,CEL,DanMolCEL
-314,314,314,Molina Vidal,Jorge,Getafe CF,34.0,36,76.0,59.0,57.0,75.0,80.0,75.0,41.0,GET,JorMolGET
-315,315,315,Montiel Caballero,Jonathan,RC Deportivo,65.0,20,59.0,38.0,69.0,62.0,47.0,67.0,61.0,RC Deportivo,JonMonRC 
-316,316,316,Montiel Caballero,Jonathan,Rayo Vallecano,65.0,20,59.0,38.0,69.0,62.0,47.0,67.0,61.0,RV,JonMonRV
-317,317,317,Montolio Lafuente,Genís,Levante UD,63.0,22,62.0,28.0,58.0,35.0,30.0,70.0,58.0,LEV,GenMonLEV
-318,318,318,Montolio Lafuente,Genís,RCD Espanyol,63.0,22,62.0,28.0,58.0,35.0,30.0,70.0,58.0,ESP,GenMonESP
-319,319,319,Mor,Emre,RC Celta,88.0,21,55.0,38.0,47.0,62.0,49.0,67.0,81.0,CEL,EmrMorCEL
-320,320,320,Morales Nogales,José Luis,Levante UD,88.0,31,58.0,72.0,68.0,80.0,76.0,75.0,87.0,LEV,JosMorLEV
-321,321,321,Moreno,Héctor,Real Sociedad,65.0,31,77.0,28.0,68.0,44.0,63.0,75.0,63.0,RSO,HécMorRSO
-322,322,322,Moreno Balagueró,Gerard,Villarreal CF,78.0,26,56.5,57.5,57.5,78.5,74.5,80.0,81.5,VIL,GerMorVIL
-323,323,323,Moreno Fuertes,Juan Francisco,CD Leganés,74.0,30,68.0,60.0,67.0,80.0,59.0,72.0,79.0,LGN,JuaMorLGN
-324,324,324,Moreno Lopera,Alexandre,Rayo Vallecano,71.0,25,49.0,57.0,64.0,60.0,70.0,72.0,78.0,RV,AleMorRV
-325,325,325,Moreno Machado,Rodrigo,Valencia CF,88.33333333333333,27,60.333333333333336,67.33333333333333,58.333333333333336,79.66666666666667,77.66666666666667,79.0,93.0,VAL,RodMorVAL
-326,326,326,Morlanes Ariño,Manuel,Villarreal CF,74.0,20,57.0,71.0,70.0,59.0,70.0,76.0,64.0,VIL,ManMorVIL
-327,327,327,Morón García,Lorenzo,Real Betis,63.0,25,38.0,53.0,35.0,80.0,77.0,74.0,66.0,BET,LorMorBET
-328,328,328,Moyá Rumbo,Miguel Ángel,Real Sociedad,46.0,34,22.0,12.0,35.0,16.0,11.0,31.0,34.0,RSO,MigMoyRSO
-329,329,329,Muniain Goñi,Iker,Athletic Club,83.0,26,66.0,69.0,65.0,72.0,61.0,75.0,75.0,ATH,IkeMunATH
-330,330,330,Muniesa Martínez,Marc,Girona FC,42.0,26,78.0,40.0,56.0,37.0,50.0,73.0,59.0,GIR,MarMunGIR
-331,331,331,Murara Neto,Norberto,Valencia CF,54.0,29,40.0,13.0,41.0,20.0,22.0,36.0,49.333333333333336,VAL,NorMurVAL
-332,332,332,Muriel,Luis,Fiorentina,86.0,27,50.0,60.0,55.0,65.0,74.0,75.0,90.0,Fiorentina,LuiMurFio
-333,333,333,Muriel,Luis,Sevilla FC,86.0,27,50.0,60.0,55.0,65.0,74.0,75.0,90.0,SEV,LuiMurSEV
-334,334,334,Murillo,Jeison,FC Barcelona,75.0,26,88.0,26.0,62.0,13.0,46.0,69.0,76.0,BAR,JeiMurBAR
-335,335,335,Murillo,Jeison,Valencia CF,75.0,26,88.5,26.0,62.5,13.0,46.5,69.5,76.5,VAL,JeiMurVAL
-336,336,336,Musto,Damián,SD Huesca,42.0,31,78.0,50.0,76.0,67.0,40.0,79.0,49.0,HUE,DamMusHUE
-337,337,337,Muñoz,Ezequiel,CD Leganés,43.0,28,78.0,30.0,55.0,31.0,21.0,60.0,44.0,LGN,EzeMuñLGN
-338,338,338,Méndez Portela,Brais,RC Celta,75.0,22,38.0,60.0,69.66666666666667,76.66666666666667,66.0,79.33333333333333,75.0,CEL,BraMénCEL
-339,339,339,Narváez,Juan José,Real Betis,74.0,23,38.0,42.0,71.0,70.0,59.0,73.0,76.0,BET,JuaNarBET
-340,340,340,Narváez,Juan José,UD Almería,74.0,23,38.0,42.0,71.0,70.0,59.0,73.0,76.0,UD Almería,JuaNarUD 
-341,341,341,Navarro Jiménez,Joaquín,D. Alavés,70.0,28,80.0,42.0,61.0,55.0,48.0,74.0,75.0,ALA,JoaNavALA
-342,342,342,Navas,Keylor,Real Madrid,54.5,32,32.0,15.0,37.0,13.0,25.0,30.0,53.0,RMD,KeyNavRMD
-343,343,343,Navas González,Jesús,Sevilla FC,88.0,33,63.0,46.0,73.0,70.0,56.0,75.0,85.0,SEV,JesNavSEV
-344,344,344,Ndiaye Diedhiou,Amath,Getafe CF,89.0,22,62.0,65.0,60.0,64.0,49.0,72.0,89.0,GET,AmaNdiGET
-345,345,345,Nunes Vezo,Rúben Miguel,Valencia CF,68.5,24,75.5,32.0,66.5,55.5,54.5,69.5,68.5,VAL,RúbNunVAL
-346,346,346,Nyom,Allan,CD Leganés,67.0,30,80.0,30.0,64.0,66.0,37.0,63.0,76.0,LGN,AllNyoLGN
-347,347,347,Núñez Gestoso,Unai,Athletic Club,66.0,21,74.0,22.0,33.0,17.0,31.0,74.0,68.0,ATH,UnaNúñATH
-348,348,348,Oblak,Jan,Atlético Madrid,43.5,26,34.0,14.0,26.0,12.0,11.0,29.0,60.5,ATL,JanOblATL
-349,349,349,Odriozola Arzalluz,Álvaro,Real Madrid,80.0,23,63.0,30.0,70.0,59.5,62.5,77.5,82.5,RMD,ÁlvOdrRMD
-350,350,350,Ojeda Saranova,Daniel,CD Leganés,71.0,24,38.0,43.0,66.0,58.0,72.0,64.0,68.0,LGN,DanOjeLGN
-351,351,351,Olazábal Paredes,Oier,Levante UD,46.333333333333336,29,28.0,15.0,33.0,15.0,25.0,35.0,43.666666666666664,LEV,OieOlaLEV
-352,352,352,Olivas Alba,Francisco José,R. Valladolid CF,36.0,30,71.0,36.0,56.0,36.0,38.0,64.0,39.0,VLD,FraOliVLD
-353,353,353,Omeruo,Kenneth,CD Leganés,67.0,25,76.0,23.0,60.0,31.0,35.0,63.0,75.0,LGN,KenOmeLGN
-354,354,354,Orellana,Fabián,SD Eibar,77.0,32,54.0,79.0,74.0,80.0,75.0,78.0,71.0,EIB,FabOreEIB
-355,355,355,Oyarzabal Ugarte,Mikel,Real Sociedad,71.0,21,40.0,71.0,73.0,79.0,47.0,80.0,74.0,RSO,MikOyaRSO
-356,356,356,Pacheco Antunes,Vitorino,Getafe CF,76.0,31,75.0,80.0,76.0,84.0,61.0,77.0,79.0,GET,VitPacGET
-357,357,357,Pacheco Flores,Fernando,D. Alavés,52.0,26,27.0,20.0,27.0,15.0,23.0,24.0,45.333333333333336,ALA,FerPacALA
-358,358,358,Paik,Seung Ho,Girona FC,67.0,21,52.0,42.0,62.0,64.0,48.0,71.0,68.0,GIR,SeuPaiGIR
-359,359,359,Pardo Gutiérrez,Rubén,Real Sociedad,64.0,26,58.0,73.0,75.0,73.0,69.0,78.0,65.0,RSO,RubParRSO
-360,360,360,Parejo Muñoz,Daniel,Valencia CF,52.5,29,63.666666666666664,91.16666666666667,87.33333333333333,84.16666666666667,85.16666666666667,91.16666666666667,43.666666666666664,VAL,DanParVAL
-361,361,361,Partey,Thomas,Atlético Madrid,73.5,25,76.5,59.5,81.25,77.75,47.5,87.25,77.25,ATL,ThoParATL
-362,362,362,Pascual Santonja,Andrés,Valencia CF,58.0,22,45.0,59.0,59.0,60.0,58.0,59.0,55.0,VAL,AndPasVAL
-363,363,363,Pedraza Sag,Alfonso,Villarreal CF,78.0,22,58.0,57.0,68.0,66.0,64.0,70.0,83.0,VIL,AlfPedVIL
-364,364,364,Pedrosa Loureiro,Daniel,R. Valladolid CF,59.0,22,37.0,43.0,36.0,52.0,60.0,50.0,58.0,VLD,DanPedVLD
-365,365,365,Peña Jiménez,Rubén,SD Eibar,79.0,27,61.0,55.0,56.0,66.0,64.0,78.0,88.0,EIB,RubPeñEIB
-366,366,366,Piatti,Pablo,RCD Espanyol,89.0,29,55.0,58.0,70.0,72.0,64.0,76.0,83.0,ESP,PabPiaESP
-367,367,367,Piccini,Cristiano,Valencia CF,74.0,26,74.0,37.0,59.0,35.0,35.0,73.5,76.5,VAL,CriPicVAL
-368,368,368,Pina Isla,Tomás,D. Alavés,64.66666666666667,31,77.0,62.666666666666664,81.33333333333333,72.66666666666667,63.0,82.33333333333333,58.0,ALA,TomPinALA
-369,369,369,Piqué Bernabeu,Gerard,FC Barcelona,50.2,31,73.0,43.2,81.0,51.6,70.4,82.0,62.0,BAR,GerPiqBAR
-370,370,370,Planas Antolínez,Carles,Girona FC,73.0,27,73.0,50.0,58.0,37.0,51.0,76.0,71.0,GIR,CarPlaGIR
-371,371,371,Plano Pedreño,Óscar,R. Valladolid CF,79.0,27,58.0,68.0,61.0,72.0,66.0,64.0,79.0,VLD,ÓscPlaVLD
-372,372,372,Pons Riera,Pere,Girona FC,68.0,25,75.0,62.0,80.0,64.0,45.0,82.0,67.0,GIR,PerPonGIR
-373,373,373,Portillo Soler,Francisco,Getafe CF,67.0,28,48.0,56.0,75.0,70.0,49.0,78.0,61.0,GET,FraPorGET
-374,374,374,Portugues Manzanera,Cristian,Girona FC,85.0,26,76.0,64.0,78.0,75.0,53.0,83.0,80.0,GIR,CriPorGIR
-375,375,375,Postigo Redondo,Sergio,Levante UD,59.0,30,75.0,26.0,69.0,34.0,45.0,65.0,64.0,LEV,SerPosLEV
-376,376,376,Pozo la Rosa,José Ángel,Rayo Vallecano,74.0,22,39.0,64.0,75.0,74.0,66.0,77.0,72.0,RV,JosPozRV
-377,377,377,Prcić,Sanjin,Levante UD,62.0,25,70.0,73.0,73.0,60.0,63.0,76.0,65.0,LEV,SanPrcLEV
-378,378,378,Puig Martí,Ricard,FC Barcelona,63.0,19,44.0,51.0,74.0,49.0,55.0,76.0,66.0,BAR,RicPuiBAR
-379,379,379,Pulido Mayoral,Jorge,SD Huesca,39.0,27,78.0,38.0,43.0,18.0,47.0,67.0,47.0,HUE,JorPulHUE
-380,380,380,Pérez,Hernán,RCD Espanyol,78.0,29,85.0,62.0,67.0,78.0,48.0,76.0,76.0,ESP,HerPérESP
-381,381,381,Pérez Martínez,Mario Gaspar,Villarreal CF,76.0,28,78.0,54.0,69.0,69.0,50.0,77.0,80.0,VIL,MarPérVIL
-382,382,382,Pérez Mateo,Javier,R. Valladolid CF,52.0,23,41.0,37.0,56.0,60.0,47.0,61.0,60.0,VLD,JavPérVLD
-383,383,383,Pérez del Mármol,Rubén Salvador,CD Leganés,58.0,29,90.33333333333333,61.0,76.33333333333333,75.66666666666667,53.333333333333336,84.0,48.333333333333336,LGN,RubPérLGN
-384,384,384,Raba Antolin,Daniel,Villarreal CF,75.0,23,50.0,42.0,74.0,60.0,49.0,76.0,72.0,VIL,DanRabVIL
-385,385,385,Radoja,Nemanja,RC Celta,52.0,25,74.0,36.0,78.0,71.0,42.0,77.0,38.0,CEL,NemRadCEL
-386,386,386,Rakitić,Ivan,FC Barcelona,67.33333333333333,30,67.0,84.0,90.66666666666667,90.66666666666667,82.0,87.66666666666667,59.666666666666664,BAR,IvaRakBAR
-387,387,387,Ramalho Chimeno,Jonás,Girona FC,67.0,25,76.0,34.0,52.0,34.0,41.0,69.0,74.0,GIR,JonRamGIR
-388,388,388,Ramis Barrios,Iván,SD Eibar,34.0,34,84.0,77.0,72.0,65.0,65.0,72.0,35.0,EIB,IváRamEIB
-389,389,389,Ramos García,Sergio,Real Madrid,79.66666666666667,32,88.33333333333333,72.33333333333333,78.33333333333333,59.666666666666664,74.33333333333333,84.66666666666667,78.66666666666667,RMD,SerRamRMD
-390,390,390,Ramos Oliveira Melo,Arthur Henrique,FC Barcelona,70.8,22,76.0,62.6,83.8,77.8,72.0,88.8,73.6,BAR,ArtRamBAR
-391,391,391,Ramírez López,Juan Pedro,Girona FC,41.0,27,79.0,35.0,60.0,27.0,37.0,79.0,63.0,GIR,JuaRamGIR
-392,392,392,Račić,Uroš,Valencia CF,54.0,20,69.0,55.0,72.5,74.5,62.0,75.5,65.5,VAL,UroRačVAL
-393,393,393,Regal Angulo,Antonio Jesús,R. Valladolid CF,89.0,31,72.0,59.0,49.0,47.0,49.0,67.0,80.0,VLD,AntRegVLD
-394,394,394,Reguilón Rodríguez,Sergio,Real Madrid,67.0,22,55.0,39.0,25.0,33.0,42.0,54.0,62.0,RMD,SerRegRMD
-395,395,395,Remeseiro Salgueiro,David Jason,Levante UD,81.0,24,48.0,69.0,66.0,71.0,68.0,73.0,79.0,LEV,DavRemLEV
-396,396,396,Remiro Gargallo,Alejandro,Athletic Club,40.0,23,34.0,17.0,25.0,11.0,24.0,29.0,46.0,ATH,AleRemATH
-397,397,397,Resurrección,Jorge,Atlético Madrid,78.33333333333333,27,71.0,76.66666666666667,90.33333333333333,81.33333333333333,59.0,91.33333333333333,74.66666666666667,ATL,JorResATL
-398,398,398,Rico Moreno,Mikel,Athletic Club,56.0,34,72.0,63.0,76.0,64.0,60.0,75.0,39.0,ATH,MikRicATH
-399,399,399,Riera Canadell,Roger,Villarreal CF,40.0,23,59.0,28.0,39.0,26.0,43.0,48.0,54.0,VIL,RogRieVIL
-400,400,400,Riesgo Unamuno,Asier,SD Eibar,54.0,35,34.0,15.0,33.0,12.0,13.0,32.0,55.0,EIB,AsiRieEIB
-401,401,401,Rivero Sabater,Cristian,Valencia CF,20.0,20,27.0,14.0,23.0,8.0,18.0,22.0,29.0,VAL,CriRivVAL
-402,402,402,Roberto Carnicer,Sergio,FC Barcelona,77.0,26,68.0,60.0,77.0,66.5,57.0,86.5,78.5,BAR,SerRobBAR
-403,403,403,Roberts,Patrick,Girona FC,79.0,21,38.0,49.0,65.0,67.0,62.0,73.0,74.0,GIR,PatRobGIR
-404,404,404,Robles Blázquez,Joel,Real Betis,46.0,28,23.0,20.0,26.0,11.0,15.0,15.0,50.0,BET,JoeRobBET
-405,405,405,Roca Junqué,Marc,RCD Espanyol,54.0,22,69.0,52.0,74.0,65.0,55.0,80.0,55.0,ESP,MarRocESP
-406,406,406,Rochina Naixes,Rubén,Levante UD,74.0,27,65.0,72.0,69.0,80.0,69.0,74.0,72.0,LEV,RubRocLEV
-407,407,407,Rodrigues,Kévin Manuel,Real Sociedad,73.0,24,55.0,51.0,66.0,50.0,50.0,78.0,73.0,RSO,KévRodRSO
-408,408,408,Rodrigues Oliveira,Paulo André,SD Eibar,66.0,28,71.0,29.0,49.0,29.0,45.0,75.0,70.0,EIB,PauRodEIB
-409,409,409,Rodríguez Benito,José Manuel,Levante UD,70.0,26,80.0,33.0,67.0,56.0,48.0,67.0,68.0,LEV,JosRodLEV
-410,410,410,Rodríguez Díaz,Ángel Luís,Getafe CF,75.5,31,63.5,51.0,50.0,81.5,70.5,79.5,75.5,GET,ÁngRodGET
-411,411,411,Rodríguez Menéndez,Jonathan,D. Alavés,87.0,27,60.0,76.0,70.0,66.0,59.0,71.0,85.0,ALA,JonRodALA
-412,412,412,Rodríguez Navas,Raúl,Real Sociedad,50.0,30,79.0,65.0,56.0,41.0,46.0,73.0,40.0,RSO,RaúRodRSO
-413,413,413,Rodríguez Oterino,Yoel,R. Valladolid CF,35.0,30,35.0,15.0,35.0,11.0,25.0,31.0,43.0,VLD,YoeRodVLD
-414,414,414,Rodríguez Oterino,Yoel,SD Eibar,35.0,30,35.0,15.0,35.0,11.0,25.0,31.0,43.0,EIB,YoeRodEIB
-415,415,415,Rodríguez Serrano,Genaro,Sevilla FC,67.0,20,67.0,46.0,68.0,44.0,54.0,69.0,67.0,SEV,GenRodSEV
-416,416,416,Rolán,Diego,CD Leganés,74.0,25,64.0,70.0,62.0,63.0,75.0,74.0,78.0,LGN,DieRolLGN
-417,417,417,Román Triguero,Roberto,Rayo Vallecano,68.0,33,69.0,42.0,67.0,36.0,44.0,70.0,69.0,RV,RobRomRV
-418,418,418,Roncaglia,Facundo,RC Celta,61.0,31,74.0,52.0,81.0,73.0,35.0,69.0,67.0,CEL,FacRonCEL
-419,419,419,Ruiz Ojeda,Jorge,Levante UD,52.0,23,30.0,12.0,20.0,15.0,11.0,12.0,52.0,LEV,JorRuiLEV
-420,420,420,Ruiz Ortega,Abel,FC Barcelona,69.0,18,32.0,48.0,42.0,67.0,64.0,65.0,70.0,BAR,AbeRuiBAR
-421,421,421,Ruiz Torre,Víctor,Villarreal CF,55.0,29,82.0,46.0,70.0,38.0,46.0,75.0,59.0,VIL,VícRuiVIL
-422,422,422,Rulli,Gerónimo,Real Sociedad,54.0,26,26.0,20.0,23.0,17.0,24.0,32.0,48.0,RSO,GerRulRSO
-423,423,423,Sabater Tous,Damià,RCD Espanyol,70.0,22,70.0,43.0,65.0,59.0,70.0,67.0,61.0,ESP,DamSabESP
-424,424,424,Sadiku,Armando,Levante UD,66.0,27,58.0,31.0,41.0,64.0,63.0,63.0,72.0,LEV,ArmSadLEV
-425,425,425,Salvador Edú,Ibán,RC Celta,85.0,23,70.0,42.0,53.0,64.0,58.0,64.0,81.0,CEL,IbáSalCEL
-426,426,426,Samper Montañá,Sergi,FC Barcelona,55.0,23,55.0,46.0,76.0,52.0,52.0,80.0,33.0,BAR,SerSamBAR
-427,427,427,San José Domínguez,Mikel,Athletic Club,33.0,29,76.0,44.0,77.0,73.0,51.0,78.0,38.0,ATH,MikSanATH
-428,428,428,Sanabria,Antonio,Real Betis,77.0,22,32.0,64.0,63.0,65.0,69.0,74.0,79.0,BET,AntSanBET
-429,429,429,Sansone,Nicola,Villarreal CF,82.0,27,68.0,69.0,65.0,75.0,66.0,75.0,81.0,VIL,NicSanVIL
-430,430,430,Santamaría Ciprián,Roberto,SD Huesca,48.0,33,36.0,20.0,11.0,12.0,16.0,17.0,46.0,HUE,RobSanHUE
-431,431,431,Santos,Michael,CD Leganés,77.0,25,80.0,62.0,57.0,69.0,70.0,65.0,75.0,LGN,MicSanLGN
-432,432,432,Sarabia García,Pablo,Sevilla FC,73.33333333333333,26,32.666666666666664,74.33333333333333,77.33333333333333,77.0,63.0,85.0,76.0,SEV,PabSarSEV
-433,433,433,Sastre Reus,Lluís,SD Huesca,58.0,32,75.0,72.0,76.0,64.0,57.0,75.0,57.0,HUE,LluSasHUE
-434,434,434,Saveljich,Esteban,Levante UD,42.0,27,72.0,35.0,50.0,27.0,43.0,56.0,59.0,LEV,EstSavLEV
-435,435,435,Saveljich,Esteban,UD Almería,42.0,27,72.0,35.0,50.0,27.0,43.0,56.0,59.0,UD Almería,EstSavUD 
-436,436,436,Savić,Stefan,Atlético Madrid,55.0,28,83.5,28.0,69.5,31.0,37.5,72.5,61.5,ATL,SteSavATL
-437,437,437,Serantes Simón,Jon Ander,CD Leganés,55.0,29,27.0,13.0,39.0,14.0,18.0,21.0,65.0,LGN,JonSerLGN
-438,438,438,Shibasaki,Gaku,Getafe CF,69.0,26,65.0,67.0,79.0,66.0,71.0,81.0,67.0,GET,GakShiGET
-439,439,439,Silva,Jonathan,CD Leganés,83.0,24,82.0,70.0,63.0,69.0,55.0,70.0,75.0,LGN,JonSilLGN
-440,440,440,Silva Coentrão,Fábio Alexandre,Real Madrid,77.5,30,81.5,51.0,69.0,64.5,54.0,77.5,74.0,RMD,FábSilRMD
-441,441,441,Silva Coentrão,Fábio Alexandre,Rio Ave FC,77.0,30,81.0,51.0,69.0,64.0,54.0,77.0,74.0,Rio Ave FC,FábSilRio
-442,442,442,Silva de Carvalho,William,Real Betis,49.0,26,75.0,50.0,86.0,55.0,60.0,84.0,53.0,BET,WilSilBET
-443,443,443,Silva de Oliveira,Malcom Filipe,FC Barcelona,87.33333333333333,21,53.0,81.33333333333333,73.0,85.33333333333333,68.0,83.33333333333333,82.0,BAR,MalSilBAR
-444,444,444,Simon,Moses,Levante UD,93.0,23,38.0,55.0,54.0,68.0,60.0,69.0,92.0,LEV,MosSimLEV
-445,445,445,Simón Mendibil,Unai,Athletic Club,46.0,21,27.0,14.0,21.0,13.0,24.0,29.0,48.0,ATH,UnaSimATH
-446,446,446,Siovas,Dimitrios,CD Leganés,40.0,30,80.0,28.0,70.0,37.0,40.0,70.0,37.0,LGN,DimSioLGN
-447,447,447,Sisniega,Pablo,Real Sociedad,41.0,23,24.0,21.0,46.0,18.0,23.0,33.0,48.0,RSO,PabSisRSO
-448,448,448,Sisto,Pione,RC Celta,81.0,23,52.0,75.0,65.0,72.0,66.0,70.0,81.0,CEL,PioSisCEL
-449,449,449,Sivera Salvá,Antonio,D. Alavés,59.0,22,25.0,12.0,34.0,12.0,24.0,32.0,55.0,ALA,AntSivALA
-450,450,450,Sobrino Pozuelo,Rubén,D. Alavés,79.0,26,65.0,57.0,47.0,74.0,66.0,73.0,85.0,ALA,RubSobALA
-451,451,451,Soler Barragán,Carlos,Valencia CF,75.0,22,49.0,82.5,79.0,73.0,80.5,84.5,77.5,VAL,CarSolVAL
-452,452,452,Soni,Kévin,Girona FC,75.0,20,54.0,48.0,50.0,47.0,53.0,63.0,72.0,GIR,KévSonGIR
-453,453,453,Soria Solís,David,Getafe CF,49.0,25,24.0,11.0,33.0,18.0,23.0,24.0,34.0,GET,DavSorGET
-454,454,454,Soriano Llido,Bruno,Villarreal CF,36.0,34,76.0,77.0,84.0,77.0,75.0,85.0,36.0,VIL,BruSorVIL
-455,455,455,Soriano Oropesa,Juan,Sevilla FC,34.0,21,25.0,24.0,24.0,16.0,28.0,23.0,34.0,SEV,JuaSorSEV
-456,456,456,Stuani,Cristhian,Girona FC,71.0,32,79.4,59.8,68.2,78.2,84.0,78.0,67.2,GIR,CriStuGIR
-457,457,457,Susaeta Laskurain,Markel,Athletic Club,80.0,31,68.0,82.0,81.0,75.0,58.0,82.0,71.0,ATH,MarSusATH
-458,458,458,Suárez,Damián,Getafe CF,77.0,30,80.0,70.0,66.0,70.0,67.0,76.0,80.0,GET,DamSuáGET
-459,459,459,Suárez,Leonardo,R. Valladolid CF,72.0,22,36.0,70.0,70.0,70.0,62.0,74.0,65.0,VLD,LeoSuáVLD
-460,460,460,Suárez,Luis,FC Barcelona,87.42857142857143,31,88.57142857142857,86.42857142857143,65.57142857142857,85.42857142857143,85.42857142857143,84.42857142857143,75.57142857142857,BAR,LuiSuáBAR
-461,461,461,Suárez Fernández,Denis,FC Barcelona,77.0,25,47.0,70.0,78.0,73.5,63.0,82.5,77.0,BAR,DenSuáBAR
-462,462,462,Suárez García,José Aurelio,Girona FC,48.0,23,20.0,14.0,26.0,20.0,29.0,23.0,46.0,GIR,JosSuáGIR
-463,463,463,Suárez Pier,Roberto,Levante UD,63.0,23,64.0,42.0,68.0,39.0,39.0,71.0,58.0,LEV,RobSuáLEV
-464,464,464,Szymanowski,Alexander,CD Leganés,91.0,30,55.0,57.0,63.0,68.0,70.0,74.0,84.0,LGN,AleSzyLGN
-465,465,465,Sánchez Benítez,Luis Miguel,R. Valladolid CF,61.0,26,81.0,30.0,66.0,34.0,38.0,68.0,58.0,VLD,LuiSánVLD
-466,466,466,Sánchez Gil,Pedro León,SD Eibar,63.0,32,55.0,86.0,85.0,79.0,71.0,83.0,63.0,EIB,PedSánEIB
-467,467,467,Sánchez Mata,Victor,RCD Espanyol,58.0,31,86.0,69.0,78.0,67.0,61.0,85.0,61.0,ESP,VicSánESP
-468,468,468,Sánchez Ortega,Sergio,Cádiz CF,65.0,32,76.0,30.0,60.0,41.0,47.0,63.0,63.0,Cádiz CF,SerSánCád
-469,469,469,Sánchez Ortega,Sergio,RCD Espanyol,65.0,32,76.0,30.0,60.0,41.0,47.0,63.0,63.0,ESP,SerSánESP
-470,470,470,Sánchez Rodriguez,Francisco Jose,Sevilla FC,72.0,23,38.0,65.0,59.0,65.0,56.0,68.0,67.0,SEV,FraSánSEV
-471,471,471,Sánchez Rodríguez,Joaquín,Real Betis,76.0,37,53.0,77.0,83.0,76.0,75.0,82.0,70.0,BET,JoaSánBET
-472,472,472,Sánchez Ruiz,Jozabed,RC Celta,67.0,27,58.0,57.0,72.0,77.0,54.0,78.0,61.0,CEL,JozSánCEL
-473,473,473,Tarín Higón,Rodrigo,CD Leganés,69.0,22,68.0,30.0,52.0,41.0,40.0,59.0,71.0,LGN,RodTarLGN
-474,474,474,Tello Herrera,Cristian,Real Betis,93.0,27,48.0,64.0,70.0,71.0,56.0,77.0,91.0,BET,CriTelBET
-475,475,475,Timor Copoví,David,Girona FC,39.0,29,80.0,81.0,77.0,80.0,69.0,81.0,52.0,GIR,DavTimGIR
-476,476,476,Timor Copoví,David,UD Las Palmas,39.0,29,80.0,81.0,77.0,80.0,69.0,81.0,52.0,UD Las Palmas,DavTimUD 
-477,477,477,Toko-Ekambi,Karl,Villarreal CF,86.0,26,43.0,63.0,58.0,72.0,69.0,69.0,83.0,VIL,KarTokVIL
-478,478,478,Torres,Daniel,D. Alavés,57.0,29,87.0,50.0,74.0,61.0,72.0,73.0,53.0,ALA,DanTorALA
-479,479,479,Torres Belén,Juan Francisco,Atlético Madrid,75.8,34,81.2,61.2,68.4,54.4,68.2,80.2,88.6,ATL,JuaTorATL
-480,480,480,Torres García,Ferrán,Valencia CF,77.0,18,34.0,46.0,72.0,55.0,62.0,69.0,76.0,VAL,FerTorVAL
-481,481,481,Trejo,Óscar,Rayo Vallecano,67.0,30,70.0,69.0,70.0,68.0,70.0,75.0,73.0,RV,ÓscTreRV
-482,482,482,Trigueros Muñoz,Manuel,Villarreal CF,71.0,27,71.0,69.0,82.0,80.0,65.0,86.0,69.0,VIL,ManTriVIL
-483,483,483,Umtiti,Samuel,FC Barcelona,71.0,25,81.0,62.0,73.5,74.5,61.0,81.5,73.5,BAR,SamUmtBAR
-484,484,484,Vaclík,Tomáš,Sevilla FC,34.0,29,29.0,16.0,38.0,16.0,13.0,17.0,35.0,SEV,TomVacSEV
-485,485,485,Valdés Díaz,José Ángel,SD Eibar,69.0,29,69.0,67.0,61.0,57.0,45.0,77.0,74.0,EIB,JosValEIB
-486,486,486,Valente da Silva,André Miguel,Sevilla FC,76.5,23,78.0,34.0,59.5,62.5,83.5,69.0,85.0,SEV,AndValSEV
-487,487,487,Vallejo Lázaro,Jesús,Real Madrid,67.0,22,74.5,31.0,75.5,31.0,45.5,76.5,74.5,RMD,JesValRMD
-488,488,488,Valverde,Federico,Real Madrid,66.0,20,52.0,48.0,79.0,78.0,42.0,78.0,68.0,RMD,FedValRMD
-489,489,489,Varane,Raphaël,Real Madrid,84.66666666666667,25,80.66666666666667,60.0,84.0,63.0,50.666666666666664,83.33333333333333,87.33333333333333,RMD,RapVarRMD
-490,490,490,Velázquez,Emiliano,Rayo Vallecano,63.0,24,69.0,26.0,71.0,41.0,37.0,67.0,46.0,RV,EmiVelRV
-491,491,491,Venancio Casimiro,Carlos Henrique,Real Madrid,59.0,26,87.0,74.0,82.5,79.5,66.0,85.5,65.5,RMD,CarVenRMD
-492,492,492,Verde,Daniele,R. Valladolid CF,89.0,22,58.0,43.0,60.0,62.0,59.0,68.0,89.0,VLD,DanVerVLD
-493,493,493,Vermaelen,Thomas,FC Barcelona,67.5,33,77.5,64.0,78.5,68.5,62.5,80.5,64.0,BAR,ThoVerBAR
-494,494,494,Vesga Arruti,Mikel,CD Leganés,49.0,25,67.0,28.0,75.0,61.0,57.0,74.0,52.0,LGN,MikVesLGN
-495,495,495,Vidal,Arturo,FC Barcelona,60.5,31,93.5,68.0,78.0,85.5,81.5,83.5,55.0,BAR,ArtVidBAR
-496,496,496,Vidal Parreu,Aleix,Sevilla FC,89.0,29,80.0,46.0,64.0,59.0,51.0,78.0,93.0,SEV,AleVidSEV
-497,497,497,Vieira da Silva,Marcelo,Real Madrid,86.0,30,87.33333333333333,69.66666666666667,79.33333333333333,73.0,61.666666666666664,88.0,85.0,RMD,MarVieRMD
-498,498,498,Villa Suárez,Antonio,R. Valladolid CF,71.0,24,46.0,51.0,71.0,67.0,60.0,73.0,67.0,VLD,AntVilVLD
-499,499,499,Villalibre Molina,Asier,Athletic Club,72.0,21,62.0,36.0,45.0,57.0,70.0,55.0,73.0,ATH,AsiVilATH
-500,500,500,Villar Martínez,Iván,RC Celta,32.0,21,18.0,15.0,22.0,15.0,23.0,23.0,33.0,CEL,IváVilCEL
-501,501,501,Vilà Roselló,Dídac,RCD Espanyol,69.0,29,78.0,37.0,66.0,57.0,34.0,64.0,73.0,ESP,DídVilESP
-502,502,502,Vito Brezmes,Marc,Girona FC,25.0,22,20.0,11.0,18.0,6.0,18.0,23.0,28.0,GIR,MarVitGIR
-503,503,503,Vukčević,Nikola,Levante UD,64.0,27,85.0,64.0,70.0,61.0,53.0,79.0,56.0,LEV,NikVukLEV
-504,504,504,Vázquez,Franco,Sevilla FC,58.0,29,78.0,68.0,78.0,84.0,67.0,84.0,62.0,SEV,FraVázSEV
-505,505,505,Vázquez Iglesias,Lucas,Real Madrid,84.5,27,65.0,75.0,75.0,80.5,56.0,83.5,79.0,RMD,LucVázRMD
-506,506,506,Wagué,Moussa,FC Barcelona,85.0,20,68.0,31.0,56.0,32.0,39.0,62.0,81.0,BAR,MouWagBAR
-507,507,507,Wakaso,Mubarak,D. Alavés,87.0,28,81.0,57.0,70.0,68.0,36.0,75.0,87.0,ALA,MubWakALA
-508,508,508,Wass,Daniel,Valencia CF,74.33333333333333,29,62.333333333333336,86.0,79.33333333333333,78.66666666666667,65.0,85.0,77.0,VAL,DanWasVAL
-509,509,509,Werner,Axel,SD Huesca,41.0,22,24.0,15.0,19.0,18.0,23.0,25.0,46.0,HUE,AxeWerHUE
-510,510,510,Williams Arthuer,Iñaki,Athletic Club,92.0,24,67.33333333333333,54.333333333333336,68.0,81.33333333333333,66.66666666666667,81.66666666666667,94.66666666666667,ATH,IñaWilATH
-511,511,511,Yokuşlu,Okay,RC Celta,72.0,24,81.0,65.0,72.0,75.0,60.0,77.0,74.0,CEL,OkaYokCEL
-512,512,512,Yáñez Alabart,Rubén,Getafe CF,44.0,25,20.0,15.0,22.0,17.0,25.0,27.0,43.0,GET,RubYáñGET
-513,513,513,Zaldúa Bengoetxea,Joseba,Real Sociedad,69.0,26,78.0,41.0,55.0,40.0,32.0,78.0,69.0,RSO,JosZalRSO
-514,514,514,Zidane,Luca,Real Madrid,33.0,20,16.0,11.0,15.0,5.0,19.0,22.0,32.0,RMD,LucZidRMD
-515,515,515,Zubeldia Elorza,Igor,Real Sociedad,65.0,21,70.0,65.0,76.0,68.0,51.0,77.0,58.0,RSO,IgoZubRSO
-516,516,516,Zurutuza,David,Real Sociedad,66.0,32,72.0,59.0,74.0,75.0,61.0,79.0,64.0,RSO,DavZurRSO
-517,517,517,da Silva,Willian José,Real Sociedad,63.333333333333336,27,65.66666666666667,73.0,51.333333333333336,77.66666666666667,80.66666666666667,80.0,67.0,RSO,Wilda RSO
-518,518,518,da Silva Costa,Diego,Atlético Madrid,79.0,30,93.33333333333333,59.0,52.0,76.0,77.0,65.33333333333333,81.66666666666667,ATL,Dieda ATL
-519,519,519,da Silva Júnior,Sidnei Rechel,Real Betis,67.75,29,78.75,41.75,73.25,54.0,63.0,75.5,60.0,BET,Sidda BET
-520,520,520,de Oliveira Júnior,Vinícius José,Real Madrid,92.66666666666667,18,52.0,63.333333333333336,52.333333333333336,73.66666666666667,70.33333333333333,76.66666666666667,95.33333333333333,RMD,Vinde RMD
-521,521,521,de Tomás Gómez,Raúl,Rayo Vallecano,69.33333333333333,24,56.666666666666664,77.66666666666667,44.666666666666664,80.66666666666667,77.66666666666667,72.66666666666667,77.0,RV,Raúde RV
-522,522,522,ter Stegen,Marc-André,FC Barcelona,38.5,26,43.0,12.0,38.0,10.0,25.0,30.0,50.5,BAR,MarterBAR
-523,523,523,Álamo Bautista,Sergi,Girona FC,54.0,21,58.0,42.0,42.0,29.0,43.0,53.0,60.0,GIR,SerÁlaGIR
-524,524,524,Álvarez Conde,Sergio,RC Celta,44.0,32,34.0,11.0,39.0,11.0,23.0,37.0,43.0,CEL,SerÁlvCEL
-525,525,525,Álvarez Díaz,Sergio,SD Eibar,70.0,26,76.0,52.0,75.0,73.0,41.0,73.0,69.0,EIB,SerÁlvEIB
-526,526,526,Álvarez López,Yeray,Athletic Club,66.0,23,80.0,50.0,71.0,43.0,61.0,70.0,67.0,ATH,YerÁlvATH
-527,527,527,Ávila,Ezequiel,SD Huesca,77.0,24,70.0,44.0,58.0,67.0,51.0,68.0,79.0,HUE,EzeÁviHUE
-528,528,528,Ñíguez Esclápez,Saúl,Atlético Madrid,71.5,24,69.0,60.0,83.5,79.5,55.0,85.5,70.5,ATL,SaúÑígATL
-529,529,529,Ünal,Enes,R. Valladolid CF,75.0,21,43.0,66.0,47.0,80.0,69.0,73.0,74.0,VLD,EneÜnaVLD
-530,530,530,Čop,Duje,R. Valladolid CF,66.0,28,59.0,75.0,57.0,74.0,78.0,69.0,50.0,VLD,DujČopVLD
+,LastName,FirstName,Club,Acceleration,Age,Aggression,FreeKickAccuracy,LongPassing,LongShots,Penalties,ShortPassing,SprintSpeed,ClubA,ForKey
+0,Aduriz Zubeldia,Aritz,Athletic Club,66.0,37,82.0,54.0,52.0,78.0,82.0,72.0,67.0,ATH,AriAduATH
+1,Advíncula,Luis,Rayo Vallecano,95.0,28,70.0,63.0,67.0,68.0,64.0,73.0,94.0,RV,LuiAdvRV
+2,Adán Garrido,Antonio,Atlético Madrid,56.5,31,41.0,12.0,43.0,12.0,25.0,34.0,54.0,ATL,AntAdáATL
+3,Agudo Durán,Manuel,Sevilla FC,74.0,32,73.0,80.0,67.0,81.0,74.0,76.0,70.0,SEV,ManAguSEV
+4,Aguilera Núñez,Juan,SD Huesca,71.0,33,68.0,60.0,72.0,57.0,40.0,75.0,52.0,HUE,JuaAguHUE
+5,Aguirregabiria,Martín,D. Alavés,74.0,22,62.0,40.0,45.0,35.0,38.0,76.0,74.0,ALA,MarAguALA
+6,Akapo Martínez,Carlos,SD Huesca,77.0,25,84.0,41.0,62.0,52.0,46.0,68.0,88.0,HUE,CarAkaHUE
+7,Akieme Rodríguez,Sergio,Rayo Vallecano,76.0,21,65.0,36.0,43.0,44.0,40.0,62.0,73.0,RV,SerAkiRV
+8,Alarcón Suárez,Francisco Román,Real Madrid,76.33333333333333,26,58.666666666666664,74.33333333333333,84.33333333333333,90.0,76.33333333333333,90.0,69.66666666666667,RMD,FraAlaRMD
+9,Alba Ramos,Jordi,FC Barcelona,93.66666666666667,29,76.0,63.333333333333336,74.33333333333333,66.0,59.0,85.0,93.66666666666667,BAR,JorAlbBAR
+10,Alcalá Guirado,Pedro,Girona FC,31.0,29,77.0,65.0,66.0,68.0,39.0,71.0,42.0,GIR,PedAlcGIR
+11,Alcaraz Jiménez,Rubén,R. Valladolid CF,57.0,27,74.0,73.0,74.0,72.0,70.0,75.0,53.0,VLD,RubAlcVLD
+12,Alcântara,Rafael,FC Barcelona,71.5,25,44.0,61.0,76.0,82.5,67.0,86.5,70.5,BAR,RafAlcBAR
+13,Alegría Moreno,Alexander,Rayo Vallecano,48.0,26,53.0,22.0,39.0,66.0,63.0,65.0,54.0,RV,AleAleRV
+14,Alegría Moreno,Alexander,Real Betis,48.0,26,53.0,22.0,39.0,66.0,63.0,65.0,54.0,BET,AleAleBET
+15,Alejo Peralta,Iván,Getafe CF,73.0,23,45.0,49.0,71.0,64.0,47.0,76.0,86.0,GET,IváAleGET
+16,Alende López,Diego,RC Celta,53.0,21,62.0,26.0,35.0,23.0,33.0,61.0,55.0,CEL,DieAleCEL
+17,Aleñà Castillo,Carles,FC Barcelona,78.0,21,52.0,59.0,67.0,67.0,73.0,69.0,76.0,BAR,CarAleBAR
+18,Alonso,Junior,Buenos Aires,58.0,25,76.0,27.0,63.0,46.0,33.0,65.0,64.0,Buenos Aires,JunAloBue
+19,Alonso,Junior,RC Celta,58.0,25,76.0,27.0,63.0,46.0,33.0,65.0,64.0,CEL,JunAloCEL
+20,Alonso Lara,José,Sevilla FC,72.0,18,33.0,49.0,65.0,51.0,61.0,66.0,74.0,SEV,JosAloSEV
+21,Amadou,Ibrahim,Sevilla FC,69.0,25,80.0,32.0,73.0,62.0,51.0,76.0,73.0,SEV,IbrAmaSEV
+22,Amat Maas,Jordi,Rayo Vallecano,61.0,26,82.0,36.0,52.0,65.0,28.0,68.0,69.0,RV,JorAmaRV
+23,Andzouana,Yhoan,Girona FC,67.0,22,31.0,40.0,59.0,46.0,61.0,53.0,61.0,GIR,YhoAndGIR
+24,Andújar Moreno,Jorge,Levante UD,75.0,31,74.0,36.0,68.0,60.0,74.0,76.0,73.0,LEV,JorAndLEV
+25,Apeh,Emmanuel,RC Celta,72.0,22,35.0,36.0,38.0,62.0,62.0,63.0,76.0,CEL,EmmApeCEL
+26,Arambarri,Mauro,Getafe CF,47.0,23,79.0,46.0,78.0,55.0,50.0,79.0,53.0,GET,MauAraGET
+27,Arana Lopes,Guilherme,Sevilla FC,77.0,21,69.0,49.0,67.0,54.0,52.0,72.0,78.0,SEV,GuiAraSEV
+28,Araújo,Néstor,RC Celta,69.0,27,65.0,45.0,66.0,39.0,54.0,72.0,72.0,CEL,NésAraCEL
+29,Arbilla Zabala,Anaitz,SD Eibar,55.0,31,84.0,82.0,65.0,68.0,47.0,77.0,70.0,EIB,AnaArbEIB
+30,Arias,Santiago,Atlético Madrid,85.0,27,81.0,56.333333333333336,76.33333333333333,50.333333333333336,57.0,77.33333333333333,87.66666666666667,ATL,SanAriATL
+31,Armando de Abreu,Gabriel,Valencia CF,71.0,28,82.5,46.0,69.5,50.5,51.5,74.5,74.5,VAL,GabArmVAL
+32,Arnáiz Díaz,José Manuel,CD Leganés,86.0,23,40.0,47.0,61.0,68.0,67.0,65.0,84.0,LGN,JosArnLGN
+33,Asenjo Andrés,Sergio,Villarreal CF,61.8,29,20.0,22.0,39.0,13.0,15.0,39.0,56.0,VIL,SerAseVIL
+34,Asensio Willemsen,Marco,Real Madrid,83.5,23,45.0,76.0,82.0,88.5,62.0,85.5,80.0,RMD,MarAseRMD
+35,Aspas Juncal,Iago,RC Celta,86.2,31,63.8,77.6,65.6,83.2,83.2,83.4,78.4,CEL,IagAspCEL
+36,Ba,Abdoulaye,Rayo Vallecano,49.0,28,80.0,59.0,41.0,50.0,68.0,58.0,53.0,RV,AbdBaRV
+37,Bacca,Carlos,Villarreal CF,73.0,32,62.0,58.0,55.0,60.0,80.0,72.0,75.0,VIL,CarBacVIL
+38,Bale,Gareth,Real Madrid,94.25,29,66.5,89.0,81.25,92.75,77.0,87.0,96.0,RMD,GarBalRMD
+39,Balenziaga,Mikel,Athletic Club,69.0,30,76.0,33.0,69.0,54.0,44.0,70.0,73.0,ATH,MikBalATH
+40,Banega,Éver,Sevilla FC,68.0,30,73.0,81.0,87.0,77.0,67.0,88.0,64.0,SEV,ÉveBanSEV
+41,Bangoura,Alhassane,Rayo Vallecano,87.0,26,63.0,45.0,60.0,57.0,50.0,63.0,87.0,RV,AlhBanRV
+42,Barbosa,Mariano,Villarreal CF,42.0,34,37.0,12.0,36.0,12.0,24.0,38.0,43.0,VIL,MarBarVIL
+43,Bardhi,Enis,Levante UD,76.0,23,54.0,90.0,77.0,84.0,75.0,79.0,64.0,LEV,EniBarLEV
+44,Barragán Fernández,Antonio,Real Betis,69.0,31,74.0,51.0,62.0,53.0,55.0,77.0,71.0,BET,AntBarBET
+45,Bartra Aregall,Marc,Real Betis,75.0,28,80.0,45.0,77.0,62.0,52.0,79.0,72.0,BET,MarBarBET
+46,Batalha Martins,Gelson Dany,Atlético Madrid,95.33333333333333,23,60.0,60.0,55.0,69.33333333333333,66.0,78.33333333333333,94.33333333333333,ATL,GelBatATL
+47,Batshuayi,Michy,Valencia CF,78.75,25,64.0,47.5,37.0,77.0,68.0,66.25,77.75,VAL,MicBatVAL
+48,Bautista Orgilles,Jon,Real Sociedad,61.0,23,35.0,57.0,41.0,77.0,70.0,67.0,57.0,RSO,JonBauRSO
+49,Beauvue,Claudio,RC Celta,69.0,30,54.0,71.0,61.0,69.0,70.0,75.0,66.0,CEL,ClaBeaCEL
+50,Beauvue,Claudio,Stade Malherbe Caen,69.0,30,54.0,71.0,61.0,69.0,70.0,75.0,66.0,Stade Malherbe Caen,ClaBeaSta
+51,Beltrán Peinado,Francisco José,RC Celta,73.0,19,68.0,49.0,74.0,48.0,49.0,75.0,68.0,CEL,FraBelCEL
+52,Ben Yedder,Wissam,Sevilla FC,89.66666666666667,28,57.666666666666664,79.66666666666667,69.0,72.33333333333333,73.33333333333333,78.66666666666667,85.0,SEV,WisBenSEV
+53,Benzema,Karim,Real Madrid,77.33333333333333,31,66.33333333333333,74.0,55.666666666666664,76.33333333333333,84.0,83.66666666666667,77.33333333333333,RMD,KarBenRMD
+54,Benítez Caraballo,Aday,Girona FC,70.0,31,62.0,51.0,62.0,39.0,55.0,75.0,74.0,GIR,AdaBenGIR
+55,Berchiche Izeta,Yuri,Athletic Club,78.0,28,85.0,55.0,68.0,77.0,59.0,70.0,77.0,ATH,YurBerATH
+56,Bergara Larrañaga,Markel,Getafe CF,64.0,32,79.0,71.0,76.0,68.0,59.0,78.0,32.0,GET,MarBerGET
+57,Berrocal González,Juan,Sevilla FC,63.0,19,65.0,35.0,56.0,37.0,49.0,62.0,62.0,SEV,JuaBerSEV
+58,Bigas Rigo,Pedro,SD Eibar,71.0,28,83.0,43.0,60.0,47.0,48.0,72.0,72.0,EIB,PedBigEIB
+59,Blanco Moreno,Carlos,Villarreal CF,41.0,23,63.0,30.0,70.0,68.0,38.0,63.0,39.0,VIL,CarBlaVIL
+60,Blanco Sánchez,Alejandro,Valencia CF,69.0,20,39.0,45.0,58.0,54.0,54.0,65.0,67.0,VAL,AleBlaVAL
+61,Blanco Veiga,Rubén,RC Celta,54.0,23,22.0,13.0,29.0,15.0,22.0,35.0,52.0,CEL,RubBlaCEL
+62,Boateng,Emmanuel,Levante UD,89.0,22,62.0,41.0,46.0,64.0,64.0,69.0,88.0,LEV,EmmBoaLEV
+63,Bonera,Daniele,Villarreal CF,33.0,37,80.0,29.0,61.0,53.0,49.0,60.0,30.0,VIL,DanBonVIL
+64,Boudebouz,Ryad,Real Betis,75.0,28,58.0,82.0,76.0,76.0,90.0,81.0,73.0,BET,RyaBouBET
+65,Boufal,Sofiane,RC Celta,84.0,25,47.0,63.0,66.0,65.0,69.0,75.0,79.0,CEL,SofBouCEL
+66,Bounou,Yassine,Girona FC,39.666666666666664,27,25.0,19.0,44.0,19.0,24.0,39.0,36.0,GIR,YasBouGIR
+67,Brasanac,Darko,D. Alavés,61.0,26,81.0,59.0,75.0,62.0,70.0,74.0,54.0,ALA,DarBraALA
+68,Brasanac,Darko,Real Betis,61.0,26,81.0,59.0,75.0,62.0,70.0,74.0,54.0,BET,DarBraBET
+69,Brežančić,Rajko,SD Huesca,73.0,29,72.0,30.0,59.0,51.0,43.0,66.0,77.0,HUE,RajBreHUE
+70,Busquets Burgos,Sergio,FC Barcelona,57.0,30,85.33333333333333,68.0,79.33333333333333,62.333333333333336,69.33333333333333,88.33333333333333,60.333333333333336,BAR,SerBusBAR
+71,Bustinza Martínez,Unai,CD Leganés,66.0,26,71.0,35.0,53.0,38.0,33.0,72.0,68.0,LGN,UnaBusLGN
+72,Cabaco,Erick,Levante UD,67.0,23,82.0,27.0,62.0,34.0,32.0,62.0,67.0,LEV,EriCabLEV
+73,Cabral,Gustavo,RC Celta,38.0,33,82.0,48.0,59.0,29.0,47.0,72.0,36.0,CEL,GusCabCEL
+74,Cabral Semedo,Nélson,FC Barcelona,91.0,25,77.5,30.0,65.0,60.5,38.0,73.5,92.5,BAR,NélCabBAR
+75,Cabrera,Leandro,Getafe CF,61.0,27,78.0,48.0,59.0,35.0,49.0,69.0,64.0,GET,LeaCabGET
+76,Calavera Espinach,Jordi,SD Eibar,78.0,23,71.0,52.0,62.0,66.0,51.0,67.0,87.0,EIB,JorCalEIB
+77,Calero Villa,Fernando,R. Valladolid CF,67.0,23,63.0,27.0,43.0,21.0,39.0,69.0,64.0,VLD,FerCalVLD
+78,Calleri,Jonathan,D. Alavés,73.0,25,67.0,37.0,61.333333333333336,71.66666666666667,64.66666666666667,70.0,74.66666666666667,ALA,JonCalALA
+79,Camacho Barnola,Juan Jose,SD Huesca,30.0,38,65.0,77.0,77.0,71.0,86.0,78.0,32.0,HUE,JuaCamHUE
+80,Canales Madrazo,Sergio,Real Betis,64.0,27,55.0,76.0,70.0,78.0,66.0,84.0,57.0,BET,SerCanBET
+81,Capa Rodríguez,Ander,Athletic Club,82.0,26,86.0,58.0,56.0,62.0,54.0,71.0,86.0,ATH,AndCapATH
+82,Cardona Rovira,Marc,SD Eibar,80.0,23,33.0,52.0,50.0,65.0,56.0,60.0,78.0,EIB,MarCarEIB
+83,Carrilho Baptistão,Leonardo,RCD Espanyol,75.0,26,38.0,59.0,55.0,74.0,65.0,75.0,78.0,ESP,LeoCarESP
+84,Carrillo,Guido,CD Leganés,57.0,27,72.0,36.0,57.0,72.0,77.0,64.0,62.0,LGN,GuiCarLGN
+85,Carvajal Ramos,Daniel,Real Madrid,79.5,27,82.25,48.0,72.5,37.5,46.75,83.25,85.25,RMD,DanCarRMD
+86,Casilla Cortés,Francisco,Real Madrid,32.5,32,45.0,25.0,24.0,13.0,23.0,30.0,49.5,RMD,FraCasRMD
+87,Cazorla González,Santiago,Villarreal CF,62.333333333333336,34,72.16666666666667,79.5,85.5,83.0,87.0,87.33333333333333,55.166666666666664,VIL,SanCazVIL
+88,Ceballos Fernández,Daniel,Real Madrid,69.5,22,76.5,61.0,78.5,63.5,55.0,80.5,60.0,RMD,DanCebRMD
+89,Centelles Plaza,Alejandro,Valencia CF,60.0,19,59.0,41.0,70.0,42.0,48.0,68.0,70.0,VAL,AleCenVAL
+90,Chagas de Lima,Paulo Henrique,Amiens SC,33.0,29,56.0,76.0,80.0,76.0,76.0,82.0,30.0,Amiens SC,PauChaAmi
+91,Chagas de Lima,Paulo Henrique,Sevilla FC,33.0,29,56.0,76.0,80.0,76.0,76.0,82.0,30.0,SEV,PauChaSEV
+92,Cheryshev,Denis,Valencia CF,77.0,28,62.0,61.0,68.0,84.5,64.0,72.0,79.5,VAL,DenCheVAL
+93,Chichizola,Leandro,Getafe CF,49.0,28,15.0,14.0,13.0,17.0,25.0,14.0,54.0,GET,LeaChiGET
+94,Cillessen,Jasper,FC Barcelona,54.5,29,25.0,10.0,33.0,15.0,21.0,47.0,50.0,BAR,JasCilBAR
+95,Comesaña Veiga,Santiago,Rayo Vallecano,58.0,22,59.0,47.0,63.0,75.0,39.0,73.0,57.0,RV,SanComRV
+96,Concha Salas,David,Real Sociedad,68.0,22,32.0,52.0,64.0,66.0,72.0,62.0,66.0,RSO,DavConRSO
+97,Coquelin,Francis,Valencia CF,70.0,27,91.5,41.0,74.5,57.0,52.0,77.5,72.5,VAL,FraCoqVAL
+98,Correa,Ángel,Atlético Madrid,83.5,23,41.0,65.0,65.0,83.5,55.0,73.5,78.0,ATL,ÁngCorATL
+99,Correia Pinto,Luis Carlos,SD Huesca,72.0,33,83.0,59.0,68.0,53.0,51.0,75.0,67.0,HUE,LuiCorHUE
+100,Costa Jordá,Jaume Vicent,Villarreal CF,78.0,30,85.0,59.0,65.0,62.0,56.0,79.0,81.0,VIL,JauCosVIL
+101,Costa Ventura,Robert,RC Celta,44.0,24,51.0,31.0,56.0,28.0,43.0,62.0,50.0,CEL,RobCosCEL
+102,Costas Cordal,David,RC Celta,68.0,23,64.0,59.0,62.0,44.0,50.0,70.0,67.0,CEL,DavCosCEL
+103,Cotán Pérez,Antonio Jesús,R. Valladolid CF,64.0,23,58.0,42.0,70.0,68.0,65.0,73.0,60.0,VLD,AntCotVLD
+104,Courtois,Thibaut,Real Madrid,46.5,26,23.0,20.0,35.0,17.0,27.0,33.0,52.5,RMD,ThiCouRMD
+105,Coutinho Correia,Philippe,FC Barcelona,90.0,26,55.666666666666664,87.0,81.33333333333333,94.0,70.33333333333333,89.0,75.33333333333333,BAR,PhiCouBAR
+106,Cucurella Saseta,Marc,FC Barcelona,82.0,20,70.0,48.0,61.0,40.0,39.0,68.0,85.0,BAR,MarCucBAR
+107,Cucurella Saseta,Marc,SD Eibar,82.66666666666667,20,75.33333333333333,53.333333333333336,67.66666666666667,44.666666666666664,43.666666666666664,76.0,86.33333333333333,EIB,MarCucEIB
+108,Cuéllar Sacristán,Iván,CD Leganés,59.0,34,28.0,20.0,28.0,12.0,25.0,23.0,43.0,LGN,IváCuéLGN
+109,Cáseres,Santiago,Villarreal CF,67.0,21,58.0,39.0,65.0,58.0,50.0,71.0,70.0,VIL,SanCásVIL
+110,Córdoba Kerejeta,Iñigo,Athletic Club,85.0,21,68.0,38.0,65.0,73.0,71.0,75.0,82.0,ATH,IñiCórATH
+111,Darder Moll,Sergi,RCD Espanyol,58.0,25,71.0,58.0,81.0,69.0,55.0,84.0,45.0,ESP,SerDarESP
+112,De Blasis,Pablo,SD Eibar,81.0,30,74.0,62.0,66.0,72.0,79.0,74.0,75.0,EIB,PabDe EIB
+113,De Marcos Arana,Oscar,Athletic Club,79.5,29,78.0,54.5,71.0,59.0,58.0,77.5,90.0,ATH,OscDe ATH
+114,Delgado López,Moisés,R. Valladolid CF,69.0,24,62.0,48.0,55.0,30.0,36.0,60.0,71.0,VLD,MoiDelVLD
+115,Dembélé,Ousmane,FC Barcelona,92.25,21,55.0,65.5,71.5,67.5,76.75,78.25,88.5,BAR,OusDemBAR
+116,Diakhaby,Mouctar,Valencia CF,57.0,22,76.0,26.0,52.5,29.0,49.5,68.5,59.5,VAL,MouDiaVAL
+117,Dias Correia,Tiago Manuel,Rayo Vallecano,76.0,28,72.0,73.0,69.0,70.0,65.0,71.0,91.0,RV,TiaDiaRV
+118,Dias Correia,Tiago Manuel,SD Eibar,76.0,28,72.0,73.0,69.0,70.0,65.0,71.0,91.0,EIB,TiaDiaEIB
+119,Dias De Oliveira,Charles,SD Eibar,67.33333333333333,34,67.33333333333333,55.666666666666664,54.666666666666664,79.33333333333333,62.333333333333336,71.33333333333333,61.666666666666664,EIB,ChaDiaEIB
+120,Diop,Papakouli,SD Eibar,50.0,32,89.0,69.0,72.0,71.0,61.0,74.0,54.0,EIB,PapDioEIB
+121,Diéguez Grande,Adrián,D. Alavés,62.0,22,61.0,32.0,39.0,27.0,41.0,60.0,62.0,ALA,AdrDiéALA
+122,Djené,Dakonam,Getafe CF,76.0,27,81.0,48.0,54.0,27.0,41.0,72.0,75.0,GET,DakDjeGET
+123,Dmitrović,Marko,SD Eibar,39.0,26,20.0,9.0,40.0,17.0,9.0,40.0,35.0,EIB,MarDmiEIB
+124,Domenech Sánchez,Jaume,Valencia CF,58.0,28,21.0,13.0,32.0,12.0,25.0,32.0,58.0,VAL,JauDomVAL
+125,Dorado Ramírez,José Antonio,Rayo Vallecano,34.0,36,69.0,21.0,61.0,19.0,31.0,72.0,34.0,RV,JosDorRV
+126,Dos Santos,Mauro,CD Leganés,56.0,29,79.0,43.0,56.0,33.0,46.0,66.0,59.0,LGN,MauDosLGN
+127,Dos Santos,Mauro,CD Tenerife,56.0,29,79.0,43.0,56.0,33.0,46.0,66.0,59.0,CD Tenerife,MauDosCD 
+128,Dos Santos Ferreira,Alejandro,Atlético Madrid,22.0,20,22.0,12.0,18.0,10.0,15.0,16.0,21.0,ATL,AleDosATL
+129,Doukouré,Cheick,Levante UD,76.0,26,77.0,66.0,68.0,66.0,59.0,72.0,74.0,LEV,CheDouLEV
+130,Doumbia,Seydou,Girona FC,88.0,31,63.0,72.0,65.5,71.5,84.0,73.0,92.5,GIR,SeyDouGIR
+131,Duarte,Óscar,RCD Espanyol,55.0,29,74.0,32.0,55.0,24.0,37.0,70.0,66.0,ESP,ÓscDuaESP
+132,Duarte Sánchez,Rubén,D. Alavés,68.0,23,70.0,60.0,55.0,30.0,40.0,77.0,69.0,ALA,RubDuaALA
+133,Dwamena,Raphael,Levante UD,76.0,23,47.0,42.0,41.0,67.0,66.0,58.0,82.0,LEV,RapDwaLEV
+134,Díaz Mejía,Mariano,Real Madrid,84.0,25,86.33333333333333,76.33333333333333,51.0,82.33333333333333,75.0,69.33333333333333,85.33333333333333,RMD,MarDíaRMD
+135,Eckert,Dennis,RC Celta,58.0,22,25.0,50.0,37.0,60.0,59.0,59.0,48.0,CEL,DenEckCEL
+136,El Haddadi,Munir,FC Barcelona,78.0,23,38.0,67.0,58.0,77.0,66.0,77.5,80.5,BAR,MunEl BAR
+137,El Zhar,Nabil,CD Leganés,76.0,32,58.0,58.0,64.0,71.0,72.0,77.0,68.0,LGN,NabEl LGN
+138,Elustondo,Aritz,Real Sociedad,67.0,24,77.0,41.0,43.0,40.0,43.0,72.0,71.0,RSO,AriEluRSO
+139,Elustondo Urkola,Gorka,Rayo Vallecano,49.0,31,88.0,80.0,73.0,74.0,67.0,76.0,61.0,RV,GorEluRV
+140,Ely,Rodrigo,D. Alavés,63.0,25,75.0,18.0,54.0,38.0,35.0,62.0,69.0,ALA,RodElyALA
+141,Embarba Blazquez,Adrián,Rayo Vallecano,76.0,26,56.0,65.0,76.0,68.0,55.0,78.0,79.0,RV,AdrEmbRV
+142,En-Nesyri,Youssef,CD Leganés,75.0,21,37.0,47.0,46.0,68.0,59.0,63.0,77.0,LGN,YouEn-LGN
+143,Enrich Ametller,Sergi,SD Eibar,60.0,28,66.0,47.0,61.0,70.0,63.0,79.0,65.0,EIB,SerEnrEIB
+144,Eraso Goñi,Javier,CD Leganés,59.0,28,82.0,59.0,79.0,75.0,53.0,80.0,59.0,LGN,JavEraLGN
+145,Escalante,Gonzalo,SD Eibar,71.0,25,85.0,52.0,74.0,58.0,64.0,76.0,72.0,EIB,GonEscEIB
+146,Escudero Palomo,Sergio,Sevilla FC,72.0,29,75.0,69.0,77.0,63.0,66.0,77.0,77.0,SEV,SerEscSEV
+147,Espinosa,Bernardo,Girona FC,43.0,29,79.0,42.0,61.0,42.0,52.0,74.0,51.0,GIR,BerEspGIR
+148,Espinosa González,Javier,Levante UD,72.0,26,49.0,72.0,69.0,68.0,66.0,77.0,64.0,LEV,JavEspLEV
+149,Etxebarria Urkiaga,Beñat,Athletic Club,64.0,31,78.0,84.0,82.0,76.0,69.0,81.0,41.0,ATH,BeñEtxATH
+150,Etxeita Gorritxat.,Xabier,SD Huesca,37.0,31,83.0,43.0,54.0,34.0,30.0,63.0,53.0,HUE,XabEtxHUE
+151,Ezkieta Mendiburu,Jokin,FC Barcelona,41.0,22,25.0,19.0,27.0,14.0,24.0,28.0,49.0,BAR,JokEzkBAR
+152,Feddal,Zouhair,Real Betis,51.0,29,82.0,38.0,68.0,56.0,48.0,76.0,62.0,BET,ZouFedBET
+153,Fernández,Aitor,Levante UD,58.0,27,15.0,14.0,22.0,12.0,24.0,21.0,53.0,LEV,AitFerLEV
+154,Fernández Fernández,Borja,R. Valladolid CF,33.0,38,80.0,68.0,68.0,69.0,63.0,71.0,33.0,VLD,BorFerVLD
+155,Fernández Iglesias,José Ignacio,Real Madrid,70.66666666666667,29,78.66666666666667,37.666666666666664,62.333333333333336,29.0,46.666666666666664,82.33333333333333,79.33333333333333,RMD,JosFerRMD
+156,Fernández Luna,Carlos,RC Deportivo,60.666666666666664,22,67.33333333333333,25.0,45.0,76.33333333333333,78.33333333333333,64.0,69.33333333333333,RC Deportivo,CarFerRC 
+157,Fernández Luna,Carlos,Sevilla FC,56.0,22,64.0,23.0,41.0,71.0,73.0,58.0,64.0,SEV,CarFerSEV
+158,Fernández Moreno,Andrés Eduardo,Villarreal CF,58.0,32,40.0,12.0,40.0,12.0,21.0,35.0,55.0,VIL,AndFerVIL
+159,Ferreiro Quiroga,David,SD Huesca,92.0,30,74.0,74.0,71.0,75.0,69.0,70.0,90.0,HUE,DavFerHUE
+160,Firpo,Junior,Real Betis,75.0,22,57.0,45.0,73.5,65.0,40.5,75.5,71.5,BET,JunFirBET
+161,Fornals Malla,Pablo,Villarreal CF,69.5,22,70.0,61.5,82.0,83.5,48.0,86.0,68.5,VIL,PabForVIL
+162,Foulquier,Dimitri,Getafe CF,66.0,25,67.0,40.0,59.0,49.0,49.0,67.0,75.0,GET,DimFouGET
+163,Franco Alviz,Jorge,D. Alavés,74.0,25,35.0,64.0,63.0,66.0,59.0,74.0,78.0,ALA,JorFraALA
+164,Fuego Martínez,Javier,Villarreal CF,57.0,35,83.0,62.0,72.0,64.0,60.0,78.0,42.0,VIL,JavFueVIL
+165,Funes Mori,Ramiro,Villarreal CF,61.0,27,83.0,58.0,55.0,56.0,52.0,67.0,68.0,VIL,RamFunVIL
+166,Gallar Falguero,Álejandro,SD Huesca,70.0,26,42.0,80.0,70.0,71.0,74.0,71.0,68.0,HUE,ÁleGalHUE
+167,Gameiro,Kévin,Valencia CF,88.0,31,67.33333333333333,71.0,73.0,76.0,86.66666666666667,80.66666666666667,87.0,VAL,KévGamVAL
+168,Ganchinho Guedes,Gonçalo Manuel,Valencia CF,87.0,22,67.0,70.0,68.0,80.5,69.0,78.5,89.5,VAL,GonGanVAL
+169,Ganea,Cristian,Athletic Club,77.0,26,73.0,76.0,62.0,69.0,38.0,62.0,78.0,ATH,CriGanATH
+170,Garay,Ezequiel,Valencia CF,34.0,32,77.0,74.5,72.5,64.5,69.5,69.5,36.5,VAL,EzeGarVAL
+171,García,Luís,Sevilla FC,51.0,20,28.0,13.0,38.0,20.0,20.0,30.0,55.0,SEV,LuíGarSEV
+172,García Aranda,Antonio,Levante UD,82.0,29,56.0,59.0,66.0,61.0,62.0,73.0,84.0,LEV,AntGarLEV
+173,García Cabrera,Alberto,Rayo Vallecano,62.0,33,34.0,20.0,27.0,11.0,21.0,29.0,63.0,RV,AlbGarRV
+174,García Carnero,Raúl,CD Leganés,70.0,29,74.0,73.0,68.0,64.0,64.0,72.0,71.0,LGN,RaúGarLGN
+175,García Carrillo,Daniel,Athletic Club,53.0,28,88.0,57.0,81.0,58.0,58.0,86.0,35.0,ATH,DanGarATH
+176,García Escudero,Raúl,Athletic Club,47.0,32,84.0,68.0,79.0,83.0,76.0,81.0,57.0,ATH,RaúGarATH
+177,García Fernández,Fran. Javier,Real Betis,62.0,31,86.0,44.0,77.0,54.0,61.0,82.0,62.0,BET,FraGarBET
+178,García Freire,Borja,Girona FC,81.0,28,52.0,54.0,80.0,78.0,62.0,82.0,77.0,GIR,BorGarGIR
+179,García Martínez,Enrique,SD Eibar,65.0,29,71.0,46.0,49.0,78.0,70.0,77.0,71.0,EIB,EnrGarEIB
+180,García Quintela,Óscar Francisco,Atlético Madrid,73.0,22,39.0,44.0,63.0,70.0,47.0,68.0,70.0,ATL,ÓscGarATL
+181,García Rivera,Álvaro,Rayo Vallecano,92.0,26,33.0,50.0,60.0,63.0,55.0,68.0,93.0,RV,ÁlvGarRV
+182,García Serrano,Aleix,Girona FC,66.0,21,54.0,62.0,74.0,58.0,54.0,78.0,60.0,GIR,AleGarGIR
+183,García Sánchez,Manuel,D. Alavés,46.0,32,90.0,54.0,73.0,53.0,71.0,77.0,61.0,ALA,ManGarALA
+184,García Sánchez,Samuel,Levante UD,71.0,28,48.0,48.0,67.0,64.0,63.0,72.0,73.0,LEV,SamGarLEV
+185,García de la Fuente,Sergio,RCD Espanyol,70.0,35,61.0,64.0,72.0,74.0,80.0,76.0,69.0,ESP,SerGarESP
+186,Gayà Peña,José Luís,Valencia CF,86.0,23,72.5,49.0,75.0,59.0,52.0,81.5,87.5,VAL,JosGayVAL
+187,Gil,Ignacio,Elche CF,78.0,23,50.0,62.0,68.0,65.0,59.0,72.0,75.0,Elche CF,IgnGilElc
+188,Gil,Ignacio,Valencia CF,78.0,23,50.0,62.0,68.0,65.0,59.0,72.0,75.0,VAL,IgnGilVAL
+189,Giménez,José María,Atlético Madrid,66.0,24,89.5,44.0,58.5,48.5,38.0,68.5,70.5,ATL,JosGimATL
+190,Gnagnon,Joris,Sevilla FC,66.0,22,76.0,28.0,47.0,27.0,47.0,65.0,66.0,SEV,JorGnaSEV
+191,Godín,Diego,Atlético Madrid,69.25,32,88.75,51.5,71.25,43.5,51.25,80.25,69.25,ATL,DieGodATL
+192,Gomes Pereira,Edinaldo,RCD Espanyol,43.0,30,72.0,41.0,60.0,41.0,43.0,65.0,49.0,ESP,EdiGomESP
+193,Gonalons,Maxime,Sevilla FC,65.0,29,83.0,57.0,74.0,59.0,68.0,74.0,55.0,SEV,MaxGonSEV
+194,Gontán Gallardo,Sergio,R. Valladolid CF,75.0,27,54.0,69.0,73.0,68.0,66.0,75.0,71.0,VLD,SerGonVLD
+195,González Cabrera,Bruno,Getafe CF,32.0,28,81.0,31.0,68.0,22.0,42.0,73.0,35.0,GET,BruGonGET
+196,González Gutiérrez,Mario,Villarreal CF,68.0,22,39.0,38.0,41.0,56.0,39.0,61.0,70.0,VIL,MarGonVIL
+197,González Pérez,Cristo,Real Madrid,73.0,21,52.0,50.0,60.0,63.0,54.0,64.0,70.0,RMD,CriGonRMD
+198,González Soberón,Álvaro,Villarreal CF,73.0,29,90.5,47.5,60.5,26.5,37.0,73.0,74.5,VIL,ÁlvGonVIL
+199,González Tomás,Borja,D. Alavés,52.0,26,61.0,46.0,54.0,72.0,72.0,68.0,62.0,ALA,BorGonALA
+200,Gracia Gallardo,Julio,Real Betis,53.0,20,52.0,39.0,61.0,58.0,37.0,65.0,56.0,BET,JulGraBET
+201,Granell Nogué,Àlex,Girona FC,65.0,30,73.0,76.0,79.0,81.0,68.0,83.0,60.0,GIR,ÀleGraGIR
+202,Granero Molina,Esteban,RCD Espanyol,55.0,31,72.0,76.0,82.0,78.0,73.0,83.0,50.0,ESP,EstGraESP
+203,Griezmann,Antoine,Atlético Madrid,89.85714285714286,27,70.42857142857143,77.0,77.0,82.85714285714286,74.85714285714286,83.71428571428571,86.14285714285714,ATL,AntGriATL
+204,Guardado,Andrés,Real Betis,74.0,32,72.0,81.0,83.0,72.0,70.0,85.0,73.0,BET,AndGuaBET
+205,Guardiola Navarro,Sergio,Getafe CF,61.0,27,67.0,43.0,41.0,77.0,71.0,72.0,61.0,GET,SerGuaGET
+206,Guerra Rodríguez,Javier,Rayo Vallecano,58.0,36,59.0,50.0,57.0,67.0,80.0,63.0,64.0,RV,JavGueRV
+207,Guerrero Martín,Francisco,Real Betis,77.0,22,55.0,52.0,74.0,42.0,53.0,72.0,82.0,BET,FraGueBET
+208,Guidetti,John,D. Alavés,65.0,26,75.0,80.0,53.0,81.0,81.0,75.0,65.0,ALA,JohGuiALA
+209,Guitián Ceballos,Alberto,R. Valladolid CF,64.0,28,71.0,34.0,64.0,37.0,30.0,70.0,66.0,VLD,AlbGuiVLD
+210,Guitián Ceballos,Alberto,R. Zaragoza,64.0,28,71.0,34.0,64.0,37.0,30.0,70.0,66.0,R. Zaragoza,AlbGuiR. 
+211,Gumbau Garriga,Gerard,CD Leganés,34.0,24,60.0,62.0,79.0,73.0,50.0,81.0,29.0,LGN,GerGumLGN
+212,Guridi Aldalur,Jon,Real Sociedad,57.0,23,38.0,45.0,69.0,62.0,43.0,73.0,62.0,RSO,JonGurRSO
+213,Gómez,Maximiliano,RC Celta,61.0,22,65.0,53.0,58.0,76.0,67.0,76.0,65.0,CEL,MaxGómCEL
+214,Gómez Bordonado,Moisés,SD Huesca,72.0,24,52.0,59.0,69.0,69.0,59.0,79.0,68.0,HUE,MoiGómHUE
+215,Gómez Campaña,José,Levante UD,65.0,25,66.0,78.0,81.0,76.0,69.0,82.0,61.0,LEV,JosGómLEV
+216,Gómez Hermoso,Enrique,Rayo Vallecano,67.0,28,53.0,33.0,35.0,30.0,46.0,40.0,54.0,RV,EnrGómRV
+217,Gómez Pérez,Ibai,D. Alavés,76.0,29,63.0,81.0,78.0,78.0,65.0,76.0,74.0,ALA,IbaGómALA
+218,Gómez Solà,Sergi,Sevilla FC,43.0,26,69.0,46.0,77.0,47.0,41.0,80.0,34.0,SEV,SerGómSEV
+219,Gürler,Serdar,SD Huesca,89.0,27,33.0,60.0,59.0,62.0,52.0,70.0,85.0,HUE,SerGürHUE
+220,Hermoso Canseco,Mario,RCD Espanyol,78.0,23,73.0,55.0,58.0,32.0,45.0,64.0,88.0,ESP,MarHerESP
+221,Hernández,Juan Camilo,SD Huesca,88.0,19,40.0,68.0,59.0,74.0,54.0,67.0,83.0,HUE,JuaHerHUE
+222,Hernández,Lucas,Atlético Madrid,80.33333333333333,22,83.0,28.333333333333332,64.0,48.0,34.666666666666664,81.66666666666667,85.0,ATL,LucHerATL
+223,Hernández,Theo,Real Sociedad,90.0,21,75.0,64.0,52.0,54.0,41.0,76.0,93.0,RSO,TheHerRSO
+224,Hernández Cascante,Rodrigo,Atlético Madrid,70.5,22,63.0,54.0,79.5,76.5,46.0,81.5,66.0,ATL,RodHerATL
+225,Hernández Ortega,Héctor,CD Tenerife,77.0,27,76.0,59.0,56.0,41.0,35.0,66.0,77.0,CD Tenerife,HécHerCD 
+226,Hernández Ortega,Héctor,Real Sociedad,77.0,27,76.0,59.0,56.0,41.0,35.0,66.0,77.0,RSO,HécHerRSO
+227,Herrero Javaloyas,Miguel Ángel,R. Valladolid CF,61.0,30,64.0,73.0,77.0,72.0,74.0,80.0,59.0,VLD,MigHerVLD
+228,Herrerín Buisán,Iago,Athletic Club,45.0,30,37.0,12.0,29.0,16.0,25.0,16.0,34.0,ATH,IagHerATH
+229,Hervías Rubio,Pablo,SD Eibar,80.0,25,42.0,67.0,66.0,64.0,51.0,69.0,78.0,EIB,PabHerEIB
+230,Hjulsager,Andrew,RC Celta,79.0,24,58.0,55.0,68.0,65.0,53.0,71.0,77.0,CEL,AndHjuCEL
+231,Ibáñez Castro,Roberto,Getafe CF,76.0,25,52.0,52.0,67.0,65.0,63.0,72.0,75.0,GET,RobIbáGET
+232,Iglesias Quintas,Borja,RCD Espanyol,59.0,26,42.0,36.0,64.0,75.0,78.0,68.0,65.0,ESP,BorIglESP
+233,Illarramendi,Asier,Real Sociedad,66.0,28,76.0,68.0,82.0,76.0,50.0,86.0,57.0,RSO,AsiIllRSO
+234,Insua Blanco,Pablo,SD Huesca,52.0,25,70.0,23.0,62.0,29.0,32.0,74.0,54.0,HUE,PabInsHUE
+235,Inui,Takashi,Real Betis,88.0,30,49.0,65.0,70.0,77.0,51.0,76.0,77.0,BET,TakInuBET
+236,Iraizoz Moreno,Gorka,Girona FC,32.0,37,38.0,13.0,20.0,14.0,13.0,29.0,33.0,GIR,GorIraGIR
+237,Iturraspe Derteano,Ander,Athletic Club,52.0,29,70.0,66.0,78.0,68.0,58.0,81.0,54.0,ATH,AndItuATH
+238,Januzaj,Adnan,Real Sociedad,82.0,23,43.0,67.0,76.0,73.0,62.5,81.5,78.5,RSO,AdnJanRSO
+239,Jensen,Mathias,RC Celta,74.0,23,65.0,66.0,75.0,69.0,69.0,76.0,74.0,CEL,MatJenCEL
+240,Jiménez Gago,Roberto,RCD Espanyol,45.0,32,29.0,14.0,38.0,11.0,19.0,39.0,48.0,ESP,RobJimESP
+241,Jiménez García,Javier,Valencia CF,53.0,21,69.0,29.0,53.0,28.0,46.0,63.0,51.0,VAL,JavJimVAL
+242,Jiménez López,Juan Miguel,Real Sociedad,77.0,25,57.0,57.0,53.0,72.0,63.0,75.0,76.0,RSO,JuaJimRSO
+243,Jordán Moreno,Joan,SD Eibar,67.0,24,63.0,69.0,79.66666666666667,81.33333333333333,64.66666666666667,81.66666666666667,70.66666666666667,EIB,JoaJorEIB
+244,Jovanović,Aleksandar,SD Huesca,22.0,26,20.0,10.0,15.0,8.0,14.0,22.0,22.0,HUE,AleJovHUE
+245,Juan Llambrich,Miguel,Villarreal CF,71.0,23,58.0,27.0,49.0,29.0,35.0,63.0,66.0,VIL,MigJuaVIL
+246,Juncà Reñé,David,RC Celta,81.0,25,75.0,58.0,61.0,46.0,55.0,72.0,77.0,CEL,DavJunCEL
+247,Kakuta,Gaël,Rayo Vallecano,83.0,27,42.0,78.0,66.0,65.0,51.0,74.0,75.0,RV,GaëKakRV
+248,Kalinić,Nikola,Atlético Madrid,67.0,31,68.0,54.0,48.0,60.0,70.0,72.5,73.5,ATL,NikKalATL
+249,Kaptoum,Wilfrid,Real Betis,64.0,22,54.0,39.0,69.0,67.0,50.0,75.0,56.0,BET,WilKapBET
+250,Kasmirski,Filipe Luís,Atlético Madrid,77.0,33,82.0,75.66666666666667,77.66666666666667,60.333333333333336,66.0,81.33333333333333,76.0,ATL,FilKasATL
+251,Kjær,Simon,Sevilla FC,56.0,29,75.0,69.0,69.0,41.0,61.0,76.0,65.0,SEV,SimKjæSEV
+252,Kondogbia,Geoffrey,Valencia CF,70.0,25,86.66666666666667,57.0,82.0,81.33333333333333,45.333333333333336,85.0,77.66666666666667,VAL,GeoKonVAL
+253,Kroos,Toni,Real Madrid,69.33333333333333,29,60.0,84.0,93.66666666666667,93.0,73.33333333333333,92.66666666666667,66.66666666666667,RMD,TonKroRMD
+254,Laguardia Cisneros,Víctor,D. Alavés,54.0,29,89.0,35.0,57.0,30.0,32.0,70.0,63.0,ALA,VícLagALA
+255,Lasso De La Vega,Borja,Sevilla FC,54.0,25,81.0,64.0,69.0,71.0,59.0,71.0,51.0,SEV,BorLasSEV
+256,Latorre Grueso,Antonio,Valencia CF,82.5,21,67.5,38.0,70.5,53.0,39.0,72.5,81.5,VAL,AntLatVAL
+257,Layún,Miguel,Villarreal CF,76.0,30,72.0,74.0,74.0,76.0,74.0,76.0,76.0,VIL,MigLayVIL
+258,Lee,Kangin,Valencia CF,69.0,17,30.0,82.0,71.0,70.0,74.0,65.0,67.0,VAL,KanLeeVAL
+259,Leiva,Nahuel,Olympiacos CFP,75.0,22,49.0,61.0,62.0,63.0,59.0,68.0,67.0,Olympiacos CFP,NahLeiOly
+260,Leiva,Nahuel,Villarreal CF,75.0,22,49.0,61.0,62.0,63.0,59.0,68.0,67.0,VIL,NahLeiVIL
+261,Lekue Martínez,Iñigo,Athletic Club,90.0,25,67.0,56.0,67.0,68.0,53.0,74.0,84.0,ATH,IñiLekATH
+262,Lemar,Thomas,Atlético Madrid,86.33333333333333,23,63.0,81.0,75.0,76.33333333333333,68.0,84.33333333333333,84.0,ATL,ThoLemATL
+263,Lenglet,Clément,FC Barcelona,72.0,23,80.5,27.0,69.5,35.5,43.5,78.5,73.5,BAR,CléLenBAR
+264,León Limones,Sergio,Real Betis,76.0,30,71.0,64.0,34.0,79.0,80.0,72.0,75.0,BET,SerLeóBET
+265,Llorente Moreno,Marcos,Real Madrid,53.0,23,65.0,51.0,81.5,56.5,53.5,84.5,54.5,RMD,MarLloRMD
+266,Llorente Ríos,Diego Javier,Real Sociedad,65.0,25,75.0,35.0,72.0,37.0,53.0,76.0,63.0,RSO,DieLloRSO
+267,Lobotka,Stanislav,RC Celta,70.0,24,57.0,55.0,76.0,65.0,56.0,84.0,63.0,CEL,StaLobCEL
+268,Longo,Samuele,SD Huesca,74.0,27,80.0,43.0,40.0,67.0,64.0,65.0,77.0,HUE,SamLonHUE
+269,Lozano,Anthony,Girona FC,76.0,25,61.0,28.0,53.0,69.0,67.0,70.0,79.0,GIR,AntLozGIR
+270,Lozano Vizuete,Pol,RCD Espanyol,60.0,19,42.0,38.0,58.0,40.0,49.0,64.0,63.0,ESP,PolLozESP
+271,Luna Rodriguez,Antonio Manuel,Levante UD,71.0,27,82.0,45.0,63.0,55.0,43.0,76.0,72.0,LEV,AntLunLEV
+272,Lunin,Andriy,CD Leganés,33.0,19,22.0,15.0,26.0,7.0,19.0,25.0,26.0,LGN,AndLunLGN
+273,López Cabrera,Unai,Athletic Club,74.0,23,72.0,79.0,74.0,71.0,46.0,75.0,72.0,ATH,UnaLópATH
+274,López Marmol,Lluis,RCD Espanyol,64.0,21,71.0,26.0,58.0,18.0,33.0,62.0,58.0,ESP,LluLópESP
+275,López Muñoz,Pedro,Levante UD,68.0,35,77.0,56.0,64.0,66.0,58.0,70.0,68.0,LEV,PedLópLEV
+276,López Rodríguez,Diego,RCD Espanyol,34.0,37,36.0,11.0,23.0,11.0,21.0,28.0,52.0,ESP,DieLópESP
+277,López Rodríguez,Javier,RCD Espanyol,67.0,33,84.0,52.0,61.0,43.0,56.0,76.0,72.0,ESP,JavLópESP
+278,López Sabata,Pau,Real Betis,45.0,24,39.0,21.0,41.0,18.0,25.0,38.0,52.0,BET,PauLópBET
+279,López Silva,David,RCD Espanyol,55.666666666666664,29,78.66666666666667,46.666666666666664,64.66666666666667,66.0,52.0,80.33333333333333,60.333333333333336,ESP,DavLópESP
+280,López Álvarez,Iván,R. Valladolid CF,81.0,24,49.0,66.0,65.0,76.0,73.0,71.0,80.0,VLD,IváLópVLD
+281,Machín Pérez,Víctor,Atlético Madrid,78.5,29,61.0,62.0,80.5,73.0,74.0,79.5,77.0,ATL,VícMacATL
+282,Maksimović,Nemanja,Getafe CF,62.0,23,59.0,72.0,77.0,69.0,50.0,79.0,65.0,GET,NemMakGET
+283,Mallo Novegil,Hugo,RC Celta,71.0,27,76.0,38.0,68.0,39.0,23.0,71.0,71.0,CEL,HugMalCEL
+284,Mandi,Aïssa,Real Betis,65.0,27,69.0,49.0,73.0,49.0,35.0,78.0,66.0,BET,AïsManBET
+285,Maripán,Guillermo,D. Alavés,45.0,24,75.0,27.0,51.0,24.0,20.0,66.0,48.0,ALA,GuiMarALA
+286,Martins Carriço,Daniel Filipe,Sevilla FC,47.0,30,85.0,54.0,75.0,50.0,62.0,74.0,54.0,SEV,DanMarSEV
+287,Martí Salvador,Roger,Levante UD,78.0,28,65.0,46.0,48.0,72.0,78.0,71.0,79.0,LEV,RogMarLEV
+288,Martín Vigaray,Carlos,D. Alavés,74.0,24,67.0,45.0,48.0,39.0,45.0,65.0,69.0,ALA,CarMarALA
+289,Martínez Berridi,Iñigo,Athletic Club,71.0,27,84.0,51.0,81.0,74.0,39.0,71.0,74.0,ATH,IñiMarATH
+290,Martínez García,José Ignacio,R. Valladolid CF,80.0,29,75.0,58.0,67.0,64.0,40.0,63.0,88.0,VLD,JosMarVLD
+291,Marín Gómez,Adrián,D. Alavés,68.0,22,69.0,35.0,56.0,42.0,38.0,73.0,72.0,ALA,AdrMarALA
+292,Masip López,Jordi,R. Valladolid CF,57.0,30,21.0,20.0,38.0,13.0,12.0,42.0,64.0,VLD,JorMasVLD
+293,Mata Arnaiz,Jaime,Getafe CF,72.0,30,73.0,48.0,49.0,71.0,70.0,61.0,76.0,GET,JaiMatGET
+294,Mayoral Moya,Borja,Levante UD,68.0,21,27.0,57.0,43.0,70.0,69.0,69.0,72.0,LEV,BorMayLEV
+295,Mayoral Moya,Borja,Real Madrid,68.0,21,27.0,57.0,43.0,70.0,69.0,69.5,72.5,RMD,BorMayRMD
+296,Mazáň,Robert,RC Celta,54.0,24,72.0,39.0,66.0,42.0,63.0,72.0,55.0,CEL,RobMazCEL
+297,Medrán Just,Álvaro,Rayo Vallecano,60.0,24,45.0,76.0,80.0,80.0,80.0,81.0,63.0,RV,ÁlvMedRV
+298,Melendo Jiménez,Óscar,RCD Espanyol,60.0,21,57.0,35.0,77.0,60.0,37.0,79.0,65.0,ESP,ÓscMelESP
+299,Melero Manzanares,Gonzalo,SD Huesca,59.0,25,58.0,67.0,74.0,73.0,58.0,77.0,63.0,HUE,GonMelHUE
+300,Mena Rodríguez,José,Sevilla FC,64.0,20,55.0,55.0,66.0,40.0,53.0,65.0,59.0,SEV,JosMenSEV
+301,Mercado,Gabriel,Sevilla FC,75.0,31,81.0,54.0,65.0,58.0,49.0,71.0,75.0,SEV,GabMerSEV
+302,Merino Zazón,Mikel,Real Sociedad,61.0,22,73.0,69.0,74.0,67.0,58.0,78.0,62.0,RSO,MikMerRSO
+303,Merino Zuloaga,Sabin,Athletic Club,69.0,27,60.0,66.0,62.0,71.0,69.0,71.0,78.0,ATH,SabMerATH
+304,Merino Zuloaga,Sabin,CD Leganés,69.0,27,60.0,66.0,62.0,71.0,69.0,71.0,78.0,LGN,SabMerLGN
+305,Mesa Quevedo,Roque,Sevilla FC,74.0,29,89.0,48.0,77.0,54.0,42.0,82.0,75.0,SEV,RoqMesSEV
+306,Mesa Visiga,Rubén,Villarreal CF,62.0,27,68.0,43.0,35.0,64.0,73.0,57.0,52.0,VIL,RubMesVIL
+307,Messi,Lionel,FC Barcelona,93.33333333333333,31,52.333333333333336,96.66666666666667,89.66666666666667,95.83333333333333,76.33333333333333,93.33333333333333,87.66666666666667,BAR,LioMesBAR
+308,Milla Peña,Pere,SD Eibar,78.0,26,45.0,58.0,60.0,70.0,62.0,67.0,76.0,EIB,PerMilEIB
+309,Mina Lorenzo,Santiago,Valencia CF,78.0,23,70.0,56.5,66.5,76.0,63.5,71.25,82.75,VAL,SanMinVAL
+310,Miquel i Pons,Ignasi,Getafe CF,64.0,26,75.0,24.0,58.0,21.0,43.0,69.0,66.0,GET,IgnMiqGET
+311,Miramón,Jorge,SD Huesca,73.0,29,52.0,64.0,70.0,53.0,65.0,73.0,71.0,HUE,JorMirHUE
+312,Miranda González,Juan,FC Barcelona,65.0,19,57.0,37.0,56.0,37.0,44.0,63.0,69.0,BAR,JuaMirBAR
+313,Modrić,Luka,Real Madrid,85.0,33,69.0,80.33333333333333,90.66666666666667,88.0,88.0,95.33333333333333,76.33333333333333,RMD,LukModRMD
+314,Mohamed Tuhami,Anuar,R. Valladolid CF,73.0,24,70.0,42.0,70.0,46.0,51.0,72.0,71.0,VLD,AnuMohVLD
+315,Mojica,Johan,Girona FC,89.0,26,75.0,68.0,70.0,61.0,67.0,78.0,90.0,GIR,JohMojGIR
+316,Molina Orta,Daniel,RC Celta,53.0,22,63.0,59.0,69.0,66.0,55.0,72.0,58.0,CEL,DanMolCEL
+317,Molina Vidal,Jorge,Getafe CF,34.0,36,76.0,59.0,57.0,75.0,80.0,75.0,41.0,GET,JorMolGET
+318,Montiel Caballero,Jonathan,RC Deportivo,65.0,20,59.0,38.0,69.0,62.0,47.0,67.0,61.0,RC Deportivo,JonMonRC 
+319,Montiel Caballero,Jonathan,Rayo Vallecano,65.0,20,59.0,38.0,69.0,62.0,47.0,67.0,61.0,RV,JonMonRV
+320,Montolio Lafuente,Genís,Levante UD,63.0,22,62.0,28.0,58.0,35.0,30.0,70.0,58.0,LEV,GenMonLEV
+321,Montolio Lafuente,Genís,RCD Espanyol,63.0,22,62.0,28.0,58.0,35.0,30.0,70.0,58.0,ESP,GenMonESP
+322,Mor,Emre,RC Celta,88.0,21,55.0,38.0,47.0,62.0,49.0,67.0,81.0,CEL,EmrMorCEL
+323,Morales Nogales,José Luis,Levante UD,88.0,31,58.0,72.0,68.0,80.0,76.0,75.0,87.0,LEV,JosMorLEV
+324,Moreno,Héctor,Real Sociedad,65.0,31,77.0,28.0,68.0,44.0,63.0,75.0,63.0,RSO,HécMorRSO
+325,Moreno Balagueró,Gerard,Villarreal CF,78.0,26,56.5,57.5,57.5,78.5,74.5,80.0,81.5,VIL,GerMorVIL
+326,Moreno Fuertes,Juan Francisco,CD Leganés,74.0,30,68.0,60.0,67.0,80.0,59.0,72.0,79.0,LGN,JuaMorLGN
+327,Moreno Lopera,Alexandre,Rayo Vallecano,71.0,25,49.0,57.0,64.0,60.0,70.0,72.0,78.0,RV,AleMorRV
+328,Moreno Machado,Rodrigo,Valencia CF,88.33333333333333,27,60.333333333333336,67.33333333333333,58.333333333333336,79.66666666666667,77.66666666666667,79.0,93.0,VAL,RodMorVAL
+329,Morlanes Ariño,Manuel,Villarreal CF,74.0,20,57.0,71.0,70.0,59.0,70.0,76.0,64.0,VIL,ManMorVIL
+330,Morón García,Lorenzo,Real Betis,63.0,25,38.0,53.0,35.0,80.0,77.0,74.0,66.0,BET,LorMorBET
+331,Moyano Lujano,Javier,R. Valladolid CF,79.0,32,65.0,53.0,49.0,51.0,46.0,62.0,77.0,VLD,JavMoyVLD
+332,Moyá Rumbo,Miguel Ángel,Real Sociedad,46.0,34,22.0,12.0,35.0,16.0,11.0,31.0,34.0,RSO,MigMoyRSO
+333,Muniain Goñi,Iker,Athletic Club,83.0,26,66.0,69.0,65.0,72.0,61.0,75.0,75.0,ATH,IkeMunATH
+334,Muniesa Martínez,Marc,Girona FC,42.0,26,78.0,40.0,56.0,37.0,50.0,73.0,59.0,GIR,MarMunGIR
+335,Murara Neto,Norberto,Valencia CF,54.0,29,40.0,13.0,41.0,20.0,22.0,36.0,49.333333333333336,VAL,NorMurVAL
+336,Muriel,Luis,Fiorentina,86.0,27,50.0,60.0,55.0,65.0,74.0,75.0,90.0,Fiorentina,LuiMurFio
+337,Muriel,Luis,Sevilla FC,86.0,27,50.0,60.0,55.0,65.0,74.0,75.0,90.0,SEV,LuiMurSEV
+338,Murillo,Jeison,FC Barcelona,75.0,26,88.0,26.0,62.0,13.0,46.0,69.0,76.0,BAR,JeiMurBAR
+339,Murillo,Jeison,Valencia CF,75.0,26,88.5,26.0,62.5,13.0,46.5,69.5,76.5,VAL,JeiMurVAL
+340,Musto,Damián,SD Huesca,42.0,31,78.0,50.0,76.0,67.0,40.0,79.0,49.0,HUE,DamMusHUE
+341,Muñoz,Ezequiel,CD Leganés,43.0,28,78.0,30.0,55.0,31.0,21.0,60.0,44.0,LGN,EzeMuñLGN
+342,Méndez Portela,Brais,RC Celta,75.0,22,38.0,60.0,69.66666666666667,76.66666666666667,66.0,79.33333333333333,75.0,CEL,BraMénCEL
+343,Narváez,Juan José,Real Betis,74.0,23,38.0,42.0,71.0,70.0,59.0,73.0,76.0,BET,JuaNarBET
+344,Narváez,Juan José,UD Almería,74.0,23,38.0,42.0,71.0,70.0,59.0,73.0,76.0,UD Almería,JuaNarUD 
+345,Navarro Jiménez,Joaquín,D. Alavés,70.0,28,80.0,42.0,61.0,55.0,48.0,74.0,75.0,ALA,JoaNavALA
+346,Navas,Keylor,Real Madrid,54.5,32,32.0,15.0,37.0,13.0,25.0,30.0,53.0,RMD,KeyNavRMD
+347,Navas González,Jesús,Sevilla FC,88.0,33,63.0,46.0,73.0,70.0,56.0,75.0,85.0,SEV,JesNavSEV
+348,Ndiaye Diedhiou,Amath,Getafe CF,89.0,22,62.0,65.0,60.0,64.0,49.0,72.0,89.0,GET,AmaNdiGET
+349,Nunes Vezo,Rúben Miguel,Valencia CF,68.5,24,75.5,32.0,66.5,55.5,54.5,69.5,68.5,VAL,RúbNunVAL
+350,Nyom,Allan,CD Leganés,67.0,30,80.0,30.0,64.0,66.0,37.0,63.0,76.0,LGN,AllNyoLGN
+351,Núñez Gestoso,Unai,Athletic Club,66.0,21,74.0,22.0,33.0,17.0,31.0,74.0,68.0,ATH,UnaNúñATH
+352,Oblak,Jan,Atlético Madrid,43.5,26,34.0,14.0,26.0,12.0,11.0,29.0,60.5,ATL,JanOblATL
+353,Odriozola Arzalluz,Álvaro,Real Madrid,80.0,23,63.0,30.0,70.0,59.5,62.5,77.5,82.5,RMD,ÁlvOdrRMD
+354,Ojeda Saranova,Daniel,CD Leganés,71.0,24,38.0,43.0,66.0,58.0,72.0,64.0,68.0,LGN,DanOjeLGN
+355,Olazábal Paredes,Oier,Levante UD,46.333333333333336,29,28.0,15.0,33.0,15.0,25.0,35.0,43.666666666666664,LEV,OieOlaLEV
+356,Olivas Alba,Francisco José,R. Valladolid CF,36.0,30,71.0,36.0,56.0,36.0,38.0,64.0,39.0,VLD,FraOliVLD
+357,Omeruo,Kenneth,CD Leganés,67.0,25,76.0,23.0,60.0,31.0,35.0,63.0,75.0,LGN,KenOmeLGN
+358,Orellana,Fabián,SD Eibar,77.0,32,54.0,79.0,74.0,80.0,75.0,78.0,71.0,EIB,FabOreEIB
+359,Oyarzabal Ugarte,Mikel,Real Sociedad,71.0,21,40.0,71.0,73.0,79.0,47.0,80.0,74.0,RSO,MikOyaRSO
+360,Pacheco Antunes,Vitorino,Getafe CF,76.0,31,75.0,80.0,76.0,84.0,61.0,77.0,79.0,GET,VitPacGET
+361,Pacheco Flores,Fernando,D. Alavés,52.0,26,27.0,20.0,27.0,15.0,23.0,24.0,45.333333333333336,ALA,FerPacALA
+362,Paik,Seung Ho,Girona FC,67.0,21,52.0,42.0,62.0,64.0,48.0,71.0,68.0,GIR,SeuPaiGIR
+363,Pardo Gutiérrez,Rubén,Real Sociedad,64.0,26,58.0,73.0,75.0,73.0,69.0,78.0,65.0,RSO,RubParRSO
+364,Parejo Muñoz,Daniel,Valencia CF,52.5,29,63.666666666666664,91.16666666666667,87.33333333333333,84.16666666666667,85.16666666666667,91.16666666666667,43.666666666666664,VAL,DanParVAL
+365,Partey,Thomas,Atlético Madrid,73.5,25,76.5,59.5,81.25,77.75,47.5,87.25,77.25,ATL,ThoParATL
+366,Pascual Santonja,Andrés,Valencia CF,58.0,22,45.0,59.0,59.0,60.0,58.0,59.0,55.0,VAL,AndPasVAL
+367,Pedraza Sag,Alfonso,Villarreal CF,78.0,22,58.0,57.0,68.0,66.0,64.0,70.0,83.0,VIL,AlfPedVIL
+368,Pedrosa Loureiro,Daniel,R. Valladolid CF,59.0,22,37.0,43.0,36.0,52.0,60.0,50.0,58.0,VLD,DanPedVLD
+369,Peña Jiménez,Rubén,SD Eibar,79.0,27,61.0,55.0,56.0,66.0,64.0,78.0,88.0,EIB,RubPeñEIB
+370,Piatti,Pablo,RCD Espanyol,89.0,29,55.0,58.0,70.0,72.0,64.0,76.0,83.0,ESP,PabPiaESP
+371,Piccini,Cristiano,Valencia CF,74.0,26,74.0,37.0,59.0,35.0,35.0,73.5,76.5,VAL,CriPicVAL
+372,Pina Isla,Tomás,D. Alavés,64.66666666666667,31,77.0,62.666666666666664,81.33333333333333,72.66666666666667,63.0,82.33333333333333,58.0,ALA,TomPinALA
+373,Piqué Bernabeu,Gerard,FC Barcelona,50.2,31,73.0,43.2,81.0,51.6,70.4,82.0,62.0,BAR,GerPiqBAR
+374,Planas Antolínez,Carles,Girona FC,73.0,27,73.0,50.0,58.0,37.0,51.0,76.0,71.0,GIR,CarPlaGIR
+375,Plano Pedreño,Óscar,R. Valladolid CF,79.0,27,58.0,68.0,61.0,72.0,66.0,64.0,79.0,VLD,ÓscPlaVLD
+376,Pons Riera,Pere,Girona FC,68.0,25,75.0,62.0,80.0,64.0,45.0,82.0,67.0,GIR,PerPonGIR
+377,Portillo Soler,Francisco,Getafe CF,67.0,28,48.0,56.0,75.0,70.0,49.0,78.0,61.0,GET,FraPorGET
+378,Portugues Manzanera,Cristian,Girona FC,85.0,26,76.0,64.0,78.0,75.0,53.0,83.0,80.0,GIR,CriPorGIR
+379,Postigo Redondo,Sergio,Levante UD,59.0,30,75.0,26.0,69.0,34.0,45.0,65.0,64.0,LEV,SerPosLEV
+380,Pozo la Rosa,José Ángel,Rayo Vallecano,74.0,22,39.0,64.0,75.0,74.0,66.0,77.0,72.0,RV,JosPozRV
+381,Prcić,Sanjin,Levante UD,62.0,25,70.0,73.0,73.0,60.0,63.0,76.0,65.0,LEV,SanPrcLEV
+382,Puig Martí,Ricard,FC Barcelona,63.0,19,44.0,51.0,74.0,49.0,55.0,76.0,66.0,BAR,RicPuiBAR
+383,Pulido Mayoral,Jorge,SD Huesca,39.0,27,78.0,38.0,43.0,18.0,47.0,67.0,47.0,HUE,JorPulHUE
+384,Pérez,Hernán,RCD Espanyol,78.0,29,85.0,62.0,67.0,78.0,48.0,76.0,76.0,ESP,HerPérESP
+385,Pérez Martínez,Mario Gaspar,Villarreal CF,76.0,28,78.0,54.0,69.0,69.0,50.0,77.0,80.0,VIL,MarPérVIL
+386,Pérez Mateo,Javier,R. Valladolid CF,52.0,23,41.0,37.0,56.0,60.0,47.0,61.0,60.0,VLD,JavPérVLD
+387,Pérez del Mármol,Rubén Salvador,CD Leganés,58.0,29,90.33333333333333,61.0,76.33333333333333,75.66666666666667,53.333333333333336,84.0,48.333333333333336,LGN,RubPérLGN
+388,Raba Antolin,Daniel,Villarreal CF,75.0,23,50.0,42.0,74.0,60.0,49.0,76.0,72.0,VIL,DanRabVIL
+389,Radoja,Nemanja,RC Celta,52.0,25,74.0,36.0,78.0,71.0,42.0,77.0,38.0,CEL,NemRadCEL
+390,Rakitić,Ivan,FC Barcelona,67.33333333333333,30,67.0,84.0,90.66666666666667,90.66666666666667,82.0,87.66666666666667,59.666666666666664,BAR,IvaRakBAR
+391,Ramalho Chimeno,Jonás,Girona FC,67.0,25,76.0,34.0,52.0,34.0,41.0,69.0,74.0,GIR,JonRamGIR
+392,Ramis Barrios,Iván,SD Eibar,34.0,34,84.0,77.0,72.0,65.0,65.0,72.0,35.0,EIB,IváRamEIB
+393,Ramos García,Sergio,Real Madrid,79.66666666666667,32,88.33333333333333,72.33333333333333,78.33333333333333,59.666666666666664,74.33333333333333,84.66666666666667,78.66666666666667,RMD,SerRamRMD
+394,Ramos Oliveira Melo,Arthur Henrique,FC Barcelona,70.8,22,76.0,62.6,83.8,77.8,72.0,88.8,73.6,BAR,ArtRamBAR
+395,Ramírez López,Juan Pedro,Girona FC,41.0,27,79.0,35.0,60.0,27.0,37.0,79.0,63.0,GIR,JuaRamGIR
+396,Račić,Uroš,Valencia CF,54.0,20,69.0,55.0,72.5,74.5,62.0,75.5,65.5,VAL,UroRačVAL
+397,Regal Angulo,Antonio Jesús,R. Valladolid CF,89.0,31,72.0,59.0,49.0,47.0,49.0,67.0,80.0,VLD,AntRegVLD
+398,Reguilón Rodríguez,Sergio,Real Madrid,67.0,22,55.0,39.0,25.0,33.0,42.0,54.0,62.0,RMD,SerRegRMD
+399,Remeseiro Salgueiro,David Jason,Levante UD,81.0,24,48.0,69.0,66.0,71.0,68.0,73.0,79.0,LEV,DavRemLEV
+400,Remiro Gargallo,Alejandro,Athletic Club,40.0,23,34.0,17.0,25.0,11.0,24.0,29.0,46.0,ATH,AleRemATH
+401,Resurrección,Jorge,Atlético Madrid,78.33333333333333,27,71.0,76.66666666666667,90.33333333333333,81.33333333333333,59.0,91.33333333333333,74.66666666666667,ATL,JorResATL
+402,Rico Moreno,Mikel,Athletic Club,56.0,34,72.0,63.0,76.0,64.0,60.0,75.0,39.0,ATH,MikRicATH
+403,Riera Canadell,Roger,Villarreal CF,40.0,23,59.0,28.0,39.0,26.0,43.0,48.0,54.0,VIL,RogRieVIL
+404,Riesgo Unamuno,Asier,SD Eibar,54.0,35,34.0,15.0,33.0,12.0,13.0,32.0,55.0,EIB,AsiRieEIB
+405,Rivero Sabater,Cristian,Valencia CF,20.0,20,27.0,14.0,23.0,8.0,18.0,22.0,29.0,VAL,CriRivVAL
+406,Roberto Carnicer,Sergio,FC Barcelona,77.0,26,68.0,60.0,77.0,66.5,57.0,86.5,78.5,BAR,SerRobBAR
+407,Roberts,Patrick,Girona FC,79.0,21,38.0,49.0,65.0,67.0,62.0,73.0,74.0,GIR,PatRobGIR
+408,Robles Blázquez,Joel,Real Betis,46.0,28,23.0,20.0,26.0,11.0,15.0,15.0,50.0,BET,JoeRobBET
+409,Roca Junqué,Marc,RCD Espanyol,54.0,22,69.0,52.0,74.0,65.0,55.0,80.0,55.0,ESP,MarRocESP
+410,Rochina Naixes,Rubén,Levante UD,74.0,27,65.0,72.0,69.0,80.0,69.0,74.0,72.0,LEV,RubRocLEV
+411,Rodrigues,Kévin Manuel,Real Sociedad,73.0,24,55.0,51.0,66.0,50.0,50.0,78.0,73.0,RSO,KévRodRSO
+412,Rodrigues Oliveira,Paulo André,SD Eibar,66.0,28,71.0,29.0,49.0,29.0,45.0,75.0,70.0,EIB,PauRodEIB
+413,Rodríguez Benito,José Manuel,Levante UD,70.0,26,80.0,33.0,67.0,56.0,48.0,67.0,68.0,LEV,JosRodLEV
+414,Rodríguez Díaz,Ángel Luís,Getafe CF,75.5,31,63.5,51.0,50.0,81.5,70.5,79.5,75.5,GET,ÁngRodGET
+415,Rodríguez Menéndez,Jonathan,D. Alavés,87.0,27,60.0,76.0,70.0,66.0,59.0,71.0,85.0,ALA,JonRodALA
+416,Rodríguez Navas,Raúl,Real Sociedad,50.0,30,79.0,65.0,56.0,41.0,46.0,73.0,40.0,RSO,RaúRodRSO
+417,Rodríguez Oterino,Yoel,R. Valladolid CF,35.0,30,35.0,15.0,35.0,11.0,25.0,31.0,43.0,VLD,YoeRodVLD
+418,Rodríguez Oterino,Yoel,SD Eibar,35.0,30,35.0,15.0,35.0,11.0,25.0,31.0,43.0,EIB,YoeRodEIB
+419,Rodríguez Serrano,Genaro,Sevilla FC,67.0,20,67.0,46.0,68.0,44.0,54.0,69.0,67.0,SEV,GenRodSEV
+420,Rolán,Diego,CD Leganés,74.0,25,64.0,70.0,62.0,63.0,75.0,74.0,78.0,LGN,DieRolLGN
+421,Román Triguero,Roberto,Rayo Vallecano,68.0,33,69.0,42.0,67.0,36.0,44.0,70.0,69.0,RV,RobRomRV
+422,Roncaglia,Facundo,RC Celta,61.0,31,74.0,52.0,81.0,73.0,35.0,69.0,67.0,CEL,FacRonCEL
+423,Ruiz Ojeda,Jorge,Levante UD,52.0,23,30.0,12.0,20.0,15.0,11.0,12.0,52.0,LEV,JorRuiLEV
+424,Ruiz Ortega,Abel,FC Barcelona,69.0,18,32.0,48.0,42.0,67.0,64.0,65.0,70.0,BAR,AbeRuiBAR
+425,Ruiz Torre,Víctor,Villarreal CF,55.0,29,82.0,46.0,70.0,38.0,46.0,75.0,59.0,VIL,VícRuiVIL
+426,Rulli,Gerónimo,Real Sociedad,54.0,26,26.0,20.0,23.0,17.0,24.0,32.0,48.0,RSO,GerRulRSO
+427,Sabater Tous,Damià,RCD Espanyol,70.0,22,70.0,43.0,65.0,59.0,70.0,67.0,61.0,ESP,DamSabESP
+428,Sadiku,Armando,Levante UD,66.0,27,58.0,31.0,41.0,64.0,63.0,63.0,72.0,LEV,ArmSadLEV
+429,Salvador Edú,Ibán,RC Celta,85.0,23,70.0,42.0,53.0,64.0,58.0,64.0,81.0,CEL,IbáSalCEL
+430,Samper Montañá,Sergi,FC Barcelona,55.0,24,55.0,46.0,76.0,52.0,52.0,80.0,33.0,BAR,SerSamBAR
+431,San José Domínguez,Mikel,Athletic Club,33.0,29,76.0,44.0,77.0,73.0,51.0,78.0,38.0,ATH,MikSanATH
+432,Sanabria,Antonio,Real Betis,77.0,22,32.0,64.0,63.0,65.0,69.0,74.0,79.0,BET,AntSanBET
+433,Sansone,Nicola,Bologna,82.0,27,68.0,69.0,65.0,75.0,66.0,75.0,81.0,Bologna,NicSanBol
+434,Sansone,Nicola,Villarreal CF,82.0,27,68.0,69.0,65.0,75.0,66.0,75.0,81.0,VIL,NicSanVIL
+435,Santamaría Ciprián,Roberto,SD Huesca,48.0,33,36.0,20.0,11.0,12.0,16.0,17.0,46.0,HUE,RobSanHUE
+436,Santos,Michael,CD Leganés,77.0,25,80.0,62.0,57.0,69.0,70.0,65.0,75.0,LGN,MicSanLGN
+437,Sarabia García,Pablo,Sevilla FC,73.33333333333333,26,32.666666666666664,74.33333333333333,77.33333333333333,77.0,63.0,85.0,76.0,SEV,PabSarSEV
+438,Sastre Reus,Lluís,SD Huesca,58.0,32,75.0,72.0,76.0,64.0,57.0,75.0,57.0,HUE,LluSasHUE
+439,Saveljich,Esteban,Levante UD,42.0,27,72.0,35.0,50.0,27.0,43.0,56.0,59.0,LEV,EstSavLEV
+440,Saveljich,Esteban,UD Almería,42.0,27,72.0,35.0,50.0,27.0,43.0,56.0,59.0,UD Almería,EstSavUD 
+441,Savić,Stefan,Atlético Madrid,55.0,28,83.5,28.0,69.5,31.0,37.5,72.5,61.5,ATL,SteSavATL
+442,Serantes Simón,Jon Ander,CD Leganés,55.0,29,27.0,13.0,39.0,14.0,18.0,21.0,65.0,LGN,JonSerLGN
+443,Shibasaki,Gaku,Getafe CF,69.0,26,65.0,67.0,79.0,66.0,71.0,81.0,67.0,GET,GakShiGET
+444,Silva,Jonathan,CD Leganés,83.0,24,82.0,70.0,63.0,69.0,55.0,70.0,75.0,LGN,JonSilLGN
+445,Silva Coentrão,Fábio Alexandre,Real Madrid,77.5,30,81.5,51.0,69.0,64.5,54.0,77.5,74.0,RMD,FábSilRMD
+446,Silva Coentrão,Fábio Alexandre,Rio Ave FC,77.0,30,81.0,51.0,69.0,64.0,54.0,77.0,74.0,Rio Ave FC,FábSilRio
+447,Silva de Carvalho,William,Real Betis,49.0,26,75.0,50.0,86.0,55.0,60.0,84.0,53.0,BET,WilSilBET
+448,Silva de Oliveira,Malcom Filipe,FC Barcelona,87.33333333333333,21,53.0,81.33333333333333,73.0,85.33333333333333,68.0,83.33333333333333,82.0,BAR,MalSilBAR
+449,Simon,Moses,Levante UD,93.0,23,38.0,55.0,54.0,68.0,60.0,69.0,92.0,LEV,MosSimLEV
+450,Simón Mendibil,Unai,Athletic Club,46.0,21,27.0,14.0,21.0,13.0,24.0,29.0,48.0,ATH,UnaSimATH
+451,Siovas,Dimitrios,CD Leganés,40.0,30,80.0,28.0,70.0,37.0,40.0,70.0,37.0,LGN,DimSioLGN
+452,Sisniega,Pablo,Real Sociedad,41.0,23,24.0,21.0,46.0,18.0,23.0,33.0,48.0,RSO,PabSisRSO
+453,Sisto,Pione,RC Celta,81.0,23,52.0,75.0,65.0,72.0,66.0,70.0,81.0,CEL,PioSisCEL
+454,Sivera Salvá,Antonio,D. Alavés,59.0,22,25.0,12.0,34.0,12.0,24.0,32.0,55.0,ALA,AntSivALA
+455,Sobrino Pozuelo,Rubén,D. Alavés,79.0,26,65.0,57.0,47.0,74.0,66.0,73.0,85.0,ALA,RubSobALA
+456,Soler Barragán,Carlos,Valencia CF,75.0,22,49.0,82.5,79.0,73.0,80.5,84.5,77.5,VAL,CarSolVAL
+457,Soni,Kévin,Girona FC,75.0,20,54.0,48.0,50.0,47.0,53.0,63.0,72.0,GIR,KévSonGIR
+458,Soria Solís,David,Getafe CF,49.0,25,24.0,11.0,33.0,18.0,23.0,24.0,34.0,GET,DavSorGET
+459,Soriano Llido,Bruno,Villarreal CF,36.0,34,76.0,77.0,84.0,77.0,75.0,85.0,36.0,VIL,BruSorVIL
+460,Soriano Oropesa,Juan,Sevilla FC,34.0,21,25.0,24.0,24.0,16.0,28.0,23.0,34.0,SEV,JuaSorSEV
+461,Stuani,Cristhian,Girona FC,71.0,32,79.4,59.8,68.2,78.2,84.0,78.0,67.2,GIR,CriStuGIR
+462,Susaeta Laskurain,Markel,Athletic Club,80.0,31,68.0,82.0,81.0,75.0,58.0,82.0,71.0,ATH,MarSusATH
+463,Suárez,Damián,Getafe CF,77.0,30,80.0,70.0,66.0,70.0,67.0,76.0,80.0,GET,DamSuáGET
+464,Suárez,Leonardo,R. Valladolid CF,72.0,22,36.0,70.0,70.0,70.0,62.0,74.0,65.0,VLD,LeoSuáVLD
+465,Suárez,Luis,FC Barcelona,87.42857142857143,31,88.57142857142857,86.42857142857143,65.57142857142857,85.42857142857143,85.42857142857143,84.42857142857143,75.57142857142857,BAR,LuiSuáBAR
+466,Suárez Fernández,Denis,FC Barcelona,77.0,25,47.0,70.0,78.0,73.5,63.0,82.5,77.0,BAR,DenSuáBAR
+467,Suárez García,José Aurelio,Girona FC,48.0,23,20.0,14.0,26.0,20.0,29.0,23.0,46.0,GIR,JosSuáGIR
+468,Suárez Pier,Roberto,Levante UD,63.0,23,64.0,42.0,68.0,39.0,39.0,71.0,58.0,LEV,RobSuáLEV
+469,Szymanowski,Alexander,CD Leganés,91.0,30,55.0,57.0,63.0,68.0,70.0,74.0,84.0,LGN,AleSzyLGN
+470,Sánchez Benítez,Luis Miguel,R. Valladolid CF,61.0,26,81.0,30.0,66.0,34.0,38.0,68.0,58.0,VLD,LuiSánVLD
+471,Sánchez Gil,Pedro León,SD Eibar,63.0,32,55.0,86.0,85.0,79.0,71.0,83.0,63.0,EIB,PedSánEIB
+472,Sánchez Mata,Victor,RCD Espanyol,58.0,31,86.0,69.0,78.0,67.0,61.0,85.0,61.0,ESP,VicSánESP
+473,Sánchez Ortega,Sergio,Cádiz CF,65.0,32,76.0,30.0,60.0,41.0,47.0,63.0,63.0,Cádiz CF,SerSánCád
+474,Sánchez Ortega,Sergio,RCD Espanyol,65.0,32,76.0,30.0,60.0,41.0,47.0,63.0,63.0,ESP,SerSánESP
+475,Sánchez Rodriguez,Francisco Jose,Sevilla FC,72.0,23,38.0,65.0,59.0,65.0,56.0,68.0,67.0,SEV,FraSánSEV
+476,Sánchez Rodríguez,Joaquín,Real Betis,76.0,37,53.0,77.0,83.0,76.0,75.0,82.0,70.0,BET,JoaSánBET
+477,Sánchez Ruiz,Jozabed,RC Celta,67.0,27,58.0,57.0,72.0,77.0,54.0,78.0,61.0,CEL,JozSánCEL
+478,Tarín Higón,Rodrigo,CD Leganés,69.0,22,68.0,30.0,52.0,41.0,40.0,59.0,71.0,LGN,RodTarLGN
+479,Tello Herrera,Cristian,Real Betis,93.0,27,48.0,64.0,70.0,71.0,56.0,77.0,91.0,BET,CriTelBET
+480,Timor Copoví,David,Girona FC,39.0,29,80.0,81.0,77.0,80.0,69.0,81.0,52.0,GIR,DavTimGIR
+481,Timor Copoví,David,UD Las Palmas,39.0,29,80.0,81.0,77.0,80.0,69.0,81.0,52.0,UD Las Palmas,DavTimUD 
+482,Toko-Ekambi,Karl,Villarreal CF,86.0,26,43.0,63.0,58.0,72.0,69.0,69.0,83.0,VIL,KarTokVIL
+483,Torres,Daniel,D. Alavés,57.0,29,87.0,50.0,74.0,61.0,72.0,73.0,53.0,ALA,DanTorALA
+484,Torres Belén,Juan Francisco,Atlético Madrid,75.8,34,81.2,61.2,68.4,54.4,68.2,80.2,88.6,ATL,JuaTorATL
+485,Torres García,Ferrán,Valencia CF,77.0,18,34.0,46.0,72.0,55.0,62.0,69.0,76.0,VAL,FerTorVAL
+486,Trejo,Óscar,Rayo Vallecano,67.0,30,70.0,69.0,70.0,68.0,70.0,75.0,73.0,RV,ÓscTreRV
+487,Trigueros Muñoz,Manuel,Villarreal CF,71.0,27,71.0,69.0,82.0,80.0,65.0,86.0,69.0,VIL,ManTriVIL
+488,Umtiti,Samuel,FC Barcelona,71.0,25,81.0,62.0,73.5,74.5,61.0,81.5,73.5,BAR,SamUmtBAR
+489,Vaclík,Tomáš,Sevilla FC,34.0,29,29.0,16.0,38.0,16.0,13.0,17.0,35.0,SEV,TomVacSEV
+490,Valdés Díaz,José Ángel,SD Eibar,69.0,29,69.0,67.0,61.0,57.0,45.0,77.0,74.0,EIB,JosValEIB
+491,Valente da Silva,André Miguel,Sevilla FC,76.5,23,78.0,34.0,59.5,62.5,83.5,69.0,85.0,SEV,AndValSEV
+492,Vallejo Lázaro,Jesús,Real Madrid,67.0,22,74.5,31.0,75.5,31.0,45.5,76.5,74.5,RMD,JesValRMD
+493,Valverde,Federico,Real Madrid,66.0,20,52.0,48.0,79.0,78.0,42.0,78.0,68.0,RMD,FedValRMD
+494,Varane,Raphaël,Real Madrid,84.66666666666667,25,80.66666666666667,60.0,84.0,63.0,50.666666666666664,83.33333333333333,87.33333333333333,RMD,RapVarRMD
+495,Velázquez,Emiliano,Rayo Vallecano,63.0,24,69.0,26.0,71.0,41.0,37.0,67.0,46.0,RV,EmiVelRV
+496,Venancio Casimiro,Carlos Henrique,Real Madrid,59.0,26,87.0,74.0,82.5,79.5,66.0,85.5,65.5,RMD,CarVenRMD
+497,Verde,Daniele,R. Valladolid CF,89.0,22,58.0,43.0,60.0,62.0,59.0,68.0,89.0,VLD,DanVerVLD
+498,Vermaelen,Thomas,FC Barcelona,67.5,33,77.5,64.0,78.5,68.5,62.5,80.5,64.0,BAR,ThoVerBAR
+499,Vesga Arruti,Mikel,CD Leganés,49.0,25,67.0,28.0,75.0,61.0,57.0,74.0,52.0,LGN,MikVesLGN
+500,Vidal,Arturo,FC Barcelona,60.5,31,93.5,68.0,78.0,85.5,81.5,83.5,55.0,BAR,ArtVidBAR
+501,Vidal Parreu,Aleix,Sevilla FC,89.0,29,80.0,46.0,64.0,59.0,51.0,78.0,93.0,SEV,AleVidSEV
+502,Vieira da Silva,Marcelo,Real Madrid,86.0,30,87.33333333333333,69.66666666666667,79.33333333333333,73.0,61.666666666666664,88.0,85.0,RMD,MarVieRMD
+503,Villa Suárez,Antonio,R. Valladolid CF,71.0,24,46.0,51.0,71.0,67.0,60.0,73.0,67.0,VLD,AntVilVLD
+504,Villalibre Molina,Asier,Athletic Club,72.0,21,62.0,36.0,45.0,57.0,70.0,55.0,73.0,ATH,AsiVilATH
+505,Villar Martínez,Iván,RC Celta,32.0,21,18.0,15.0,22.0,15.0,23.0,23.0,33.0,CEL,IváVilCEL
+506,Vilà Roselló,Dídac,RCD Espanyol,69.0,29,78.0,37.0,66.0,57.0,34.0,64.0,73.0,ESP,DídVilESP
+507,Vito Brezmes,Marc,Girona FC,25.0,22,20.0,11.0,18.0,6.0,18.0,23.0,28.0,GIR,MarVitGIR
+508,Vukčević,Nikola,Levante UD,64.0,27,85.0,64.0,70.0,61.0,53.0,79.0,56.0,LEV,NikVukLEV
+509,Vázquez,Franco,Sevilla FC,58.0,29,78.0,68.0,78.0,84.0,67.0,84.0,62.0,SEV,FraVázSEV
+510,Vázquez Iglesias,Lucas,Real Madrid,84.5,27,65.0,75.0,75.0,80.5,56.0,83.5,79.0,RMD,LucVázRMD
+511,Wagué,Moussa,FC Barcelona,85.0,20,68.0,31.0,56.0,32.0,39.0,62.0,81.0,BAR,MouWagBAR
+512,Wakaso,Mubarak,D. Alavés,87.0,28,81.0,57.0,70.0,68.0,36.0,75.0,87.0,ALA,MubWakALA
+513,Wass,Daniel,Valencia CF,74.33333333333333,29,62.333333333333336,86.0,79.33333333333333,78.66666666666667,65.0,85.0,77.0,VAL,DanWasVAL
+514,Werner,Axel,SD Huesca,41.0,22,24.0,15.0,19.0,18.0,23.0,25.0,46.0,HUE,AxeWerHUE
+515,Williams Arthuer,Iñaki,Athletic Club,92.0,24,67.33333333333333,54.333333333333336,68.0,81.33333333333333,66.66666666666667,81.66666666666667,94.66666666666667,ATH,IñaWilATH
+516,Yokuşlu,Okay,RC Celta,72.0,24,81.0,65.0,72.0,75.0,60.0,77.0,74.0,CEL,OkaYokCEL
+517,Yáñez Alabart,Rubén,Getafe CF,44.0,25,20.0,15.0,22.0,17.0,25.0,27.0,43.0,GET,RubYáñGET
+518,Zaldúa Bengoetxea,Joseba,Real Sociedad,69.0,26,78.0,41.0,55.0,40.0,32.0,78.0,69.0,RSO,JosZalRSO
+519,Zidane,Luca,Real Madrid,33.0,20,16.0,11.0,15.0,5.0,19.0,22.0,32.0,RMD,LucZidRMD
+520,Zubeldia Elorza,Igor,Real Sociedad,65.0,21,70.0,65.0,76.0,68.0,51.0,77.0,58.0,RSO,IgoZubRSO
+521,Zurutuza,David,Real Sociedad,66.0,32,72.0,59.0,74.0,75.0,61.0,79.0,64.0,RSO,DavZurRSO
+522,da Silva,Willian José,Real Sociedad,63.333333333333336,27,65.66666666666667,73.0,51.333333333333336,77.66666666666667,80.66666666666667,80.0,67.0,RSO,Wilda RSO
+523,da Silva Costa,Diego,Atlético Madrid,79.0,30,93.33333333333333,59.0,52.0,76.0,77.0,65.33333333333333,81.66666666666667,ATL,Dieda ATL
+524,da Silva Júnior,Sidnei Rechel,Real Betis,67.75,29,78.75,41.75,73.25,54.0,63.0,75.5,60.0,BET,Sidda BET
+525,de Oliveira Júnior,Vinícius José,Real Madrid,92.66666666666667,18,52.0,63.333333333333336,52.333333333333336,73.66666666666667,70.33333333333333,76.66666666666667,95.33333333333333,RMD,Vinde RMD
+526,de Tomás Gómez,Raúl,Rayo Vallecano,69.33333333333333,24,56.666666666666664,77.66666666666667,44.666666666666664,80.66666666666667,77.66666666666667,72.66666666666667,77.0,RV,Raúde RV
+527,ter Stegen,Marc-André,FC Barcelona,38.5,26,43.0,12.0,38.0,10.0,25.0,30.0,50.5,BAR,MarterBAR
+528,Álamo Bautista,Sergi,Girona FC,54.0,21,58.0,42.0,42.0,29.0,43.0,53.0,60.0,GIR,SerÁlaGIR
+529,Álvarez Conde,Sergio,RC Celta,44.0,32,34.0,11.0,39.0,11.0,23.0,37.0,43.0,CEL,SerÁlvCEL
+530,Álvarez Díaz,Sergio,SD Eibar,70.0,26,76.0,52.0,75.0,73.0,41.0,73.0,69.0,EIB,SerÁlvEIB
+531,Álvarez López,Yeray,Athletic Club,66.0,23,80.0,50.0,71.0,43.0,61.0,70.0,67.0,ATH,YerÁlvATH
+532,Ávila,Ezequiel,SD Huesca,77.0,24,70.0,44.0,58.0,67.0,51.0,68.0,79.0,HUE,EzeÁviHUE
+533,Ñíguez Esclápez,Saúl,Atlético Madrid,71.5,24,69.0,60.0,83.5,79.5,55.0,85.5,70.5,ATL,SaúÑígATL
+534,Ünal,Enes,R. Valladolid CF,75.0,21,43.0,66.0,47.0,80.0,69.0,73.0,74.0,VLD,EneÜnaVLD
+535,Čop,Duje,R. Valladolid CF,66.0,28,59.0,75.0,57.0,74.0,78.0,69.0,50.0,VLD,DujČopVLD
