@@ -1,392 +1,258 @@
-,FullName,Goals,ShootOnGoals,Shoots,PlayerClub,LastName_x,FirstName_x,ForKey,FirstName_y,LastName_y,Country,Club,Position,Age,Acceleration,Aggression,Finishing,FreeKickAccuracy,LongPassing,LongShots,Penalties,ShortPassing,SprintSpeed,Quality
-0,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Centre Forward,31.0,99.0,66.0,99.0,99.0,96.0,99.0,81.0,99.0,94.0,gold
-1,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Striker,31.0,93.0,51.0,97.0,98.0,90.0,96.0,76.0,94.0,87.0,gold
-2,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Striker,31.0,93.0,51.0,97.0,98.0,90.0,96.0,76.0,94.0,87.0,gold
-3,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Centre Forward,31.0,92.0,48.0,96.0,95.0,87.0,95.0,75.0,91.0,86.0,gold
-4,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Right Wing,31.0,92.0,50.0,96.0,96.0,88.0,95.0,75.0,92.0,86.0,gold
-5,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Lionel,Messi,Argentina,BAR,Centre Forward,31.0,91.0,48.0,95.0,94.0,87.0,94.0,75.0,90.0,86.0,gold
-7,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Cristhian,Stuani,Uruguay,GIR,Striker,32.0,73.0,81.0,86.0,62.0,71.0,80.0,86.0,81.0,69.0,gold
-8,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Cristhian,Stuani,Uruguay,GIR,Striker,32.0,73.0,81.0,86.0,62.0,71.0,80.0,86.0,81.0,69.0,gold
-9,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Cristhian,Stuani,Uruguay,GIR,Striker,32.0,71.0,79.0,84.0,59.0,67.0,78.0,84.0,77.0,67.0,gold
-10,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Cristhian,Stuani,Uruguay,GIR,Striker,32.0,71.0,79.0,84.0,59.0,67.0,78.0,84.0,77.0,67.0,gold
-11,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Cristhian,Stuani,Uruguay,GIR,Striker,32.0,67.0,77.0,80.0,57.0,65.0,75.0,80.0,74.0,64.0,gold
-12,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Iago,Aspas Juncal,Spain,CEL,Striker,31.0,87.0,65.0,93.0,79.0,67.0,84.0,84.0,85.0,79.0,gold
-13,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Iago,Aspas Juncal,Spain,CEL,Striker,31.0,87.0,65.0,93.0,79.0,67.0,84.0,84.0,85.0,79.0,gold
-14,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Iago,Aspas Juncal,Spain,CEL,Striker,31.0,86.0,63.0,92.0,77.0,65.0,83.0,83.0,83.0,78.0,gold
-15,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Iago,Aspas Juncal,Spain,CEL,Striker,31.0,86.0,63.0,92.0,77.0,65.0,83.0,83.0,83.0,78.0,gold
-16,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Iago,Aspas Juncal,Spain,CEL,Right Wing,31.0,85.0,63.0,90.0,76.0,64.0,82.0,82.0,81.0,78.0,gold
-17,"Iglesias, Borja",7.0,18.0,32.0,ESP,Iglesias,Borja,BorIglESP,Borja,Iglesias Quintas,Spain,ESP,Striker,26.0,59.0,42.0,83.0,36.0,64.0,75.0,78.0,68.0,65.0,gold
-19,"Ben Yedder, Wissam",6.0,11.0,25.0,SEV,Ben Yedder,Wissam,WisBenSEV,Wissam,Ben Yedder,France,SEV,Striker,28.0,92.0,60.0,90.0,82.0,71.0,75.0,76.0,81.0,87.0,gold
-20,"Ben Yedder, Wissam",6.0,11.0,25.0,SEV,Ben Yedder,Wissam,WisBenSEV,Wissam,Ben Yedder,France,SEV,Striker,28.0,90.0,58.0,88.0,81.0,70.0,73.0,74.0,80.0,85.0,gold
-21,"Ben Yedder, Wissam",6.0,11.0,25.0,SEV,Ben Yedder,Wissam,WisBenSEV,Wissam,Ben Yedder,France,SEV,Striker,28.0,87.0,55.0,83.0,76.0,66.0,69.0,70.0,75.0,83.0,gold
-23,"Marti, Roger",6.0,9.0,22.0,LEV,Marti,Roger,RogMarLEV,Roger,Martí Salvador,Spain,LEV,Striker,28.0,78.0,65.0,78.0,46.0,48.0,72.0,78.0,71.0,79.0,gold
-24,"Benzema, Karim",5.0,12.0,32.0,RMD,Benzema,Karim,KarBenRMD,Karim,Benzema,France,RMD,Striker,31.0,79.0,69.0,82.0,76.0,57.0,79.0,87.0,86.0,79.0,gold
-25,"Benzema, Karim",5.0,12.0,32.0,RMD,Benzema,Karim,KarBenRMD,Karim,Benzema,France,RMD,Striker,31.0,77.0,65.0,78.0,73.0,55.0,75.0,83.0,83.0,77.0,gold
-26,"Benzema, Karim",5.0,12.0,32.0,RMD,Benzema,Karim,KarBenRMD,Karim,Benzema,France,RMD,Striker,31.0,76.0,65.0,78.0,73.0,55.0,75.0,82.0,82.0,76.0,gold
-27,"Muniain, Iker",4.0,4.0,6.0,ATH,Muniain,Iker,IkeMunATH,Iker,Muniain Goñi,Spain,ATH,Left Wing,26.0,83.0,66.0,76.0,69.0,65.0,72.0,61.0,75.0,75.0,gold
-29,"Coutinho, Philippe",4.0,16.0,29.0,BAR,Coutinho,Philippe,PhiCouBAR,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26.0,91.0,57.0,78.0,88.0,82.0,95.0,71.0,90.0,76.0,gold
-30,"Coutinho, Philippe",4.0,16.0,29.0,BAR,Coutinho,Philippe,PhiCouBAR,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26.0,90.0,55.0,77.0,87.0,81.0,94.0,70.0,89.0,75.0,gold
-31,"Coutinho, Philippe",4.0,16.0,29.0,BAR,Coutinho,Philippe,PhiCouBAR,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26.0,89.0,55.0,77.0,86.0,81.0,93.0,70.0,88.0,75.0,gold
-32,"Dembele, Ousmane",4.0,9.0,21.0,BAR,Dembele,Ousmane,OusDemBAR,Ousmane,Dembélé,France,BAR,Left Wing,21.0,93.0,56.0,80.0,67.0,73.0,69.0,78.0,80.0,89.0,gold
-33,"Dembele, Ousmane",4.0,9.0,21.0,BAR,Dembele,Ousmane,OusDemBAR,Ousmane,Dembélé,France,BAR,Left Wing,21.0,93.0,56.0,80.0,67.0,73.0,69.0,78.0,80.0,89.0,gold
-34,"Dembele, Ousmane",4.0,9.0,21.0,BAR,Dembele,Ousmane,OusDemBAR,Ousmane,Dembélé,France,BAR,Right Wing,21.0,92.0,54.0,77.0,64.0,70.0,66.0,76.0,77.0,88.0,gold
-35,"Dembele, Ousmane",4.0,9.0,21.0,BAR,Dembele,Ousmane,OusDemBAR,Ousmane,Dembélé,France,BAR,Right Wing,21.0,91.0,54.0,76.0,64.0,70.0,66.0,75.0,76.0,88.0,gold
-36,"Ramos, Sergio",4.0,9.0,18.0,RMD,Ramos,Sergio,SerRamRMD,Sergio,Ramos García,Spain,RMD,Centre Back,32.0,86.0,96.0,76.0,83.0,90.0,69.0,86.0,97.0,85.0,gold
-37,"Ramos, Sergio",4.0,9.0,18.0,RMD,Ramos,Sergio,SerRamRMD,Sergio,Ramos García,Spain,RMD,Centre Back,32.0,77.0,85.0,60.0,67.0,73.0,55.0,69.0,79.0,76.0,gold
-38,"Ramos, Sergio",4.0,9.0,18.0,RMD,Ramos,Sergio,SerRamRMD,Sergio,Ramos García,Spain,RMD,Centre Back,32.0,76.0,84.0,60.0,67.0,72.0,55.0,68.0,78.0,75.0,gold
-39,"Sarabia, Pablo",4.0,11.0,28.0,SEV,Sarabia,Pablo,PabSarSEV,Pablo,Sarabia García,Spain,SEV,Centre Midfielder,26.0,74.0,33.0,81.0,75.0,78.0,78.0,64.0,86.0,77.0,gold
-40,"Sarabia, Pablo",4.0,11.0,28.0,SEV,Sarabia,Pablo,PabSarSEV,Pablo,Sarabia García,Spain,SEV,Centre Midfielder,26.0,74.0,33.0,81.0,75.0,78.0,78.0,64.0,86.0,77.0,gold
-41,"Sarabia, Pablo",4.0,11.0,28.0,SEV,Sarabia,Pablo,PabSarSEV,Pablo,Sarabia García,Spain,SEV,Right Midfielder,26.0,72.0,32.0,77.0,73.0,76.0,75.0,61.0,83.0,74.0,gold
-42,"Morales, Jose Luis",4.0,11.0,22.0,LEV,Morales,Jose Luis,JosMorLEV,José Luis,Morales Nogales,Spain,LEV,Left Midfielder,31.0,88.0,58.0,78.0,72.0,68.0,80.0,76.0,75.0,87.0,gold
-47,"Sobrino, Ruben",3.0,5.0,13.0,ALA,Sobrino,Ruben,RubSobALA,Rubén,Sobrino Pozuelo,Spain,ALA,Striker,26.0,79.0,65.0,78.0,57.0,47.0,74.0,66.0,73.0,85.0,gold
-49,"Bale, Gareth",3.0,17.0,40.0,RMD,Bale,Gareth,GarBalRMD,Gareth,Bale,Wales,RMD,Right Wing,29.0,95.0,70.0,90.0,92.0,84.0,96.0,80.0,90.0,97.0,gold
-50,"Bale, Gareth",3.0,17.0,40.0,RMD,Bale,Gareth,GarBalRMD,Gareth,Bale,Wales,RMD,Right Wing,29.0,94.0,65.0,86.0,88.0,80.0,92.0,76.0,86.0,96.0,gold
-51,"Bale, Gareth",3.0,17.0,40.0,RMD,Bale,Gareth,GarBalRMD,Gareth,Bale,Wales,RMD,Right Wing,29.0,94.0,66.0,86.0,89.0,81.0,92.0,76.0,87.0,96.0,gold
-52,"Bale, Gareth",3.0,17.0,40.0,RMD,Bale,Gareth,GarBalRMD,Gareth,Bale,Wales,RMD,Right Wing,29.0,94.0,65.0,86.0,87.0,80.0,91.0,76.0,85.0,95.0,gold
-53,"Canales, Sergio",3.0,10.0,32.0,BET,Canales,Sergio,SerCanBET,Sergio,Canales Madrazo,Spain,BET,Centre Attacking Midfielder,27.0,64.0,55.0,77.0,76.0,70.0,78.0,66.0,84.0,57.0,gold
-54,"Oyarzabal, Mikel",3.0,7.0,13.0,RSO,Oyarzabal,Mikel,MikOyaRSO,Mikel,Oyarzabal Ugarte,Spain,RSO,Left Wing,21.0,71.0,40.0,77.0,71.0,73.0,79.0,47.0,80.0,74.0,gold
-56,"Moron, Loren",3.0,12.0,27.0,BET,Moron,Loren,LorMorBET,Lorenzo,Morón García,Spain,BET,Striker,25.0,63.0,38.0,86.0,53.0,35.0,80.0,77.0,74.0,66.0,gold
-57,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,90.0,71.0,95.0,79.0,79.0,84.0,76.0,86.0,86.0,gold
-58,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,92.0,72.0,95.0,78.0,78.0,84.0,76.0,85.0,88.0,gold
-59,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,92.0,72.0,95.0,78.0,78.0,84.0,76.0,85.0,88.0,gold
-60,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,89.0,69.0,93.0,76.0,76.0,82.0,74.0,83.0,85.0,gold
-61,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,90.0,71.0,93.0,76.0,76.0,82.0,74.0,83.0,86.0,gold
-62,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,88.0,69.0,92.0,76.0,76.0,82.0,74.0,82.0,85.0,gold
-63,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Antoine,Griezmann,France,ATL,Striker,27.0,88.0,69.0,92.0,76.0,76.0,82.0,74.0,82.0,85.0,gold
-64,"El Zhar, Nabil",3.0,6.0,14.0,LGN,El Zhar,Nabil,NabEl LGN,Nabil,El Zhar,Morocco,LGN,Right Midfielder,32.0,76.0,58.0,74.0,58.0,64.0,71.0,72.0,77.0,68.0,gold
-65,"Molina, Jorge",3.0,8.0,15.0,GET,Molina,Jorge,JorMolGET,Jorge,Molina Vidal,Spain,GET,Striker,36.0,34.0,76.0,79.0,59.0,57.0,75.0,80.0,75.0,41.0,gold
-67,"Carrillo, Guido",3.0,8.0,19.0,LGN,Carrillo,Guido,GuiCarLGN,Guido,Carrillo,Argentina,LGN,Striker,27.0,57.0,72.0,75.0,36.0,57.0,72.0,77.0,64.0,62.0,gold
-68,"Calleri, Jonathan",3.0,7.0,16.0,ALA,Calleri,Jonathan,JonCalALA,Jonathan,Calleri,Argentina,ALA,Striker,25.0,74.0,68.0,81.0,38.0,63.0,73.0,66.0,72.0,76.0,gold
-69,"Calleri, Jonathan",3.0,7.0,16.0,ALA,Calleri,Jonathan,JonCalALA,Jonathan,Calleri,Argentina,ALA,Striker,25.0,74.0,68.0,81.0,38.0,63.0,73.0,66.0,72.0,76.0,gold
-70,"Calleri, Jonathan",3.0,7.0,16.0,ALA,Calleri,Jonathan,JonCalALA,Jonathan,Calleri,Argentina,ALA,Striker,25.0,71.0,65.0,76.0,35.0,58.0,69.0,62.0,66.0,72.0,gold
-71,"Enrich, Sergi",2.0,5.0,18.0,EIB,Enrich,Sergi,SerEnrEIB,Sergi,Enrich Ametller,Spain,EIB,Striker,28.0,60.0,66.0,81.0,47.0,61.0,70.0,63.0,79.0,65.0,gold
-72,"Jordan, Joan",2.0,7.0,20.0,EIB,Jordan,Joan,JoaJorEIB,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24.0,68.0,64.0,82.0,70.0,81.0,83.0,66.0,83.0,72.0,gold
-73,"Jordan, Joan",2.0,7.0,20.0,EIB,Jordan,Joan,JoaJorEIB,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24.0,68.0,64.0,82.0,70.0,81.0,83.0,66.0,83.0,72.0,gold
-74,"Jordan, Joan",2.0,7.0,20.0,EIB,Jordan,Joan,JoaJorEIB,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24.0,65.0,61.0,77.0,67.0,77.0,78.0,62.0,79.0,68.0,gold
-76,"Rakitic, Ivan",2.0,6.0,16.0,BAR,Rakitic,Ivan,IvaRakBAR,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30.0,67.0,67.0,83.0,84.0,91.0,91.0,82.0,88.0,59.0,gold
-77,"Rakitic, Ivan",2.0,6.0,16.0,BAR,Rakitic,Ivan,IvaRakBAR,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30.0,69.0,67.0,83.0,84.0,91.0,91.0,82.0,88.0,61.0,gold
-78,"Rakitic, Ivan",2.0,6.0,16.0,BAR,Rakitic,Ivan,IvaRakBAR,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30.0,66.0,67.0,83.0,84.0,90.0,90.0,82.0,87.0,59.0,gold
-79,"Granero, Esteban",2.0,4.0,13.0,ESP,Granero,Esteban,EstGraESP,Esteban,Granero Molina,Spain,ESP,Centre Midfielder,31.0,55.0,72.0,71.0,76.0,82.0,78.0,73.0,83.0,50.0,gold
-80,"Hermoso, Mario",2.0,7.0,14.0,ESP,Hermoso,Mario,MarHerESP,Mario,Hermoso Canseco,Spain,ESP,Centre Back,23.0,78.0,73.0,29.0,55.0,58.0,32.0,45.0,64.0,88.0,silver
-81,"Moreno, Gerard",2.0,14.0,31.0,VIL,Moreno,Gerard,GerMorVIL,Gerard,Moreno Balagueró,Spain,VIL,Striker,26.0,79.0,58.0,87.0,59.0,59.0,80.0,76.0,82.0,83.0,gold
-82,"Moreno, Gerard",2.0,14.0,31.0,VIL,Moreno,Gerard,GerMorVIL,Gerard,Moreno Balagueró,Spain,VIL,Striker,26.0,77.0,55.0,83.0,56.0,56.0,77.0,73.0,78.0,80.0,gold
-85,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,54.0,65.0,82.0,92.0,88.0,86.0,87.0,92.0,45.0,gold
-86,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,54.0,65.0,82.0,92.0,88.0,86.0,87.0,92.0,45.0,gold
-87,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,52.0,63.0,79.0,91.0,87.0,83.0,84.0,91.0,43.0,gold
-88,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,52.0,63.0,80.0,91.0,87.0,84.0,85.0,91.0,43.0,gold
-89,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,52.0,63.0,80.0,91.0,87.0,84.0,85.0,91.0,43.0,gold
-90,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29.0,51.0,63.0,79.0,90.0,87.0,82.0,83.0,90.0,43.0,gold
-92,"Toko Ekambi, Karl",2.0,12.0,20.0,VIL,Toko Ekambi,Karl,KarTokVIL,Karl,Toko-Ekambi,Cameroon,VIL,Striker,26.0,86.0,43.0,83.0,63.0,58.0,72.0,69.0,69.0,83.0,gold
-94,"Firpo, Junior",2.0,5.0,13.0,BET,Firpo,Junior,JunFirBET,Junior,Firpo,Dominican Republic,BET,Left Wing Back,22.0,78.0,59.0,64.0,47.0,77.0,69.0,43.0,79.0,74.0,gold
-95,"Firpo, Junior",2.0,5.0,13.0,BET,Firpo,Junior,JunFirBET,Junior,Firpo,Dominican Republic,BET,Left Wing Back,22.0,78.0,59.0,64.0,47.0,77.0,69.0,43.0,79.0,74.0,gold
-96,"Firpo, Junior",2.0,5.0,13.0,BET,Firpo,Junior,JunFirBET,Junior,Firpo,Dominican Republic,BET,Left Back,22.0,72.0,55.0,57.0,43.0,70.0,61.0,38.0,72.0,69.0,gold
-97,"Firpo, Junior",2.0,5.0,13.0,BET,Firpo,Junior,JunFirBET,Junior,Firpo,Dominican Republic,BET,Left Back,22.0,72.0,55.0,57.0,43.0,70.0,61.0,38.0,72.0,69.0,gold
-102,"Godin, Diego",2.0,5.0,9.0,ATL,Godin,Diego,DieGodATL,Diego,Godín,Uruguay,ATL,Centre Back,32.0,69.0,89.0,42.0,51.0,71.0,43.0,51.0,80.0,69.0,gold
-103,"Godin, Diego",2.0,5.0,9.0,ATL,Godin,Diego,DieGodATL,Diego,Godín,Uruguay,ATL,Centre Back,32.0,70.0,89.0,43.0,52.0,72.0,44.0,52.0,81.0,70.0,gold
-104,"Godin, Diego",2.0,5.0,9.0,ATL,Godin,Diego,DieGodATL,Diego,Godín,Uruguay,ATL,Centre Back,32.0,70.0,89.0,43.0,52.0,72.0,44.0,52.0,81.0,70.0,gold
-105,"Godin, Diego",2.0,5.0,9.0,ATL,Godin,Diego,DieGodATL,Diego,Godín,Uruguay,ATL,Centre Back,32.0,68.0,88.0,42.0,51.0,70.0,43.0,50.0,79.0,68.0,gold
-107,"Lemar, Thomas",2.0,3.0,8.0,ATL,Lemar,Thomas,ThoLemATL,Thomas,Lemar,France,ATL,Left Midfielder,23.0,87.0,63.0,75.0,81.0,75.0,77.0,68.0,85.0,84.0,gold
-108,"Lemar, Thomas",2.0,3.0,8.0,ATL,Lemar,Thomas,ThoLemATL,Thomas,Lemar,France,ATL,Left Midfielder,23.0,86.0,63.0,75.0,81.0,75.0,76.0,68.0,84.0,84.0,gold
-109,"Lemar, Thomas",2.0,3.0,8.0,ATL,Lemar,Thomas,ThoLemATL,Thomas,Lemar,France,ATL,Left Midfielder,23.0,86.0,63.0,75.0,81.0,75.0,76.0,68.0,84.0,84.0,gold
-112,"Boufal, Sofiane",2.0,6.0,14.0,CEL,Boufal,Sofiane,SofBouCEL,Sofiane,Boufal,Morocco,CEL,Left Wing,25.0,84.0,47.0,68.0,63.0,66.0,65.0,69.0,75.0,79.0,gold
-113,"Vidal, Arturo",2.0,3.0,4.0,BAR,Vidal,Arturo,ArtVidBAR,Arturo,Vidal,Chile,BAR,Centre Defensive Midfielder,31.0,61.0,94.0,75.0,68.0,78.0,86.0,82.0,84.0,55.0,gold
-114,"Vidal, Arturo",2.0,3.0,4.0,BAR,Vidal,Arturo,ArtVidBAR,Arturo,Vidal,Chile,BAR,Centre Defensive Midfielder,31.0,60.0,93.0,75.0,68.0,78.0,85.0,81.0,83.0,55.0,gold
-116,"Pozo, Jose",2.0,3.0,7.0,RV,Pozo,Jose,JosPozRV,José Ángel,Pozo la Rosa,Spain,RV,Centre Attacking Midfielder,22.0,74.0,39.0,70.0,64.0,75.0,74.0,66.0,77.0,72.0,silver
-117,"Foulquier, Dimitri",2.0,3.0,6.0,GET,Foulquier,Dimitri,DimFouGET,Dimitri,Foulquier,France,GET,Right Back,25.0,66.0,67.0,47.0,40.0,59.0,49.0,49.0,67.0,75.0,silver
-118,"Arbilla, Anaitz",1.0,2.0,10.0,EIB,Arbilla,Anaitz,AnaArbEIB,Anaitz,Arbilla Zabala,Spain,EIB,Centre Back,31.0,55.0,84.0,40.0,82.0,65.0,68.0,47.0,77.0,70.0,gold
-119,"Diop, Pape",1.0,5.0,18.0,EIB,Diop,Pape,PapDioEIB,Papakouli,Diop,Senegal,EIB,Centre Defensive Midfielder,32.0,50.0,89.0,57.0,69.0,72.0,71.0,61.0,74.0,54.0,gold
-120,"Escalante, Gonzalo",1.0,2.0,5.0,EIB,Escalante,Gonzalo,GonEscEIB,Gonzalo,Escalante,Argentina,EIB,Centre Defensive Midfielder,25.0,71.0,85.0,56.0,52.0,74.0,58.0,64.0,76.0,72.0,gold
-122,"Alcala, Pedro",1.0,1.0,4.0,GIR,Alcala,Pedro,PedAlcGIR,Pedro,Alcalá Guirado,Spain,GIR,Centre Back,29.0,31.0,77.0,30.0,65.0,66.0,68.0,39.0,71.0,42.0,gold
-123,"Garcia, Borja",1.0,5.0,15.0,GIR,Garcia,Borja,BorGarGIR,Borja,García Freire,Spain,GIR,Left Midfielder,28.0,81.0,52.0,77.0,54.0,80.0,78.0,62.0,82.0,77.0,gold
-124,"Pons, Pere",1.0,2.0,7.0,GIR,Pons,Pere,PerPonGIR,Pere,Pons Riera,Spain,GIR,Centre Midfielder,25.0,68.0,75.0,65.0,62.0,80.0,64.0,45.0,82.0,67.0,gold
-126,"El Haddadi, Munir",1.0,1.0,3.0,BAR,El Haddadi,Munir,MunEl BAR,Munir,El Haddadi,Spain,BAR,Striker,23.0,78.0,38.0,79.0,67.0,58.0,77.0,66.0,78.0,81.0,gold
-127,"El Haddadi, Munir",1.0,1.0,3.0,BAR,El Haddadi,Munir,MunEl BAR,Munir,El Haddadi,Spain,BAR,Striker,23.0,78.0,38.0,78.0,67.0,58.0,77.0,66.0,77.0,80.0,gold
-128,"Garcia, Manu",1.0,2.0,9.0,ALA,Garcia,Manu,ManGarALA,Manuel,García Sánchez,Spain,ALA,Centre Defensive Midfielder,32.0,46.0,90.0,60.0,54.0,73.0,53.0,71.0,77.0,61.0,gold
-129,"Pedraza, Alfonso",1.0,5.0,10.0,VIL,Pedraza,Alfonso,AlfPedVIL,Alfonso,Pedraza Sag,Spain,VIL,Left Midfielder,22.0,78.0,58.0,72.0,57.0,68.0,66.0,64.0,70.0,83.0,gold
-130,"Pina, Tomas",1.0,1.0,1.0,ALA,Pina,Tomas,TomPinALA,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31.0,67.0,79.0,68.0,64.0,83.0,75.0,65.0,84.0,60.0,gold
-131,"Pina, Tomas",1.0,1.0,1.0,ALA,Pina,Tomas,TomPinALA,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31.0,67.0,79.0,68.0,64.0,83.0,75.0,65.0,84.0,60.0,gold
-132,"Pina, Tomas",1.0,1.0,1.0,ALA,Pina,Tomas,TomPinALA,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31.0,60.0,73.0,62.0,60.0,78.0,68.0,59.0,79.0,54.0,gold
-134,"De Marcos, Oscar",1.0,1.0,4.0,ATH,De Marcos,Oscar,OscDe ATH,Oscar,De Marcos Arana,Spain,ATH,Right Back,29.0,80.0,79.0,65.0,56.0,73.0,62.0,61.0,80.0,91.0,gold
-135,"De Marcos, Oscar",1.0,1.0,4.0,ATH,De Marcos,Oscar,OscDe ATH,Oscar,De Marcos Arana,Spain,ATH,Right Back,29.0,79.0,77.0,59.0,53.0,69.0,56.0,55.0,75.0,89.0,gold
-136,"Etxeita, Xabier",1.0,3.0,4.0,HUE,Etxeita,Xabier,XabEtxHUE,Xabier,Etxeita Gorritxat.,Spain,HUE,Centre Back,31.0,37.0,83.0,29.0,43.0,54.0,34.0,30.0,63.0,53.0,silver
-139,"Susaeta, Markel",1.0,4.0,10.0,ATH,Susaeta,Markel,MarSusATH,Markel,Susaeta Laskurain,Spain,ATH,Right Wing,31.0,80.0,68.0,69.0,82.0,81.0,75.0,58.0,82.0,71.0,gold
-140,"Alba, Jordi",1.0,3.0,7.0,BAR,Alba,Jordi,JorAlbBAR,Jordi,Alba Ramos,Spain,BAR,Left Back,29.0,94.0,76.0,74.0,63.0,74.0,66.0,59.0,85.0,94.0,gold
-141,"Alba, Jordi",1.0,3.0,7.0,BAR,Alba,Jordi,JorAlbBAR,Jordi,Alba Ramos,Spain,BAR,Left Back,29.0,94.0,77.0,74.0,64.0,75.0,66.0,59.0,86.0,94.0,gold
-142,"Alba, Jordi",1.0,3.0,7.0,BAR,Alba,Jordi,JorAlbBAR,Jordi,Alba Ramos,Spain,BAR,Left Back,29.0,93.0,75.0,73.0,63.0,74.0,66.0,59.0,84.0,93.0,gold
-143,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31.0,53.0,75.0,66.0,44.0,82.0,52.0,71.0,83.0,65.0,gold
-144,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31.0,49.0,72.0,65.0,43.0,81.0,51.0,70.0,82.0,61.0,gold
-145,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31.0,50.0,73.0,66.0,43.0,81.0,52.0,71.0,82.0,62.0,gold
-146,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31.0,50.0,73.0,66.0,43.0,81.0,52.0,71.0,82.0,62.0,gold
-147,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31.0,49.0,72.0,64.0,43.0,80.0,51.0,69.0,81.0,60.0,gold
-148,"Mallo, Hugo",1.0,3.0,10.0,CEL,Mallo,Hugo,HugMalCEL,Hugo,Mallo Novegil,Spain,CEL,Right Back,27.0,71.0,76.0,28.0,38.0,68.0,39.0,23.0,71.0,71.0,gold
-149,"Sisto, Pione",1.0,6.0,10.0,CEL,Sisto,Pione,PioSisCEL,Pione,Sisto,Denmark,CEL,Left Wing,23.0,81.0,52.0,76.0,75.0,65.0,72.0,66.0,70.0,81.0,gold
-151,"Darder, Sergi",1.0,4.0,21.0,ESP,Darder,Sergi,SerDarESP,Sergi,Darder Moll,Spain,ESP,Centre Midfielder,25.0,58.0,71.0,59.0,58.0,81.0,69.0,55.0,84.0,45.0,gold
-152,"Garcia, Sergio",1.0,9.0,22.0,ESP,Garcia,Sergio,SerGarESP,Sergio,García de la Fuente,Spain,ESP,Striker,35.0,70.0,61.0,76.0,64.0,72.0,74.0,80.0,76.0,69.0,gold
-153,"Piatti, Pablo",1.0,6.0,9.0,ESP,Piatti,Pablo,PabPiaESP,Pablo,Piatti,Argentina,ESP,Left Midfielder,29.0,89.0,55.0,76.0,58.0,70.0,72.0,64.0,76.0,83.0,gold
-154,"Asensio, Marco",1.0,7.0,21.0,RMD,Asensio,Marco,MarAseRMD,Marco,Asensio Willemsen,Spain,RMD,Left Wing,22.0,84.0,45.0,85.0,76.0,82.0,89.0,62.0,86.0,80.0,gold
-155,"Asensio, Marco",1.0,7.0,21.0,RMD,Asensio,Marco,MarAseRMD,Marco,Asensio Willemsen,Spain,RMD,Left Wing,22.0,83.0,45.0,84.0,76.0,82.0,88.0,62.0,85.0,80.0,gold
-156,"Carvajal, Dani",1.0,3.0,5.0,RMD,Carvajal,Dani,DanCarRMD,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27.0,80.0,83.0,44.0,49.0,74.0,39.0,48.0,85.0,86.0,gold
-157,"Carvajal, Dani",1.0,3.0,5.0,RMD,Carvajal,Dani,DanCarRMD,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27.0,80.0,83.0,44.0,49.0,74.0,39.0,48.0,85.0,86.0,gold
-158,"Carvajal, Dani",1.0,3.0,5.0,RMD,Carvajal,Dani,DanCarRMD,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27.0,79.0,82.0,41.0,47.0,71.0,36.0,46.0,82.0,85.0,gold
-159,"Carvajal, Dani",1.0,3.0,5.0,RMD,Carvajal,Dani,DanCarRMD,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27.0,79.0,81.0,41.0,47.0,71.0,36.0,45.0,81.0,84.0,gold
-160,"Ceballos, Dani",1.0,2.0,4.0,RMD,Ceballos,Dani,DanCebRMD,Daniel,Ceballos Fernández,Spain,RMD,Centre Midfielder,22.0,70.0,77.0,63.0,61.0,79.0,64.0,55.0,81.0,60.0,gold
-161,"Ceballos, Dani",1.0,2.0,4.0,RMD,Ceballos,Dani,DanCebRMD,Daniel,Ceballos Fernández,Spain,RMD,Centre Midfielder,22.0,69.0,76.0,62.0,61.0,78.0,63.0,55.0,80.0,60.0,gold
-162,"Hernandez, Theo",1.0,4.0,9.0,RSO,Hernandez,Theo,TheHerRSO,Theo,Hernández,France,RSO,Left Back,21.0,90.0,75.0,50.0,64.0,52.0,54.0,41.0,76.0,93.0,gold
-165,"Bautista, Jon",1.0,3.0,11.0,RSO,Bautista,Jon,JonBauRSO,Jon,Bautista Orgilles,Spain,RSO,Striker,23.0,61.0,35.0,78.0,57.0,41.0,77.0,70.0,67.0,57.0,silver
-166,"Bautista, Jon",1.0,3.0,11.0,RSO,Bautista,Jon,JonBauRSO,Jon,Bautista Orgilles,Spain,RSO,Striker,23.0,61.0,35.0,78.0,57.0,41.0,77.0,70.0,67.0,57.0,gold
-167,"Elustondo, Aritz",1.0,3.0,4.0,RSO,Elustondo,Aritz,AriEluRSO,Aritz,Elustondo,Spain,RSO,Centre Back,24.0,67.0,77.0,26.0,41.0,43.0,40.0,43.0,72.0,71.0,gold
-170,"Zurutuza, David",1.0,1.0,4.0,RSO,Zurutuza,David,DavZurRSO,David,Zurutuza,France,RSO,Centre Midfielder,32.0,66.0,72.0,74.0,59.0,74.0,75.0,61.0,79.0,64.0,gold
-171,"Garay, Ezequiel",1.0,2.0,4.0,VAL,Garay,Ezequiel,EzeGarVAL,Ezequiel,Garay,Argentina,VAL,Centre Back,32.0,34.0,77.0,58.0,75.0,73.0,65.0,70.0,70.0,37.0,gold
-172,"Garay, Ezequiel",1.0,2.0,4.0,VAL,Garay,Ezequiel,EzeGarVAL,Ezequiel,Garay,Argentina,VAL,Centre Back,32.0,34.0,77.0,58.0,74.0,72.0,64.0,69.0,69.0,36.0,gold
-173,"Gaya, Jose Luis",1.0,1.0,5.0,VAL,Gaya,Jose Luis,JosGayVAL,José Luís,Gayà Peña,Spain,VAL,Left Back,23.0,86.0,73.0,62.0,49.0,75.0,59.0,52.0,82.0,88.0,gold
-174,"Gaya, Jose Luis",1.0,1.0,5.0,VAL,Gaya,Jose Luis,JosGayVAL,José Luís,Gayà Peña,Spain,VAL,Left Back,23.0,86.0,72.0,61.0,49.0,75.0,59.0,52.0,81.0,87.0,gold
-175,"Moreno, Rodrigo",1.0,11.0,32.0,VAL,Moreno,Rodrigo,RodMorVAL,Rodrigo,Moreno Machado,Spain,VAL,Striker,27.0,89.0,61.0,85.0,68.0,59.0,81.0,79.0,80.0,94.0,gold
-176,"Moreno, Rodrigo",1.0,11.0,32.0,VAL,Moreno,Rodrigo,RodMorVAL,Rodrigo,Moreno Machado,Spain,VAL,Striker,27.0,88.0,60.0,83.0,67.0,58.0,79.0,77.0,79.0,93.0,gold
-177,"Moreno, Rodrigo",1.0,11.0,32.0,VAL,Moreno,Rodrigo,RodMorVAL,Rodrigo,Moreno Machado,Spain,VAL,Striker,27.0,88.0,60.0,82.0,67.0,58.0,79.0,77.0,78.0,92.0,gold
-179,"Mata, Jaime",1.0,5.0,12.0,GET,Mata,Jaime,JaiMatGET,Jaime,Mata Arnaiz,Spain,GET,Striker,30.0,72.0,73.0,81.0,48.0,49.0,71.0,70.0,61.0,76.0,gold
-180,"Cheryshev, Denis",1.0,3.0,8.0,VAL,Cheryshev,Denis,DenCheVAL,Denis,Cheryshev,Russia,VAL,Left Midfielder,28.0,77.0,62.0,79.0,61.0,68.0,85.0,64.0,72.0,80.0,gold
-181,"Cheryshev, Denis",1.0,3.0,8.0,VAL,Cheryshev,Denis,DenCheVAL,Denis,Cheryshev,Russia,VAL,Left Midfielder,28.0,77.0,62.0,78.0,61.0,68.0,84.0,64.0,72.0,79.0,gold
-182,"Fornals, Pablo",1.0,6.0,28.0,VIL,Fornals,Pablo,PabForVIL,Pablo,Fornals Malla,Spain,VIL,Right Midfielder,22.0,72.0,71.0,84.0,63.0,84.0,87.0,50.0,88.0,71.0,gold
-183,"Fornals, Pablo",1.0,6.0,28.0,VIL,Fornals,Pablo,PabForVIL,Pablo,Fornals Malla,Spain,VIL,Centre Attacking Midfielder,22.0,67.0,69.0,77.0,60.0,80.0,80.0,46.0,84.0,66.0,gold
-186,"Sansone, Nicola",1.0,1.0,1.0,VIL,Sansone,Nicola,NicSanVIL,Nicola,Sansone,Italy,VIL,Striker,27.0,82.0,68.0,77.0,69.0,65.0,75.0,66.0,75.0,81.0,gold
-187,"Bartra, Marc",1.0,2.0,5.0,BET,Bartra,Marc,MarBarBET,Marc,Bartra Aregall,Spain,BET,Centre Back,28.0,75.0,80.0,55.0,45.0,77.0,62.0,52.0,79.0,72.0,gold
-189,"Muriel, Luis",1.0,1.0,4.0,SEV,Muriel,Luis,LuiMurSEV,Luis,Muriel,Colombia,SEV,Striker,27.0,86.0,50.0,77.0,60.0,55.0,65.0,74.0,75.0,90.0,gold
-193,"Gumbau, Gerard",1.0,4.0,11.0,LGN,Gumbau,Gerard,GerGumLGN,Gerard,Gumbau Garriga,Spain,LGN,Centre Defensive Midfielder,24.0,34.0,60.0,60.0,62.0,79.0,73.0,50.0,81.0,29.0,silver
-194,"Bardhi, Enis",1.0,10.0,25.0,LEV,Bardhi,Enis,EniBarLEV,Enis,Bardhi,FYR Macedonia,LEV,Centre Midfielder,23.0,76.0,54.0,75.0,90.0,77.0,84.0,75.0,79.0,64.0,gold
-197,"Postigo, Sergio",1.0,2.0,5.0,LEV,Postigo,Sergio,SerPosLEV,Sergio,Postigo Redondo,Spain,LEV,Centre Back,30.0,59.0,75.0,44.0,26.0,69.0,34.0,45.0,65.0,64.0,gold
-198,"Rochina, Ruben",1.0,3.0,15.0,LEV,Rochina,Ruben,RubRocLEV,Rubén,Rochina Naixes,Spain,LEV,Right Midfielder,27.0,74.0,65.0,72.0,72.0,69.0,80.0,69.0,74.0,72.0,gold
-200,"Funes Mori, Ramiro",1.0,2.0,12.0,VIL,Funes Mori,Ramiro,RamFunVIL,Ramiro,Funes Mori,Argentina,VIL,Centre Back,27.0,61.0,83.0,40.0,58.0,55.0,56.0,52.0,67.0,68.0,gold
-201,"Berchiche, Yuri",1.0,4.0,15.0,ATH,Berchiche,Yuri,YurBerATH,Yuri,Berchiche Izeta,Spain,ATH,Left Back,28.0,78.0,85.0,43.0,55.0,68.0,77.0,59.0,70.0,77.0,gold
-202,"Miramon, Jorge",1.0,1.0,6.0,HUE,Miramon,Jorge,JorMirHUE,Jorge,Miramón,Spain,HUE,Right Back,29.0,73.0,52.0,58.0,64.0,70.0,53.0,65.0,73.0,71.0,silver
-203,"Alcaraz, Ruben",1.0,5.0,25.0,VLD,Alcaraz,Ruben,RubAlcVLD,Rubén,Alcaraz Jiménez,Spain,VLD,Centre Midfielder,27.0,57.0,74.0,64.0,73.0,74.0,72.0,70.0,75.0,53.0,silver
-206,"Merino, Mikel",1.0,1.0,4.0,RSO,Merino,Mikel,MikMerRSO,Mikel,Merino Zazón,Spain,RSO,Centre Midfielder,22.0,61.0,73.0,62.0,69.0,74.0,67.0,58.0,78.0,62.0,gold
-208,"Cardona, Marc",1.0,2.0,2.0,EIB,Cardona,Marc,MarCarEIB,Marc,Cardona Rovira,Spain,EIB,Striker,23.0,80.0,33.0,68.0,52.0,50.0,65.0,56.0,60.0,78.0,silver
-211,"Embarba, Adri",1.0,6.0,19.0,RV,Embarba,Adri,AdrEmbRV,Adrián,Embarba Blazquez,Spain,RV,Right Midfielder,26.0,76.0,56.0,72.0,65.0,76.0,68.0,55.0,78.0,79.0,gold
-213,"Pulido, Jorge",1.0,4.0,5.0,HUE,Pulido,Jorge,JorPulHUE,Jorge,Pulido Mayoral,Spain,HUE,Centre Back,27.0,39.0,78.0,27.0,38.0,43.0,18.0,47.0,67.0,47.0,silver
-215,"Advincula, Luis",1.0,5.0,11.0,RV,Advincula,Luis,LuiAdvRV,Luis,Advíncula,Peru,RV,Right Back,28.0,95.0,70.0,58.0,63.0,67.0,68.0,64.0,73.0,94.0,silver
-217,"Bacca, Carlos",1.0,5.0,11.0,VIL,Bacca,Carlos,CarBacVIL,Carlos,Bacca,Colombia,VIL,Striker,32.0,73.0,62.0,86.0,58.0,55.0,60.0,80.0,72.0,75.0,gold
-218,"Silva, Jonathan",1.0,3.0,9.0,LGN,Silva,Jonathan,JonSilLGN,Jonathan,Silva,Argentina,LGN,Left Back,24.0,83.0,82.0,48.0,70.0,63.0,69.0,55.0,70.0,75.0,silver
-219,"Simon, Moses",1.0,1.0,2.0,LEV,Simon,Moses,MosSimLEV,Moses,Simon,Nigeria,LEV,Left Midfielder,23.0,93.0,38.0,72.0,55.0,54.0,68.0,60.0,69.0,92.0,gold
-220,"Mercado, Gabriel",1.0,1.0,4.0,SEV,Mercado,Gabriel,GabMerSEV,Gabriel,Mercado,Argentina,SEV,Centre Back,31.0,75.0,81.0,60.0,54.0,65.0,58.0,49.0,71.0,75.0,gold
-222,"Batshuayi, Michy",1.0,7.0,15.0,VAL,Batshuayi,Michy,MicBatVAL,Michy,Batshuayi,Belgium,VAL,Striker,25.0,80.0,65.0,88.0,49.0,38.0,78.0,69.0,68.0,79.0,gold
-223,"Batshuayi, Michy",1.0,7.0,15.0,VAL,Batshuayi,Michy,MicBatVAL,Michy,Batshuayi,Belgium,VAL,Striker,25.0,80.0,65.0,88.0,49.0,38.0,78.0,69.0,68.0,79.0,gold
-224,"Batshuayi, Michy",1.0,7.0,15.0,VAL,Batshuayi,Michy,MicBatVAL,Michy,Batshuayi,Belgium,VAL,Striker,25.0,78.0,63.0,86.0,46.0,36.0,76.0,67.0,65.0,77.0,gold
-225,"Batshuayi, Michy",1.0,7.0,15.0,VAL,Batshuayi,Michy,MicBatVAL,Michy,Batshuayi,Belgium,VAL,Striker,25.0,77.0,63.0,85.0,46.0,36.0,76.0,67.0,64.0,76.0,gold
-226,"Verde, Daniele",1.0,2.0,5.0,VLD,Verde,Daniele,DanVerVLD,Daniele,Verde,Italy,VLD,Left Wing,22.0,89.0,58.0,55.0,43.0,60.0,62.0,59.0,68.0,89.0,silver
-227,"Hernandez, Juan Camilo",1.0,10.0,27.0,HUE,Hernandez,Juan Camilo,JuaHerHUE,Juan Camilo,Hernández,Colombia,HUE,Striker,19.0,88.0,40.0,78.0,68.0,59.0,74.0,54.0,67.0,83.0,gold
-228,"Melero, Gonzalo",1.0,2.0,7.0,HUE,Melero,Gonzalo,GonMelHUE,Gonzalo,Melero Manzanares,Spain,HUE,Centre Midfielder,25.0,59.0,58.0,74.0,67.0,74.0,73.0,58.0,77.0,63.0,gold
-230,"Ndiaye, Amath",1.0,4.0,8.0,GET,Ndiaye,Amath,AmaNdiGET,Amath,Ndiaye Diedhiou,Senegal,GET,Left Midfielder,22.0,89.0,62.0,80.0,65.0,60.0,64.0,49.0,72.0,89.0,gold
-234,"Capa, Ander",0.0,1.0,4.0,ATH,Capa,Ander,AndCapATH,Ander,Capa Rodríguez,Spain,ATH,Right Back,26.0,82.0,86.0,56.0,58.0,56.0,62.0,54.0,71.0,86.0,gold
-236,"Dmitrovic, Marko",0.0,0.0,0.0,EIB,Dmitrovic,Marko,MarDmiEIB,Marko,Dmitrović,Serbia,EIB,Goalkeeper,26.0,39.0,20.0,20.0,9.0,40.0,17.0,9.0,40.0,35.0,gold
-237,"Garcia, Dani",0.0,0.0,1.0,ATH,Garcia,Dani,DanGarATH,Daniel,García Carrillo,Spain,ATH,Centre Defensive Midfielder,28.0,53.0,88.0,51.0,57.0,81.0,58.0,58.0,86.0,35.0,gold
-238,"Inui, Takashi",0.0,4.0,13.0,BET,Inui,Takashi,TakInuBET,Takashi,Inui,Japan,BET,Left Midfielder,30.0,88.0,49.0,70.0,65.0,70.0,77.0,51.0,76.0,77.0,gold
-239,"Junca, David",0.0,0.0,2.0,CEL,Junca,David,DavJunCEL,David,Juncà Reñé,Spain,CEL,Left Back,25.0,81.0,75.0,35.0,58.0,61.0,46.0,55.0,72.0,77.0,gold
-241,"Orellana, Fabian",0.0,8.0,25.0,EIB,Orellana,Fabian,FabOreEIB,Fabián,Orellana,Chile,EIB,Centre Attacking Midfielder,32.0,77.0,54.0,77.0,79.0,74.0,80.0,75.0,78.0,71.0,gold
-244,"Riesgo, Asier",0.0,0.0,0.0,EIB,Riesgo,Asier,AsiRieEIB,Asier,Riesgo Unamuno,Spain,EIB,Goalkeeper,35.0,54.0,34.0,13.0,15.0,33.0,12.0,13.0,32.0,55.0,silver
-247,"Espinosa, Bernardo",0.0,1.0,2.0,GIR,Espinosa,Bernardo,BerEspGIR,Bernardo,Espinosa,Colombia,GIR,Centre Back,29.0,43.0,79.0,39.0,42.0,61.0,42.0,52.0,74.0,51.0,gold
-248,"Garcia, Aleix",0.0,1.0,4.0,GIR,Garcia,Aleix,AleGarGIR,Aleix,García Serrano,Spain,GIR,Centre Midfielder,21.0,66.0,54.0,63.0,62.0,74.0,58.0,54.0,78.0,60.0,silver
-251,"Lozano, Anthony",0.0,2.0,8.0,GIR,Lozano,Anthony,AntLozGIR,Anthony,Lozano,Honduras,GIR,Striker,25.0,76.0,61.0,73.0,28.0,53.0,69.0,67.0,70.0,79.0,silver
-252,"Planas, Carles",0.0,0.0,1.0,GIR,Planas,Carles,CarPlaGIR,Carles,Planas Antolínez,Spain,GIR,Left Back,27.0,73.0,73.0,32.0,50.0,58.0,37.0,51.0,76.0,71.0,gold
-253,"Ramalho, Jonas",0.0,0.0,0.0,GIR,Ramalho,Jonas,JonRamGIR,Jonás,Ramalho Chimeno,Spain,GIR,Centre Back,25.0,67.0,76.0,40.0,34.0,52.0,34.0,41.0,69.0,74.0,silver
-255,"Timor, David",0.0,0.0,2.0,GIR,Timor,David,DavTimGIR,David,Timor Copoví,Spain,GIR,Centre Defensive Midfielder,29.0,39.0,80.0,44.0,81.0,77.0,80.0,69.0,81.0,52.0,gold
-256,"Aguilera, Juan",0.0,1.0,3.0,HUE,Aguilera,Juan,JuaAguHUE,Juan,Aguilera Núñez,Spain,HUE,Centre Defensive Midfielder,33.0,71.0,68.0,52.0,60.0,72.0,57.0,40.0,75.0,52.0,silver
-257,"Akapo, Carlos",0.0,0.0,1.0,HUE,Akapo,Carlos,CarAkaHUE,Carlos,Akapo Martínez,Equatorial Guinea,HUE,Right Back,25.0,77.0,84.0,42.0,41.0,62.0,52.0,46.0,68.0,88.0,silver
-258,"Brezancic, Rajko",0.0,0.0,0.0,HUE,Brezancic,Rajko,RajBreHUE,Rajko,Brežančić,Serbia,HUE,Left Back,29.0,73.0,72.0,28.0,30.0,59.0,51.0,43.0,66.0,77.0,silver
-259,"Aguirregabiria, Martin",0.0,0.0,0.0,ALA,Aguirregabiria,Martin,MarAguALA,Martín,Aguirregabiria,Spain,ALA,Right Back,22.0,74.0,62.0,28.0,40.0,45.0,35.0,38.0,76.0,74.0,gold
-260,"Duarte, Ruben",0.0,3.0,7.0,ALA,Duarte,Ruben,RubDuaALA,Rubén,Duarte Sánchez,Spain,ALA,Left Back,23.0,68.0,70.0,28.0,60.0,55.0,30.0,40.0,77.0,69.0,gold
-261,"Guidetti, John",0.0,1.0,5.0,ALA,Guidetti,John,JohGuiALA,John,Guidetti,Sweden,ALA,Striker,26.0,65.0,75.0,78.0,80.0,53.0,81.0,81.0,75.0,65.0,gold
-263,"Maripan, Guillermo",0.0,0.0,1.0,ALA,Maripan,Guillermo,GuiMarALA,Guillermo,Maripán,Chile,ALA,Centre Back,24.0,45.0,75.0,28.0,27.0,51.0,24.0,20.0,66.0,48.0,silver
-265,"Pacheco, Fernando",0.0,0.0,0.0,ALA,Pacheco,Fernando,FerPacALA,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26.0,54.0,27.0,16.0,20.0,27.0,15.0,23.0,24.0,47.0,gold
-266,"Pacheco, Fernando",0.0,0.0,0.0,ALA,Pacheco,Fernando,FerPacALA,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26.0,54.0,27.0,16.0,20.0,27.0,15.0,23.0,24.0,47.0,gold
-267,"Pacheco, Fernando",0.0,0.0,0.0,ALA,Pacheco,Fernando,FerPacALA,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26.0,48.0,27.0,16.0,20.0,27.0,15.0,23.0,24.0,42.0,gold
-268,"Sivera, Antonio",0.0,0.0,0.0,ALA,Sivera,Antonio,AntSivALA,Antonio,Sivera Salvá,Spain,ALA,Goalkeeper,22.0,59.0,25.0,15.0,12.0,34.0,12.0,24.0,32.0,55.0,silver
-269,"Torres, Daniel",0.0,0.0,0.0,ALA,Torres,Daniel,DanTorALA,Daniel,Torres,Colombia,ALA,Centre Defensive Midfielder,29.0,57.0,87.0,55.0,50.0,74.0,61.0,72.0,73.0,53.0,gold
-271,"Wakaso, Mubarak",0.0,2.0,10.0,ALA,Wakaso,Mubarak,MubWakALA,Mubarak,Wakaso,Ghana,ALA,Centre Midfielder,28.0,87.0,81.0,55.0,57.0,70.0,68.0,36.0,75.0,87.0,silver
-272,"Aduriz, Aritz",0.0,4.0,5.0,ATH,Aduriz,Aritz,AriAduATH,Aritz,Aduriz Zubeldia,Spain,ATH,Striker,37.0,66.0,82.0,84.0,54.0,52.0,78.0,82.0,72.0,67.0,gold
-273,"Balenziaga, Mikel",0.0,0.0,1.0,ATH,Balenziaga,Mikel,MikBalATH,Mikel,Balenziaga,Spain,ATH,Left Back,30.0,69.0,76.0,41.0,33.0,69.0,54.0,44.0,70.0,73.0,gold
-276,"Herrerin, Iago",0.0,0.0,0.0,ATH,Herrerin,Iago,IagHerATH,Iago,Herrerín Buisán,Spain,ATH,Goalkeeper,30.0,45.0,37.0,13.0,12.0,29.0,16.0,25.0,16.0,34.0,gold
-277,"Iturraspe, Ander",0.0,0.0,0.0,ATH,Iturraspe,Ander,AndItuATH,Ander,Iturraspe Derteano,Spain,ATH,Centre Midfielder,29.0,52.0,70.0,61.0,66.0,78.0,68.0,58.0,81.0,54.0,gold
-279,"Merino, Sabin",0.0,3.0,4.0,LGN,Merino,Sabin,SabMerLGN,Sabin,Merino Zuloaga,Spain,LGN,Left Wing,27.0,69.0,60.0,77.0,66.0,62.0,71.0,69.0,71.0,78.0,gold
-281,"Rico, Mikel",0.0,1.0,3.0,ATH,Rico,Mikel,MikRicATH,Mikel,Rico Moreno,Spain,ATH,Centre Midfielder,34.0,56.0,72.0,61.0,63.0,76.0,64.0,60.0,75.0,39.0,gold
-282,"San Jose, Mikel",0.0,2.0,4.0,ATH,San Jose,Mikel,MikSanATH,Mikel,San José Domínguez,Spain,ATH,Centre Midfielder,29.0,33.0,76.0,60.0,44.0,77.0,73.0,51.0,78.0,38.0,gold
-283,"Simon, Unai",0.0,0.0,0.0,ATH,Simon,Unai,UnaSimATH,Unai,Simón Mendibil,Spain,ATH,Goalkeeper,21.0,46.0,27.0,14.0,14.0,21.0,13.0,24.0,29.0,48.0,silver
-284,"Vesga, Mikel",0.0,0.0,1.0,LGN,Vesga,Mikel,MikVesLGN,Mikel,Vesga Arruti,Spain,LGN,Centre Defensive Midfielder,25.0,49.0,67.0,56.0,28.0,75.0,61.0,57.0,74.0,52.0,silver
-286,"Busquets, Sergio",0.0,0.0,4.0,BAR,Busquets,Sergio,SerBusBAR,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30.0,42.0,86.0,68.0,68.0,80.0,54.0,60.0,89.0,45.0,gold
-287,"Busquets, Sergio",0.0,0.0,4.0,BAR,Busquets,Sergio,SerBusBAR,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30.0,87.0,85.0,98.0,68.0,79.0,79.0,88.0,88.0,92.0,gold
-288,"Busquets, Sergio",0.0,0.0,4.0,BAR,Busquets,Sergio,SerBusBAR,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30.0,42.0,85.0,67.0,68.0,79.0,54.0,60.0,88.0,44.0,gold
-289,"Roberto, Sergi",0.0,1.0,5.0,BAR,Roberto,Sergi,SerRobBAR,Sergio,Roberto Carnicer,Spain,BAR,Right Back,26.0,77.0,68.0,64.0,60.0,77.0,67.0,57.0,87.0,79.0,gold
-290,"Roberto, Sergi",0.0,1.0,5.0,BAR,Roberto,Sergi,SerRobBAR,Sergio,Roberto Carnicer,Spain,BAR,Right Back,26.0,77.0,68.0,63.0,60.0,77.0,66.0,57.0,86.0,78.0,gold
-292,"ter Stegen, Marc-Andre",0.0,0.0,0.0,BAR,ter Stegen,Marc-Andre,MarterBAR,Marc-André,ter Stegen,Germany,BAR,Goalkeeper,26.0,39.0,43.0,14.0,12.0,38.0,10.0,25.0,30.0,51.0,gold
-293,"ter Stegen, Marc-Andre",0.0,0.0,0.0,BAR,ter Stegen,Marc-Andre,MarterBAR,Marc-André,ter Stegen,Germany,BAR,Goalkeeper,26.0,38.0,43.0,14.0,12.0,38.0,10.0,25.0,30.0,50.0,gold
-294,"Umtiti, Samuel",0.0,0.0,1.0,BAR,Umtiti,Samuel,SamUmtBAR,Samuel,Umtiti,France,BAR,Centre Back,25.0,71.0,81.0,51.0,62.0,74.0,75.0,61.0,82.0,74.0,gold
-295,"Umtiti, Samuel",0.0,0.0,1.0,BAR,Umtiti,Samuel,SamUmtBAR,Samuel,Umtiti,France,BAR,Centre Back,25.0,71.0,81.0,51.0,62.0,73.0,74.0,61.0,81.0,73.0,gold
-296,"Vermaelen, Thomas",0.0,0.0,0.0,BAR,Vermaelen,Thomas,ThoVerBAR,Thomas,Vermaelen,Belgium,BAR,Centre Back,33.0,68.0,78.0,52.0,64.0,79.0,69.0,63.0,81.0,64.0,gold
-297,"Vermaelen, Thomas",0.0,0.0,0.0,BAR,Vermaelen,Thomas,ThoVerBAR,Thomas,Vermaelen,Belgium,BAR,Centre Back,33.0,67.0,77.0,52.0,64.0,78.0,68.0,62.0,80.0,64.0,gold
-298,"Vidal, Aleix",0.0,2.0,5.0,SEV,Vidal,Aleix,AleVidSEV,Aleix,Vidal Parreu,Spain,SEV,Right Back,29.0,89.0,80.0,67.0,46.0,64.0,59.0,51.0,78.0,93.0,gold
-299,"Cabral, Gustavo",0.0,1.0,6.0,CEL,Cabral,Gustavo,GusCabCEL,Gustavo,Cabral,Argentina,CEL,Centre Back,33.0,38.0,82.0,26.0,48.0,59.0,29.0,47.0,72.0,36.0,gold
-300,"Eckert, Dennis",0.0,3.0,5.0,CEL,Eckert,Dennis,DenEckCEL,Dennis,Eckert,Germany,CEL,Striker,22.0,58.0,25.0,68.0,50.0,37.0,60.0,59.0,59.0,48.0,bronze
-302,"Lobotka, Stanislav",0.0,0.0,6.0,CEL,Lobotka,Stanislav,StaLobCEL,Stanislav,Lobotka,Slovakia,CEL,Centre Midfielder,24.0,70.0,57.0,59.0,55.0,76.0,65.0,56.0,84.0,63.0,gold
-303,"Mor, Emre",0.0,2.0,6.0,CEL,Mor,Emre,EmrMorCEL,Emre,Mor,Turkey,CEL,Left Wing,21.0,88.0,55.0,67.0,38.0,47.0,62.0,49.0,67.0,81.0,silver
-304,"Roncaglia, Facundo",0.0,1.0,3.0,CEL,Roncaglia,Facundo,FacRonCEL,Facundo,Roncaglia,Argentina,CEL,Centre Back,31.0,61.0,74.0,38.0,52.0,81.0,73.0,35.0,69.0,67.0,gold
-305,"Wass, Daniel",0.0,1.0,16.0,VAL,Wass,Daniel,DanWasVAL,Daniel,Wass,Denmark,VAL,Centre Midfielder,29.0,75.0,63.0,77.0,87.0,80.0,81.0,67.0,86.0,78.0,gold
-306,"Wass, Daniel",0.0,1.0,16.0,VAL,Wass,Daniel,DanWasVAL,Daniel,Wass,Denmark,VAL,Centre Midfielder,29.0,74.0,62.0,74.0,86.0,79.0,78.0,64.0,85.0,77.0,gold
-307,"Wass, Daniel",0.0,1.0,16.0,VAL,Wass,Daniel,DanWasVAL,Daniel,Wass,Denmark,VAL,Centre Midfielder,29.0,74.0,62.0,74.0,85.0,79.0,77.0,64.0,84.0,76.0,gold
-316,"Roca, Marc",0.0,3.0,7.0,ESP,Roca,Marc,MarRocESP,Marc,Roca Junqué,Spain,ESP,Centre Defensive Midfielder,22.0,54.0,69.0,59.0,52.0,74.0,65.0,55.0,80.0,55.0,gold
-319,"Beltran, Fran",0.0,0.0,10.0,CEL,Beltran,Fran,FraBelCEL,Francisco José,Beltrán Peinado,Spain,CEL,Centre Defensive Midfielder,19.0,73.0,68.0,47.0,49.0,74.0,48.0,49.0,75.0,68.0,silver
-320,"Comesana, Santi",0.0,0.0,4.0,RV,Comesana,Santi,SanComRV,Santiago,Comesaña Veiga,Spain,RV,Centre Midfielder,22.0,58.0,59.0,74.0,47.0,63.0,75.0,39.0,73.0,57.0,silver
-322,"Kroos, Toni",0.0,2.0,13.0,RMD,Kroos,Toni,TonKroRMD,Toni,Kroos,Germany,RMD,Centre Midfielder,29.0,69.0,60.0,76.0,84.0,94.0,93.0,73.0,93.0,66.0,gold
-323,"Kroos, Toni",0.0,2.0,13.0,RMD,Kroos,Toni,TonKroRMD,Toni,Kroos,Germany,RMD,Centre Midfielder,29.0,71.0,60.0,77.0,84.0,94.0,94.0,74.0,93.0,68.0,gold
-324,"Kroos, Toni",0.0,2.0,13.0,RMD,Kroos,Toni,TonKroRMD,Toni,Kroos,Germany,RMD,Centre Midfielder,29.0,68.0,60.0,76.0,84.0,93.0,92.0,73.0,92.0,66.0,gold
-325,"Llorente, Marcos",0.0,1.0,1.0,RMD,Llorente,Marcos,MarLloRMD,Marcos,Llorente Moreno,Spain,RMD,Centre Defensive Midfielder,23.0,53.0,65.0,39.0,51.0,82.0,57.0,54.0,85.0,55.0,gold
-326,"Llorente, Marcos",0.0,1.0,1.0,RMD,Llorente,Marcos,MarLloRMD,Marcos,Llorente Moreno,Spain,RMD,Centre Defensive Midfielder,23.0,53.0,65.0,39.0,51.0,81.0,56.0,53.0,84.0,54.0,gold
-327,"Mayoral, Borja",0.0,4.0,5.0,LEV,Mayoral,Borja,BorMayLEV,Borja,Mayoral Moya,Spain,LEV,Striker,21.0,68.0,27.0,79.0,57.0,43.0,70.0,69.0,69.0,72.0,gold
-328,"Modric, Luka",0.0,4.0,13.0,RMD,Modric,Luka,LukModRMD,Luka,Modrić,Croatia,RMD,Centre Midfielder,33.0,94.0,83.0,89.0,85.0,96.0,99.0,99.0,99.0,85.0,gold
-329,"Modric, Luka",0.0,4.0,13.0,RMD,Modric,Luka,LukModRMD,Luka,Modrić,Croatia,RMD,Centre Midfielder,33.0,81.0,62.0,72.0,78.0,88.0,83.0,83.0,94.0,72.0,gold
-330,"Modric, Luka",0.0,4.0,13.0,RMD,Modric,Luka,LukModRMD,Luka,Modrić,Croatia,RMD,Centre Midfielder,33.0,80.0,62.0,72.0,78.0,88.0,82.0,82.0,93.0,72.0,gold
-332,"Navas, Keylor",0.0,0.0,0.0,RMD,Navas,Keylor,KeyNavRMD,Keylor,Navas,Costa Rica,RMD,Goalkeeper,32.0,55.0,32.0,15.0,15.0,37.0,13.0,25.0,30.0,53.0,gold
-333,"Navas, Keylor",0.0,0.0,0.0,RMD,Navas,Keylor,KeyNavRMD,Keylor,Navas,Costa Rica,RMD,Goalkeeper,32.0,54.0,32.0,15.0,15.0,37.0,13.0,25.0,30.0,53.0,gold
-334,"Varane, Raphael",0.0,1.0,3.0,RMD,Varane,Raphael,RapVarRMD,Raphaël,Varane,France,RMD,Centre Back,25.0,88.0,88.0,62.0,72.0,99.0,82.0,66.0,99.0,91.0,gold
-335,"Varane, Raphael",0.0,1.0,3.0,RMD,Varane,Raphael,RapVarRMD,Raphaël,Varane,France,RMD,Centre Back,25.0,83.0,77.0,40.0,54.0,77.0,54.0,43.0,76.0,86.0,gold
-336,"Varane, Raphael",0.0,1.0,3.0,RMD,Varane,Raphael,RapVarRMD,Raphaël,Varane,France,RMD,Centre Back,25.0,83.0,77.0,40.0,54.0,76.0,53.0,43.0,75.0,85.0,gold
-339,"Januzaj, Adnan",0.0,0.0,6.0,RSO,Januzaj,Adnan,AdnJanRSO,Adnan,Januzaj,Belgium,RSO,Right Wing,23.0,85.0,45.0,78.0,69.0,78.0,76.0,65.0,84.0,81.0,gold
-340,"Januzaj, Adnan",0.0,0.0,6.0,RSO,Januzaj,Adnan,AdnJanRSO,Adnan,Januzaj,Belgium,RSO,Right Wing,23.0,79.0,41.0,71.0,65.0,74.0,70.0,60.0,79.0,76.0,gold
-341,"Llorente, Diego",0.0,1.0,2.0,RSO,Llorente,Diego,DieLloRSO,Diego Javier,Llorente Ríos,Spain,RSO,Centre Back,25.0,65.0,75.0,39.0,35.0,72.0,37.0,53.0,76.0,63.0,gold
-347,"Pardo, Ruben",0.0,2.0,10.0,RSO,Pardo,Ruben,RubParRSO,Rubén,Pardo Gutiérrez,Spain,RSO,Centre Midfielder,26.0,64.0,58.0,68.0,73.0,75.0,73.0,69.0,78.0,65.0,gold
-349,"Rulli, Geronimo",0.0,0.0,0.0,RSO,Rulli,Geronimo,GerRulRSO,Gerónimo,Rulli,Argentina,RSO,Goalkeeper,26.0,54.0,26.0,15.0,20.0,23.0,17.0,24.0,32.0,48.0,gold
-350,"Zubeldia Elorza, Igor",0.0,1.0,5.0,RSO,Zubeldia Elorza,Igor,IgoZubRSO,Igor,Zubeldia Elorza,Spain,RSO,Centre Midfielder,21.0,65.0,70.0,60.0,65.0,76.0,68.0,51.0,77.0,58.0,silver
-351,"Coquelin, Francis",0.0,1.0,1.0,VAL,Coquelin,Francis,FraCoqVAL,Francis,Coquelin,France,VAL,Centre Defensive Midfielder,27.0,70.0,92.0,54.0,41.0,75.0,57.0,52.0,78.0,73.0,gold
-352,"Coquelin, Francis",0.0,1.0,1.0,VAL,Coquelin,Francis,FraCoqVAL,Francis,Coquelin,France,VAL,Centre Defensive Midfielder,27.0,70.0,91.0,54.0,41.0,74.0,57.0,52.0,77.0,72.0,gold
-353,"Domenech, Jaume",0.0,0.0,0.0,VAL,Domenech,Jaume,JauDomVAL,Jaume,Domenech Sánchez,Spain,VAL,Goalkeeper,28.0,58.0,21.0,11.0,13.0,32.0,12.0,25.0,32.0,58.0,gold
-354,"Domenech, Jaume",0.0,0.0,0.0,VAL,Domenech,Jaume,JauDomVAL,Jaume,Domenech Sánchez,Spain,VAL,Goalkeeper,28.0,58.0,21.0,11.0,13.0,32.0,12.0,25.0,32.0,58.0,gold
-356,"Kondogbia, Geoffrey",0.0,1.0,10.0,VAL,Kondogbia,Geoffrey,GeoKonVAL,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25.0,72.0,88.0,71.0,59.0,85.0,83.0,46.0,88.0,80.0,gold
-357,"Kondogbia, Geoffrey",0.0,1.0,10.0,VAL,Kondogbia,Geoffrey,GeoKonVAL,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25.0,69.0,86.0,69.0,56.0,81.0,81.0,45.0,84.0,77.0,gold
-358,"Kondogbia, Geoffrey",0.0,1.0,10.0,VAL,Kondogbia,Geoffrey,GeoKonVAL,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25.0,69.0,86.0,69.0,56.0,80.0,80.0,45.0,83.0,76.0,gold
-360,"Maksimovic, Nemanja",0.0,4.0,12.0,GET,Maksimovic,Nemanja,NemMakGET,Nemanja,Maksimović,Serbia,GET,Centre Defensive Midfielder,23.0,62.0,59.0,70.0,72.0,77.0,69.0,50.0,79.0,65.0,silver
-361,"Mina, Santi",0.0,3.0,6.0,VAL,Mina,Santi,SanMinVAL,Santiago,Mina Lorenzo,Spain,VAL,Striker,23.0,79.0,71.0,87.0,58.0,68.0,78.0,65.0,73.0,84.0,gold
-362,"Mina, Santi",0.0,3.0,6.0,VAL,Mina,Santi,SanMinVAL,Santiago,Mina Lorenzo,Spain,VAL,Striker,23.0,79.0,71.0,87.0,58.0,68.0,78.0,65.0,73.0,84.0,gold
-363,"Mina, Santi",0.0,3.0,6.0,VAL,Mina,Santi,SanMinVAL,Santiago,Mina Lorenzo,Spain,VAL,Striker,23.0,77.0,69.0,83.0,55.0,65.0,74.0,62.0,70.0,82.0,gold
-364,"Mina, Santi",0.0,3.0,6.0,VAL,Mina,Santi,SanMinVAL,Santiago,Mina Lorenzo,Spain,VAL,Striker,23.0,77.0,69.0,82.0,55.0,65.0,74.0,62.0,69.0,81.0,gold
-365,"Murillo, Jeison",0.0,0.0,0.0,VAL,Murillo,Jeison,JeiMurVAL,Jeison,Murillo,Colombia,VAL,Centre Back,26.0,75.0,89.0,37.0,26.0,63.0,13.0,47.0,70.0,77.0,gold
-366,"Murillo, Jeison",0.0,0.0,0.0,VAL,Murillo,Jeison,JeiMurVAL,Jeison,Murillo,Colombia,VAL,Centre Back,26.0,75.0,88.0,37.0,26.0,62.0,13.0,46.0,69.0,76.0,gold
-369,"Soler, Carlos",0.0,2.0,13.0,VAL,Soler,Carlos,CarSolVAL,Carlos,Soler Barragán,Spain,VAL,Right Midfielder,22.0,75.0,49.0,75.0,83.0,79.0,73.0,81.0,85.0,78.0,gold
-370,"Soler, Carlos",0.0,2.0,13.0,VAL,Soler,Carlos,CarSolVAL,Carlos,Soler Barragán,Spain,VAL,Right Midfielder,22.0,75.0,49.0,74.0,82.0,79.0,73.0,80.0,84.0,77.0,gold
-371,"Torres, Ferran",0.0,2.0,4.0,VAL,Torres,Ferran,FerTorVAL,Ferrán,Torres García,Spain,VAL,Right Midfielder,18.0,77.0,34.0,72.0,46.0,72.0,55.0,62.0,69.0,76.0,silver
-373,"Calero, Fernando",0.0,0.0,1.0,VLD,Calero,Fernando,FerCalVLD,Fernando,Calero Villa,Spain,VLD,Centre Back,23.0,67.0,63.0,23.0,27.0,43.0,21.0,39.0,69.0,64.0,silver
-374,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29.0,63.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,57.0,gold
-375,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29.0,63.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,57.0,gold
-376,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29.0,62.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,56.0,gold
-377,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29.0,62.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,56.0,gold
-378,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29.0,59.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,54.0,gold
-379,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34.0,74.0,85.0,80.0,81.0,87.0,86.0,90.0,89.0,65.0,gold
-380,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Left Midfielder,34.0,63.0,73.0,80.0,80.0,86.0,86.0,90.0,88.0,56.0,gold
-381,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Left Midfielder,34.0,63.0,73.0,80.0,80.0,86.0,86.0,90.0,88.0,56.0,gold
-382,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34.0,60.0,69.0,76.0,79.0,85.0,82.0,86.0,87.0,53.0,gold
-383,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34.0,60.0,69.0,76.0,79.0,85.0,82.0,86.0,87.0,53.0,gold
-384,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34.0,54.0,64.0,71.0,78.0,84.0,76.0,80.0,85.0,48.0,gold
-385,"Costa, Jaume",0.0,2.0,11.0,VIL,Costa,Jaume,JauCosVIL,Jaume Vicent,Costa Jordá,Spain,VIL,Left Back,30.0,78.0,85.0,53.0,59.0,65.0,62.0,56.0,79.0,81.0,gold
-386,"Marin, Adrian",0.0,0.0,1.0,ALA,Marin,Adrian,AdrMarALA,Adrián,Marín Gómez,Spain,ALA,Left Back,22.0,68.0,69.0,40.0,35.0,56.0,42.0,38.0,73.0,72.0,silver
-387,"Morlanes, Manu",0.0,1.0,1.0,VIL,Morlanes,Manu,ManMorVIL,Manuel,Morlanes Ariño,Spain,VIL,Centre Midfielder,20.0,74.0,57.0,56.0,71.0,70.0,59.0,70.0,76.0,64.0,silver
-388,"Raba, Daniel",0.0,0.0,0.0,VIL,Raba,Daniel,DanRabVIL,Daniel,Raba Antolin,Spain,VIL,Right Midfielder,23.0,75.0,50.0,73.0,42.0,74.0,60.0,49.0,76.0,72.0,gold
-391,"Trigueros, Manu",0.0,0.0,10.0,VIL,Trigueros,Manu,ManTriVIL,Manuel,Trigueros Muñoz,Spain,VIL,Centre Midfielder,27.0,71.0,71.0,71.0,69.0,82.0,80.0,65.0,86.0,69.0,gold
-392,"Amat, Jordi",0.0,1.0,1.0,RV,Amat,Jordi,JorAmaRV,Jordi,Amat Maas,Spain,RV,Centre Back,26.0,61.0,82.0,34.0,36.0,52.0,65.0,28.0,68.0,69.0,gold
-393,"Barragan, Antonio",0.0,0.0,0.0,BET,Barragan,Antonio,AntBarBET,Antonio,Barragán Fernández,Spain,BET,Right Back,31.0,69.0,74.0,44.0,51.0,62.0,53.0,55.0,77.0,71.0,gold
-394,"Boudebouz, Ryad",0.0,3.0,10.0,BET,Boudebouz,Ryad,RyaBouBET,Ryad,Boudebouz,Algeria,BET,Centre Attacking Midfielder,28.0,75.0,58.0,77.0,82.0,76.0,76.0,90.0,81.0,73.0,gold
-395,"Feddal, Zouhair",0.0,0.0,4.0,BET,Feddal,Zouhair,ZouFedBET,Zouhair,Feddal,Morocco,BET,Centre Back,29.0,51.0,82.0,40.0,38.0,68.0,56.0,48.0,76.0,62.0,gold
-396,"Guerrero, Francis",0.0,1.0,4.0,BET,Guerrero,Francis,FraGueBET,Francisco,Guerrero Martín,Spain,BET,Right Midfielder,22.0,77.0,55.0,75.0,52.0,74.0,42.0,53.0,72.0,82.0,gold
-398,"Guardado, Andres",0.0,1.0,8.0,BET,Guardado,Andres,AndGuaBET,Andrés,Guardado,Mexico,BET,Centre Midfielder,32.0,74.0,72.0,60.0,81.0,83.0,72.0,70.0,85.0,73.0,gold
-401,"Sanabria, Antonio",0.0,0.0,8.0,BET,Sanabria,Antonio,AntSanBET,Antonio,Sanabria,Paraguay,BET,Striker,22.0,77.0,32.0,81.0,64.0,63.0,65.0,69.0,74.0,79.0,gold
-402,"Tello, Cristian",0.0,3.0,8.0,BET,Tello,Cristian,CriTelBET,Cristian,Tello Herrera,Spain,BET,Left Midfielder,27.0,93.0,48.0,74.0,64.0,70.0,71.0,56.0,77.0,91.0,gold
-403,"Arana, Guilherme",0.0,3.0,6.0,SEV,Arana,Guilherme,GuiAraSEV,Guilherme,Arana Lopes,Brazil,SEV,Left Back,21.0,77.0,69.0,51.0,49.0,67.0,54.0,52.0,72.0,78.0,silver
-404,"Escudero, Sergio",0.0,0.0,4.0,SEV,Escudero,Sergio,SerEscSEV,Sergio,Escudero Palomo,Spain,SEV,Left Back,29.0,72.0,75.0,56.0,69.0,77.0,63.0,66.0,77.0,77.0,gold
-406,"Layun, Miguel",0.0,1.0,10.0,VIL,Layun,Miguel,MigLayVIL,Miguel,Layún,Mexico,VIL,Right Back,30.0,76.0,72.0,67.0,74.0,74.0,76.0,74.0,76.0,76.0,gold
-408,"Mesa, Roque",0.0,1.0,5.0,SEV,Mesa,Roque,RoqMesSEV,Roque,Mesa Quevedo,Spain,SEV,Centre Defensive Midfielder,29.0,74.0,89.0,65.0,48.0,77.0,54.0,42.0,82.0,75.0,gold
-409,"Navas, Jesus",0.0,4.0,18.0,SEV,Navas,Jesus,JesNavSEV,Jesús,Navas González,Spain,SEV,Right Midfielder,33.0,88.0,63.0,62.0,46.0,73.0,70.0,56.0,75.0,85.0,gold
-412,"Soria, David",0.0,0.0,0.0,GET,Soria,David,DavSorGET,David,Soria Solís,Spain,GET,Goalkeeper,25.0,49.0,24.0,19.0,11.0,33.0,18.0,23.0,24.0,34.0,gold
-415,"Gimenez, Jose",0.0,0.0,4.0,ATL,Gimenez,Jose,JosGimATL,José María,Giménez,Uruguay,ATL,Centre Back,24.0,66.0,90.0,37.0,44.0,59.0,49.0,38.0,69.0,71.0,gold
-416,"Gimenez, Jose",0.0,0.0,4.0,ATL,Gimenez,Jose,JosGimATL,José María,Giménez,Uruguay,ATL,Centre Back,24.0,66.0,89.0,37.0,44.0,58.0,48.0,38.0,68.0,70.0,gold
-417,"Hernandez, Lucas",0.0,0.0,4.0,ATL,Hernandez,Lucas,LucHerATL,Lucas,Hernández,France,ATL,Centre Back,22.0,81.0,84.0,44.0,29.0,66.0,50.0,36.0,84.0,86.0,gold
-418,"Hernandez, Lucas",0.0,0.0,4.0,ATL,Hernandez,Lucas,LucHerATL,Lucas,Hernández,France,ATL,Left Back,22.0,80.0,83.0,42.0,28.0,63.0,47.0,34.0,81.0,85.0,gold
-419,"Hernandez, Lucas",0.0,0.0,4.0,ATL,Hernandez,Lucas,LucHerATL,Lucas,Hernández,France,ATL,Left Back,22.0,80.0,82.0,42.0,28.0,63.0,47.0,34.0,80.0,84.0,gold
-421,"Oblak, Jan",0.0,0.0,0.0,ATL,Oblak,Jan,JanOblATL,Jan,Oblak,Slovenia,ATL,Goalkeeper,26.0,44.0,34.0,11.0,14.0,26.0,12.0,11.0,29.0,61.0,gold
-422,"Oblak, Jan",0.0,0.0,0.0,ATL,Oblak,Jan,JanOblATL,Jan,Oblak,Slovenia,ATL,Goalkeeper,26.0,43.0,34.0,11.0,14.0,26.0,12.0,11.0,29.0,60.0,gold
-423,"Savic, Stefan",0.0,0.0,2.0,ATL,Savic,Stefan,SteSavATL,Stefan,Savić,Montenegro,ATL,Centre Back,28.0,55.0,84.0,34.0,28.0,70.0,31.0,38.0,73.0,62.0,gold
-424,"Savic, Stefan",0.0,0.0,2.0,ATL,Savic,Stefan,SteSavATL,Stefan,Savić,Montenegro,ATL,Centre Back,28.0,55.0,83.0,34.0,28.0,69.0,31.0,37.0,72.0,61.0,gold
-427,"Werner, Axel",0.0,0.0,0.0,HUE,Werner,Axel,AxeWerHUE,Axel,Werner,Argentina,HUE,Goalkeeper,22.0,41.0,24.0,19.0,15.0,19.0,18.0,23.0,25.0,46.0,silver
-428,"Brasanac, Darko",0.0,1.0,4.0,ALA,Brasanac,Darko,DarBraALA,Darko,Brasanac,Serbia,ALA,Centre Midfielder,26.0,61.0,81.0,61.0,59.0,75.0,62.0,70.0,74.0,54.0,silver
-429,"Bustinza, Unai",0.0,1.0,1.0,LGN,Bustinza,Unai,UnaBusLGN,Unai,Bustinza Martínez,Spain,LGN,Centre Back,26.0,66.0,71.0,30.0,35.0,53.0,38.0,33.0,72.0,68.0,gold
-431,"Eraso, Javi",0.0,1.0,1.0,LGN,Eraso,Javi,JavEraLGN,Javier,Eraso Goñi,Spain,LGN,Centre Attacking Midfielder,28.0,59.0,82.0,78.0,59.0,79.0,75.0,53.0,80.0,59.0,gold
-435,"Siovas, Dimitrios",0.0,1.0,7.0,LGN,Siovas,Dimitrios,DimSioLGN,Dimitrios,Siovas,Greece,LGN,Centre Back,30.0,40.0,80.0,38.0,28.0,70.0,37.0,40.0,70.0,37.0,silver
-437,"Zaldua, Joseba",0.0,0.0,1.0,RSO,Zaldua,Joseba,JosZalRSO,Joseba,Zaldúa Bengoetxea,Spain,RSO,Right Back,26.0,69.0,78.0,25.0,41.0,55.0,40.0,32.0,78.0,69.0,silver
-438,"Zaldua, Joseba",0.0,0.0,1.0,RSO,Zaldua,Joseba,JosZalRSO,Joseba,Zaldúa Bengoetxea,Spain,RSO,Right Back,26.0,69.0,78.0,25.0,41.0,55.0,40.0,32.0,78.0,69.0,gold
-440,"Arambarri, Mauro",0.0,2.0,6.0,GET,Arambarri,Mauro,MauAraGET,Mauro,Arambarri,Uruguay,GET,Centre Defensive Midfielder,23.0,47.0,79.0,49.0,46.0,78.0,55.0,50.0,79.0,53.0,gold
-441,"Bergara, Markel",0.0,0.0,0.0,GET,Bergara,Markel,MarBerGET,Markel,Bergara Larrañaga,Spain,GET,Centre Defensive Midfielder,32.0,64.0,79.0,67.0,71.0,76.0,68.0,59.0,78.0,32.0,gold
-443,"Cabrera, Leandro",0.0,0.0,5.0,GET,Cabrera,Leandro,LeaCabGET,Leandro,Cabrera,Uruguay,GET,Centre Back,27.0,61.0,78.0,23.0,48.0,59.0,35.0,49.0,69.0,64.0,silver
-444,"Portillo, Francisco",0.0,1.0,1.0,GET,Portillo,Francisco,FraPorGET,Francisco,Portillo Soler,Spain,GET,Right Midfielder,28.0,67.0,48.0,73.0,56.0,75.0,70.0,49.0,78.0,61.0,gold
-445,"Shibasaki, Gaku",0.0,0.0,1.0,GET,Shibasaki,Gaku,GakShiGET,Gaku,Shibasaki,Japan,GET,Centre Attacking Midfielder,26.0,69.0,65.0,70.0,67.0,79.0,66.0,71.0,81.0,67.0,gold
-447,"Alegria, Alex",0.0,1.0,1.0,RV,Alegria,Alex,AleAleRV,Alexander,Alegría Moreno,Spain,RV,Striker,26.0,48.0,53.0,70.0,22.0,39.0,66.0,63.0,65.0,54.0,silver
-448,"Boateng, Emmanuel",0.0,2.0,12.0,LEV,Boateng,Emmanuel,EmmBoaLEV,Emmanuel,Boateng,Ghana,LEV,Striker,22.0,89.0,62.0,75.0,41.0,46.0,64.0,64.0,69.0,88.0,gold
-449,"Cabaco, Erick",0.0,0.0,0.0,LEV,Cabaco,Erick,EriCabLEV,Erick,Cabaco,Uruguay,LEV,Centre Back,23.0,67.0,82.0,36.0,27.0,62.0,34.0,32.0,62.0,67.0,gold
-451,"Doukoure, Cheick",0.0,0.0,0.0,LEV,Doukoure,Cheick,CheDouLEV,Cheick,Doukouré,Côte d'Ivoire,LEV,Centre Defensive Midfielder,26.0,76.0,77.0,58.0,66.0,68.0,66.0,59.0,72.0,74.0,silver
-453,"Luna, Antonio",0.0,1.0,1.0,LEV,Luna,Antonio,AntLunLEV,Antonio Manuel,Luna Rodriguez,Spain,LEV,Left Back,27.0,71.0,82.0,60.0,45.0,63.0,55.0,43.0,76.0,72.0,silver
-457,"Hervias, Pablo",0.0,1.0,4.0,EIB,Hervias,Pablo,PabHerEIB,Pablo,Hervías Rubio,Spain,EIB,Right Midfielder,25.0,80.0,42.0,65.0,67.0,66.0,64.0,51.0,69.0,78.0,silver
-458,"Diakhaby, Mouctar",0.0,0.0,2.0,VAL,Diakhaby,Mouctar,MouDiaVAL,Mouctar,Diakhaby,France,VAL,Centre Back,22.0,57.0,76.0,36.0,26.0,53.0,29.0,50.0,69.0,60.0,gold
-459,"Diakhaby, Mouctar",0.0,0.0,2.0,VAL,Diakhaby,Mouctar,MouDiaVAL,Mouctar,Diakhaby,France,VAL,Centre Back,22.0,57.0,76.0,36.0,26.0,52.0,29.0,49.0,68.0,59.0,gold
-460,"Amadou, Ibrahim",0.0,0.0,1.0,SEV,Amadou,Ibrahim,IbrAmaSEV,Ibrahim,Amadou,France,SEV,Centre Defensive Midfielder,25.0,69.0,80.0,39.0,32.0,73.0,62.0,51.0,76.0,73.0,gold
-462,"Lunin, Andriy",0.0,0.0,0.0,LGN,Lunin,Andriy,AndLunLGN,Andriy,Lunin,Ukraine,LGN,Goalkeeper,19.0,33.0,22.0,8.0,15.0,26.0,7.0,19.0,25.0,26.0,gold
-465,"Garcia, Alberto",0.0,0.0,0.0,RV,Garcia,Alberto,AlbGarRV,Alberto,García Cabrera,Spain,RV,Goalkeeper,33.0,62.0,34.0,15.0,20.0,27.0,11.0,21.0,29.0,63.0,silver
-466,"Vaclik, Tomas",0.0,0.0,0.0,SEV,Vaclik,Tomas,TomVacSEV,Tomáš,Vaclík,Czech Republic,SEV,Goalkeeper,29.0,34.0,29.0,14.0,16.0,38.0,16.0,13.0,17.0,35.0,gold
-467,"Velazquez, Emiliano",0.0,1.0,2.0,RV,Velazquez,Emiliano,EmiVelRV,Emiliano,Velázquez,Uruguay,RV,Centre Back,24.0,63.0,69.0,51.0,26.0,71.0,41.0,37.0,67.0,46.0,silver
-468,"Ojeda, Daniel",0.0,1.0,2.0,LGN,Ojeda,Daniel,DanOjeLGN,Daniel,Ojeda Saranova,Spain,LGN,Left Midfielder,24.0,71.0,38.0,69.0,43.0,66.0,58.0,72.0,64.0,68.0,silver
-469,"Tarin, Rodrigo",0.0,1.0,3.0,LGN,Tarin,Rodrigo,RodTarLGN,Rodrigo,Tarín Higón,Spain,LGN,Centre Back,22.0,69.0,68.0,19.0,30.0,52.0,41.0,40.0,59.0,71.0,bronze
-472,"Longo, Samuele",0.0,2.0,4.0,HUE,Longo,Samuele,SamLonHUE,Samuele,Longo,Italy,HUE,Striker,27.0,74.0,80.0,74.0,43.0,40.0,67.0,64.0,65.0,77.0,silver
-473,"Robles, Joel",0.0,0.0,0.0,BET,Robles,Joel,JoeRobBET,Joel,Robles Blázquez,Spain,BET,Goalkeeper,28.0,46.0,23.0,11.0,20.0,26.0,11.0,15.0,15.0,50.0,gold
-474,"Guardiola, Sergi",0.0,0.0,2.0,GET,Guardiola,Sergi,SerGuaGET,Sergio,Guardiola Navarro,Spain,GET,Striker,27.0,61.0,67.0,80.0,43.0,41.0,77.0,71.0,72.0,61.0,gold
-477,"Costas, David",0.0,0.0,1.0,CEL,Costas,David,DavCosCEL,David,Costas Cordal,Spain,CEL,Centre Back,23.0,68.0,64.0,36.0,59.0,62.0,44.0,50.0,70.0,67.0,silver
-478,"Hjulsager, Andrew",0.0,0.0,0.0,CEL,Hjulsager,Andrew,AndHjuCEL,Andrew,Hjulsager,Denmark,CEL,Centre Midfielder,24.0,79.0,58.0,69.0,55.0,68.0,65.0,53.0,71.0,77.0,silver
-480,"Yokuslu, Okay",0.0,0.0,4.0,CEL,Yokuslu,Okay,OkaYokCEL,Okay,Yokuşlu,Turkey,CEL,Centre Defensive Midfielder,24.0,72.0,81.0,65.0,65.0,72.0,75.0,60.0,77.0,74.0,gold
-481,"Alena, Carles",0.0,0.0,1.0,BAR,Alena,Carles,CarAleBAR,Carles,Aleñà Castillo,Spain,BAR,Centre Midfielder,21.0,78.0,52.0,63.0,59.0,67.0,67.0,73.0,69.0,76.0,silver
-483,"Cucurella, Marc",0.0,0.0,2.0,EIB,Cucurella,Marc,MarCucEIB,Marc,Cucurella Saseta,Spain,EIB,Left Midfielder,20.0,83.0,78.0,58.0,56.0,71.0,47.0,46.0,80.0,87.0,gold
-484,"Cucurella, Marc",0.0,0.0,2.0,EIB,Cucurella,Marc,MarCucEIB,Marc,Cucurella Saseta,Spain,EIB,Left Midfielder,20.0,83.0,78.0,58.0,56.0,71.0,47.0,46.0,80.0,87.0,gold
-485,"Cucurella, Marc",0.0,0.0,2.0,EIB,Cucurella,Marc,MarCucEIB,Marc,Cucurella Saseta,Spain,EIB,Left Back,20.0,82.0,70.0,49.0,48.0,61.0,40.0,39.0,68.0,85.0,silver
-487,"Musto, Damian",0.0,0.0,5.0,HUE,Musto,Damian,DamMusHUE,Damián,Musto,Argentina,HUE,Centre Defensive Midfielder,31.0,42.0,78.0,34.0,50.0,76.0,67.0,40.0,79.0,49.0,silver
-493,"Masip, Jordi",0.0,0.0,0.0,VLD,Masip,Jordi,JorMasVLD,Jordi,Masip López,Spain,VLD,Goalkeeper,30.0,57.0,21.0,12.0,20.0,38.0,13.0,12.0,42.0,64.0,silver
-494,"Moyano, Javi",0.0,2.0,3.0,VLD,Moyano,Javi,JavMoyVLD,Javier,Moyano Lujano,Spain,VLD,Right Back,32.0,79.0,65.0,33.0,53.0,49.0,51.0,46.0,62.0,77.0,silver
-497,"Ba, Abdoulaye",0.0,2.0,2.0,RV,Ba,Abdoulaye,AbdBaRV,Abdoulaye,Ba,Senegal,RV,Centre Back,28.0,49.0,80.0,22.0,59.0,41.0,50.0,68.0,58.0,53.0,silver
-499,"Moreno, Alex",0.0,2.0,8.0,RV,Moreno,Alex,AleMorRV,Alexandre,Moreno Lopera,Spain,RV,Left Back,25.0,71.0,49.0,64.0,57.0,64.0,60.0,70.0,72.0,78.0,silver
-500,"Akieme Rodriguez, Sergio",0.0,0.0,0.0,RV,Akieme Rodriguez,Sergio,SerAkiRV,Sergio,Akieme Rodríguez,Spain,RV,Left Back,21.0,76.0,65.0,26.0,36.0,43.0,44.0,40.0,62.0,73.0,silver
-501,"Guerra, Javi",0.0,0.0,1.0,RV,Guerra,Javi,JavGueRV,Javier,Guerra Rodríguez,Spain,RV,Striker,36.0,58.0,59.0,71.0,50.0,57.0,67.0,80.0,63.0,64.0,silver
-506,"Ferreiro, David",0.0,5.0,10.0,HUE,Ferreiro,David,DavFerHUE,David,Ferreiro Quiroga,Spain,HUE,Left Midfielder,30.0,92.0,74.0,72.0,74.0,71.0,75.0,69.0,70.0,90.0,silver
-507,"Insua, Pablo",0.0,0.0,0.0,HUE,Insua,Pablo,PabInsHUE,Pablo,Insua Blanco,Spain,HUE,Centre Back,25.0,52.0,70.0,36.0,23.0,62.0,29.0,32.0,74.0,54.0,gold
-508,"Sastre, Lluis",0.0,0.0,0.0,HUE,Sastre,Lluis,LluSasHUE,Lluís,Sastre Reus,Spain,HUE,Centre Midfielder,32.0,58.0,75.0,54.0,72.0,76.0,64.0,57.0,75.0,57.0,silver
-509,"Gnagnon, Joris",0.0,0.0,0.0,SEV,Gnagnon,Joris,JorGnaSEV,Joris,Gnagnon,France,SEV,Centre Back,22.0,66.0,76.0,28.0,28.0,47.0,27.0,47.0,65.0,66.0,gold
-510,"Piccini, Cristiano",0.0,0.0,4.0,VAL,Piccini,Cristiano,CriPicVAL,Cristiano,Piccini,Italy,VAL,Right Back,26.0,74.0,74.0,32.0,37.0,59.0,35.0,35.0,74.0,77.0,gold
-511,"Piccini, Cristiano",0.0,0.0,4.0,VAL,Piccini,Cristiano,CriPicVAL,Cristiano,Piccini,Italy,VAL,Right Back,26.0,74.0,74.0,32.0,37.0,59.0,35.0,35.0,73.0,76.0,gold
-512,"Reguilon, Sergio",0.0,0.0,0.0,RMD,Reguilon,Sergio,SerRegRMD,Sergio,Reguilón Rodríguez,Spain,RMD,Left Back,22.0,67.0,55.0,22.0,39.0,25.0,33.0,42.0,54.0,62.0,bronze
-514,"Arias, Santiago",0.0,0.0,3.0,ATL,Arias,Santiago,SanAriATL,Santiago,Arias,Colombia,ATL,Right Back,27.0,87.0,84.0,52.0,61.0,82.0,51.0,58.0,83.0,90.0,gold
-515,"Arias, Santiago",0.0,0.0,3.0,ATL,Arias,Santiago,SanAriATL,Santiago,Arias,Colombia,ATL,Right Back,27.0,84.0,80.0,51.0,54.0,74.0,50.0,57.0,75.0,87.0,gold
-516,"Arias, Santiago",0.0,0.0,3.0,ATL,Arias,Santiago,SanAriATL,Santiago,Arias,Colombia,ATL,Right Back,27.0,84.0,79.0,51.0,54.0,73.0,50.0,56.0,74.0,86.0,gold
-517,"Jensen, Mathias",0.0,0.0,2.0,CEL,Jensen,Mathias,MatJenCEL,Mathias,Jensen,Denmark,CEL,Centre Midfielder,23.0,74.0,65.0,65.0,66.0,75.0,69.0,69.0,76.0,74.0,gold
-518,"Alonso, Junior",0.0,2.0,3.0,CEL,Alonso,Junior,JunAloCEL,Junior,Alonso,Paraguay,CEL,Centre Back,25.0,58.0,76.0,38.0,27.0,63.0,46.0,33.0,65.0,64.0,silver
-522,"Jovanovic, Aleksandar",0.0,0.0,0.0,HUE,Jovanovic,Aleksandar,AleJovHUE,Aleksandar,Jovanović,Serbia,HUE,Goalkeeper,26.0,22.0,20.0,8.0,10.0,15.0,8.0,14.0,22.0,22.0,silver
-525,"Rolan, Diego",0.0,0.0,2.0,LGN,Rolan,Diego,DieRolLGN,Diego,Rolán,Uruguay,LGN,Striker,25.0,74.0,64.0,77.0,70.0,62.0,63.0,75.0,74.0,78.0,gold
-526,"En-Nesyri, Youssef",0.0,3.0,14.0,LGN,En-Nesyri,Youssef,YouEn-LGN,Youssef,En-Nesyri,Morocco,LGN,Striker,21.0,75.0,37.0,73.0,47.0,46.0,68.0,59.0,63.0,77.0,silver
-527,"Santos, Michael",0.0,3.0,8.0,LGN,Santos,Michael,MicSanLGN,Michael,Santos,Uruguay,LGN,Striker,25.0,77.0,80.0,73.0,62.0,57.0,69.0,70.0,65.0,75.0,silver
-528,"Nyom, Allan",0.0,0.0,0.0,LGN,Nyom,Allan,AllNyoLGN,Allan,Nyom,Cameroon,LGN,Right Back,30.0,67.0,80.0,27.0,30.0,64.0,66.0,37.0,63.0,76.0,silver
-529,"Omeruo, Kenneth",0.0,0.0,0.0,LGN,Omeruo,Kenneth,KenOmeLGN,Kenneth,Omeruo,Nigeria,LGN,Centre Back,25.0,67.0,76.0,22.0,23.0,60.0,31.0,35.0,63.0,75.0,silver
-530,"Roberts, Patrick",0.0,2.0,3.0,GIR,Roberts,Patrick,PatRobGIR,Patrick,Roberts,England,GIR,Right Midfielder,21.0,79.0,38.0,68.0,49.0,65.0,67.0,62.0,73.0,74.0,silver
-531,"Doumbia, Seydou",0.0,0.0,1.0,GIR,Doumbia,Seydou,SeyDouGIR,Seydou,Doumbia,Côte d'Ivoire,GIR,Striker,31.0,89.0,66.0,81.0,75.0,68.0,75.0,88.0,76.0,94.0,gold
-532,"Doumbia, Seydou",0.0,0.0,1.0,GIR,Doumbia,Seydou,SeyDouGIR,Seydou,Doumbia,Côte d'Ivoire,GIR,Striker,31.0,87.0,60.0,73.0,69.0,63.0,68.0,80.0,70.0,91.0,gold
-533,"De Blasis, Pablo",0.0,2.0,4.0,EIB,De Blasis,Pablo,PabDe EIB,Pablo,De Blasis,Argentina,EIB,Left Midfielder,30.0,81.0,74.0,72.0,62.0,66.0,72.0,79.0,74.0,75.0,gold
-534,"Bigas, Pedro",0.0,0.0,2.0,EIB,Bigas,Pedro,PedBigEIB,Pedro,Bigas Rigo,Spain,EIB,Centre Back,28.0,71.0,83.0,49.0,43.0,60.0,47.0,48.0,72.0,72.0,gold
-535,"Miquel, Ignasi",0.0,0.0,0.0,GET,Miquel,Ignasi,IgnMiqGET,Ignasi,Miquel i Pons,Spain,GET,Centre Back,26.0,64.0,75.0,18.0,24.0,58.0,21.0,43.0,69.0,66.0,silver
-538,"Dwamena, Raphael",0.0,0.0,0.0,LEV,Dwamena,Raphael,RapDwaLEV,Raphael,Dwamena,Ghana,LEV,Striker,23.0,76.0,47.0,74.0,42.0,41.0,67.0,66.0,58.0,82.0,silver
-539,"Vukcevic, Nikola",0.0,0.0,0.0,LEV,Vukcevic,Nikola,NikVukLEV,Nikola,Vukčević,Montenegro,LEV,Centre Defensive Midfielder,27.0,64.0,85.0,38.0,64.0,70.0,61.0,53.0,79.0,56.0,gold
-540,"Prcic, Sanjin",0.0,0.0,4.0,LEV,Prcic,Sanjin,SanPrcLEV,Sanjin,Prcić,Bosnia and Herzegovina,LEV,Centre Defensive Midfielder,25.0,62.0,70.0,61.0,73.0,73.0,60.0,63.0,76.0,65.0,silver
-541,"Kalinic, Nikola",0.0,1.0,4.0,ATL,Kalinic,Nikola,NikKalATL,Nikola,Kalinić,Croatia,ATL,Striker,31.0,67.0,68.0,84.0,54.0,48.0,60.0,70.0,73.0,74.0,gold
-542,"Kalinic, Nikola",0.0,1.0,4.0,ATL,Kalinic,Nikola,NikKalATL,Nikola,Kalinić,Croatia,ATL,Striker,31.0,67.0,68.0,83.0,54.0,48.0,60.0,70.0,72.0,73.0,gold
-543,"Gonalons, Maxime",0.0,0.0,0.0,SEV,Gonalons,Maxime,MaxGonSEV,Maxime,Gonalons,France,SEV,Centre Defensive Midfielder,29.0,65.0,83.0,55.0,57.0,74.0,59.0,68.0,74.0,55.0,gold
-546,"Courtois, Thibaut",0.0,0.0,0.0,RMD,Courtois,Thibaut,ThiCouRMD,Thibaut,Courtois,Belgium,RMD,Goalkeeper,26.0,47.0,23.0,14.0,20.0,35.0,17.0,27.0,33.0,53.0,gold
-547,"Courtois, Thibaut",0.0,0.0,0.0,RMD,Courtois,Thibaut,ThiCouRMD,Thibaut,Courtois,Belgium,RMD,Goalkeeper,26.0,46.0,23.0,14.0,20.0,35.0,17.0,27.0,33.0,52.0,gold
-552,"Elustondo, Gorka",0.0,0.0,2.0,RV,Elustondo,Gorka,GorEluRV,Gorka,Elustondo Urkola,Spain,RV,Centre Midfielder,31.0,49.0,88.0,59.0,80.0,73.0,74.0,67.0,76.0,61.0,silver
-558,"Muniesa, Marc",0.0,0.0,2.0,GIR,Muniesa,Marc,MarMunGIR,Marc,Muniesa Martínez,Spain,GIR,Centre Back,26.0,42.0,78.0,42.0,40.0,56.0,37.0,50.0,73.0,59.0,silver
-560,"Milla, Pere",0.0,0.0,4.0,EIB,Milla,Pere,PerMilEIB,Pere,Milla Peña,Spain,EIB,Centre Attacking Midfielder,26.0,78.0,45.0,75.0,58.0,60.0,70.0,62.0,67.0,76.0,silver
+,FullName,Goals,ShootOnGoals,Shoots,PlayerClub,LastName_x,FirstName_x,ForKey,LastName_y,FirstName_y,Club,Acceleration,Age,Aggression,Finishing,FreeKickAccuracy,LongPassing,LongShots,Penalties,ShortPassing,SprintSpeed
+0,"Messi, Lionel",9.0,22.0,47.0,BAR,Messi,Lionel,LioMesBAR,Messi,Lionel,BAR,93.0,31.0,52.0,97.0,97.0,90.0,96.0,76.0,93.0,88.0
+2,"Stuani, Cristhian",8.0,11.0,20.0,GIR,Stuani,Cristhian,CriStuGIR,Stuani,Cristhian,GIR,71.0,32.0,79.0,84.0,60.0,68.0,78.0,84.0,78.0,67.0
+3,"Aspas, Iago",8.0,15.0,29.0,CEL,Aspas,Iago,IagAspCEL,Aspas Juncal,Iago,CEL,86.0,31.0,64.0,92.0,78.0,66.0,83.0,83.0,83.0,78.0
+4,"Iglesias, Borja",7.0,18.0,32.0,ESP,Iglesias,Borja,BorIglESP,Iglesias Quintas,Borja,ESP,59.0,26.0,42.0,83.0,36.0,64.0,75.0,78.0,68.0,65.0
+6,"Ben Yedder, Wissam",6.0,11.0,25.0,SEV,Ben Yedder,Wissam,WisBenSEV,Ben Yedder,Wissam,SEV,90.0,28.0,58.0,87.0,80.0,69.0,72.0,73.0,79.0,85.0
+8,"Marti, Roger",6.0,9.0,22.0,LEV,Marti,Roger,RogMarLEV,Martí Salvador,Roger,LEV,78.0,28.0,65.0,78.0,46.0,48.0,72.0,78.0,71.0,79.0
+9,"Benzema, Karim",5.0,12.0,32.0,RMD,Benzema,Karim,KarBenRMD,Benzema,Karim,RMD,77.0,31.0,66.0,79.0,74.0,56.0,76.0,84.0,84.0,77.0
+10,"Muniain, Iker",4.0,4.0,6.0,ATH,Muniain,Iker,IkeMunATH,Muniain Goñi,Iker,ATH,83.0,26.0,66.0,76.0,69.0,65.0,72.0,61.0,75.0,75.0
+12,"Coutinho, Philippe",4.0,16.0,29.0,BAR,Coutinho,Philippe,PhiCouBAR,Coutinho Correia,Philippe,BAR,90.0,26.0,56.0,77.0,87.0,81.0,94.0,70.0,89.0,75.0
+13,"Dembele, Ousmane",4.0,9.0,21.0,BAR,Dembele,Ousmane,OusDemBAR,Dembélé,Ousmane,BAR,92.0,21.0,55.0,78.0,66.0,72.0,68.0,77.0,78.0,88.0
+14,"Ramos, Sergio",4.0,9.0,18.0,RMD,Ramos,Sergio,SerRamRMD,Ramos García,Sergio,RMD,80.0,32.0,88.0,65.0,72.0,78.0,60.0,74.0,85.0,79.0
+15,"Sarabia, Pablo",4.0,11.0,28.0,SEV,Sarabia,Pablo,PabSarSEV,Sarabia García,Pablo,SEV,73.0,26.0,33.0,80.0,74.0,77.0,77.0,63.0,85.0,76.0
+16,"Morales, Jose Luis",4.0,11.0,22.0,LEV,Morales,Jose Luis,JosMorLEV,Morales Nogales,José Luis,LEV,88.0,31.0,58.0,78.0,72.0,68.0,80.0,76.0,75.0,87.0
+21,"Sobrino, Ruben",3.0,5.0,13.0,ALA,Sobrino,Ruben,RubSobALA,Sobrino Pozuelo,Rubén,ALA,79.0,26.0,65.0,78.0,57.0,47.0,74.0,66.0,73.0,85.0
+23,"Bale, Gareth",3.0,17.0,40.0,RMD,Bale,Gareth,GarBalRMD,Bale,Gareth,RMD,94.0,29.0,66.0,87.0,89.0,81.0,93.0,77.0,87.0,96.0
+24,"Canales, Sergio",3.0,10.0,32.0,BET,Canales,Sergio,SerCanBET,Canales Madrazo,Sergio,BET,64.0,27.0,55.0,77.0,76.0,70.0,78.0,66.0,84.0,57.0
+25,"Oyarzabal, Mikel",3.0,7.0,13.0,RSO,Oyarzabal,Mikel,MikOyaRSO,Oyarzabal Ugarte,Mikel,RSO,71.0,21.0,40.0,77.0,71.0,73.0,79.0,47.0,80.0,74.0
+27,"Moron, Loren",3.0,12.0,27.0,BET,Moron,Loren,LorMorBET,Morón García,Lorenzo,BET,63.0,25.0,38.0,86.0,53.0,35.0,80.0,77.0,74.0,66.0
+28,"Griezmann, Antoine",3.0,13.0,30.0,ATL,Griezmann,Antoine,AntGriATL,Griezmann,Antoine,ATL,90.0,27.0,70.0,94.0,77.0,77.0,83.0,75.0,84.0,86.0
+29,"El Zhar, Nabil",3.0,6.0,14.0,LGN,El Zhar,Nabil,NabEl LGN,El Zhar,Nabil,LGN,76.0,32.0,58.0,74.0,58.0,64.0,71.0,72.0,77.0,68.0
+30,"Molina, Jorge",3.0,8.0,15.0,GET,Molina,Jorge,JorMolGET,Molina Vidal,Jorge,GET,34.0,36.0,76.0,79.0,59.0,57.0,75.0,80.0,75.0,41.0
+32,"Carrillo, Guido",3.0,8.0,19.0,LGN,Carrillo,Guido,GuiCarLGN,Carrillo,Guido,LGN,57.0,27.0,72.0,75.0,36.0,57.0,72.0,77.0,64.0,62.0
+33,"Calleri, Jonathan",3.0,7.0,16.0,ALA,Calleri,Jonathan,JonCalALA,Calleri,Jonathan,ALA,73.0,25.0,67.0,79.0,37.0,61.0,72.0,65.0,70.0,75.0
+34,"Enrich, Sergi",2.0,5.0,18.0,EIB,Enrich,Sergi,SerEnrEIB,Enrich Ametller,Sergi,EIB,60.0,28.0,66.0,81.0,47.0,61.0,70.0,63.0,79.0,65.0
+35,"Jordan, Joan",2.0,7.0,20.0,EIB,Jordan,Joan,JoaJorEIB,Jordán Moreno,Joan,EIB,67.0,24.0,63.0,80.0,69.0,80.0,81.0,65.0,82.0,71.0
+37,"Rakitic, Ivan",2.0,6.0,16.0,BAR,Rakitic,Ivan,IvaRakBAR,Rakitić,Ivan,BAR,67.0,30.0,67.0,83.0,84.0,91.0,91.0,82.0,88.0,60.0
+38,"Granero, Esteban",2.0,4.0,13.0,ESP,Granero,Esteban,EstGraESP,Granero Molina,Esteban,ESP,55.0,31.0,72.0,71.0,76.0,82.0,78.0,73.0,83.0,50.0
+39,"Hermoso, Mario",2.0,7.0,14.0,ESP,Hermoso,Mario,MarHerESP,Hermoso Canseco,Mario,ESP,78.0,23.0,73.0,29.0,55.0,58.0,32.0,45.0,64.0,88.0
+40,"Moreno, Gerard",2.0,14.0,31.0,VIL,Moreno,Gerard,GerMorVIL,Moreno Balagueró,Gerard,VIL,78.0,26.0,56.0,85.0,58.0,58.0,78.0,74.0,80.0,82.0
+43,"Parejo, Dani",2.0,2.0,9.0,VAL,Parejo,Dani,DanParVAL,Parejo Muñoz,Daniel,VAL,52.0,29.0,64.0,80.0,91.0,87.0,84.0,85.0,91.0,44.0
+45,"Toko Ekambi, Karl",2.0,12.0,20.0,VIL,Toko Ekambi,Karl,KarTokVIL,Toko-Ekambi,Karl,VIL,86.0,26.0,43.0,83.0,63.0,58.0,72.0,69.0,69.0,83.0
+47,"Firpo, Junior",2.0,5.0,13.0,BET,Firpo,Junior,JunFirBET,Firpo,Junior,BET,75.0,22.0,57.0,60.0,45.0,74.0,65.0,40.0,76.0,72.0
+52,"Godin, Diego",2.0,5.0,9.0,ATL,Godin,Diego,DieGodATL,Godín,Diego,ATL,69.0,32.0,89.0,42.0,52.0,71.0,44.0,51.0,80.0,69.0
+54,"Lemar, Thomas",2.0,3.0,8.0,ATL,Lemar,Thomas,ThoLemATL,Lemar,Thomas,ATL,86.0,23.0,63.0,75.0,81.0,75.0,76.0,68.0,84.0,84.0
+57,"Boufal, Sofiane",2.0,6.0,14.0,CEL,Boufal,Sofiane,SofBouCEL,Boufal,Sofiane,CEL,84.0,25.0,47.0,68.0,63.0,66.0,65.0,69.0,75.0,79.0
+58,"Vidal, Arturo",2.0,3.0,4.0,BAR,Vidal,Arturo,ArtVidBAR,Vidal,Arturo,BAR,60.0,31.0,94.0,75.0,68.0,78.0,86.0,82.0,84.0,55.0
+60,"Pozo, Jose",2.0,3.0,7.0,RV,Pozo,Jose,JosPozRV,Pozo la Rosa,José Ángel,RV,74.0,22.0,39.0,70.0,64.0,75.0,74.0,66.0,77.0,72.0
+61,"Foulquier, Dimitri",2.0,3.0,6.0,GET,Foulquier,Dimitri,DimFouGET,Foulquier,Dimitri,GET,66.0,25.0,67.0,47.0,40.0,59.0,49.0,49.0,67.0,75.0
+62,"Arbilla, Anaitz",1.0,2.0,10.0,EIB,Arbilla,Anaitz,AnaArbEIB,Arbilla Zabala,Anaitz,EIB,55.0,31.0,84.0,40.0,82.0,65.0,68.0,47.0,77.0,70.0
+63,"Diop, Pape",1.0,5.0,18.0,EIB,Diop,Pape,PapDioEIB,Diop,Papakouli,EIB,50.0,32.0,89.0,57.0,69.0,72.0,71.0,61.0,74.0,54.0
+64,"Escalante, Gonzalo",1.0,2.0,5.0,EIB,Escalante,Gonzalo,GonEscEIB,Escalante,Gonzalo,EIB,71.0,25.0,85.0,56.0,52.0,74.0,58.0,64.0,76.0,72.0
+66,"Alcala, Pedro",1.0,1.0,4.0,GIR,Alcala,Pedro,PedAlcGIR,Alcalá Guirado,Pedro,GIR,31.0,29.0,77.0,30.0,65.0,66.0,68.0,39.0,71.0,42.0
+67,"Garcia, Borja",1.0,5.0,15.0,GIR,Garcia,Borja,BorGarGIR,García Freire,Borja,GIR,81.0,28.0,52.0,77.0,54.0,80.0,78.0,62.0,82.0,77.0
+68,"Pons, Pere",1.0,2.0,7.0,GIR,Pons,Pere,PerPonGIR,Pons Riera,Pere,GIR,68.0,25.0,75.0,65.0,62.0,80.0,64.0,45.0,82.0,67.0
+70,"El Haddadi, Munir",1.0,1.0,3.0,BAR,El Haddadi,Munir,MunEl BAR,El Haddadi,Munir,BAR,78.0,23.0,38.0,78.0,67.0,58.0,77.0,66.0,78.0,80.0
+71,"Garcia, Manu",1.0,2.0,9.0,ALA,Garcia,Manu,ManGarALA,García Sánchez,Manuel,ALA,46.0,32.0,90.0,60.0,54.0,73.0,53.0,71.0,77.0,61.0
+72,"Pedraza, Alfonso",1.0,5.0,10.0,VIL,Pedraza,Alfonso,AlfPedVIL,Pedraza Sag,Alfonso,VIL,78.0,22.0,58.0,72.0,57.0,68.0,66.0,64.0,70.0,83.0
+73,"Pina, Tomas",1.0,1.0,1.0,ALA,Pina,Tomas,TomPinALA,Pina Isla,Tomás,ALA,65.0,31.0,77.0,66.0,63.0,81.0,73.0,63.0,82.0,58.0
+75,"De Marcos, Oscar",1.0,1.0,4.0,ATH,De Marcos,Oscar,OscDe ATH,De Marcos Arana,Oscar,ATH,80.0,29.0,78.0,62.0,54.0,71.0,59.0,58.0,78.0,90.0
+76,"Etxeita, Xabier",1.0,3.0,4.0,HUE,Etxeita,Xabier,XabEtxHUE,Etxeita Gorritxat.,Xabier,HUE,37.0,31.0,83.0,29.0,43.0,54.0,34.0,30.0,63.0,53.0
+79,"Susaeta, Markel",1.0,4.0,10.0,ATH,Susaeta,Markel,MarSusATH,Susaeta Laskurain,Markel,ATH,80.0,31.0,68.0,69.0,82.0,81.0,75.0,58.0,82.0,71.0
+80,"Alba, Jordi",1.0,3.0,7.0,BAR,Alba,Jordi,JorAlbBAR,Alba Ramos,Jordi,BAR,94.0,29.0,76.0,74.0,63.0,74.0,66.0,59.0,85.0,94.0
+81,"Pique, Gerard",1.0,3.0,10.0,BAR,Pique,Gerard,GerPiqBAR,Piqué Bernabeu,Gerard,BAR,50.0,31.0,73.0,65.0,43.0,81.0,52.0,70.0,82.0,62.0
+82,"Mallo, Hugo",1.0,3.0,10.0,CEL,Mallo,Hugo,HugMalCEL,Mallo Novegil,Hugo,CEL,71.0,27.0,76.0,28.0,38.0,68.0,39.0,23.0,71.0,71.0
+83,"Sisto, Pione",1.0,6.0,10.0,CEL,Sisto,Pione,PioSisCEL,Sisto,Pione,CEL,81.0,23.0,52.0,76.0,75.0,65.0,72.0,66.0,70.0,81.0
+85,"Darder, Sergi",1.0,4.0,21.0,ESP,Darder,Sergi,SerDarESP,Darder Moll,Sergi,ESP,58.0,25.0,71.0,59.0,58.0,81.0,69.0,55.0,84.0,45.0
+86,"Garcia, Sergio",1.0,9.0,22.0,ESP,Garcia,Sergio,SerGarESP,García de la Fuente,Sergio,ESP,70.0,35.0,61.0,76.0,64.0,72.0,74.0,80.0,76.0,69.0
+87,"Piatti, Pablo",1.0,6.0,9.0,ESP,Piatti,Pablo,PabPiaESP,Piatti,Pablo,ESP,89.0,29.0,55.0,76.0,58.0,70.0,72.0,64.0,76.0,83.0
+88,"Asensio, Marco",1.0,7.0,21.0,RMD,Asensio,Marco,MarAseRMD,Asensio Willemsen,Marco,RMD,84.0,23.0,45.0,84.0,76.0,82.0,88.0,62.0,86.0,80.0
+89,"Carvajal, Dani",1.0,3.0,5.0,RMD,Carvajal,Dani,DanCarRMD,Carvajal Ramos,Daniel,RMD,80.0,27.0,82.0,42.0,48.0,72.0,38.0,47.0,83.0,85.0
+90,"Ceballos, Dani",1.0,2.0,4.0,RMD,Ceballos,Dani,DanCebRMD,Ceballos Fernández,Daniel,RMD,70.0,22.0,76.0,62.0,61.0,78.0,64.0,55.0,80.0,60.0
+91,"Hernandez, Theo",1.0,4.0,9.0,RSO,Hernandez,Theo,TheHerRSO,Hernández,Theo,RSO,90.0,21.0,75.0,50.0,64.0,52.0,54.0,41.0,76.0,93.0
+94,"Bautista, Jon",1.0,3.0,11.0,RSO,Bautista,Jon,JonBauRSO,Bautista Orgilles,Jon,RSO,61.0,23.0,35.0,78.0,57.0,41.0,77.0,70.0,67.0,57.0
+95,"Elustondo, Aritz",1.0,3.0,4.0,RSO,Elustondo,Aritz,AriEluRSO,Elustondo,Aritz,RSO,67.0,24.0,77.0,26.0,41.0,43.0,40.0,43.0,72.0,71.0
+98,"Zurutuza, David",1.0,1.0,4.0,RSO,Zurutuza,David,DavZurRSO,Zurutuza,David,RSO,66.0,32.0,72.0,74.0,59.0,74.0,75.0,61.0,79.0,64.0
+99,"Garay, Ezequiel",1.0,2.0,4.0,VAL,Garay,Ezequiel,EzeGarVAL,Garay,Ezequiel,VAL,34.0,32.0,77.0,58.0,74.0,72.0,64.0,70.0,70.0,36.0
+100,"Gaya, Jose Luis",1.0,1.0,5.0,VAL,Gaya,Jose Luis,JosGayVAL,Gayà Peña,José Luís,VAL,86.0,23.0,72.0,62.0,49.0,75.0,59.0,52.0,82.0,88.0
+101,"Moreno, Rodrigo",1.0,11.0,32.0,VAL,Moreno,Rodrigo,RodMorVAL,Moreno Machado,Rodrigo,VAL,88.0,27.0,60.0,83.0,67.0,58.0,80.0,78.0,79.0,93.0
+103,"Mata, Jaime",1.0,5.0,12.0,GET,Mata,Jaime,JaiMatGET,Mata Arnaiz,Jaime,GET,72.0,30.0,73.0,81.0,48.0,49.0,71.0,70.0,61.0,76.0
+104,"Cheryshev, Denis",1.0,3.0,8.0,VAL,Cheryshev,Denis,DenCheVAL,Cheryshev,Denis,VAL,77.0,28.0,62.0,78.0,61.0,68.0,84.0,64.0,72.0,80.0
+105,"Fornals, Pablo",1.0,6.0,28.0,VIL,Fornals,Pablo,PabForVIL,Fornals Malla,Pablo,VIL,70.0,22.0,70.0,80.0,62.0,82.0,84.0,48.0,86.0,68.0
+108,"Sansone, Nicola",1.0,1.0,1.0,VIL,Sansone,Nicola,NicSanVIL,Sansone,Nicola,VIL,82.0,27.0,68.0,77.0,69.0,65.0,75.0,66.0,75.0,81.0
+109,"Bartra, Marc",1.0,2.0,5.0,BET,Bartra,Marc,MarBarBET,Bartra Aregall,Marc,BET,75.0,28.0,80.0,55.0,45.0,77.0,62.0,52.0,79.0,72.0
+111,"Muriel, Luis",1.0,1.0,4.0,SEV,Muriel,Luis,LuiMurSEV,Muriel,Luis,SEV,86.0,27.0,50.0,77.0,60.0,55.0,65.0,74.0,75.0,90.0
+115,"Gumbau, Gerard",1.0,4.0,11.0,LGN,Gumbau,Gerard,GerGumLGN,Gumbau Garriga,Gerard,LGN,34.0,24.0,60.0,60.0,62.0,79.0,73.0,50.0,81.0,29.0
+116,"Bardhi, Enis",1.0,10.0,25.0,LEV,Bardhi,Enis,EniBarLEV,Bardhi,Enis,LEV,76.0,23.0,54.0,75.0,90.0,77.0,84.0,75.0,79.0,64.0
+119,"Postigo, Sergio",1.0,2.0,5.0,LEV,Postigo,Sergio,SerPosLEV,Postigo Redondo,Sergio,LEV,59.0,30.0,75.0,44.0,26.0,69.0,34.0,45.0,65.0,64.0
+120,"Rochina, Ruben",1.0,3.0,15.0,LEV,Rochina,Ruben,RubRocLEV,Rochina Naixes,Rubén,LEV,74.0,27.0,65.0,72.0,72.0,69.0,80.0,69.0,74.0,72.0
+122,"Funes Mori, Ramiro",1.0,2.0,12.0,VIL,Funes Mori,Ramiro,RamFunVIL,Funes Mori,Ramiro,VIL,61.0,27.0,83.0,40.0,58.0,55.0,56.0,52.0,67.0,68.0
+123,"Berchiche, Yuri",1.0,4.0,15.0,ATH,Berchiche,Yuri,YurBerATH,Berchiche Izeta,Yuri,ATH,78.0,28.0,85.0,43.0,55.0,68.0,77.0,59.0,70.0,77.0
+124,"Miramon, Jorge",1.0,1.0,6.0,HUE,Miramon,Jorge,JorMirHUE,Miramón,Jorge,HUE,73.0,29.0,52.0,58.0,64.0,70.0,53.0,65.0,73.0,71.0
+125,"Alcaraz, Ruben",1.0,5.0,25.0,VLD,Alcaraz,Ruben,RubAlcVLD,Alcaraz Jiménez,Rubén,VLD,57.0,27.0,74.0,64.0,73.0,74.0,72.0,70.0,75.0,53.0
+128,"Merino, Mikel",1.0,1.0,4.0,RSO,Merino,Mikel,MikMerRSO,Merino Zazón,Mikel,RSO,61.0,22.0,73.0,62.0,69.0,74.0,67.0,58.0,78.0,62.0
+130,"Cardona, Marc",1.0,2.0,2.0,EIB,Cardona,Marc,MarCarEIB,Cardona Rovira,Marc,EIB,80.0,23.0,33.0,68.0,52.0,50.0,65.0,56.0,60.0,78.0
+133,"Embarba, Adri",1.0,6.0,19.0,RV,Embarba,Adri,AdrEmbRV,Embarba Blazquez,Adrián,RV,76.0,26.0,56.0,72.0,65.0,76.0,68.0,55.0,78.0,79.0
+135,"Pulido, Jorge",1.0,4.0,5.0,HUE,Pulido,Jorge,JorPulHUE,Pulido Mayoral,Jorge,HUE,39.0,27.0,78.0,27.0,38.0,43.0,18.0,47.0,67.0,47.0
+137,"Advincula, Luis",1.0,5.0,11.0,RV,Advincula,Luis,LuiAdvRV,Advíncula,Luis,RV,95.0,28.0,70.0,58.0,63.0,67.0,68.0,64.0,73.0,94.0
+139,"Bacca, Carlos",1.0,5.0,11.0,VIL,Bacca,Carlos,CarBacVIL,Bacca,Carlos,VIL,73.0,32.0,62.0,86.0,58.0,55.0,60.0,80.0,72.0,75.0
+140,"Silva, Jonathan",1.0,3.0,9.0,LGN,Silva,Jonathan,JonSilLGN,Silva,Jonathan,LGN,83.0,24.0,82.0,48.0,70.0,63.0,69.0,55.0,70.0,75.0
+141,"Simon, Moses",1.0,1.0,2.0,LEV,Simon,Moses,MosSimLEV,Simon,Moses,LEV,93.0,23.0,38.0,72.0,55.0,54.0,68.0,60.0,69.0,92.0
+142,"Mercado, Gabriel",1.0,1.0,4.0,SEV,Mercado,Gabriel,GabMerSEV,Mercado,Gabriel,SEV,75.0,31.0,81.0,60.0,54.0,65.0,58.0,49.0,71.0,75.0
+144,"Batshuayi, Michy",1.0,7.0,15.0,VAL,Batshuayi,Michy,MicBatVAL,Batshuayi,Michy,VAL,79.0,25.0,64.0,87.0,48.0,37.0,77.0,68.0,66.0,78.0
+145,"Verde, Daniele",1.0,2.0,5.0,VLD,Verde,Daniele,DanVerVLD,Verde,Daniele,VLD,89.0,22.0,58.0,55.0,43.0,60.0,62.0,59.0,68.0,89.0
+146,"Hernandez, Juan Camilo",1.0,10.0,27.0,HUE,Hernandez,Juan Camilo,JuaHerHUE,Hernández,Juan Camilo,HUE,88.0,19.0,40.0,78.0,68.0,59.0,74.0,54.0,67.0,83.0
+147,"Melero, Gonzalo",1.0,2.0,7.0,HUE,Melero,Gonzalo,GonMelHUE,Melero Manzanares,Gonzalo,HUE,59.0,25.0,58.0,74.0,67.0,74.0,73.0,58.0,77.0,63.0
+149,"Ndiaye, Amath",1.0,4.0,8.0,GET,Ndiaye,Amath,AmaNdiGET,Ndiaye Diedhiou,Amath,GET,89.0,22.0,62.0,80.0,65.0,60.0,64.0,49.0,72.0,89.0
+153,"Capa, Ander",0.0,1.0,4.0,ATH,Capa,Ander,AndCapATH,Capa Rodríguez,Ander,ATH,82.0,26.0,86.0,56.0,58.0,56.0,62.0,54.0,71.0,86.0
+155,"Dmitrovic, Marko",0.0,0.0,0.0,EIB,Dmitrovic,Marko,MarDmiEIB,Dmitrović,Marko,EIB,39.0,26.0,20.0,20.0,9.0,40.0,17.0,9.0,40.0,35.0
+156,"Garcia, Dani",0.0,0.0,1.0,ATH,Garcia,Dani,DanGarATH,García Carrillo,Daniel,ATH,53.0,28.0,88.0,51.0,57.0,81.0,58.0,58.0,86.0,35.0
+157,"Inui, Takashi",0.0,4.0,13.0,BET,Inui,Takashi,TakInuBET,Inui,Takashi,BET,88.0,30.0,49.0,70.0,65.0,70.0,77.0,51.0,76.0,77.0
+158,"Junca, David",0.0,0.0,2.0,CEL,Junca,David,DavJunCEL,Juncà Reñé,David,CEL,81.0,25.0,75.0,35.0,58.0,61.0,46.0,55.0,72.0,77.0
+160,"Orellana, Fabian",0.0,8.0,25.0,EIB,Orellana,Fabian,FabOreEIB,Orellana,Fabián,EIB,77.0,32.0,54.0,77.0,79.0,74.0,80.0,75.0,78.0,71.0
+166,"Espinosa, Bernardo",0.0,1.0,2.0,GIR,Espinosa,Bernardo,BerEspGIR,Espinosa,Bernardo,GIR,43.0,29.0,79.0,39.0,42.0,61.0,42.0,52.0,74.0,51.0
+167,"Garcia, Aleix",0.0,1.0,4.0,GIR,Garcia,Aleix,AleGarGIR,García Serrano,Aleix,GIR,66.0,21.0,54.0,63.0,62.0,74.0,58.0,54.0,78.0,60.0
+170,"Lozano, Anthony",0.0,2.0,8.0,GIR,Lozano,Anthony,AntLozGIR,Lozano,Anthony,GIR,76.0,25.0,61.0,73.0,28.0,53.0,69.0,67.0,70.0,79.0
+171,"Planas, Carles",0.0,0.0,1.0,GIR,Planas,Carles,CarPlaGIR,Planas Antolínez,Carles,GIR,73.0,27.0,73.0,32.0,50.0,58.0,37.0,51.0,76.0,71.0
+172,"Ramalho, Jonas",0.0,0.0,0.0,GIR,Ramalho,Jonas,JonRamGIR,Ramalho Chimeno,Jonás,GIR,67.0,25.0,76.0,40.0,34.0,52.0,34.0,41.0,69.0,74.0
+174,"Timor, David",0.0,0.0,2.0,GIR,Timor,David,DavTimGIR,Timor Copoví,David,GIR,39.0,29.0,80.0,44.0,81.0,77.0,80.0,69.0,81.0,52.0
+175,"Aguilera, Juan",0.0,1.0,3.0,HUE,Aguilera,Juan,JuaAguHUE,Aguilera Núñez,Juan,HUE,71.0,33.0,68.0,52.0,60.0,72.0,57.0,40.0,75.0,52.0
+176,"Akapo, Carlos",0.0,0.0,1.0,HUE,Akapo,Carlos,CarAkaHUE,Akapo Martínez,Carlos,HUE,77.0,25.0,84.0,42.0,41.0,62.0,52.0,46.0,68.0,88.0
+177,"Brezancic, Rajko",0.0,0.0,0.0,HUE,Brezancic,Rajko,RajBreHUE,Brežančić,Rajko,HUE,73.0,29.0,72.0,28.0,30.0,59.0,51.0,43.0,66.0,77.0
+178,"Aguirregabiria, Martin",0.0,0.0,0.0,ALA,Aguirregabiria,Martin,MarAguALA,Aguirregabiria,Martín,ALA,74.0,22.0,62.0,28.0,40.0,45.0,35.0,38.0,76.0,74.0
+179,"Duarte, Ruben",0.0,3.0,7.0,ALA,Duarte,Ruben,RubDuaALA,Duarte Sánchez,Rubén,ALA,68.0,23.0,70.0,28.0,60.0,55.0,30.0,40.0,77.0,69.0
+180,"Guidetti, John",0.0,1.0,5.0,ALA,Guidetti,John,JohGuiALA,Guidetti,John,ALA,65.0,26.0,75.0,78.0,80.0,53.0,81.0,81.0,75.0,65.0
+182,"Maripan, Guillermo",0.0,0.0,1.0,ALA,Maripan,Guillermo,GuiMarALA,Maripán,Guillermo,ALA,45.0,24.0,75.0,28.0,27.0,51.0,24.0,20.0,66.0,48.0
+184,"Pacheco, Fernando",0.0,0.0,0.0,ALA,Pacheco,Fernando,FerPacALA,Pacheco Flores,Fernando,ALA,52.0,26.0,27.0,16.0,20.0,27.0,15.0,23.0,24.0,45.0
+185,"Sivera, Antonio",0.0,0.0,0.0,ALA,Sivera,Antonio,AntSivALA,Sivera Salvá,Antonio,ALA,59.0,22.0,25.0,15.0,12.0,34.0,12.0,24.0,32.0,55.0
+186,"Torres, Daniel",0.0,0.0,0.0,ALA,Torres,Daniel,DanTorALA,Torres,Daniel,ALA,57.0,29.0,87.0,55.0,50.0,74.0,61.0,72.0,73.0,53.0
+188,"Wakaso, Mubarak",0.0,2.0,10.0,ALA,Wakaso,Mubarak,MubWakALA,Wakaso,Mubarak,ALA,87.0,28.0,81.0,55.0,57.0,70.0,68.0,36.0,75.0,87.0
+189,"Aduriz, Aritz",0.0,4.0,5.0,ATH,Aduriz,Aritz,AriAduATH,Aduriz Zubeldia,Aritz,ATH,66.0,37.0,82.0,84.0,54.0,52.0,78.0,82.0,72.0,67.0
+190,"Balenziaga, Mikel",0.0,0.0,1.0,ATH,Balenziaga,Mikel,MikBalATH,Balenziaga,Mikel,ATH,69.0,30.0,76.0,41.0,33.0,69.0,54.0,44.0,70.0,73.0
+193,"Herrerin, Iago",0.0,0.0,0.0,ATH,Herrerin,Iago,IagHerATH,Herrerín Buisán,Iago,ATH,45.0,30.0,37.0,13.0,12.0,29.0,16.0,25.0,16.0,34.0
+194,"Iturraspe, Ander",0.0,0.0,0.0,ATH,Iturraspe,Ander,AndItuATH,Iturraspe Derteano,Ander,ATH,52.0,29.0,70.0,61.0,66.0,78.0,68.0,58.0,81.0,54.0
+196,"Merino, Sabin",0.0,3.0,4.0,LGN,Merino,Sabin,SabMerLGN,Merino Zuloaga,Sabin,LGN,69.0,27.0,60.0,77.0,66.0,62.0,71.0,69.0,71.0,78.0
+198,"Rico, Mikel",0.0,1.0,3.0,ATH,Rico,Mikel,MikRicATH,Rico Moreno,Mikel,ATH,56.0,34.0,72.0,61.0,63.0,76.0,64.0,60.0,75.0,39.0
+199,"San Jose, Mikel",0.0,2.0,4.0,ATH,San Jose,Mikel,MikSanATH,San José Domínguez,Mikel,ATH,33.0,29.0,76.0,60.0,44.0,77.0,73.0,51.0,78.0,38.0
+200,"Simon, Unai",0.0,0.0,0.0,ATH,Simon,Unai,UnaSimATH,Simón Mendibil,Unai,ATH,46.0,21.0,27.0,14.0,14.0,21.0,13.0,24.0,29.0,48.0
+201,"Vesga, Mikel",0.0,0.0,1.0,LGN,Vesga,Mikel,MikVesLGN,Vesga Arruti,Mikel,LGN,49.0,25.0,67.0,56.0,28.0,75.0,61.0,57.0,74.0,52.0
+203,"Busquets, Sergio",0.0,0.0,4.0,BAR,Busquets,Sergio,SerBusBAR,Busquets Burgos,Sergio,BAR,57.0,30.0,85.0,78.0,68.0,79.0,62.0,69.0,88.0,60.0
+204,"Roberto, Sergi",0.0,1.0,5.0,BAR,Roberto,Sergi,SerRobBAR,Roberto Carnicer,Sergio,BAR,77.0,26.0,68.0,64.0,60.0,77.0,66.0,57.0,86.0,78.0
+206,"ter Stegen, Marc-Andre",0.0,0.0,0.0,BAR,ter Stegen,Marc-Andre,MarterBAR,ter Stegen,Marc-André,BAR,38.0,26.0,43.0,14.0,12.0,38.0,10.0,25.0,30.0,50.0
+207,"Umtiti, Samuel",0.0,0.0,1.0,BAR,Umtiti,Samuel,SamUmtBAR,Umtiti,Samuel,BAR,71.0,25.0,81.0,51.0,62.0,74.0,74.0,61.0,82.0,74.0
+208,"Vermaelen, Thomas",0.0,0.0,0.0,BAR,Vermaelen,Thomas,ThoVerBAR,Vermaelen,Thomas,BAR,68.0,33.0,78.0,52.0,64.0,78.0,68.0,62.0,80.0,64.0
+209,"Vidal, Aleix",0.0,2.0,5.0,SEV,Vidal,Aleix,AleVidSEV,Vidal Parreu,Aleix,SEV,89.0,29.0,80.0,67.0,46.0,64.0,59.0,51.0,78.0,93.0
+210,"Cabral, Gustavo",0.0,1.0,6.0,CEL,Cabral,Gustavo,GusCabCEL,Cabral,Gustavo,CEL,38.0,33.0,82.0,26.0,48.0,59.0,29.0,47.0,72.0,36.0
+211,"Eckert, Dennis",0.0,3.0,5.0,CEL,Eckert,Dennis,DenEckCEL,Eckert,Dennis,CEL,58.0,22.0,25.0,68.0,50.0,37.0,60.0,59.0,59.0,48.0
+213,"Lobotka, Stanislav",0.0,0.0,6.0,CEL,Lobotka,Stanislav,StaLobCEL,Lobotka,Stanislav,CEL,70.0,24.0,57.0,59.0,55.0,76.0,65.0,56.0,84.0,63.0
+214,"Mor, Emre",0.0,2.0,6.0,CEL,Mor,Emre,EmrMorCEL,Mor,Emre,CEL,88.0,21.0,55.0,67.0,38.0,47.0,62.0,49.0,67.0,81.0
+215,"Roncaglia, Facundo",0.0,1.0,3.0,CEL,Roncaglia,Facundo,FacRonCEL,Roncaglia,Facundo,CEL,61.0,31.0,74.0,38.0,52.0,81.0,73.0,35.0,69.0,67.0
+216,"Wass, Daniel",0.0,1.0,16.0,VAL,Wass,Daniel,DanWasVAL,Wass,Daniel,VAL,74.0,29.0,62.0,75.0,86.0,79.0,79.0,65.0,85.0,77.0
+225,"Roca, Marc",0.0,3.0,7.0,ESP,Roca,Marc,MarRocESP,Roca Junqué,Marc,ESP,54.0,22.0,69.0,59.0,52.0,74.0,65.0,55.0,80.0,55.0
+228,"Beltran, Fran",0.0,0.0,10.0,CEL,Beltran,Fran,FraBelCEL,Beltrán Peinado,Francisco José,CEL,73.0,19.0,68.0,47.0,49.0,74.0,48.0,49.0,75.0,68.0
+229,"Comesana, Santi",0.0,0.0,4.0,RV,Comesana,Santi,SanComRV,Comesaña Veiga,Santiago,RV,58.0,22.0,59.0,74.0,47.0,63.0,75.0,39.0,73.0,57.0
+231,"Kroos, Toni",0.0,2.0,13.0,RMD,Kroos,Toni,TonKroRMD,Kroos,Toni,RMD,69.0,29.0,60.0,76.0,84.0,94.0,93.0,73.0,93.0,67.0
+232,"Llorente, Marcos",0.0,1.0,1.0,RMD,Llorente,Marcos,MarLloRMD,Llorente Moreno,Marcos,RMD,53.0,23.0,65.0,39.0,51.0,82.0,56.0,54.0,84.0,54.0
+233,"Mayoral, Borja",0.0,4.0,5.0,LEV,Mayoral,Borja,BorMayLEV,Mayoral Moya,Borja,LEV,68.0,21.0,27.0,79.0,57.0,43.0,70.0,69.0,69.0,72.0
+234,"Modric, Luka",0.0,4.0,13.0,RMD,Modric,Luka,LukModRMD,Modrić,Luka,RMD,85.0,33.0,69.0,78.0,80.0,91.0,88.0,88.0,95.0,76.0
+236,"Navas, Keylor",0.0,0.0,0.0,RMD,Navas,Keylor,KeyNavRMD,Navas,Keylor,RMD,54.0,32.0,32.0,15.0,15.0,37.0,13.0,25.0,30.0,53.0
+237,"Varane, Raphael",0.0,1.0,3.0,RMD,Varane,Raphael,RapVarRMD,Varane,Raphaël,RMD,85.0,25.0,81.0,47.0,60.0,84.0,63.0,51.0,83.0,87.0
+240,"Januzaj, Adnan",0.0,0.0,6.0,RSO,Januzaj,Adnan,AdnJanRSO,Januzaj,Adnan,RSO,82.0,23.0,43.0,74.0,67.0,76.0,73.0,62.0,82.0,78.0
+241,"Llorente, Diego",0.0,1.0,2.0,RSO,Llorente,Diego,DieLloRSO,Llorente Ríos,Diego Javier,RSO,65.0,25.0,75.0,39.0,35.0,72.0,37.0,53.0,76.0,63.0
+247,"Pardo, Ruben",0.0,2.0,10.0,RSO,Pardo,Ruben,RubParRSO,Pardo Gutiérrez,Rubén,RSO,64.0,26.0,58.0,68.0,73.0,75.0,73.0,69.0,78.0,65.0
+249,"Rulli, Geronimo",0.0,0.0,0.0,RSO,Rulli,Geronimo,GerRulRSO,Rulli,Gerónimo,RSO,54.0,26.0,26.0,15.0,20.0,23.0,17.0,24.0,32.0,48.0
+250,"Zubeldia Elorza, Igor",0.0,1.0,5.0,RSO,Zubeldia Elorza,Igor,IgoZubRSO,Zubeldia Elorza,Igor,RSO,65.0,21.0,70.0,60.0,65.0,76.0,68.0,51.0,77.0,58.0
+251,"Coquelin, Francis",0.0,1.0,1.0,VAL,Coquelin,Francis,FraCoqVAL,Coquelin,Francis,VAL,70.0,27.0,92.0,54.0,41.0,74.0,57.0,52.0,78.0,72.0
+252,"Domenech, Jaume",0.0,0.0,0.0,VAL,Domenech,Jaume,JauDomVAL,Domenech Sánchez,Jaume,VAL,58.0,28.0,21.0,11.0,13.0,32.0,12.0,25.0,32.0,58.0
+254,"Kondogbia, Geoffrey",0.0,1.0,10.0,VAL,Kondogbia,Geoffrey,GeoKonVAL,Kondogbia,Geoffrey,VAL,70.0,25.0,87.0,70.0,57.0,82.0,81.0,45.0,85.0,78.0
+256,"Maksimovic, Nemanja",0.0,4.0,12.0,GET,Maksimovic,Nemanja,NemMakGET,Maksimović,Nemanja,GET,62.0,23.0,59.0,70.0,72.0,77.0,69.0,50.0,79.0,65.0
+257,"Mina, Santi",0.0,3.0,6.0,VAL,Mina,Santi,SanMinVAL,Mina Lorenzo,Santiago,VAL,78.0,23.0,70.0,85.0,56.0,66.0,76.0,64.0,71.0,83.0
+258,"Murillo, Jeison",0.0,0.0,0.0,VAL,Murillo,Jeison,JeiMurVAL,Murillo,Jeison,VAL,75.0,26.0,88.0,37.0,26.0,62.0,13.0,46.0,70.0,76.0
+261,"Soler, Carlos",0.0,2.0,13.0,VAL,Soler,Carlos,CarSolVAL,Soler Barragán,Carlos,VAL,75.0,22.0,49.0,74.0,82.0,79.0,73.0,80.0,84.0,78.0
+262,"Torres, Ferran",0.0,2.0,4.0,VAL,Torres,Ferran,FerTorVAL,Torres García,Ferrán,VAL,77.0,18.0,34.0,72.0,46.0,72.0,55.0,62.0,69.0,76.0
+264,"Calero, Fernando",0.0,0.0,1.0,VLD,Calero,Fernando,FerCalVLD,Calero Villa,Fernando,VLD,67.0,23.0,63.0,23.0,27.0,43.0,21.0,39.0,69.0,64.0
+265,"Asenjo, Sergio",0.0,0.0,0.0,VIL,Asenjo,Sergio,SerAseVIL,Asenjo Andrés,Sergio,VIL,62.0,29.0,20.0,14.0,22.0,39.0,13.0,15.0,39.0,56.0
+266,"Cazorla, Santi",0.0,1.0,8.0,VIL,Cazorla,Santi,SanCazVIL,Cazorla González,Santiago,VIL,62.0,34.0,72.0,77.0,80.0,86.0,83.0,87.0,87.0,55.0
+267,"Costa, Jaume",0.0,2.0,11.0,VIL,Costa,Jaume,JauCosVIL,Costa Jordá,Jaume Vicent,VIL,78.0,30.0,85.0,53.0,59.0,65.0,62.0,56.0,79.0,81.0
+268,"Marin, Adrian",0.0,0.0,1.0,ALA,Marin,Adrian,AdrMarALA,Marín Gómez,Adrián,ALA,68.0,22.0,69.0,40.0,35.0,56.0,42.0,38.0,73.0,72.0
+269,"Morlanes, Manu",0.0,1.0,1.0,VIL,Morlanes,Manu,ManMorVIL,Morlanes Ariño,Manuel,VIL,74.0,20.0,57.0,56.0,71.0,70.0,59.0,70.0,76.0,64.0
+270,"Raba, Daniel",0.0,0.0,0.0,VIL,Raba,Daniel,DanRabVIL,Raba Antolin,Daniel,VIL,75.0,23.0,50.0,73.0,42.0,74.0,60.0,49.0,76.0,72.0
+273,"Trigueros, Manu",0.0,0.0,10.0,VIL,Trigueros,Manu,ManTriVIL,Trigueros Muñoz,Manuel,VIL,71.0,27.0,71.0,71.0,69.0,82.0,80.0,65.0,86.0,69.0
+274,"Amat, Jordi",0.0,1.0,1.0,RV,Amat,Jordi,JorAmaRV,Amat Maas,Jordi,RV,61.0,26.0,82.0,34.0,36.0,52.0,65.0,28.0,68.0,69.0
+275,"Barragan, Antonio",0.0,0.0,0.0,BET,Barragan,Antonio,AntBarBET,Barragán Fernández,Antonio,BET,69.0,31.0,74.0,44.0,51.0,62.0,53.0,55.0,77.0,71.0
+276,"Boudebouz, Ryad",0.0,3.0,10.0,BET,Boudebouz,Ryad,RyaBouBET,Boudebouz,Ryad,BET,75.0,28.0,58.0,77.0,82.0,76.0,76.0,90.0,81.0,73.0
+277,"Feddal, Zouhair",0.0,0.0,4.0,BET,Feddal,Zouhair,ZouFedBET,Feddal,Zouhair,BET,51.0,29.0,82.0,40.0,38.0,68.0,56.0,48.0,76.0,62.0
+278,"Guerrero, Francis",0.0,1.0,4.0,BET,Guerrero,Francis,FraGueBET,Guerrero Martín,Francisco,BET,77.0,22.0,55.0,75.0,52.0,74.0,42.0,53.0,72.0,82.0
+280,"Guardado, Andres",0.0,1.0,8.0,BET,Guardado,Andres,AndGuaBET,Guardado,Andrés,BET,74.0,32.0,72.0,60.0,81.0,83.0,72.0,70.0,85.0,73.0
+283,"Sanabria, Antonio",0.0,0.0,8.0,BET,Sanabria,Antonio,AntSanBET,Sanabria,Antonio,BET,77.0,22.0,32.0,81.0,64.0,63.0,65.0,69.0,74.0,79.0
+284,"Tello, Cristian",0.0,3.0,8.0,BET,Tello,Cristian,CriTelBET,Tello Herrera,Cristian,BET,93.0,27.0,48.0,74.0,64.0,70.0,71.0,56.0,77.0,91.0
+285,"Arana, Guilherme",0.0,3.0,6.0,SEV,Arana,Guilherme,GuiAraSEV,Arana Lopes,Guilherme,SEV,77.0,21.0,69.0,51.0,49.0,67.0,54.0,52.0,72.0,78.0
+286,"Escudero, Sergio",0.0,0.0,4.0,SEV,Escudero,Sergio,SerEscSEV,Escudero Palomo,Sergio,SEV,72.0,29.0,75.0,56.0,69.0,77.0,63.0,66.0,77.0,77.0
+288,"Layun, Miguel",0.0,1.0,10.0,VIL,Layun,Miguel,MigLayVIL,Layún,Miguel,VIL,76.0,30.0,72.0,67.0,74.0,74.0,76.0,74.0,76.0,76.0
+290,"Mesa, Roque",0.0,1.0,5.0,SEV,Mesa,Roque,RoqMesSEV,Mesa Quevedo,Roque,SEV,74.0,29.0,89.0,65.0,48.0,77.0,54.0,42.0,82.0,75.0
+291,"Navas, Jesus",0.0,4.0,18.0,SEV,Navas,Jesus,JesNavSEV,Navas González,Jesús,SEV,88.0,33.0,63.0,62.0,46.0,73.0,70.0,56.0,75.0,85.0
+294,"Soria, David",0.0,0.0,0.0,GET,Soria,David,DavSorGET,Soria Solís,David,GET,49.0,25.0,24.0,19.0,11.0,33.0,18.0,23.0,24.0,34.0
+297,"Gimenez, Jose",0.0,0.0,4.0,ATL,Gimenez,Jose,JosGimATL,Giménez,José María,ATL,66.0,24.0,90.0,37.0,44.0,58.0,48.0,38.0,68.0,70.0
+298,"Hernandez, Lucas",0.0,0.0,4.0,ATL,Hernandez,Lucas,LucHerATL,Hernández,Lucas,ATL,80.0,22.0,83.0,43.0,28.0,64.0,48.0,35.0,82.0,85.0
+300,"Oblak, Jan",0.0,0.0,0.0,ATL,Oblak,Jan,JanOblATL,Oblak,Jan,ATL,44.0,26.0,34.0,11.0,14.0,26.0,12.0,11.0,29.0,60.0
+301,"Savic, Stefan",0.0,0.0,2.0,ATL,Savic,Stefan,SteSavATL,Savić,Stefan,ATL,55.0,28.0,84.0,34.0,28.0,70.0,31.0,38.0,72.0,62.0
+304,"Werner, Axel",0.0,0.0,0.0,HUE,Werner,Axel,AxeWerHUE,Werner,Axel,HUE,41.0,22.0,24.0,19.0,15.0,19.0,18.0,23.0,25.0,46.0
+305,"Brasanac, Darko",0.0,1.0,4.0,ALA,Brasanac,Darko,DarBraALA,Brasanac,Darko,ALA,61.0,26.0,81.0,61.0,59.0,75.0,62.0,70.0,74.0,54.0
+306,"Bustinza, Unai",0.0,1.0,1.0,LGN,Bustinza,Unai,UnaBusLGN,Bustinza Martínez,Unai,LGN,66.0,26.0,71.0,30.0,35.0,53.0,38.0,33.0,72.0,68.0
+308,"Eraso, Javi",0.0,1.0,1.0,LGN,Eraso,Javi,JavEraLGN,Eraso Goñi,Javier,LGN,59.0,28.0,82.0,78.0,59.0,79.0,75.0,53.0,80.0,59.0
+312,"Siovas, Dimitrios",0.0,1.0,7.0,LGN,Siovas,Dimitrios,DimSioLGN,Siovas,Dimitrios,LGN,40.0,30.0,80.0,38.0,28.0,70.0,37.0,40.0,70.0,37.0
+314,"Zaldua, Joseba",0.0,0.0,1.0,RSO,Zaldua,Joseba,JosZalRSO,Zaldúa Bengoetxea,Joseba,RSO,69.0,26.0,78.0,25.0,41.0,55.0,40.0,32.0,78.0,69.0
+316,"Arambarri, Mauro",0.0,2.0,6.0,GET,Arambarri,Mauro,MauAraGET,Arambarri,Mauro,GET,47.0,23.0,79.0,49.0,46.0,78.0,55.0,50.0,79.0,53.0
+317,"Bergara, Markel",0.0,0.0,0.0,GET,Bergara,Markel,MarBerGET,Bergara Larrañaga,Markel,GET,64.0,32.0,79.0,67.0,71.0,76.0,68.0,59.0,78.0,32.0
+319,"Cabrera, Leandro",0.0,0.0,5.0,GET,Cabrera,Leandro,LeaCabGET,Cabrera,Leandro,GET,61.0,27.0,78.0,23.0,48.0,59.0,35.0,49.0,69.0,64.0
+320,"Portillo, Francisco",0.0,1.0,1.0,GET,Portillo,Francisco,FraPorGET,Portillo Soler,Francisco,GET,67.0,28.0,48.0,73.0,56.0,75.0,70.0,49.0,78.0,61.0
+321,"Shibasaki, Gaku",0.0,0.0,1.0,GET,Shibasaki,Gaku,GakShiGET,Shibasaki,Gaku,GET,69.0,26.0,65.0,70.0,67.0,79.0,66.0,71.0,81.0,67.0
+323,"Alegria, Alex",0.0,1.0,1.0,RV,Alegria,Alex,AleAleRV,Alegría Moreno,Alexander,RV,48.0,26.0,53.0,70.0,22.0,39.0,66.0,63.0,65.0,54.0
+324,"Boateng, Emmanuel",0.0,2.0,12.0,LEV,Boateng,Emmanuel,EmmBoaLEV,Boateng,Emmanuel,LEV,89.0,22.0,62.0,75.0,41.0,46.0,64.0,64.0,69.0,88.0
+325,"Cabaco, Erick",0.0,0.0,0.0,LEV,Cabaco,Erick,EriCabLEV,Cabaco,Erick,LEV,67.0,23.0,82.0,36.0,27.0,62.0,34.0,32.0,62.0,67.0
+327,"Doukoure, Cheick",0.0,0.0,0.0,LEV,Doukoure,Cheick,CheDouLEV,Doukouré,Cheick,LEV,76.0,26.0,77.0,58.0,66.0,68.0,66.0,59.0,72.0,74.0
+329,"Luna, Antonio",0.0,1.0,1.0,LEV,Luna,Antonio,AntLunLEV,Luna Rodriguez,Antonio Manuel,LEV,71.0,27.0,82.0,60.0,45.0,63.0,55.0,43.0,76.0,72.0
+333,"Hervias, Pablo",0.0,1.0,4.0,EIB,Hervias,Pablo,PabHerEIB,Hervías Rubio,Pablo,EIB,80.0,25.0,42.0,65.0,67.0,66.0,64.0,51.0,69.0,78.0
+334,"Diakhaby, Mouctar",0.0,0.0,2.0,VAL,Diakhaby,Mouctar,MouDiaVAL,Diakhaby,Mouctar,VAL,57.0,22.0,76.0,36.0,26.0,52.0,29.0,50.0,68.0,60.0
+335,"Amadou, Ibrahim",0.0,0.0,1.0,SEV,Amadou,Ibrahim,IbrAmaSEV,Amadou,Ibrahim,SEV,69.0,25.0,80.0,39.0,32.0,73.0,62.0,51.0,76.0,73.0
+337,"Lunin, Andriy",0.0,0.0,0.0,LGN,Lunin,Andriy,AndLunLGN,Lunin,Andriy,LGN,33.0,19.0,22.0,8.0,15.0,26.0,7.0,19.0,25.0,26.0
+340,"Garcia, Alberto",0.0,0.0,0.0,RV,Garcia,Alberto,AlbGarRV,García Cabrera,Alberto,RV,62.0,33.0,34.0,15.0,20.0,27.0,11.0,21.0,29.0,63.0
+341,"Vaclik, Tomas",0.0,0.0,0.0,SEV,Vaclik,Tomas,TomVacSEV,Vaclík,Tomáš,SEV,34.0,29.0,29.0,14.0,16.0,38.0,16.0,13.0,17.0,35.0
+342,"Velazquez, Emiliano",0.0,1.0,2.0,RV,Velazquez,Emiliano,EmiVelRV,Velázquez,Emiliano,RV,63.0,24.0,69.0,51.0,26.0,71.0,41.0,37.0,67.0,46.0
+343,"Ojeda, Daniel",0.0,1.0,2.0,LGN,Ojeda,Daniel,DanOjeLGN,Ojeda Saranova,Daniel,LGN,71.0,24.0,38.0,69.0,43.0,66.0,58.0,72.0,64.0,68.0
+344,"Tarin, Rodrigo",0.0,1.0,3.0,LGN,Tarin,Rodrigo,RodTarLGN,Tarín Higón,Rodrigo,LGN,69.0,22.0,68.0,19.0,30.0,52.0,41.0,40.0,59.0,71.0
+347,"Longo, Samuele",0.0,2.0,4.0,HUE,Longo,Samuele,SamLonHUE,Longo,Samuele,HUE,74.0,27.0,80.0,74.0,43.0,40.0,67.0,64.0,65.0,77.0
+348,"Robles, Joel",0.0,0.0,0.0,BET,Robles,Joel,JoeRobBET,Robles Blázquez,Joel,BET,46.0,28.0,23.0,11.0,20.0,26.0,11.0,15.0,15.0,50.0
+349,"Guardiola, Sergi",0.0,0.0,2.0,GET,Guardiola,Sergi,SerGuaGET,Guardiola Navarro,Sergio,GET,61.0,27.0,67.0,80.0,43.0,41.0,77.0,71.0,72.0,61.0
+352,"Costas, David",0.0,0.0,1.0,CEL,Costas,David,DavCosCEL,Costas Cordal,David,CEL,68.0,23.0,64.0,36.0,59.0,62.0,44.0,50.0,70.0,67.0
+353,"Hjulsager, Andrew",0.0,0.0,0.0,CEL,Hjulsager,Andrew,AndHjuCEL,Hjulsager,Andrew,CEL,79.0,24.0,58.0,69.0,55.0,68.0,65.0,53.0,71.0,77.0
+355,"Yokuslu, Okay",0.0,0.0,4.0,CEL,Yokuslu,Okay,OkaYokCEL,Yokuşlu,Okay,CEL,72.0,24.0,81.0,65.0,65.0,72.0,75.0,60.0,77.0,74.0
+356,"Alena, Carles",0.0,0.0,1.0,BAR,Alena,Carles,CarAleBAR,Aleñà Castillo,Carles,BAR,78.0,21.0,52.0,63.0,59.0,67.0,67.0,73.0,69.0,76.0
+358,"Cucurella, Marc",0.0,0.0,2.0,EIB,Cucurella,Marc,MarCucEIB,Cucurella Saseta,Marc,EIB,83.0,20.0,75.0,55.0,53.0,68.0,45.0,44.0,76.0,86.0
+360,"Musto, Damian",0.0,0.0,5.0,HUE,Musto,Damian,DamMusHUE,Musto,Damián,HUE,42.0,31.0,78.0,34.0,50.0,76.0,67.0,40.0,79.0,49.0
+366,"Masip, Jordi",0.0,0.0,0.0,VLD,Masip,Jordi,JorMasVLD,Masip López,Jordi,VLD,57.0,30.0,21.0,12.0,20.0,38.0,13.0,12.0,42.0,64.0
+367,"Moyano, Javi",0.0,2.0,3.0,VLD,Moyano,Javi,JavMoyVLD,Moyano Lujano,Javier,VLD,79.0,32.0,65.0,33.0,53.0,49.0,51.0,46.0,62.0,77.0
+370,"Ba, Abdoulaye",0.0,2.0,2.0,RV,Ba,Abdoulaye,AbdBaRV,Ba,Abdoulaye,RV,49.0,28.0,80.0,22.0,59.0,41.0,50.0,68.0,58.0,53.0
+372,"Moreno, Alex",0.0,2.0,8.0,RV,Moreno,Alex,AleMorRV,Moreno Lopera,Alexandre,RV,71.0,25.0,49.0,64.0,57.0,64.0,60.0,70.0,72.0,78.0
+373,"Akieme Rodriguez, Sergio",0.0,0.0,0.0,RV,Akieme Rodriguez,Sergio,SerAkiRV,Akieme Rodríguez,Sergio,RV,76.0,21.0,65.0,26.0,36.0,43.0,44.0,40.0,62.0,73.0
+374,"Guerra, Javi",0.0,0.0,1.0,RV,Guerra,Javi,JavGueRV,Guerra Rodríguez,Javier,RV,58.0,36.0,59.0,71.0,50.0,57.0,67.0,80.0,63.0,64.0
+379,"Ferreiro, David",0.0,5.0,10.0,HUE,Ferreiro,David,DavFerHUE,Ferreiro Quiroga,David,HUE,92.0,30.0,74.0,72.0,74.0,71.0,75.0,69.0,70.0,90.0
+380,"Insua, Pablo",0.0,0.0,0.0,HUE,Insua,Pablo,PabInsHUE,Insua Blanco,Pablo,HUE,52.0,25.0,70.0,36.0,23.0,62.0,29.0,32.0,74.0,54.0
+381,"Sastre, Lluis",0.0,0.0,0.0,HUE,Sastre,Lluis,LluSasHUE,Sastre Reus,Lluís,HUE,58.0,32.0,75.0,54.0,72.0,76.0,64.0,57.0,75.0,57.0
+382,"Gnagnon, Joris",0.0,0.0,0.0,SEV,Gnagnon,Joris,JorGnaSEV,Gnagnon,Joris,SEV,66.0,22.0,76.0,28.0,28.0,47.0,27.0,47.0,65.0,66.0
+383,"Piccini, Cristiano",0.0,0.0,4.0,VAL,Piccini,Cristiano,CriPicVAL,Piccini,Cristiano,VAL,74.0,26.0,74.0,32.0,37.0,59.0,35.0,35.0,74.0,76.0
+384,"Reguilon, Sergio",0.0,0.0,0.0,RMD,Reguilon,Sergio,SerRegRMD,Reguilón Rodríguez,Sergio,RMD,67.0,22.0,55.0,22.0,39.0,25.0,33.0,42.0,54.0,62.0
+386,"Arias, Santiago",0.0,0.0,3.0,ATL,Arias,Santiago,SanAriATL,Arias,Santiago,ATL,85.0,27.0,81.0,51.0,56.0,76.0,50.0,57.0,77.0,88.0
+387,"Jensen, Mathias",0.0,0.0,2.0,CEL,Jensen,Mathias,MatJenCEL,Jensen,Mathias,CEL,74.0,23.0,65.0,65.0,66.0,75.0,69.0,69.0,76.0,74.0
+388,"Alonso, Junior",0.0,2.0,3.0,CEL,Alonso,Junior,JunAloCEL,Alonso,Junior,CEL,58.0,25.0,76.0,38.0,27.0,63.0,46.0,33.0,65.0,64.0
+392,"Jovanovic, Aleksandar",0.0,0.0,0.0,HUE,Jovanovic,Aleksandar,AleJovHUE,Jovanović,Aleksandar,HUE,22.0,26.0,20.0,8.0,10.0,15.0,8.0,14.0,22.0,22.0
+395,"Rolan, Diego",0.0,0.0,2.0,LGN,Rolan,Diego,DieRolLGN,Rolán,Diego,LGN,74.0,25.0,64.0,77.0,70.0,62.0,63.0,75.0,74.0,78.0
+396,"En-Nesyri, Youssef",0.0,3.0,14.0,LGN,En-Nesyri,Youssef,YouEn-LGN,En-Nesyri,Youssef,LGN,75.0,21.0,37.0,73.0,47.0,46.0,68.0,59.0,63.0,77.0
+397,"Santos, Michael",0.0,3.0,8.0,LGN,Santos,Michael,MicSanLGN,Santos,Michael,LGN,77.0,25.0,80.0,73.0,62.0,57.0,69.0,70.0,65.0,75.0
+398,"Nyom, Allan",0.0,0.0,0.0,LGN,Nyom,Allan,AllNyoLGN,Nyom,Allan,LGN,67.0,30.0,80.0,27.0,30.0,64.0,66.0,37.0,63.0,76.0
+399,"Omeruo, Kenneth",0.0,0.0,0.0,LGN,Omeruo,Kenneth,KenOmeLGN,Omeruo,Kenneth,LGN,67.0,25.0,76.0,22.0,23.0,60.0,31.0,35.0,63.0,75.0
+400,"Roberts, Patrick",0.0,2.0,3.0,GIR,Roberts,Patrick,PatRobGIR,Roberts,Patrick,GIR,79.0,21.0,38.0,68.0,49.0,65.0,67.0,62.0,73.0,74.0
+401,"Doumbia, Seydou",0.0,0.0,1.0,GIR,Doumbia,Seydou,SeyDouGIR,Doumbia,Seydou,GIR,88.0,31.0,63.0,77.0,72.0,66.0,72.0,84.0,73.0,92.0
+402,"De Blasis, Pablo",0.0,2.0,4.0,EIB,De Blasis,Pablo,PabDe EIB,De Blasis,Pablo,EIB,81.0,30.0,74.0,72.0,62.0,66.0,72.0,79.0,74.0,75.0
+403,"Bigas, Pedro",0.0,0.0,2.0,EIB,Bigas,Pedro,PedBigEIB,Bigas Rigo,Pedro,EIB,71.0,28.0,83.0,49.0,43.0,60.0,47.0,48.0,72.0,72.0
+404,"Miquel, Ignasi",0.0,0.0,0.0,GET,Miquel,Ignasi,IgnMiqGET,Miquel i Pons,Ignasi,GET,64.0,26.0,75.0,18.0,24.0,58.0,21.0,43.0,69.0,66.0
+407,"Dwamena, Raphael",0.0,0.0,0.0,LEV,Dwamena,Raphael,RapDwaLEV,Dwamena,Raphael,LEV,76.0,23.0,47.0,74.0,42.0,41.0,67.0,66.0,58.0,82.0
+408,"Vukcevic, Nikola",0.0,0.0,0.0,LEV,Vukcevic,Nikola,NikVukLEV,Vukčević,Nikola,LEV,64.0,27.0,85.0,38.0,64.0,70.0,61.0,53.0,79.0,56.0
+409,"Prcic, Sanjin",0.0,0.0,4.0,LEV,Prcic,Sanjin,SanPrcLEV,Prcić,Sanjin,LEV,62.0,25.0,70.0,61.0,73.0,73.0,60.0,63.0,76.0,65.0
+410,"Kalinic, Nikola",0.0,1.0,4.0,ATL,Kalinic,Nikola,NikKalATL,Kalinić,Nikola,ATL,67.0,31.0,68.0,84.0,54.0,48.0,60.0,70.0,72.0,74.0
+411,"Gonalons, Maxime",0.0,0.0,0.0,SEV,Gonalons,Maxime,MaxGonSEV,Gonalons,Maxime,SEV,65.0,29.0,83.0,55.0,57.0,74.0,59.0,68.0,74.0,55.0
+414,"Courtois, Thibaut",0.0,0.0,0.0,RMD,Courtois,Thibaut,ThiCouRMD,Courtois,Thibaut,RMD,46.0,26.0,23.0,14.0,20.0,35.0,17.0,27.0,33.0,52.0
+419,"Elustondo, Gorka",0.0,0.0,2.0,RV,Elustondo,Gorka,GorEluRV,Elustondo Urkola,Gorka,RV,49.0,31.0,88.0,59.0,80.0,73.0,74.0,67.0,76.0,61.0
+425,"Muniesa, Marc",0.0,0.0,2.0,GIR,Muniesa,Marc,MarMunGIR,Muniesa Martínez,Marc,GIR,42.0,26.0,78.0,42.0,40.0,56.0,37.0,50.0,73.0,59.0
+427,"Milla, Pere",0.0,0.0,4.0,EIB,Milla,Pere,PerMilEIB,Milla Peña,Pere,EIB,78.0,26.0,45.0,75.0,58.0,60.0,70.0,62.0,67.0,76.0
