@@ -1,0 +1,743 @@
+,FirstName,LastName,Country,Club,Position,Age,Acceleration,Aggression,Finishing,FreeKickAccuracy,LongPassing,LongShots,Penalties,ShortPassing,SprintSpeed,Quality,ForKey
+0,Luka,Modrić,Croatia,RMD,Centre Midfielder,33,94,83,89,85,96,99,99,99,85,gold,LukModRMD
+1,Lionel,Messi,Argentina,BAR,Centre Forward,31,99,66,99,99,96,99,81,99,94,gold,LioMesBAR
+2,Sergio,Ramos García,Spain,RMD,Centre Back,32,86,96,76,83,90,69,86,97,85,gold,SerRamRMD
+3,Raphaël,Varane,France,RMD,Centre Back,25,88,88,62,72,99,82,66,99,91,gold,RapVarRMD
+4,Lionel,Messi,Argentina,BAR,Striker,31,93,51,97,98,90,96,76,94,87,gold,LioMesBAR
+5,Lionel,Messi,Argentina,BAR,Striker,31,93,51,97,98,90,96,76,94,87,gold,LioMesBAR
+6,Lionel,Messi,Argentina,BAR,Centre Forward,31,92,48,96,95,87,95,75,91,86,gold,LioMesBAR
+7,Lionel,Messi,Argentina,BAR,Right Wing,31,92,50,96,96,88,95,75,92,86,gold,LioMesBAR
+8,Lionel,Messi,Argentina,BAR,Centre Forward,31,91,48,95,94,87,94,75,90,86,gold,LioMesBAR
+9,Marcelo,Vieira da Silva,Brazil,RMD,Left Back,30,91,93,76,75,86,79,67,95,90,gold,MarVieRMD
+10,Luis,Suárez,Uruguay,BAR,Striker,31,89,89,96,88,67,86,86,86,77,gold,LuiSuáBAR
+11,Luis,Suárez,Uruguay,BAR,Striker,31,88,90,96,88,67,86,86,86,76,gold,LuiSuáBAR
+12,Luis,Suárez,Uruguay,BAR,Striker,31,88,90,96,88,67,86,86,86,76,gold,LuiSuáBAR
+13,Sergio,Ramos García,Spain,RMD,Centre Back,32,77,85,60,67,73,55,69,79,76,gold,SerRamRMD
+14,Luis,Suárez,Uruguay,BAR,Striker,31,87,88,95,85,64,85,85,83,75,gold,LuiSuáBAR
+15,Luka,Modrić,Croatia,RMD,Centre Midfielder,33,81,62,72,78,88,83,83,94,72,gold,LukModRMD
+16,Luis,Suárez,Uruguay,BAR,Striker,31,87,88,95,86,65,85,85,84,75,gold,LuiSuáBAR
+17,Vinícius José,de Oliveira Júnior,Brazil,RMD,Left Wing,18,94,60,91,74,61,85,81,89,97,gold,Vinde RMD
+18,Gareth,Bale,Wales,RMD,Right Wing,29,95,70,90,92,84,96,80,90,97,gold,GarBalRMD
+19,Luis,Suárez,Uruguay,BAR,Striker,31,87,88,95,86,65,85,85,84,75,gold,LuiSuáBAR
+20,Sergio,Ramos García,Spain,RMD,Centre Back,32,76,84,60,67,72,55,68,78,75,gold,SerRamRMD
+21,Luis,Suárez,Uruguay,BAR,Striker,31,86,87,94,84,64,85,85,82,75,gold,LuiSuáBAR
+22,Luka,Modrić,Croatia,RMD,Centre Midfielder,33,80,62,72,78,88,82,82,93,72,gold,LukModRMD
+23,Diego,Godín,Uruguay,ATL,Centre Back,32,69,89,42,51,71,43,51,80,69,gold,DieGodATL
+24,Toni,Kroos,Germany,RMD,Centre Midfielder,29,69,60,76,84,94,93,73,93,66,gold,TonKroRMD
+25,Thibaut,Courtois,Belgium,RMD,Goalkeeper,26,47,23,14,20,35,17,27,33,53,gold,ThiCouRMD
+26,Jan,Oblak,Slovenia,ATL,Goalkeeper,26,44,34,11,14,26,12,11,29,61,gold,JanOblATL
+27,Diego,Godín,Uruguay,ATL,Centre Back,32,70,89,43,52,72,44,52,81,70,gold,DieGodATL
+28,Toni,Kroos,Germany,RMD,Centre Midfielder,29,71,60,77,84,94,94,74,93,68,gold,TonKroRMD
+29,Diego,Godín,Uruguay,ATL,Centre Back,32,70,89,43,52,72,44,52,81,70,gold,DieGodATL
+30,Antoine,Griezmann,France,ATL,Striker,27,90,71,95,79,79,84,76,86,86,gold,AntGriATL
+31,Francisco Román,Alarcón Suárez,Spain,RMD,Centre Attacking Midfielder,26,78,60,87,75,85,91,77,91,71,gold,FraAlaRMD
+32,Antoine,Griezmann,France,ATL,Striker,27,92,72,95,78,78,84,76,85,88,gold,AntGriATL
+33,Antoine,Griezmann,France,ATL,Striker,27,92,72,95,78,78,84,76,85,88,gold,AntGriATL
+34,Diego,Godín,Uruguay,ATL,Centre Back,32,68,88,42,51,70,43,50,79,68,gold,DieGodATL
+35,Toni,Kroos,Germany,RMD,Centre Midfielder,29,68,60,76,84,93,92,73,92,66,gold,TonKroRMD
+36,Thibaut,Courtois,Belgium,RMD,Goalkeeper,26,46,23,14,20,35,17,27,33,52,gold,ThiCouRMD
+37,Jan,Oblak,Slovenia,ATL,Goalkeeper,26,43,34,11,14,26,12,11,29,60,gold,JanOblATL
+38,Marc-André,ter Stegen,Germany,BAR,Goalkeeper,26,39,43,14,12,38,10,25,30,51,gold,MarterBAR
+39,Antoine,Griezmann,France,ATL,Striker,27,89,69,93,76,76,82,74,83,85,gold,AntGriATL
+40,Francisco Román,Alarcón Suárez,Spain,RMD,Centre Attacking Midfielder,26,76,58,86,74,84,90,76,90,69,gold,FraAlaRMD
+41,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26,91,57,78,88,82,95,71,90,76,gold,PhiCouBAR
+42,Antoine,Griezmann,France,ATL,Striker,27,90,71,93,76,76,82,74,83,86,gold,AntGriATL
+43,Arthur Henrique,Ramos Oliveira Melo,Brazil,BAR,Centre Midfielder,22,78,83,85,69,92,88,82,97,81,gold,ArtRamBAR
+44,Marc-André,ter Stegen,Germany,BAR,Goalkeeper,26,38,43,14,12,38,10,25,30,50,gold,MarterBAR
+45,Antoine,Griezmann,France,ATL,Striker,27,88,69,92,76,76,82,74,82,85,gold,AntGriATL
+46,Francisco Román,Alarcón Suárez,Spain,RMD,Centre Attacking Midfielder,26,75,58,85,74,84,89,76,89,69,gold,FraAlaRMD
+47,Gareth,Bale,Wales,RMD,Right Wing,29,94,65,86,88,80,92,76,86,96,gold,GarBalRMD
+48,Marcelo,Vieira da Silva,Brazil,RMD,Left Back,30,84,85,67,67,76,70,59,85,83,gold,MarVieRMD
+49,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26,90,55,77,87,81,94,70,89,75,gold,PhiCouBAR
+50,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30,42,86,68,68,80,54,60,89,45,gold,SerBusBAR
+51,Carlos Henrique,Venancio Casimiro,Brazil,RMD,Centre Defensive Midfielder,26,59,87,59,74,83,80,66,86,66,gold,CarVenRMD
+52,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31,53,75,66,44,82,52,71,83,65,gold,GerPiqBAR
+53,Gareth,Bale,Wales,RMD,Right Wing,29,94,66,86,89,81,92,76,87,96,gold,GarBalRMD
+54,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30,87,85,98,68,79,79,88,88,92,gold,SerBusBAR
+55,Antoine,Griezmann,France,ATL,Striker,27,88,69,92,76,76,82,74,82,85,gold,AntGriATL
+56,Gareth,Bale,Wales,RMD,Right Wing,29,94,65,86,87,80,91,76,85,95,gold,GarBalRMD
+57,Marcelo,Vieira da Silva,Brazil,RMD,Left Back,30,83,84,67,67,76,70,59,84,82,gold,MarVieRMD
+58,Philippe,Coutinho Correia,Brazil,BAR,Left Wing,26,89,55,77,86,81,93,70,88,75,gold,PhiCouBAR
+59,Sergio,Busquets Burgos,Spain,BAR,Centre Defensive Midfielder,30,42,85,67,68,79,54,60,88,44,gold,SerBusBAR
+60,Carlos Henrique,Venancio Casimiro,Brazil,RMD,Centre Defensive Midfielder,26,59,87,59,74,82,79,66,85,65,gold,CarVenRMD
+61,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31,49,72,65,43,81,51,70,82,61,gold,GerPiqBAR
+62,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30,67,67,83,84,91,91,82,88,59,gold,IvaRakBAR
+63,Jordi,Alba Ramos,Spain,BAR,Left Back,29,94,76,74,63,74,66,59,85,94,gold,JorAlbBAR
+64,Keylor,Navas,Costa Rica,RMD,Goalkeeper,32,55,32,15,15,37,13,25,30,53,gold,KeyNavRMD
+65,Samuel,Umtiti,France,BAR,Centre Back,25,71,81,51,62,74,75,61,82,74,gold,SamUmtBAR
+66,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30,69,67,83,84,91,91,82,88,61,gold,IvaRakBAR
+67,Jordi,Alba Ramos,Spain,BAR,Left Back,29,94,77,74,64,75,66,59,86,94,gold,JorAlbBAR
+68,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31,50,73,66,43,81,52,71,82,62,gold,GerPiqBAR
+69,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31,50,73,66,43,81,52,71,82,62,gold,GerPiqBAR
+70,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,54,65,82,92,88,86,87,92,45,gold,DanParVAL
+71,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,54,65,82,92,88,86,87,92,45,gold,DanParVAL
+72,Gerard,Piqué Bernabeu,Spain,BAR,Centre Back,31,49,72,64,43,80,51,69,81,60,gold,GerPiqBAR
+73,Ivan,Rakitić,Croatia,BAR,Centre Midfielder,30,66,67,83,84,90,90,82,87,59,gold,IvaRakBAR
+74,Jordi,Alba Ramos,Spain,BAR,Left Back,29,93,75,73,63,74,66,59,84,93,gold,JorAlbBAR
+75,Keylor,Navas,Costa Rica,RMD,Goalkeeper,32,54,32,15,15,37,13,25,30,53,gold,KeyNavRMD
+76,Samuel,Umtiti,France,BAR,Centre Back,25,71,81,51,62,73,74,61,81,73,gold,SamUmtBAR
+77,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,52,63,79,91,87,83,84,91,43,gold,DanParVAL
+78,Raphaël,Varane,France,RMD,Centre Back,25,83,77,40,54,77,54,43,76,86,gold,RapVarRMD
+79,Juan Francisco,Torres Belén,Spain,ATL,Right Back,34,79,85,59,66,74,58,72,86,92,gold,JuaTorATL
+80,Filipe Luís,Kasmirski,Brazil,ATL,Left Back,33,78,83,60,77,79,61,67,83,77,gold,FilKasATL
+81,Karim,Benzema,France,RMD,Striker,31,79,69,82,76,57,79,87,86,79,gold,KarBenRMD
+82,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,52,63,80,91,87,84,85,91,43,gold,DanParVAL
+83,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,52,63,80,91,87,84,85,91,43,gold,DanParVAL
+84,Iago,Aspas Juncal,Spain,CEL,Striker,31,87,65,93,79,67,84,84,85,79,gold,IagAspCEL
+85,Iago,Aspas Juncal,Spain,CEL,Striker,31,87,65,93,79,67,84,84,85,79,gold,IagAspCEL
+86,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29,63,20,14,22,39,13,15,39,57,gold,SerAseVIL
+87,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29,63,20,14,22,39,13,15,39,57,gold,SerAseVIL
+88,Daniel,Parejo Muñoz,Spain,VAL,Centre Midfielder,29,51,63,79,90,87,82,83,90,43,gold,DanParVAL
+89,Raphaël,Varane,France,RMD,Centre Back,25,83,77,40,54,76,53,43,75,85,gold,RapVarRMD
+90,Filipe Luís,Kasmirski,Brazil,ATL,Left Back,33,77,82,59,75,77,60,66,81,76,gold,FilKasATL
+91,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29,62,20,14,22,39,13,15,39,56,gold,SerAseVIL
+92,Diego,da Silva Costa,Spain,ATL,Striker,30,74,94,88,59,52,74,75,66,77,gold,Dieda ATL
+93,Arturo,Vidal,Chile,BAR,Centre Defensive Midfielder,31,61,94,75,68,78,86,82,84,55,gold,ArtVidBAR
+94,Iago,Aspas Juncal,Spain,CEL,Striker,31,86,63,92,77,65,83,83,83,78,gold,IagAspCEL
+95,Jorge,Resurrección,Spain,ATL,Left Midfielder,27,72,71,72,76,90,82,59,91,68,gold,JorResATL
+96,Gerard,Moreno Balagueró,Spain,VIL,Striker,26,79,58,87,59,59,80,76,82,83,gold,GerMorVIL
+97,Saúl,Ñíguez Esclápez,Spain,ATL,Centre Midfielder,24,72,69,79,60,84,80,55,86,71,gold,SaúÑígATL
+98,Marco,Asensio Willemsen,Spain,RMD,Left Wing,22,84,45,85,76,82,89,62,86,80,gold,MarAseRMD
+99,Kévin,Gameiro,France,VAL,Striker,31,91,70,85,73,75,78,89,83,90,gold,KévGamVAL
+100,Diego,da Silva Costa,Spain,ATL,Striker,30,89,93,94,59,52,80,81,65,92,gold,Dieda ATL
+101,Iago,Aspas Juncal,Spain,CEL,Striker,31,86,63,92,77,65,83,83,83,78,gold,IagAspCEL
+102,Norberto,Murara Neto,Brazil,VAL,Goalkeeper,29,55,40,15,13,41,20,22,36,50,gold,NorMurVAL
+103,Rodrigo,Moreno Machado,Spain,VAL,Striker,27,89,61,85,68,59,81,79,80,94,gold,RodMorVAL
+104,Wissam,Ben Yedder,France,SEV,Striker,28,92,60,90,82,71,75,76,81,87,gold,WisBenSEV
+105,José Ignacio,Fernández Iglesias,Spain,RMD,Centre Back,29,72,80,35,39,65,31,49,86,81,gold,JosFerRMD
+106,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25,72,88,71,59,85,83,46,88,80,gold,GeoKonVAL
+107,Jorge,Resurrección,Spain,ATL,Left Midfielder,27,92,71,72,78,92,81,59,93,88,gold,JorResATL
+108,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27,80,83,44,49,74,39,48,85,86,gold,DanCarRMD
+109,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27,80,83,44,49,74,39,48,85,86,gold,DanCarRMD
+110,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29,62,20,14,22,39,13,15,39,56,gold,SerAseVIL
+111,Filipe Luís,Kasmirski,Brazil,ATL,Left Back,33,76,81,59,75,77,60,65,80,75,gold,FilKasATL
+112,Diego,da Silva Costa,Spain,ATL,Striker,30,74,93,87,59,52,74,75,65,76,gold,Dieda ATL
+113,Arturo,Vidal,Chile,BAR,Centre Defensive Midfielder,31,60,93,75,68,78,85,81,83,55,gold,ArtVidBAR
+114,Iago,Aspas Juncal,Spain,CEL,Right Wing,31,85,63,90,76,64,82,82,81,78,gold,IagAspCEL
+115,Jorge,Resurrección,Spain,ATL,Left Midfielder,27,71,71,72,76,89,81,59,90,68,gold,JorResATL
+116,Saúl,Ñíguez Esclápez,Spain,ATL,Centre Midfielder,24,71,69,78,60,83,79,55,85,70,gold,SaúÑígATL
+117,Marco,Asensio Willemsen,Spain,RMD,Left Wing,22,83,45,84,76,82,88,62,85,80,gold,MarAseRMD
+118,Karim,Benzema,France,RMD,Striker,31,77,65,78,73,55,75,83,83,77,gold,KarBenRMD
+119,Norberto,Murara Neto,Brazil,VAL,Goalkeeper,29,54,40,15,13,41,20,22,36,49,gold,NorMurVAL
+120,Willian José,da Silva,Brazil,RSO,Striker,27,64,66,88,74,52,78,81,81,68,gold,Wilda RSO
+121,Rodrigo,Moreno Machado,Spain,VAL,Striker,27,88,60,83,67,58,79,77,79,93,gold,RodMorVAL
+122,Sergio,Roberto Carnicer,Spain,BAR,Right Back,26,77,68,64,60,77,67,57,87,79,gold,SerRobBAR
+123,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27,79,82,41,47,71,36,46,82,85,gold,DanCarRMD
+124,José María,Giménez,Uruguay,ATL,Centre Back,24,66,90,37,44,59,49,38,69,71,gold,JosGimATL
+125,Willian José,da Silva,Brazil,RSO,Striker,27,64,66,88,74,52,78,81,81,68,gold,Wilda RSO
+126,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34,74,85,80,81,87,86,90,89,65,gold,SanCazVIL
+127,Cristhian,Stuani,Uruguay,GIR,Striker,32,73,81,86,62,71,80,86,81,69,gold,CriStuGIR
+128,Santiago,Cazorla González,Spain,VIL,Left Midfielder,34,63,73,80,80,86,86,90,88,56,gold,SanCazVIL
+129,Cristhian,Stuani,Uruguay,GIR,Striker,32,73,81,86,62,71,80,86,81,69,gold,CriStuGIR
+130,Santiago,Cazorla González,Spain,VIL,Left Midfielder,34,63,73,80,80,86,86,90,88,56,gold,SanCazVIL
+131,Karim,Benzema,France,RMD,Striker,31,76,65,78,73,55,75,82,82,76,gold,KarBenRMD
+132,Sergio,Asenjo Andrés,Spain,VIL,Goalkeeper,29,59,20,14,22,39,13,15,39,54,gold,SerAseVIL
+133,Asier,Illarramendi,Spain,RSO,Centre Midfielder,28,66,76,72,68,82,76,50,86,57,gold,AsiIllRSO
+134,Norberto,Murara Neto,Brazil,VAL,Goalkeeper,29,53,40,15,13,41,20,22,36,49,gold,NorMurVAL
+135,Rodrigo,Moreno Machado,Spain,VAL,Striker,27,88,60,82,67,58,79,77,78,92,gold,RodMorVAL
+136,Sergio,Roberto Carnicer,Spain,BAR,Right Back,26,77,68,63,60,77,66,57,86,78,gold,SerRobBAR
+137,Daniel,Carvajal Ramos,Spain,RMD,Right Back,27,79,81,41,47,71,36,45,81,84,gold,DanCarRMD
+138,William,Silva de Carvalho,Portugal,BET,Centre Defensive Midfielder,26,49,75,52,50,86,55,60,84,53,gold,WilSilBET
+139,José María,Giménez,Uruguay,ATL,Centre Back,24,66,89,37,44,58,48,38,68,70,gold,JosGimATL
+140,Antonio,Adán Garrido,Spain,ATL,Goalkeeper,31,57,41,11,12,43,12,25,34,54,gold,AntAdáATL
+141,Pablo,Sarabia García,Spain,SEV,Centre Midfielder,26,74,33,81,75,78,78,64,86,77,gold,PabSarSEV
+142,Wissam,Ben Yedder,France,SEV,Striker,28,90,58,88,81,70,73,74,80,85,gold,WisBenSEV
+143,José Ignacio,Fernández Iglesias,Spain,RMD,Centre Back,29,70,78,32,37,61,28,46,81,79,gold,JosFerRMD
+144,Stefan,Savić,Montenegro,ATL,Centre Back,28,55,84,34,28,70,31,38,73,62,gold,SteSavATL
+145,Adnan,Januzaj,Belgium,RSO,Right Wing,23,85,45,78,69,78,76,65,84,81,gold,AdnJanRSO
+146,Lucas,Vázquez Iglesias,Spain,RMD,Right Wing,27,85,65,73,75,75,81,56,84,79,gold,LucVázRMD
+147,Iñaki,Williams Arthuer,Spain,ATH,Striker,24,92,68,81,55,69,83,68,83,95,gold,IñaWilATH
+148,Pablo,Fornals Malla,Spain,VIL,Right Midfielder,22,72,71,84,63,84,87,50,88,71,gold,PabForVIL
+149,Daniel,Wass,Denmark,VAL,Centre Midfielder,29,75,63,77,87,80,81,67,86,78,gold,DanWasVAL
+150,Sidnei Rechel,da Silva Júnior,Brazil,BET,Centre Back,29,70,80,52,43,76,56,66,78,62,gold,Sidda BET
+151,Pablo,Sarabia García,Spain,SEV,Centre Midfielder,26,74,33,81,75,78,78,64,86,77,gold,PabSarSEV
+152,Michy,Batshuayi,Belgium,VAL,Striker,25,80,65,88,49,38,78,69,68,79,gold,MicBatVAL
+153,Thomas,Partey,Ghana,ATL,Centre Midfielder,25,74,77,67,61,83,80,49,89,78,gold,ThoParATL
+154,Thomas,Lemar,France,ATL,Left Midfielder,23,87,63,75,81,75,77,68,85,84,gold,ThoLemATL
+155,Iñaki,Williams Arthuer,Spain,ATH,Striker,24,92,68,81,55,69,83,68,83,95,gold,IñaWilATH
+156,Lucas,Hernández,France,ATL,Centre Back,22,81,84,44,29,66,50,36,84,86,gold,LucHerATL
+157,Malcom Filipe,Silva de Oliveira,Brazil,BAR,Right Wing,21,88,53,75,82,73,86,68,84,82,gold,MalSilBAR
+158,Arthur Henrique,Ramos Oliveira Melo,Brazil,BAR,Centre Midfielder,22,70,75,73,62,83,76,70,88,73,gold,ArtRamBAR
+159,Sidnei Rechel,da Silva Júnior,Brazil,BET,Centre Back,29,70,80,52,43,76,56,66,78,62,gold,Sidda BET
+160,Michy,Batshuayi,Belgium,VAL,Striker,25,80,65,88,49,38,78,69,68,79,gold,MicBatVAL
+161,Thomas,Partey,Ghana,ATL,Centre Midfielder,25,74,77,67,61,83,80,49,89,78,gold,ThoParATL
+162,Arthur Henrique,Ramos Oliveira Melo,Brazil,BAR,Centre Midfielder,22,70,75,73,62,83,76,70,88,73,gold,ArtRamBAR
+163,Ousmane,Dembélé,France,BAR,Left Wing,21,93,56,80,67,73,69,78,80,89,gold,OusDemBAR
+164,Ousmane,Dembélé,France,BAR,Left Wing,21,93,56,80,67,73,69,78,80,89,gold,OusDemBAR
+165,Aritz,Aduriz Zubeldia,Spain,ATH,Striker,37,66,82,84,54,52,78,82,72,67,gold,AriAduATH
+166,Antonio,Adán Garrido,Spain,ATL,Goalkeeper,31,56,41,11,12,43,12,25,34,54,gold,AntAdáATL
+167,Éver,Banega,Argentina,SEV,Centre Attacking Midfielder,30,68,73,66,81,87,77,67,88,64,gold,ÉveBanSEV
+168,Willian José,da Silva,Brazil,RSO,Striker,27,62,65,86,71,50,77,80,78,65,gold,Wilda RSO
+169,José Ignacio,Fernández Iglesias,Spain,RMD,Centre Back,29,70,78,32,37,61,28,45,80,78,gold,JosFerRMD
+170,Stefan,Savić,Montenegro,ATL,Centre Back,28,55,83,34,28,69,31,37,72,61,gold,SteSavATL
+171,Manuel,Trigueros Muñoz,Spain,VIL,Centre Midfielder,27,71,71,71,69,82,80,65,86,69,gold,ManTriVIL
+172,Gerard,Moreno Balagueró,Spain,VIL,Striker,26,77,55,83,56,56,77,73,78,80,gold,GerMorVIL
+173,Lucas,Vázquez Iglesias,Spain,RMD,Right Wing,27,84,65,73,75,75,80,56,83,79,gold,LucVázRMD
+174,Thomas,Lemar,France,ATL,Left Midfielder,23,86,63,75,81,75,76,68,84,84,gold,ThoLemATL
+175,Malcom Filipe,Silva de Oliveira,Brazil,BAR,Right Wing,21,87,53,75,81,73,85,68,83,82,gold,MalSilBAR
+176,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34,60,69,76,79,85,82,86,87,53,gold,SanCazVIL
+177,Ezequiel,Garay,Argentina,VAL,Centre Back,32,34,77,58,75,73,65,70,70,37,gold,EzeGarVAL
+178,Daniel,Wass,Denmark,VAL,Centre Midfielder,29,74,62,74,86,79,78,64,85,77,gold,DanWasVAL
+179,Ángel Luís,Rodríguez Díaz,Spain,GET,Striker,31,77,65,87,52,51,83,72,81,77,gold,ÁngRodGET
+180,Cristhian,Stuani,Uruguay,GIR,Striker,32,71,79,84,59,67,78,84,77,67,gold,CriStuGIR
+181,Gabriel,Armando de Abreu,Brazil,VAL,Centre Back,28,71,83,42,46,70,51,52,75,75,gold,GabArmVAL
+182,Rafael,Alcântara,Brazil,BAR,Centre Attacking Midfielder,25,72,44,73,61,76,83,67,87,71,gold,RafAlcBAR
+183,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25,69,86,69,56,81,81,45,84,77,gold,GeoKonVAL
+184,Thomas,Partey,Ghana,ATL,Centre Defensive Midfielder,25,73,76,63,58,80,76,46,86,77,gold,ThoParATL
+185,Thomas,Lemar,France,ATL,Left Midfielder,23,86,63,75,81,75,76,68,84,84,gold,ThoLemATL
+186,Clément,Lenglet,France,BAR,Centre Back,23,72,81,23,27,70,36,44,79,74,gold,CléLenBAR
+187,Lucas,Hernández,France,ATL,Left Back,22,80,83,42,28,63,47,34,81,85,gold,LucHerATL
+188,Malcom Filipe,Silva de Oliveira,Brazil,BAR,Right Wing,21,87,53,75,81,73,85,68,83,82,gold,MalSilBAR
+189,Gonçalo Manuel,Ganchinho Guedes,Portugal,VAL,Left Wing,22,87,67,78,70,68,81,69,79,90,gold,GonGanVAL
+190,Gelson Dany,Batalha Martins,Portugal,ATL,Right Midfielder,23,96,60,66,60,55,70,66,79,95,gold,GelBatATL
+191,Arthur Henrique,Ramos Oliveira Melo,Brazil,BAR,Centre Midfielder,22,68,74,72,60,81,75,69,86,71,gold,ArtRamBAR
+192,Ousmane,Dembélé,France,BAR,Right Wing,21,92,54,77,64,70,66,76,77,88,gold,OusDemBAR
+193,Rodrigo,Hernández Cascante,Spain,ATL,Centre Midfielder,22,71,63,68,54,80,77,46,82,66,gold,RodHerATL
+194,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34,60,69,76,79,85,82,86,87,53,gold,SanCazVIL
+195,Cristhian,Stuani,Uruguay,GIR,Striker,32,71,79,84,59,67,78,84,77,67,gold,CriStuGIR
+196,Juan Francisco,Torres Belén,Spain,ATL,Left Back,34,76,82,55,61,68,54,68,80,89,gold,JuaTorATL
+197,Santiago,Mina Lorenzo,Spain,VAL,Striker,23,79,71,87,58,68,78,65,73,84,gold,SanMinVAL
+198,Juan Francisco,Torres Belén,Spain,ATL,Left Back,34,76,82,55,61,68,54,68,80,89,gold,JuaTorATL
+199,Santiago,Mina Lorenzo,Spain,VAL,Striker,23,79,71,87,58,68,78,65,73,84,gold,SanMinVAL
+200,Joaquín,Sánchez Rodríguez,Spain,BET,Right Midfielder,37,76,53,80,77,83,76,75,82,70,gold,JoaSánBET
+201,Ezequiel,Garay,Argentina,VAL,Centre Back,32,34,77,58,74,72,64,69,69,36,gold,EzeGarVAL
+202,Andrés,Guardado,Mexico,BET,Centre Midfielder,32,74,72,60,81,83,72,70,85,73,gold,AndGuaBET
+203,Daniel,Wass,Denmark,VAL,Centre Midfielder,29,74,62,74,85,79,77,64,84,76,gold,DanWasVAL
+204,Víctor,Ruiz Torre,Spain,VIL,Centre Back,29,55,82,37,46,70,38,46,75,59,gold,VícRuiVIL
+205,Marc,Bartra Aregall,Spain,BET,Centre Back,28,75,80,55,45,77,62,52,79,72,gold,MarBarBET
+206,Gabriel,Armando de Abreu,Brazil,VAL,Centre Back,28,71,82,42,46,69,50,51,74,74,gold,GabArmVAL
+207,Rafael,Alcântara,Brazil,BAR,Centre Attacking Midfielder,25,71,44,73,61,76,82,67,86,70,gold,RafAlcBAR
+208,Geoffrey,Kondogbia,France,VAL,Centre Midfielder,25,69,86,69,56,80,80,45,83,76,gold,GeoKonVAL
+209,Franco,Vázquez,Italy,SEV,Centre Attacking Midfielder,29,58,78,74,68,78,84,67,84,62,gold,FraVázSEV
+210,Carlos,Bacca,Colombia,VIL,Striker,32,73,62,86,58,55,60,80,72,75,gold,CarBacVIL
+211,Thomas,Partey,Ghana,ATL,Centre Defensive Midfielder,25,73,76,63,58,79,75,46,85,76,gold,ThoParATL
+212,Daniel,García Carrillo,Spain,ATH,Centre Defensive Midfielder,28,53,88,51,57,81,58,58,86,35,gold,DanGarATH
+213,Clément,Lenglet,France,BAR,Centre Back,23,72,80,23,27,69,35,43,78,73,gold,CléLenBAR
+214,Lucas,Hernández,France,ATL,Left Back,22,80,82,42,28,63,47,34,80,84,gold,LucHerATL
+215,Pau,López Sabata,Spain,BET,Goalkeeper,24,45,39,19,21,41,18,25,38,52,gold,PauLópBET
+216,Gonçalo Manuel,Ganchinho Guedes,Portugal,VAL,Left Wing,22,87,67,78,70,68,80,69,78,89,gold,GonGanVAL
+217,Gelson Dany,Batalha Martins,Portugal,ATL,Right Midfielder,23,95,60,66,60,55,69,66,78,94,gold,GelBatATL
+218,Arthur Henrique,Ramos Oliveira Melo,Brazil,BAR,Centre Midfielder,22,68,73,72,60,80,74,69,85,70,gold,ArtRamBAR
+219,Ousmane,Dembélé,France,BAR,Right Wing,21,91,54,76,64,70,66,75,76,88,gold,OusDemBAR
+220,Rodrigo,Hernández Cascante,Spain,ATL,Centre Midfielder,22,70,63,68,54,79,76,46,81,66,gold,RodHerATL
+221,Charles,Dias De Oliveira,Brazil,EIB,Striker,34,69,68,83,57,56,80,63,73,63,gold,ChaDiaEIB
+222,Kévin,Gameiro,France,VAL,Striker,31,87,66,82,70,72,75,86,80,86,gold,KévGamVAL
+223,Sidnei Rechel,da Silva Júnior,Brazil,BET,Centre Back,29,67,78,49,42,73,54,62,76,59,gold,Sidda BET
+224,Oscar,De Marcos Arana,Spain,ATH,Right Back,29,80,79,65,56,73,62,61,80,91,gold,OscDe ATH
+225,Víctor,Machín Pérez,Spain,ATL,Left Midfielder,29,79,61,78,62,81,73,74,80,77,gold,VícMacATL
+226,Jasper,Cillessen,Holland,BAR,Goalkeeper,29,55,25,10,10,33,15,21,47,50,gold,JasCilBAR
+227,Jeison,Murillo,Colombia,VAL,Centre Back,26,75,89,37,26,63,13,47,70,77,gold,JeiMurVAL
+228,David,López Silva,Spain,ESP,Centre Back,29,57,79,68,47,65,67,53,81,62,gold,DavLópESP
+229,Álvaro,González Soberón,Spain,VIL,Centre Back,29,74,92,23,50,64,27,38,77,76,gold,ÁlvGonVIL
+230,Michy,Batshuayi,Belgium,VAL,Striker,25,78,63,86,46,36,76,67,65,77,gold,MicBatVAL
+231,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26,54,27,16,20,27,15,23,24,47,gold,FerPacALA
+232,Charles,Dias De Oliveira,Brazil,EIB,Striker,34,69,68,83,57,56,80,63,73,63,gold,ChaDiaEIB
+233,David,López Silva,Spain,ESP,Centre Back,29,57,79,68,47,65,67,53,81,62,gold,DavLópESP
+234,Santiago,Arias,Colombia,ATL,Right Back,27,87,84,52,61,82,51,58,83,90,gold,SanAriATL
+235,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26,54,27,16,20,27,15,23,24,47,gold,FerPacALA
+236,Gelson Dany,Batalha Martins,Portugal,ATL,Right Midfielder,23,95,60,66,60,55,69,66,78,94,gold,GelBatATL
+237,Raúl,García Escudero,Spain,ATH,Centre Attacking Midfielder,32,47,84,79,68,79,83,76,81,57,gold,RaúGarATH
+238,Pedro León,Sánchez Gil,Spain,EIB,Right Midfielder,32,63,55,76,86,85,79,71,83,63,gold,PedSánEIB
+239,Kévin,Gameiro,France,VAL,Striker,31,86,66,81,70,72,75,85,79,85,gold,KévGamVAL
+240,Bruno,Soriano Llido,Spain,VIL,Centre Midfielder,34,36,76,66,77,84,77,75,85,36,gold,BruSorVIL
+241,Pablo,Sarabia García,Spain,SEV,Right Midfielder,26,72,32,77,73,76,75,61,83,74,gold,PabSarSEV
+242,Wissam,Ben Yedder,France,SEV,Striker,28,87,55,83,76,66,69,70,75,83,gold,WisBenSEV
+243,Víctor,Machín Pérez,Spain,ATL,Left Midfielder,29,78,61,77,62,80,73,74,79,77,gold,VícMacATL
+244,Jasper,Cillessen,Holland,BAR,Goalkeeper,29,54,25,10,10,33,15,21,47,50,gold,JasCilBAR
+245,Jeison,Murillo,Colombia,VAL,Centre Back,26,75,88,37,26,62,13,46,69,76,gold,JeiMurVAL
+246,Michy,Batshuayi,Belgium,VAL,Striker,25,77,63,85,46,36,76,67,64,76,gold,MicBatVAL
+247,Gerónimo,Rulli,Argentina,RSO,Goalkeeper,26,54,26,15,20,23,17,24,32,48,gold,GerRulRSO
+248,Iñaki,Williams Arthuer,Spain,ATH,Striker,24,92,66,77,53,66,78,64,79,94,gold,IñaWilATH
+249,José Luis,Morales Nogales,Spain,LEV,Left Midfielder,31,88,58,78,72,68,80,76,75,87,gold,JosMorLEV
+250,Pablo,Fornals Malla,Spain,VIL,Centre Attacking Midfielder,22,67,69,77,60,80,80,46,84,66,gold,PabForVIL
+251,Juan Francisco,Torres Belén,Spain,ATL,Right Back,34,74,79,54,59,66,53,67,78,87,gold,JuaTorATL
+252,Francisco,Casilla Cortés,Spain,RMD,Goalkeeper,32,33,45,14,25,24,13,23,30,50,gold,FraCasRMD
+253,Oier,Olazábal Paredes,Spain,LEV,Goalkeeper,29,47,28,14,15,33,15,25,35,44,gold,OieOlaLEV
+254,Seydou,Doumbia,Côte d'Ivoire,GIR,Striker,31,89,66,81,75,68,75,88,76,94,gold,SeyDouGIR
+255,Rubén Salvador,Pérez del Mármol,Spain,LGN,Centre Midfielder,29,60,92,47,63,79,78,55,87,50,gold,RubPérLGN
+256,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31,67,79,68,64,83,75,65,84,60,gold,TomPinALA
+257,Yassine,Bounou,Morocco,GIR,Goalkeeper,27,41,25,14,19,44,19,24,39,37,gold,YasBouGIR
+258,Santiago,Mina Lorenzo,Spain,VAL,Striker,23,77,69,83,55,65,74,62,70,82,gold,SanMinVAL
+259,Ángel,Correa,Argentina,ATL,Right Midfielder,23,84,41,83,65,65,84,55,74,78,gold,ÁngCorATL
+260,Jonathan,Calleri,Argentina,ALA,Striker,25,74,68,81,38,63,73,66,72,76,gold,JonCalALA
+261,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24,68,64,82,70,81,83,66,83,72,gold,JoaJorEIB
+262,Nélson,Cabral Semedo,Portugal,BAR,Right Back,25,91,78,50,30,65,61,38,74,93,gold,NélCabBAR
+263,André Miguel,Valente da Silva,Portugal,SEV,Striker,23,78,80,85,35,61,65,87,71,87,gold,AndValSEV
+264,Álvaro,Odriozola Arzalluz,Spain,RMD,Right Back,23,80,63,45,30,70,60,63,78,83,gold,ÁlvOdrRMD
+265,Carlos,Soler Barragán,Spain,VAL,Right Midfielder,22,75,49,75,83,79,73,81,85,78,gold,CarSolVAL
+266,Junior,Firpo,Dominican Republic,BET,Left Wing Back,22,78,59,64,47,77,69,43,79,74,gold,JunFirBET
+267,Oier,Olazábal Paredes,Spain,LEV,Goalkeeper,29,47,28,14,15,33,15,25,35,44,gold,OieOlaLEV
+268,Rubén Salvador,Pérez del Mármol,Spain,LGN,Centre Midfielder,29,60,92,47,63,79,78,55,87,50,gold,RubPérLGN
+269,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31,67,79,68,64,83,75,65,84,60,gold,TomPinALA
+270,Jeison,Murillo,Colombia,BAR,Centre Back,26,75,88,37,26,62,13,46,69,76,gold,JeiMurBAR
+271,Yassine,Bounou,Morocco,GIR,Goalkeeper,27,41,25,14,19,44,19,24,39,37,gold,YasBouGIR
+272,Jonathan,Calleri,Argentina,ALA,Striker,25,74,68,81,38,63,73,66,72,76,gold,JonCalALA
+273,Mariano,Díaz Mejía,Dominican Republic,RMD,Striker,25,84,87,82,77,51,83,75,70,86,gold,MarDíaRMD
+274,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24,68,64,82,70,81,83,66,83,72,gold,JoaJorEIB
+275,Junior,Firpo,Dominican Republic,BET,Left Wing Back,22,78,59,64,47,77,69,43,79,74,gold,JunFirBET
+276,Raúl,de Tomás Gómez,Spain,RV,Striker,24,71,58,83,80,46,82,79,75,79,gold,Raúde RV
+277,Raúl,de Tomás Gómez,Spain,RV,Striker,24,71,58,83,80,46,82,79,75,79,gold,Raúde RV
+278,Miguel Ángel,Moyá Rumbo,Spain,RSO,Goalkeeper,34,46,22,11,12,35,16,11,31,34,gold,MigMoyRSO
+279,Santiago,Cazorla González,Spain,VIL,Centre Midfielder,34,54,64,71,78,84,76,80,85,48,gold,SanCazVIL
+280,Diego,López Rodríguez,Spain,ESP,Goalkeeper,37,34,36,12,11,23,11,21,28,52,gold,DieLópESP
+281,Juan Francisco,Torres Belén,Spain,ATL,Right Back,34,74,78,54,59,66,53,66,77,86,gold,JuaTorATL
+282,Beñat,Etxebarria Urkiaga,Spain,ATH,Centre Midfielder,31,64,78,69,84,82,76,69,81,41,gold,BeñEtxATH
+283,Ángel Luís,Rodríguez Díaz,Spain,GET,Striker,31,74,62,83,50,49,80,69,78,74,gold,ÁngRodGET
+284,Francisco,Casilla Cortés,Spain,RMD,Goalkeeper,32,32,45,14,25,24,13,23,30,49,gold,FraCasRMD
+285,Vitorino,Pacheco Antunes,Portugal,GET,Left Back,31,76,75,56,80,76,84,61,77,79,gold,VitPacGET
+286,Cristhian,Stuani,Uruguay,GIR,Striker,32,67,77,80,57,65,75,80,74,64,gold,CriStuGIR
+287,Ryad,Boudebouz,Algeria,BET,Centre Attacking Midfielder,28,75,58,77,82,76,76,90,81,73,gold,RyaBouBET
+288,Markel,Susaeta Laskurain,Spain,ATH,Right Wing,31,80,68,69,82,81,75,58,82,71,gold,MarSusATH
+289,Iker,Muniain Goñi,Spain,ATH,Left Wing,26,83,66,76,69,65,72,61,75,75,gold,IkeMunATH
+290,Enrique,García Martínez,Spain,EIB,Striker,29,65,71,81,46,49,78,70,77,71,gold,EnrGarEIB
+291,Mario Gaspar,Pérez Martínez,Spain,VIL,Right Back,28,76,78,68,54,69,69,50,77,80,gold,MarPérVIL
+292,Hugo,Mallo Novegil,Spain,CEL,Right Back,27,71,76,28,38,68,39,23,71,71,gold,HugMalCEL
+293,Sergi,Enrich Ametller,Spain,EIB,Striker,28,60,66,81,47,61,70,63,79,65,gold,SerEnrEIB
+294,Luis,Muriel,Colombia,SEV,Striker,27,86,50,77,60,55,65,74,75,90,gold,LuiMurSEV
+295,Manuel,Agudo Durán,Spain,SEV,Left Wing,32,74,73,79,80,67,81,74,76,70,gold,ManAguSEV
+296,Cristian,Tello Herrera,Spain,BET,Left Midfielder,27,93,48,74,64,70,71,56,77,91,gold,CriTelBET
+297,Cristian,Portugues Manzanera,Spain,GIR,Right Midfielder,26,85,76,81,64,78,75,53,83,80,gold,CriPorGIR
+298,Takashi,Inui,Japan,BET,Left Midfielder,30,88,49,70,65,70,77,51,76,77,gold,TakInuBET
+299,Zouhair,Feddal,Morocco,BET,Centre Back,29,51,82,40,38,68,56,48,76,62,gold,ZouFedBET
+300,Santiago,Mina Lorenzo,Spain,VAL,Striker,23,77,69,82,55,65,74,62,69,81,gold,SanMinVAL
+301,Ángel,Correa,Argentina,ATL,Right Midfielder,23,83,41,82,65,65,83,55,73,78,gold,ÁngCorATL
+302,Mariano,Díaz Mejía,Dominican Republic,RMD,Striker,25,84,86,81,76,51,82,75,69,85,gold,MarDíaRMD
+303,Karl,Toko-Ekambi,Cameroon,VIL,Striker,26,86,43,83,63,58,72,69,69,83,gold,KarTokVIL
+304,Nélson,Cabral Semedo,Portugal,BAR,Right Back,25,91,77,50,30,65,60,38,73,92,gold,NélCabBAR
+305,Mikel,Oyarzabal Ugarte,Spain,RSO,Left Wing,21,71,40,77,71,73,79,47,80,74,gold,MikOyaRSO
+306,Álvaro,Odriozola Arzalluz,Spain,RMD,Right Back,23,80,63,45,30,70,59,62,77,82,gold,ÁlvOdrRMD
+307,Carlos,Soler Barragán,Spain,VAL,Right Midfielder,22,75,49,74,82,79,73,80,84,77,gold,CarSolVAL
+308,Maximiliano,Gómez,Uruguay,CEL,Striker,22,61,65,85,53,58,76,67,76,65,gold,MaxGómCEL
+309,Nikola,Kalinić,Croatia,ATL,Striker,31,67,68,84,54,48,60,70,73,74,gold,NikKalATL
+310,Francis,Coquelin,France,VAL,Centre Defensive Midfielder,27,70,92,54,41,75,57,52,78,73,gold,FraCoqVAL
+312,Denis,Suárez Fernández,Spain,BAR,Centre Midfielder,25,77,47,73,70,78,74,63,83,77,gold,DenSuáBAR
+313,José Luís,Gayà Peña,Spain,VAL,Left Back,23,86,73,62,49,75,59,52,82,88,gold,JosGayVAL
+314,Mariano,Díaz Mejía,Dominican Republic,RMD,Striker,25,84,86,81,76,51,82,75,69,85,gold,MarDíaRMD
+315,Marcos,Llorente Moreno,Spain,RMD,Centre Defensive Midfielder,23,53,65,39,51,82,57,54,85,55,gold,MarLloRMD
+316,Fábio Alexandre,Silva Coentrão,Portugal,RMD,Left Back,30,78,82,61,51,69,65,54,78,74,gold,FábSilRMD
+317,Charles,Dias De Oliveira,Brazil,EIB,Striker,34,64,66,80,53,52,78,61,68,59,gold,ChaDiaEIB
+318,Fábio Alexandre,Silva Coentrão,Portugal,RMD,Left Back,30,77,81,61,51,69,64,54,77,74,gold,FábSilRMD
+319,Simon,Kjær,Denmark,SEV,Centre Back,29,56,75,55,69,69,41,61,76,65,gold,SimKjæSEV
+320,Sidnei Rechel,da Silva Júnior,Brazil,BET,Centre Back,29,64,77,46,39,68,50,58,70,57,gold,Sidda BET
+321,Gabriel,Mercado,Argentina,SEV,Centre Back,31,75,81,60,54,65,58,49,71,75,gold,GabMerSEV
+322,Pablo,Piatti,Argentina,ESP,Left Midfielder,29,89,55,76,58,70,72,64,76,83,gold,PabPiaESP
+323,Nikola,Kalinić,Croatia,ATL,Striker,31,67,68,83,54,48,60,70,72,73,gold,NikKalATL
+324,Francis,Coquelin,France,VAL,Centre Defensive Midfielder,27,70,91,54,41,74,57,52,77,72,gold,FraCoqVAL
+325,Oscar,De Marcos Arana,Spain,ATH,Right Back,29,79,77,59,53,69,56,55,75,89,gold,OscDe ATH
+326,Sergio,Canales Madrazo,Spain,BET,Centre Attacking Midfielder,27,64,55,77,76,70,78,66,84,57,gold,SerCanBET
+327,Fabián,Orellana,Chile,EIB,Centre Attacking Midfielder,32,77,54,77,79,74,80,75,78,71,gold,FabOreEIB
+328,Sergio,Escudero Palomo,Spain,SEV,Left Back,29,72,75,56,69,77,63,66,77,77,gold,SerEscSEV
+329,Jaume Vicent,Costa Jordá,Spain,VIL,Left Back,30,78,85,53,59,65,62,56,79,81,gold,JauCosVIL
+330,Borja,García Freire,Spain,GIR,Left Midfielder,28,81,52,77,54,80,78,62,82,77,gold,BorGarGIR
+331,Sergio,León Limones,Spain,BET,Striker,30,76,71,82,64,34,79,80,72,75,gold,SerLeóBET
+332,Ibai,Gómez Pérez,Spain,ALA,Right Midfielder,29,76,63,79,81,78,78,65,76,74,gold,IbaGómALA
+333,John,Guidetti,Sweden,ALA,Striker,26,65,75,78,80,53,81,81,75,65,gold,JohGuiALA
+334,José,Gómez Campaña,Spain,LEV,Centre Midfielder,25,65,66,72,78,81,76,69,82,61,gold,JosGómLEV
+335,Aïssa,Mandi,Algeria,BET,Centre Back,27,65,69,41,49,73,49,35,78,66,gold,AïsManBET
+336,David,López Silva,Spain,ESP,Centre Back,29,53,78,65,46,64,64,50,79,57,gold,DavLópESP
+337,Sergi,Darder Moll,Spain,ESP,Centre Midfielder,25,58,71,59,58,81,69,55,84,45,gold,SerDarESP
+338,Álvaro,González Soberón,Spain,VIL,Centre Back,29,72,89,22,45,57,26,36,69,73,gold,ÁlvGonVIL
+339,Roque,Mesa Quevedo,Spain,SEV,Centre Defensive Midfielder,29,74,89,65,48,77,54,42,82,75,gold,RoqMesSEV
+340,Iñigo,Martínez Berridi,Spain,ATH,Centre Back,27,71,84,42,51,81,74,39,71,74,gold,IñiMarATH
+341,Denis,Suárez Fernández,Spain,BAR,Centre Midfielder,25,77,47,72,70,78,73,63,82,77,gold,DenSuáBAR
+342,Leonardo,Carrilho Baptistão,Brazil,ESP,Striker,26,75,38,78,59,55,74,65,75,78,gold,LeoCarESP
+343,Fernando,Pacheco Flores,Spain,ALA,Goalkeeper,26,48,27,16,20,27,15,23,24,42,gold,FerPacALA
+344,José Luís,Gayà Peña,Spain,VAL,Left Back,23,86,72,61,49,75,59,52,81,87,gold,JosGayVAL
+345,Antonio,Sanabria,Paraguay,BET,Striker,22,77,32,81,64,63,65,69,74,79,gold,AntSanBET
+346,Àlex,Granell Nogué,Spain,GIR,Centre Midfielder,30,65,73,74,76,79,81,68,83,60,gold,ÀleGraGIR
+347,Marcos,Llorente Moreno,Spain,RMD,Centre Defensive Midfielder,23,53,65,39,51,81,56,53,84,54,gold,MarLloRMD
+348,Marko,Dmitrović,Serbia,EIB,Goalkeeper,26,39,20,20,9,40,17,9,40,35,gold,MarDmiEIB
+350,Cristiano,Piccini,Italy,VAL,Right Back,26,74,74,32,37,59,35,35,74,77,gold,CriPicVAL
+351,Santiago,Arias,Colombia,ATL,Right Back,27,84,80,51,54,74,50,57,75,87,gold,SanAriATL
+352,Daniel,Ceballos Fernández,Spain,RMD,Centre Midfielder,22,70,77,63,61,79,64,55,81,60,gold,DanCebRMD
+353,Jesús,Vallejo Lázaro,Spain,RMD,Centre Back,22,67,75,45,31,76,31,46,77,75,gold,JesValRMD
+354,Brais,Méndez Portela,Spain,CEL,Right Midfielder,22,77,39,80,62,72,79,68,82,77,gold,BraMénCEL
+355,Brais,Méndez Portela,Spain,CEL,Right Midfielder,22,77,39,80,62,72,79,68,82,77,gold,BraMénCEL
+356,Javier,Fuego Martínez,Spain,VIL,Centre Defensive Midfielder,35,57,83,54,62,72,64,60,78,42,gold,JavFueVIL
+357,Jesús,Navas González,Spain,SEV,Right Midfielder,33,88,63,62,46,73,70,56,75,85,gold,JesNavSEV
+358,Fran. Javier,García Fernández,Spain,BET,Centre Defensive Midfielder,31,62,86,59,44,77,54,61,82,62,gold,FraGarBET
+359,Sergio,Álvarez Conde,Spain,CEL,Goalkeeper,32,44,34,11,11,39,11,23,37,43,gold,SerÁlvCEL
+360,Manuel,García Sánchez,Spain,ALA,Centre Defensive Midfielder,32,46,90,60,54,73,53,71,77,61,gold,ManGarALA
+361,Jorge,Andújar Moreno,Spain,LEV,Right Back,31,75,74,66,36,68,60,74,76,73,gold,JorAndLEV
+362,Esteban,Granero Molina,Spain,ESP,Centre Midfielder,31,55,72,71,76,82,78,73,83,50,gold,EstGraESP
+363,Miguel,Layún,Mexico,VIL,Right Back,30,76,72,67,74,74,76,74,76,76,gold,MigLayVIL
+364,Daniel Filipe,Martins Carriço,Portugal,SEV,Centre Back,30,47,85,48,54,75,50,62,74,54,gold,DanMarSEV
+365,Ander,Iturraspe Derteano,Spain,ATH,Centre Midfielder,29,52,70,61,66,78,68,58,81,54,gold,AndItuATH
+366,Iago,Herrerín Buisán,Spain,ATH,Goalkeeper,30,45,37,13,12,29,16,25,16,34,gold,IagHerATH
+367,Anaitz,Arbilla Zabala,Spain,EIB,Centre Back,31,55,84,40,82,65,68,47,77,70,gold,AnaArbEIB
+368,Cristiano,Piccini,Italy,VAL,Right Back,26,74,74,32,37,59,35,35,73,76,gold,CriPicVAL
+369,Tomáš,Vaclík,Czech Republic,SEV,Goalkeeper,29,34,29,14,16,38,16,13,17,35,gold,TomVacSEV
+370,Santiago,Arias,Colombia,ATL,Right Back,27,84,79,51,54,73,50,56,74,86,gold,SanAriATL
+371,Adnan,Januzaj,Belgium,RSO,Right Wing,23,79,41,71,65,74,70,60,79,76,gold,AdnJanRSO
+372,Alexander,Szymanowski,Argentina,LGN,Left Midfielder,30,91,55,78,57,63,68,70,74,84,gold,AleSzyLGN
+373,Paulo André,Rodrigues Oliveira,Portugal,EIB,Centre Back,28,66,71,25,29,49,29,45,75,70,gold,PauRodEIB
+374,Pere,Pons Riera,Spain,GIR,Centre Midfielder,25,68,75,65,62,80,64,45,82,67,gold,PerPonGIR
+375,Pione,Sisto,Denmark,CEL,Left Wing,23,81,52,76,75,65,72,66,70,81,gold,PioSisCEL
+376,Johan,Mojica,Colombia,GIR,Left Wing Back,26,89,75,62,68,70,61,67,78,90,gold,JohMojGIR
+377,Ander,Capa Rodríguez,Spain,ATH,Right Back,26,82,86,56,58,56,62,54,71,86,gold,AndCapATH
+378,Stanislav,Lobotka,Slovakia,CEL,Centre Midfielder,24,70,57,59,55,76,65,56,84,63,gold,StaLobCEL
+379,Gonzalo,Escalante,Argentina,EIB,Centre Defensive Midfielder,25,71,85,56,52,74,58,64,76,72,gold,GonEscEIB
+380,Daniel,Ceballos Fernández,Spain,RMD,Centre Midfielder,22,69,76,62,61,78,63,55,80,60,gold,DanCebRMD
+381,Enes,Ünal,Turkey,VLD,Striker,21,75,43,81,66,47,80,69,73,74,gold,EneÜnaVLD
+382,David,Soria Solís,Spain,GET,Goalkeeper,25,49,24,19,11,33,18,23,24,34,gold,DavSorGET
+383,Jesús,Vallejo Lázaro,Spain,RMD,Centre Back,22,67,74,44,31,75,31,45,76,74,gold,JesValRMD
+384,Enis,Bardhi,FYR Macedonia,LEV,Centre Midfielder,23,76,54,75,90,77,84,75,79,64,gold,EniBarLEV
+385,Lorenzo,Morón García,Spain,BET,Striker,25,63,38,86,53,35,80,77,74,66,gold,LorMorBET
+386,Thomas,Vermaelen,Belgium,BAR,Centre Back,33,68,78,52,64,79,69,63,81,64,gold,ThoVerBAR
+387,Denis,Cheryshev,Russia,VAL,Left Midfielder,28,77,62,79,61,68,85,64,72,80,gold,DenCheVAL
+388,Rúben Miguel,Nunes Vezo,Portugal,VAL,Centre Back,24,69,76,44,32,67,56,55,70,69,gold,RúbNunVAL
+389,Munir,El Haddadi,Spain,BAR,Striker,23,78,38,79,67,58,77,66,78,81,gold,MunEl BAR
+390,Vinícius José,de Oliveira Júnior,Brazil,RMD,Left Wing,18,92,48,74,58,48,68,65,71,95,gold,Vinde RMD
+391,Sergio,García de la Fuente,Spain,ESP,Striker,35,70,61,76,64,72,74,80,76,69,gold,SerGarESP
+392,Iván,Ramis Barrios,Spain,EIB,Centre Back,34,34,84,54,77,72,65,65,72,35,gold,IváRamEIB
+393,Jorge,Molina Vidal,Spain,GET,Striker,36,34,76,79,59,57,75,80,75,41,gold,JorMolGET
+394,Markel,Bergara Larrañaga,Spain,GET,Centre Defensive Midfielder,32,64,79,67,71,76,68,59,78,32,gold,MarBerGET
+395,Thomas,Vermaelen,Belgium,BAR,Centre Back,33,67,77,52,64,78,68,62,80,64,gold,ThoVerBAR
+396,Gustavo,Cabral,Argentina,CEL,Centre Back,33,38,82,26,48,59,29,47,72,36,gold,GusCabCEL
+397,Antonio,Barragán Fernández,Spain,BET,Right Back,31,69,74,44,51,62,53,55,77,71,gold,AntBarBET
+398,David,Zurutuza,France,RSO,Centre Midfielder,32,66,72,74,59,74,75,61,79,64,gold,DavZurRSO
+399,Óscar,Trejo,Argentina,RV,Centre Attacking Midfielder,30,67,70,73,69,70,68,70,75,73,gold,ÓscTreRV
+400,Papakouli,Diop,Senegal,EIB,Centre Defensive Midfielder,32,50,89,57,69,72,71,61,74,54,gold,PapDioEIB
+401,Yuri,Berchiche Izeta,Spain,ATH,Left Back,28,78,85,43,55,68,77,59,70,77,gold,YurBerATH
+402,Roberto,Jiménez Gago,Spain,ESP,Goalkeeper,32,45,29,14,14,38,11,19,39,48,gold,RobJimESP
+403,Mikel,San José Domínguez,Spain,ATH,Centre Midfielder,29,33,76,60,44,77,73,51,78,38,gold,MikSanATH
+404,Yoel,Rodríguez Oterino,Spain,EIB,Goalkeeper,30,35,35,14,15,35,11,25,31,43,gold,YoeRodEIB
+405,Bernardo,Espinosa,Colombia,GIR,Centre Back,29,43,79,39,42,61,42,52,74,51,gold,BerEspGIR
+406,Victor,Sánchez Mata,Spain,ESP,Right Back,31,58,86,57,69,78,67,61,85,61,gold,VicSánESP
+407,José Ángel,Valdés Díaz,Spain,EIB,Left Back,29,69,69,42,67,61,57,45,77,74,gold,JosValEIB
+408,Leandro,Chichizola,Argentina,GET,Goalkeeper,28,49,15,16,14,13,17,25,14,54,gold,LeaChiGET
+409,Juan Pedro,Ramírez López,Spain,GIR,Centre Back,27,41,79,35,35,60,27,37,79,63,gold,JuaRamGIR
+410,Hernán,Pérez,Paraguay,ESP,Right Midfielder,29,78,85,70,62,67,78,48,76,76,gold,HerPérESP
+411,Juan Miguel,Jiménez López,Spain,RSO,Left Wing,25,77,57,80,57,53,72,63,75,76,gold,JuaJimRSO
+412,Sergi,Gómez Solà,Spain,SEV,Centre Back,26,43,69,35,46,77,47,41,80,34,gold,SerGómSEV
+413,Ramiro,Funes Mori,Argentina,VIL,Centre Back,27,61,83,40,58,55,56,52,67,68,gold,RamFunVIL
+414,Bruno,González Cabrera,Spain,GET,Centre Back,28,32,81,23,31,68,22,42,73,35,gold,BruGonGET
+415,Aleix,Vidal Parreu,Spain,SEV,Right Back,29,89,80,67,46,64,59,51,78,93,gold,AleVidSEV
+416,Damián,Suárez,Uruguay,GET,Right Back,30,77,80,59,70,66,70,67,76,80,gold,DamSuáGET
+417,Okay,Yokuşlu,Turkey,CEL,Centre Defensive Midfielder,24,72,81,65,65,72,75,60,77,74,gold,OkaYokCEL
+418,Denis,Cheryshev,Russia,VAL,Left Midfielder,28,77,62,78,61,68,84,64,72,79,gold,DenCheVAL
+419,Roger,Martí Salvador,Spain,LEV,Striker,28,78,65,78,46,48,72,78,71,79,gold,RogMarLEV
+420,Yassine,Bounou,Morocco,GIR,Goalkeeper,27,37,25,14,19,44,19,24,39,34,gold,YasBouGIR
+421,Jozabed,Sánchez Ruiz,Spain,CEL,Centre Midfielder,27,67,58,73,57,72,77,54,78,61,gold,JozSánCEL
+422,Rubén,Blanco Veiga,Spain,CEL,Goalkeeper,23,54,22,18,13,29,15,22,35,52,gold,RubBlaCEL
+423,Rubén,Peña Jiménez,Spain,EIB,Right Back,27,79,61,71,55,56,66,64,78,88,gold,RubPeñEIB
+424,Sofiane,Boufal,Morocco,CEL,Left Wing,25,84,47,68,63,66,65,69,75,79,gold,SofBouCEL
+425,Daniel,Torres,Colombia,ALA,Centre Defensive Midfielder,29,57,87,55,50,74,61,72,73,53,gold,DanTorALA
+426,Rúben Miguel,Nunes Vezo,Portugal,VAL,Centre Back,24,68,75,44,32,66,55,54,69,68,gold,RúbNunVAL
+427,Dakonam,Djené,Togo,GET,Centre Back,27,76,81,29,48,54,27,41,72,75,gold,DakDjeGET
+428,Jonathan,Calleri,Argentina,ALA,Striker,25,71,65,76,35,58,69,62,66,72,gold,JonCalALA
+429,Munir,El Haddadi,Spain,BAR,Striker,23,78,38,78,67,58,77,66,77,80,gold,MunEl BAR
+430,Nikola,Vukčević,Montenegro,LEV,Centre Defensive Midfielder,27,64,85,38,64,70,61,53,79,56,gold,NikVukLEV
+431,Joan,Jordán Moreno,Spain,EIB,Centre Midfielder,24,65,61,77,67,77,78,62,79,68,gold,JoaJorEIB
+432,Nemanja,Radoja,Serbia,CEL,Centre Midfielder,25,52,74,72,36,78,71,42,77,38,gold,NemRadCEL
+433,Alejandro,Remiro Gargallo,Spain,ATH,Goalkeeper,23,40,34,13,17,25,11,24,29,46,gold,AleRemATH
+434,Yeray,Álvarez López,Spain,ATH,Centre Back,23,66,80,41,50,71,43,61,70,67,gold,YerÁlvATH
+435,André Miguel,Valente da Silva,Portugal,SEV,Striker,23,75,76,78,33,58,60,80,67,83,gold,AndValSEV
+436,Joris,Gnagnon,France,SEV,Centre Back,22,66,76,28,28,47,27,47,65,66,gold,JorGnaSEV
+437,Gaku,Shibasaki,Japan,GET,Centre Attacking Midfielder,26,69,65,70,67,79,66,71,81,67,gold,GakShiGET
+438,Amath,Ndiaye Diedhiou,Senegal,GET,Left Midfielder,22,89,62,80,65,60,64,49,72,89,gold,AmaNdiGET
+439,Vinícius José,de Oliveira Júnior,Brazil,RMD,Left Wing,18,92,48,73,58,48,68,65,70,94,gold,Vinde RMD
+440,Yoel,Rodríguez Oterino,Spain,VLD,Goalkeeper,30,35,35,14,15,35,11,25,31,43,gold,YoeRodVLD
+441,Jaume,Domenech Sánchez,Spain,VAL,Goalkeeper,28,58,21,11,13,32,12,25,32,58,gold,JauDomVAL
+442,Mouctar,Diakhaby,France,VAL,Centre Back,22,57,76,36,26,53,29,50,69,60,gold,MouDiaVAL
+444,Marc,Cucurella Saseta,Spain,EIB,Left Midfielder,20,83,78,58,56,71,47,46,80,87,gold,MarCucEIB
+446,Marc,Cucurella Saseta,Spain,EIB,Left Midfielder,20,83,78,58,56,71,47,46,80,87,gold,MarCucEIB
+447,Paulo Henrique,Chagas de Lima,Brazil,SEV,Centre Attacking Midfielder,29,33,56,72,76,80,76,76,82,30,gold,PauChaSEV
+448,Seydou,Doumbia,Côte d'Ivoire,GIR,Striker,31,87,60,73,69,63,68,80,70,91,gold,SeyDouGIR
+449,Víctor,Laguardia Cisneros,Spain,ALA,Centre Back,29,54,89,49,35,57,30,32,70,63,gold,VícLagALA
+450,Serdar,Gürler,Turkey,HUE,Right Midfielder,27,89,33,74,60,59,62,52,70,85,gold,SerGürHUE
+451,Jordi,Amat Maas,Spain,RV,Centre Back,26,61,82,34,36,52,65,28,68,69,gold,JorAmaRV
+452,Tomás,Pina Isla,Spain,ALA,Centre Midfielder,31,60,73,62,60,78,68,59,79,54,gold,TomPinALA
+453,Sergio,Álvarez Díaz,Spain,EIB,Centre Defensive Midfielder,26,70,76,60,52,75,73,41,73,69,gold,SerÁlvEIB
+454,David,Timor Copoví,Spain,GIR,Centre Defensive Midfielder,29,39,80,44,81,77,80,69,81,52,gold,DavTimGIR
+455,Nicola,Sansone,Italy,VIL,Striker,27,82,68,77,69,65,75,66,75,81,gold,NicSanVIL
+456,Jon Ander,Serantes Simón,Spain,LGN,Goalkeeper,29,55,27,18,13,39,14,18,21,65,gold,JonSerLGN
+457,David,Juncà Reñé,Spain,CEL,Left Back,25,81,75,35,58,61,46,55,72,77,gold,DavJunCEL
+458,Rubén,Sobrino Pozuelo,Spain,ALA,Striker,26,79,65,78,57,47,74,66,73,85,gold,RubSobALA
+459,Raúl,de Tomás Gómez,Spain,RV,Striker,24,66,54,79,73,42,78,75,68,73,gold,Raúde RV
+460,Pablo,De Blasis,Argentina,EIB,Left Midfielder,30,81,74,72,62,66,72,79,74,75,gold,PabDe EIB
+461,Diego Javier,Llorente Ríos,Spain,RSO,Centre Back,25,65,75,39,35,72,37,53,76,63,gold,DieLloRSO
+462,Moses,Simon,Nigeria,LEV,Left Midfielder,23,93,38,72,55,54,68,60,69,92,gold,MosSimLEV
+463,Adrián,Embarba Blazquez,Spain,RV,Right Midfielder,26,76,56,72,65,76,68,55,78,79,gold,AdrEmbRV
+464,Jaume,Domenech Sánchez,Spain,VAL,Goalkeeper,28,58,21,11,13,32,12,25,32,58,gold,JauDomVAL
+465,Jaime,Mata Arnaiz,Spain,GET,Striker,30,72,73,81,48,49,71,70,61,76,gold,JaiMatGET
+466,Javier,Eraso Goñi,Spain,LGN,Centre Attacking Midfielder,28,59,82,78,59,79,75,53,80,59,gold,JavEraLGN
+467,Borja,Iglesias Quintas,Spain,ESP,Striker,26,59,42,83,36,64,75,78,68,65,gold,BorIglESP
+468,Emmanuel,Boateng,Ghana,LEV,Striker,22,89,62,75,41,46,64,64,69,88,gold,EmmBoaLEV
+469,Alfonso,Pedraza Sag,Spain,VIL,Left Midfielder,22,78,58,72,57,68,66,64,70,83,gold,AlfPedVIL
+470,Mouctar,Diakhaby,France,VAL,Centre Back,22,57,76,36,26,52,29,49,68,59,gold,MouDiaVAL
+471,Iván,Alejo Peralta,Spain,GET,Right Midfielder,23,73,45,73,49,71,64,47,76,86,gold,IváAleGET
+472,Theo,Hernández,France,RSO,Left Back,21,90,75,50,64,52,54,41,76,93,gold,TheHerRSO
+473,Mauro,Arambarri,Uruguay,GET,Centre Defensive Midfielder,23,47,79,49,46,78,55,50,79,53,gold,MauAraGET
+474,Andriy,Lunin,Ukraine,LGN,Goalkeeper,19,33,22,8,15,26,7,19,25,26,gold,AndLunLGN
+478,Antonio,Latorre Grueso,Spain,VAL,Left Back,21,83,68,51,38,71,53,39,73,82,gold,AntLatVAL
+479,Uroš,Račić,Serbia,VAL,Centre Defensive Midfielder,20,54,69,60,55,73,75,62,76,66,gold,UroRačVAL
+480,Borja,Mayoral Moya,Spain,RMD,Striker,21,68,27,80,57,43,70,69,70,73,gold,BorMayRMD
+481,Daniele,Bonera,Italy,VIL,Centre Back,37,33,80,23,29,61,53,49,60,30,gold,DanBonVIL
+482,Gorka,Iraizoz Moreno,Spain,GIR,Goalkeeper,37,32,38,12,13,20,14,13,29,33,gold,GorIraGIR
+483,Mariano,Barbosa,Argentina,VIL,Goalkeeper,34,42,37,11,12,36,12,24,38,43,gold,MarBarVIL
+484,Andrés Eduardo,Fernández Moreno,Spain,VIL,Goalkeeper,32,58,40,13,12,40,12,21,35,55,gold,AndFerVIL
+485,Iván,Cuéllar Sacristán,Spain,LGN,Goalkeeper,34,59,28,15,20,28,12,25,23,43,gold,IváCuéLGN
+486,Héctor,Moreno,Mexico,RSO,Centre Back,31,65,77,43,28,68,44,63,75,63,gold,HécMorRSO
+487,Nabil,El Zhar,Morocco,LGN,Right Midfielder,32,76,58,74,58,64,71,72,77,68,gold,NabEl LGN
+488,Gaël,Kakuta,Congo DR,RV,Left Midfielder,27,83,42,71,78,66,65,51,74,75,gold,GaëKakRV
+489,Mikel,Rico Moreno,Spain,ATH,Centre Midfielder,34,56,72,61,63,76,64,60,75,39,gold,MikRicATH
+490,Tiago Manuel,Dias Correia,Portugal,EIB,Left Midfielder,28,76,72,73,73,69,70,65,71,91,gold,TiaDiaEIB
+491,Luis Carlos,Correia Pinto,Portugal,HUE,Left Back,33,72,83,49,59,68,53,51,75,67,gold,LuiCorHUE
+492,Claudio,Beauvue,France,CEL,Striker,30,69,54,74,71,61,69,70,75,66,gold,ClaBeaCEL
+493,Oier,Olazábal Paredes,Spain,LEV,Goalkeeper,29,45,28,14,15,33,15,25,35,43,gold,OieOlaLEV
+494,Facundo,Roncaglia,Argentina,CEL,Centre Back,31,61,74,38,52,81,73,35,69,67,gold,FacRonCEL
+495,Rubén,Rochina Naixes,Spain,LEV,Right Midfielder,27,74,65,72,72,69,80,69,74,72,gold,RubRocLEV
+496,Pedro,Alcalá Guirado,Spain,GIR,Centre Back,29,31,77,30,65,66,68,39,71,42,gold,PedAlcGIR
+497,Rubén Salvador,Pérez del Mármol,Spain,LGN,Centre Defensive Midfielder,29,54,87,43,57,71,71,50,78,45,gold,RubPérLGN
+498,Mikel,Balenziaga,Spain,ATH,Left Back,30,69,76,41,33,69,54,44,70,73,gold,MikBalATH
+499,Néstor,Araújo,Mexico,CEL,Centre Back,27,69,65,34,45,66,39,54,72,72,gold,NésAraCEL
+500,Maxime,Gonalons,France,SEV,Centre Defensive Midfielder,29,65,83,55,57,74,59,68,74,55,gold,MaxGonSEV
+501,Francisco,Portillo Soler,Spain,GET,Right Midfielder,28,67,48,73,56,75,70,49,78,61,gold,FraPorGET
+502,Sergio,Gontán Gallardo,Spain,VLD,Right Midfielder,27,75,54,68,69,73,68,66,75,71,gold,SerGonVLD
+503,Borja,González Tomás,Spain,ALA,Striker,26,52,61,75,46,54,72,72,68,62,gold,BorGonALA
+504,Javier,López Rodríguez,Spain,ESP,Right Back,32,67,84,55,52,61,43,56,76,72,gold,JavLópESP
+505,Joel,Robles Blázquez,Spain,BET,Goalkeeper,28,46,23,11,20,26,11,15,15,50,gold,JoeRobBET
+506,Raúl,Rodríguez Navas,Spain,RSO,Centre Back,30,50,79,36,65,56,41,46,73,40,gold,RaúRodRSO
+507,Aday,Benítez Caraballo,Spain,GIR,Left Back,31,70,62,55,51,62,39,55,75,74,gold,AdaBenGIR
+508,Carles,Planas Antolínez,Spain,GIR,Left Back,27,73,73,32,50,58,37,51,76,71,gold,CarPlaGIR
+509,Edinaldo,Gomes Pereira,Brazil,ESP,Centre Back,30,43,72,29,41,60,41,43,65,49,gold,EdiGomESP
+510,Rodrigo,Ely,Brazil,ALA,Centre Back,25,63,75,18,18,54,38,35,62,69,gold,RodElyALA
+511,Rubén,Pardo Gutiérrez,Spain,RSO,Centre Midfielder,26,64,58,68,73,75,73,69,78,65,gold,RubParRSO
+512,Antonio,García Aranda,Spain,LEV,Left Back,29,82,56,57,59,66,61,62,73,84,gold,AntGarLEV
+513,Pedro,Bigas Rigo,Spain,EIB,Centre Back,28,71,83,49,43,60,47,48,72,72,gold,PedBigEIB
+514,Pablo,Insua Blanco,Spain,HUE,Centre Back,25,52,70,36,23,62,29,32,74,54,gold,PabInsHUE
+515,Ibrahim,Amadou,France,SEV,Centre Defensive Midfielder,25,69,80,39,32,73,62,51,76,73,gold,IbrAmaSEV
+516,Álvaro,Medrán Just,Spain,RV,Centre Midfielder,24,60,45,58,76,80,80,80,81,63,gold,ÁlvMedRV
+517,Óscar,Duarte,Costa Rica,ESP,Centre Back,29,55,74,26,32,55,24,37,70,66,gold,ÓscDuaESP
+518,Diego,Rolán,Uruguay,LGN,Striker,25,74,64,77,70,62,63,75,74,78,gold,DieRolLGN
+519,Sergio,Postigo Redondo,Spain,LEV,Centre Back,30,59,75,44,26,69,34,45,65,64,gold,SerPosLEV
+520,Guido,Carrillo,Argentina,LGN,Striker,27,57,72,75,36,57,72,77,64,62,gold,GuiCarLGN
+521,Jorge,Franco Alviz,Spain,ALA,Left Midfielder,25,74,35,69,64,63,66,59,74,78,gold,JorFraALA
+522,Unai,López Cabrera,Spain,ATH,Centre Midfielder,23,74,72,74,79,74,71,46,75,72,gold,UnaLópATH
+523,Iván,López Álvarez,Spain,VLD,Left Midfielder,24,81,49,75,66,65,76,73,71,80,gold,IváLópVLD
+524,Jonathan,Rodríguez Menéndez,Spain,ALA,Left Midfielder,27,87,60,69,76,70,66,59,71,85,gold,JonRodALA
+525,Unai,Bustinza Martínez,Spain,LGN,Centre Back,26,66,71,30,35,53,38,33,72,68,gold,UnaBusLGN
+526,Mikel,Merino Zazón,Spain,RSO,Centre Midfielder,22,61,73,62,69,74,67,58,78,62,gold,MikMerRSO
+527,Iñigo,Lekue Martínez,Spain,ATH,Right Back,25,90,67,67,56,67,68,53,74,84,gold,IñiLekATH
+528,Sabin,Merino Zuloaga,Spain,ATH,Left Wing,27,69,60,77,66,62,71,69,71,78,gold,SabMerATH
+529,Aritz,Elustondo,Spain,RSO,Centre Back,24,67,77,26,41,43,40,43,72,71,gold,AriEluRSO
+530,Rubén,Duarte Sánchez,Spain,ALA,Left Back,23,68,70,28,60,55,30,40,77,69,gold,RubDuaALA
+531,Gonzalo,Melero Manzanares,Spain,HUE,Centre Midfielder,25,59,58,74,67,74,73,58,77,63,gold,GonMelHUE
+532,Borja,Mayoral Moya,Spain,RMD,Striker,21,68,27,79,57,43,70,69,69,72,gold,BorMayRMD
+533,Sergio,Guardiola Navarro,Spain,GET,Striker,27,61,67,80,43,41,77,71,72,61,gold,SerGuaGET
+534,Mathias,Jensen,Denmark,CEL,Centre Midfielder,23,74,65,65,66,75,69,69,76,74,gold,MatJenCEL
+535,Iñigo,Córdoba Kerejeta,Spain,ATH,Left Wing,21,85,68,70,38,65,73,71,75,82,gold,IñiCórATH
+536,Antonio,Latorre Grueso,Spain,VAL,Left Back,21,82,67,51,38,70,53,39,72,81,gold,AntLatVAL
+537,Marc,Roca Junqué,Spain,ESP,Centre Defensive Midfielder,22,54,69,59,52,74,65,55,80,55,gold,MarRocESP
+538,Erick,Cabaco,Uruguay,LEV,Centre Back,23,67,82,36,27,62,34,32,62,67,gold,EriCabLEV
+539,Juan Camilo,Hernández,Colombia,HUE,Striker,19,88,40,78,68,59,74,54,67,83,gold,JuaHerHUE
+540,Francisco,Guerrero Martín,Spain,BET,Right Midfielder,22,77,55,75,52,74,42,53,72,82,gold,FraGueBET
+541,Unai,Núñez Gestoso,Spain,ATH,Centre Back,21,66,74,16,22,33,17,31,74,68,gold,UnaNúñATH
+542,Junior,Firpo,Dominican Republic,BET,Left Back,22,72,55,57,43,70,61,38,72,69,gold,JunFirBET
+543,Daniel,Raba Antolin,Spain,VIL,Right Midfielder,23,75,50,73,42,74,60,49,76,72,gold,DanRabVIL
+544,Martín,Aguirregabiria,Spain,ALA,Right Back,22,74,62,28,40,45,35,38,76,74,gold,MarAguALA
+545,Uroš,Račić,Serbia,VAL,Centre Defensive Midfielder,20,54,69,60,55,72,74,62,75,65,gold,UroRačVAL
+546,Tiago Manuel,Dias Correia,Portugal,RV,Left Midfielder,28,76,72,73,73,69,70,65,71,91,gold,TiaDiaRV
+548,Sabin,Merino Zuloaga,Spain,LGN,Left Wing,27,69,60,77,66,62,71,69,71,78,gold,SabMerLGN
+549,Borja,Mayoral Moya,Spain,LEV,Striker,21,68,27,79,57,43,70,69,69,72,gold,BorMayLEV
+550,Junior,Firpo,Dominican Republic,BET,Left Back,22,72,55,57,43,70,61,38,72,69,gold,JunFirBET
+551,Xabier,Etxeita Gorritxat.,Spain,HUE,Centre Back,31,37,83,29,43,54,34,30,63,53,silver,XabEtxHUE
+552,Miguel Ángel,Herrero Javaloyas,Spain,VLD,Centre Attacking Midfielder,30,61,64,64,73,77,72,74,80,59,silver,MigHerVLD
+553,Allan,Nyom,Cameroon,LGN,Right Back,30,67,80,27,30,64,66,37,63,76,silver,AllNyoLGN
+554,Marc,Muniesa Martínez,Spain,GIR,Centre Back,26,42,78,42,40,56,37,50,73,59,silver,MarMunGIR
+555,Cheick,Doukouré,Côte d'Ivoire,LEV,Centre Defensive Midfielder,26,76,77,58,66,68,66,59,72,74,silver,CheDouLEV
+556,Joaquín,Navarro Jiménez,Spain,ALA,Centre Back,28,70,80,36,42,61,55,48,74,75,silver,JoaNavALA
+557,Antonio Manuel,Luna Rodriguez,Spain,LEV,Left Back,27,71,82,60,45,63,55,43,76,72,silver,AntLunLEV
+558,Jordi,Masip López,Spain,VLD,Goalkeeper,30,57,21,12,20,38,13,12,42,64,silver,JorMasVLD
+559,Luis,Advíncula,Peru,RV,Right Back,28,95,70,58,63,67,68,64,73,94,silver,LuiAdvRV
+560,David,Ferreiro Quiroga,Spain,HUE,Left Midfielder,30,92,74,72,74,71,75,69,70,90,silver,DavFerHUE
+561,Anthony,Lozano,Honduras,GIR,Striker,25,76,61,73,28,53,69,67,70,79,silver,AntLozGIR
+562,Moisés,Gómez Bordonado,Spain,HUE,Centre Attacking Midfielder,24,72,52,68,59,69,69,59,79,68,silver,MoiGómHUE
+563,Samuele,Longo,Italy,HUE,Striker,27,74,80,74,43,40,67,64,65,77,silver,SamLonHUE
+564,Jonathan,Silva,Argentina,LGN,Left Back,24,83,82,48,70,63,69,55,70,75,silver,JonSilLGN
+565,David Jason,Remeseiro Salgueiro,Spain,LEV,Right Midfielder,24,81,48,73,69,66,71,68,73,79,silver,DavRemLEV
+566,Damián,Musto,Argentina,HUE,Centre Defensive Midfielder,31,42,78,34,50,76,67,40,79,49,silver,DamMusHUE
+567,Álvaro,García Rivera,Spain,RV,Left Midfielder,26,92,33,68,50,60,63,55,68,93,silver,ÁlvGarRV
+568,Alexandre,Moreno Lopera,Spain,RV,Left Back,25,71,49,64,57,64,60,70,72,78,silver,AleMorRV
+569,José Ángel,Pozo la Rosa,Spain,RV,Centre Attacking Midfielder,22,74,39,70,64,75,74,66,77,72,silver,JosPozRV
+570,José Manuel,Rodríguez Benito,Spain,LEV,Centre Back,26,70,80,52,33,67,56,48,67,68,silver,JosRodLEV
+571,Joseba,Zaldúa Bengoetxea,Spain,RSO,Right Back,26,69,78,25,41,55,40,32,78,69,silver,JosZalRSO
+572,Patrick,Roberts,England,GIR,Right Midfielder,21,79,38,68,49,65,67,62,73,74,silver,PatRobGIR
+573,Emiliano,Velázquez,Uruguay,RV,Centre Back,24,63,69,51,26,71,41,37,67,46,silver,EmiVelRV
+574,Emre,Mor,Turkey,CEL,Left Wing,21,88,55,67,38,47,62,49,67,81,silver,EmrMorCEL
+575,Joseba,Zaldúa Bengoetxea,Spain,RSO,Right Back,26,69,78,25,41,55,40,32,78,69,gold,JosZalRSO
+576,Alberto,García Cabrera,Spain,RV,Goalkeeper,33,62,34,15,20,27,11,21,29,63,silver,AlbGarRV
+577,Juan Francisco,Moreno Fuertes,Spain,LGN,Right Back,30,74,68,57,60,67,80,59,72,79,silver,JuaMorLGN
+578,Mubarak,Wakaso,Ghana,ALA,Centre Midfielder,28,87,81,55,57,70,68,36,75,87,silver,MubWakALA
+579,Jonás,Ramalho Chimeno,Spain,GIR,Centre Back,25,67,76,40,34,52,34,41,69,74,silver,JonRamGIR
+580,Ignasi,Miquel i Pons,Spain,GET,Centre Back,26,64,75,18,24,58,21,43,69,66,silver,IgnMiqGET
+581,Raúl,García Carnero,Spain,LGN,Left Back,29,70,74,58,73,68,64,64,72,71,silver,RaúGarLGN
+582,Javier,Espinosa González,Spain,LEV,Centre Attacking Midfielder,26,72,49,65,72,69,68,66,77,64,silver,JavEspLEV
+583,Pablo,Hervías Rubio,Spain,EIB,Right Midfielder,25,80,42,65,67,66,64,51,69,78,silver,PabHerEIB
+584,Abdoulaye,Ba,Senegal,RV,Centre Back,28,49,80,22,59,41,50,68,58,53,silver,AbdBaRV
+585,Sanjin,Prcić,Bosnia and Herzegovina,LEV,Centre Defensive Midfielder,25,62,70,61,73,73,60,63,76,65,silver,SanPrcLEV
+586,Sergi,Samper Montañá,Spain,BAR,Centre Defensive Midfielder,24,55,55,38,46,76,52,52,80,33,silver,SerSamBAR
+587,Óscar,Plano Pedreño,Spain,VLD,Left Midfielder,27,79,58,74,68,61,72,66,64,79,silver,ÓscPlaVLD
+588,Kévin Manuel,Rodrigues,Portugal,RSO,Left Back,24,73,55,42,51,66,50,50,78,73,silver,KévRodRSO
+589,Roberto,Suárez Pier,Spain,LEV,Centre Back,23,63,64,47,42,68,39,39,71,58,silver,RobSuáLEV
+590,Guillermo,Maripán,Chile,ALA,Centre Back,24,45,75,28,27,51,24,20,66,48,silver,GuiMarALA
+591,Junior,Alonso,Paraguay,CEL,Centre Back,25,58,76,38,27,63,46,33,65,64,silver,JunAloCEL
+592,Guilherme,Arana Lopes,Brazil,SEV,Left Back,21,77,69,51,49,67,54,52,72,78,silver,GuiAraSEV
+593,Pere,Milla Peña,Spain,EIB,Centre Attacking Midfielder,26,78,45,75,58,60,70,62,67,76,silver,PerMilEIB
+594,Mario,Hermoso Canseco,Spain,ESP,Centre Back,23,78,73,29,55,58,32,45,64,88,silver,MarHerESP
+595,Michael,Santos,Uruguay,LGN,Striker,25,77,80,73,62,57,69,70,65,75,silver,MicSanLGN
+596,Igor,Zubeldia Elorza,Spain,RSO,Centre Midfielder,21,65,70,60,65,76,68,51,77,58,silver,IgoZubRSO
+597,Brais,Méndez Portela,Spain,CEL,Right Wing,22,71,36,73,56,65,72,62,74,71,silver,BraMénCEL
+598,Darko,Brasanac,Serbia,BET,Centre Midfielder,26,61,81,61,59,75,62,70,74,54,silver,DarBraBET
+599,Óscar,Melendo Jiménez,Spain,ESP,Right Midfielder,21,60,57,73,35,77,60,37,79,65,silver,ÓscMelESP
+600,Federico,Valverde,Uruguay,RMD,Centre Midfielder,20,66,52,67,48,79,78,42,78,68,silver,FedValRMD
+601,Nemanja,Maksimović,Serbia,GET,Centre Defensive Midfielder,23,62,59,70,72,77,69,50,79,65,silver,NemMakGET
+602,Ferrán,Torres García,Spain,VAL,Right Midfielder,18,77,34,72,46,72,55,62,69,76,silver,FerTorVAL
+604,Kévin Manuel,Rodrigues,Portugal,RSO,Left Back,24,73,55,42,51,66,50,50,78,73,gold,KévRodRSO
+606,Darko,Brasanac,Serbia,ALA,Centre Midfielder,26,61,81,61,59,75,62,70,74,54,silver,DarBraALA
+607,Asier,Riesgo Unamuno,Spain,EIB,Goalkeeper,35,54,34,13,15,33,12,13,32,55,silver,AsiRieEIB
+608,Sergio,Sánchez Ortega,Spain,ESP,Centre Back,32,65,76,53,30,60,41,47,63,63,silver,SerSánESP
+609,Youssef,En-Nesyri,Morocco,LGN,Striker,21,75,37,73,47,46,68,59,63,77,silver,YouEn-LGN
+610,Francisco José,Beltrán Peinado,Spain,CEL,Centre Defensive Midfielder,19,73,68,47,49,74,48,49,75,68,silver,FraBelCEL
+613,Roberto,Román Triguero,Spain,RV,Right Back,33,68,69,43,42,67,36,44,70,69,silver,RobRomRV
+614,Mikel,Vesga Arruti,Spain,LGN,Centre Defensive Midfielder,25,49,67,56,28,75,61,57,74,52,silver,MikVesLGN
+615,Gorka,Elustondo Urkola,Spain,RV,Centre Midfielder,31,49,88,59,80,73,74,67,76,61,silver,GorEluRV
+616,Francisco José,Olivas Alba,Spain,VLD,Centre Back,30,36,71,56,36,56,36,38,64,39,silver,FraOliVLD
+617,Duje,Čop,Croatia,VLD,Striker,28,66,59,76,75,57,74,78,69,50,silver,DujČopVLD
+618,Dídac,Vilà Roselló,Spain,ESP,Left Back,29,69,78,32,37,66,57,34,64,73,silver,DídVilESP
+619,Leandro,Cabrera,Uruguay,GET,Centre Back,27,61,78,23,48,59,35,49,69,64,silver,LeaCabGET
+620,Aitor,Fernández,Spain,LEV,Goalkeeper,27,58,15,12,14,22,12,24,21,53,silver,AitFerLEV
+621,Alberto,Guitián Ceballos,Spain,VLD,Centre Back,28,64,71,36,34,64,37,30,70,66,silver,AlbGuiVLD
+622,Samuel,García Sánchez,Spain,LEV,Right Midfielder,28,71,48,68,48,67,64,63,72,73,silver,SamGarLEV
+623,Kenneth,Omeruo,Nigeria,LGN,Centre Back,25,67,76,22,23,60,31,35,63,75,silver,KenOmeLGN
+624,Dimitrios,Siovas,Greece,LGN,Centre Back,30,40,80,38,28,70,37,40,70,37,silver,DimSioLGN
+625,Axel,Werner,Argentina,HUE,Goalkeeper,22,41,24,19,15,19,18,23,25,46,silver,AxeWerHUE
+626,Roberto,Ibáñez Castro,Spain,GET,Right Midfielder,25,76,52,71,52,67,65,63,72,75,silver,RobIbáGET
+627,Luis Miguel,Sánchez Benítez,Spain,VLD,Centre Defensive Midfielder,26,61,81,21,30,66,34,38,68,58,silver,LuiSánVLD
+628,Carlos,Martín Vigaray,Spain,ALA,Right Back,24,74,67,53,45,48,39,45,65,69,silver,CarMarALA
+629,Adrián,Marín Gómez,Spain,ALA,Left Back,22,68,69,40,35,56,42,38,73,72,silver,AdrMarALA
+630,Leonardo,Suárez,Argentina,VLD,Right Midfielder,22,72,36,74,70,70,70,62,74,65,silver,LeoSuáVLD
+631,Daniele,Verde,Italy,VLD,Left Wing,22,89,58,55,43,60,62,59,68,89,silver,DanVerVLD
+632,Rubén,Alcaraz Jiménez,Spain,VLD,Centre Midfielder,27,57,74,64,73,74,72,70,75,53,silver,RubAlcVLD
+633,Jordi,Calavera Espinach,Spain,EIB,Right Back,23,78,71,46,52,62,66,51,67,87,silver,JorCalEIB
+634,Ignacio,Gil,Spain,VAL,Left Midfielder,23,78,50,70,62,68,65,59,72,75,silver,IgnGilVAL
+635,José Antonio,Dorado Ramírez,Spain,RV,Centre Back,36,34,69,44,21,61,19,31,72,34,silver,JosDorRV
+636,Borja,Fernández Fernández,Spain,VLD,Centre Defensive Midfielder,38,33,80,55,68,68,69,63,71,33,silver,BorFerVLD
+637,Pedro,López Muñoz,Spain,LEV,Right Back,35,68,77,53,56,64,66,58,70,68,silver,PedLópLEV
+638,Lluís,Sastre Reus,Spain,HUE,Centre Midfielder,32,58,75,54,72,76,64,57,75,57,silver,LluSasHUE
+639,Antonio Jesús,Regal Angulo,Spain,VLD,Right Back,31,89,72,44,59,49,47,49,67,80,silver,AntRegVLD
+640,Ezequiel,Muñoz,Argentina,LGN,Centre Back,28,43,78,19,30,55,31,21,60,44,silver,EzeMuñLGN
+641,Jorge,Pulido Mayoral,Spain,HUE,Centre Back,27,39,78,27,38,43,18,47,67,47,silver,JorPulHUE
+642,Álejandro,Gallar Falguero,Spain,HUE,Right Midfielder,26,70,42,71,80,70,71,74,71,68,silver,ÁleGalHUE
+643,José Ignacio,Martínez García,Spain,VLD,Left Back,29,80,75,43,58,67,64,40,63,88,silver,JosMarVLD
+644,Gerard,Gumbau Garriga,Spain,LGN,Centre Defensive Midfielder,24,34,60,60,62,79,73,50,81,29,silver,GerGumLGN
+645,Carlos,Akapo Martínez,Equatorial Guinea,HUE,Right Back,25,77,84,42,41,62,52,46,68,88,silver,CarAkaHUE
+646,Alexander,Alegría Moreno,Spain,BET,Striker,26,48,53,70,22,39,66,63,65,54,silver,AleAleBET
+647,Jorge,Miramón,Spain,HUE,Right Back,29,73,52,58,64,70,53,65,73,71,silver,JorMirHUE
+648,Jon,Bautista Orgilles,Spain,RSO,Striker,23,61,35,78,57,41,77,70,67,57,silver,JonBauRSO
+649,Borja,Lasso De La Vega,Spain,SEV,Centre Attacking Midfielder,25,54,81,69,64,69,71,59,71,51,silver,BorLasSEV
+650,Alexander,Alegría Moreno,Spain,RV,Striker,26,48,53,70,22,39,66,63,65,54,silver,AleAleRV
+651,Jon,Bautista Orgilles,Spain,RSO,Striker,23,61,35,78,57,41,77,70,67,57,gold,JonBauRSO
+652,Javier,Guerra Rodríguez,Spain,RV,Striker,36,58,59,71,50,57,67,80,63,64,silver,JavGueRV
+653,Juan,Aguilera Núñez,Spain,HUE,Centre Defensive Midfielder,33,71,68,52,60,72,57,40,75,52,silver,JuaAguHUE
+654,Dimitri,Foulquier,France,GET,Right Back,25,66,67,47,40,59,49,49,67,75,silver,DimFouGET
+655,Mauro,Dos Santos,Argentina,LGN,Centre Back,29,56,79,37,43,56,33,46,66,59,silver,MauDosLGN
+656,David,Costas Cordal,Spain,CEL,Centre Back,23,68,64,36,59,62,44,50,70,67,silver,DavCosCEL
+657,Antonio Jesús,Cotán Pérez,Spain,VLD,Centre Defensive Midfielder,23,64,58,37,42,70,68,65,73,60,silver,AntCotVLD
+658,Nahuel,Leiva,Spain,VIL,Left Midfielder,22,75,49,70,61,62,63,59,68,67,silver,NahLeiVIL
+659,Antonio,Sivera Salvá,Spain,ALA,Goalkeeper,22,59,25,15,12,34,12,24,32,55,silver,AntSivALA
+660,Anuar,Mohamed Tuhami,Morocco,VLD,Centre Defensive Midfielder,24,73,70,43,42,70,46,51,72,71,silver,AnuMohVLD
+661,Ezequiel,Ávila,Argentina,HUE,Striker,24,77,70,69,44,58,67,51,68,79,silver,EzeÁviHUE
+662,Aleix,García Serrano,Spain,GIR,Centre Midfielder,21,66,54,63,62,74,58,54,78,60,silver,AleGarGIR
+663,Antonio,Villa Suárez,Spain,VLD,Centre Attacking Midfielder,24,71,46,58,51,71,67,60,73,67,silver,AntVilVLD
+664,José Manuel,Arnáiz Díaz,Spain,LGN,Left Midfielder,23,86,40,66,47,61,68,67,65,84,silver,JosArnLGN
+665,Carles,Aleñà Castillo,Spain,BAR,Centre Midfielder,21,78,52,63,59,67,67,73,69,76,silver,CarAleBAR
+666,Santiago,Cáseres,Argentina,VIL,Centre Defensive Midfielder,21,67,58,54,39,65,58,50,71,70,silver,SanCásVIL
+667,Cristian,Ganea,Romania,ATH,Left Back,26,77,73,52,76,62,69,38,62,78,silver,CriGanATH
+668,Manuel,Morlanes Ariño,Spain,VIL,Centre Midfielder,20,74,57,56,71,70,59,70,76,64,silver,ManMorVIL
+669,Kangin,Lee,Korea Republic,VAL,Centre Attacking Midfielder,17,69,30,65,82,71,70,74,65,67,silver,KanLeeVAL
+672,Javier,Moyano Lujano,Spain,VLD,Right Back,32,79,65,33,53,49,51,46,62,77,silver,JavMoyVLD
+673,Marc,Cardona Rovira,Spain,EIB,Striker,23,80,33,68,52,50,65,56,60,78,silver,MarCarEIB
+674,Moussa,Wagué,Senegal,BAR,Right Back,20,85,68,36,31,56,32,39,62,81,silver,MouWagBAR
+675,Marc,Cucurella Saseta,Spain,BAR,Left Back,20,82,70,49,48,61,40,39,68,85,silver,MarCucBAR
+676,Fernando,Calero Villa,Spain,VLD,Centre Back,23,67,63,23,27,43,21,39,69,64,silver,FerCalVLD
+681,Marc,Cucurella Saseta,Spain,EIB,Left Back,20,82,70,49,48,61,40,39,68,85,silver,MarCucEIB
+682,Héctor,Hernández Ortega,Spain,RSO,Left Back,27,77,76,42,59,56,41,35,66,77,silver,HécHerRSO
+683,Esteban,Saveljich,Montenegro,LEV,Centre Back,27,42,72,28,35,50,27,43,56,59,silver,EstSavLEV
+684,Armando,Sadiku,Albania,LEV,Striker,27,66,58,68,31,41,64,63,63,72,silver,ArmSadLEV
+685,Andrew,Hjulsager,Denmark,CEL,Centre Midfielder,24,79,58,69,55,68,65,53,71,77,silver,AndHjuCEL
+686,Juan José,Narváez,Colombia,BET,Centre Midfielder,23,74,38,74,42,71,70,59,73,76,silver,JuaNarBET
+687,Carlos,Fernández Luna,Spain,SEV,Striker,22,56,64,72,23,41,71,73,58,64,silver,CarFerSEV
+688,David,Concha Salas,Spain,RSO,Right Wing,22,68,32,67,52,64,66,72,62,66,silver,DavConRSO
+689,Rajko,Brežančić,Serbia,HUE,Left Back,29,73,72,28,30,59,51,43,66,77,silver,RajBreHUE
+690,Santiago,Comesaña Veiga,Spain,RV,Centre Midfielder,22,58,59,74,47,63,75,39,73,57,silver,SanComRV
+691,Juan Jose,Camacho Barnola,Spain,HUE,Centre Attacking Midfielder,38,30,65,70,77,77,71,86,78,32,silver,JuaCamHUE
+692,Asier,Villalibre Molina,Spain,ATH,Striker,21,72,62,66,36,45,57,70,55,73,silver,AsiVilATH
+693,Alhassane,Bangoura,Guinea,RV,Right Midfielder,26,87,63,62,45,60,57,50,63,87,silver,AlhBanRV
+694,Iván,Villar Martínez,Spain,CEL,Goalkeeper,21,32,18,12,15,22,15,23,23,33,silver,IváVilCEL
+695,Robert,Mazáň,Slovakia,CEL,Left Back,24,54,72,46,39,66,42,63,72,55,silver,RobMazCEL
+696,Óscar Francisco,García Quintela,Spain,ATL,Left Midfielder,22,73,39,72,44,63,70,47,68,70,silver,ÓscGarATL
+697,Unai,Simón Mendibil,Spain,ATH,Goalkeeper,21,46,27,14,14,21,13,24,29,48,silver,UnaSimATH
+698,Juan,Soriano Oropesa,Spain,SEV,Goalkeeper,21,34,25,14,24,24,16,28,23,34,silver,JuaSorSEV
+699,Jorge,Ruiz Ojeda,Spain,LEV,Goalkeeper,23,52,30,12,12,20,15,11,12,52,silver,JorRuiLEV
+700,Raphael,Dwamena,Ghana,LEV,Striker,23,76,47,74,42,41,67,66,58,82,silver,RapDwaLEV
+701,Ricard,Puig Martí,Spain,BAR,Centre Midfielder,19,63,44,58,51,74,49,55,76,66,silver,RicPuiBAR
+702,Roberto,Santamaría Ciprián,Spain,HUE,Goalkeeper,33,48,36,20,20,11,12,16,17,46,silver,RobSanHUE
+703,Rubén,Yáñez Alabart,Spain,GET,Goalkeeper,25,44,20,13,15,22,17,25,27,43,silver,RubYáñGET
+704,José Aurelio,Suárez García,Spain,GIR,Goalkeeper,23,48,20,19,14,26,20,29,23,46,silver,JosSuáGIR
+705,Sergio,Akieme Rodríguez,Spain,RV,Left Back,21,76,65,26,36,43,44,40,62,73,silver,SerAkiRV
+706,Francisco Jose,Sánchez Rodriguez,Spain,SEV,Left Midfielder,23,72,38,60,65,59,65,56,68,67,silver,FraSánSEV
+707,Lluis,López Marmol,Spain,ESP,Centre Back,21,64,71,24,26,58,18,33,62,58,silver,LluLópESP
+708,Ibán,Salvador Edú,Equatorial Guinea,CEL,Centre Attacking Midfielder,23,85,70,63,42,53,64,58,64,81,silver,IbáSalCEL
+709,Adrián,Diéguez Grande,Spain,ALA,Centre Back,22,62,61,23,32,39,27,41,60,62,silver,AdrDiéALA
+710,Seung Ho,Paik,Korea Republic,GIR,Centre Midfielder,21,67,52,61,42,62,64,48,71,68,silver,SeuPaiGIR
+711,Daniel,Ojeda Saranova,Spain,LGN,Left Midfielder,24,71,38,69,43,66,58,72,64,68,silver,DanOjeLGN
+712,Abel,Ruiz Ortega,Spain,BAR,Striker,18,69,32,69,48,42,67,64,65,70,silver,AbeRuiBAR
+713,Cristian,Rivero Sabater,Spain,VAL,Goalkeeper,20,20,27,7,14,23,8,18,22,29,silver,CriRivVAL
+714,Emmanuel,Apeh,Nigeria,CEL,Striker,22,72,35,65,36,38,62,62,63,76,silver,EmmApeCEL
+715,Juan,Berrocal González,Spain,SEV,Centre Back,19,63,65,24,35,56,37,49,62,62,silver,JuaBerSEV
+716,José,Alonso Lara,Spain,SEV,Right Midfielder,18,72,33,62,49,65,51,61,66,74,silver,JosAloSEV
+717,Juan,Miranda González,Spain,BAR,Left Back,19,65,57,33,37,56,37,44,63,69,silver,JuaMirBAR
+718,Wilfrid,Kaptoum,Cameroon,BET,Centre Midfielder,22,64,54,60,39,69,67,50,75,56,silver,WilKapBET
+719,Carlos,Blanco Moreno,Spain,VIL,Centre Back,23,41,63,13,30,70,68,38,63,39,silver,CarBlaVIL
+720,Miguel,Juan Llambrich,Spain,VIL,Right Back,23,71,58,25,27,49,29,35,63,66,silver,MigJuaVIL
+721,Aleksandar,Jovanović,Serbia,HUE,Goalkeeper,26,22,20,8,10,15,8,14,22,22,silver,AleJovHUE
+722,Pablo,Sisniega,Mexico,RSO,Goalkeeper,23,41,24,11,21,46,18,23,33,48,silver,PabSisRSO
+724,Cristo,González Pérez,Spain,RMD,Striker,21,73,52,69,50,60,63,54,64,70,silver,CriGonRMD
+725,Damià,Sabater Tous,Spain,ESP,Centre Defensive Midfielder,22,70,70,54,43,65,59,70,67,61,silver,DamSabESP
+726,Jonathan,Montiel Caballero,Spain,RV,Centre Attacking Midfielder,20,65,59,60,38,69,62,47,67,61,silver,JonMonRV
+727,Javier,Jiménez García,Spain,VAL,Centre Back,21,53,69,25,29,53,28,46,63,51,silver,JavJimVAL
+728,Jon,Guridi Aldalur,Spain,RSO,Centre Midfielder,23,57,38,63,45,69,62,43,73,62,silver,JonGurRSO
+729,Enrique,Gómez Hermoso,Spain,RV,Centre Back,28,67,53,21,33,35,30,46,40,54,silver,EnrGómRV
+730,Moisés,Delgado López,Spain,VLD,Left Back,24,69,62,24,48,55,30,36,60,71,bronze,MoiDelVLD
+731,Daniel,Molina Orta,Spain,CEL,Centre Defensive Midfielder,22,53,63,56,59,69,66,55,72,58,bronze,DanMolCEL
+732,Kévin,Soni,Cameroon,GIR,Centre Attacking Midfielder,20,75,54,57,48,50,47,53,63,72,bronze,KévSonGIR
+733,Diego,Alende López,Spain,CEL,Centre Back,21,53,62,24,26,35,23,33,61,55,bronze,DieAleCEL
+734,Rodrigo,Tarín Higón,Spain,LGN,Centre Back,22,69,68,19,30,52,41,40,59,71,bronze,RodTarLGN
+735,José,Mena Rodríguez,Spain,SEV,Centre Defensive Midfielder,20,64,55,52,55,66,40,53,65,59,bronze,JosMenSEV
+736,Dennis,Eckert,Germany,CEL,Striker,22,58,25,68,50,37,60,59,59,48,bronze,DenEckCEL
+737,Alejandro,Centelles Plaza,Spain,VAL,Left Back,19,60,59,45,41,70,42,48,68,70,bronze,AleCenVAL
+738,Sergio,Reguilón Rodríguez,Spain,RMD,Left Back,22,67,55,22,39,25,33,42,54,62,bronze,SerRegRMD
+739,Robert,Costa Ventura,Spain,CEL,Centre Back,24,44,51,30,31,56,28,43,62,50,bronze,RobCosCEL
+740,Andrés,Pascual Santonja,Spain,VAL,Left Midfielder,22,58,45,59,59,59,60,58,59,55,bronze,AndPasVAL
+741,Mario,González Gutiérrez,Spain,VIL,Left Wing,22,68,39,62,38,41,56,39,61,70,bronze,MarGonVIL
+742,Luís,García,Colombia,SEV,Goalkeeper,20,51,28,16,13,38,20,20,30,55,bronze,LuíGarSEV
+743,Luca,Zidane,France,RMD,Goalkeeper,20,33,16,8,11,15,5,19,22,32,bronze,LucZidRMD
+744,Rubén,Mesa Visiga,Spain,VIL,Striker,27,62,68,65,43,35,64,73,57,52,bronze,RubMesVIL
+745,Jokin,Ezkieta Mendiburu,Spain,BAR,Goalkeeper,22,41,25,12,19,27,14,24,28,49,bronze,JokEzkBAR
+746,Alejandro,Blanco Sánchez,Spain,VAL,Left Midfielder,20,69,39,52,45,58,54,54,65,67,bronze,AleBlaVAL
+747,Roger,Riera Canadell,Spain,VIL,Centre Back,23,40,59,27,28,39,26,43,48,54,bronze,RogRieVIL
+748,Genaro,Rodríguez Serrano,Spain,SEV,Centre Midfielder,20,67,67,35,46,68,44,54,69,67,bronze,GenRodSEV
+749,Julio,Gracia Gallardo,Spain,BET,Centre Midfielder,20,53,52,54,39,61,58,37,65,56,bronze,JulGraBET
+750,Genís,Montolio Lafuente,Spain,ESP,Right Back,22,63,62,31,28,58,35,30,70,58,bronze,GenMonESP
+751,Alejandro,Dos Santos Ferreira,Brazil,ATL,Goalkeeper,20,22,22,12,12,18,10,15,16,21,bronze,AleDosATL
+752,Genís,Montolio Lafuente,Spain,LEV,Right Back,22,63,62,31,28,58,35,30,70,58,bronze,GenMonLEV
+753,Sergi,Álamo Bautista,Spain,GIR,Left Back,21,54,58,35,42,42,29,43,53,60,bronze,SerÁlaGIR
+754,Javier,Pérez Mateo,Spain,VLD,Centre Midfielder,23,52,41,56,37,56,60,47,61,60,bronze,JavPérVLD
+755,Sergi,Álamo Bautista,Spain,GIR,Left Back,21,54,58,35,42,42,29,43,53,60,gold,SerÁlaGIR
+756,Javier,Pérez Mateo,Spain,VLD,Centre Midfielder,23,52,41,56,37,56,60,47,61,60,gold,JavPérVLD
+757,Yhoan,Andzouana,Congo DR,GIR,Left Midfielder,22,67,31,59,40,59,46,61,53,61,bronze,YhoAndGIR
+758,Daniel,Pedrosa Loureiro,Spain,VLD,Striker,22,59,37,58,43,36,52,60,50,58,bronze,DanPedVLD
+759,Marc,Vito Brezmes,Spain,GIR,Goalkeeper,22,25,20,7,11,18,6,18,23,28,bronze,MarVitGIR
+760,Pol,Lozano Vizuete,Spain,ESP,Centre Midfielder,19,60,42,37,38,58,40,49,64,63,bronze,PolLozESP
